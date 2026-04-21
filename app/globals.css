@@ -1,26 +1,184 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  /* ─── Color tokens ─── */
+  --color-ivory:    #F5F1E8;
+  --color-cream:    #FAF7F0;
+  --color-bone:     #ECE5D3;
+  --color-ink:      #141414;
+  --color-graphite: #2A2A28;
+  --color-stone:    #6B6760;
+  --color-navy:     #1B2A3A;
+  --color-claret:   #5B1A1A;
+  --color-moss:     #2F3D2C;
+  --color-brass:    #A68B5C;
+
+  /* ─── Font families ─── */
+  --font-display: var(--font-fraunces);
+  --font-body: var(--font-eb-garamond);
+  --font-mono: var(--font-jetbrains-mono);
+
+  /* ─── Easing ─── */
+  --ease-silk: cubic-bezier(0.22, 1, 0.36, 1);
+
+  /* ─── Spacing ─── */
+  --gutter: clamp(1.5rem, 6vw, 6rem);
+  --section-pad-y: clamp(6rem, 12vw, 12rem);
+  --content-max: 68ch;
+  --layout-max: 1440px;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+/* ─── Lenis smooth scroll ─── */
+html.lenis, html.lenis body {
+  height: auto;
 }
 
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+.lenis.lenis-scrolling iframe {
+  pointer-events: none;
+}
+
+/* ─── Base styles ─── */
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--color-ivory);
+  color: var(--color-ink);
+  font-family: var(--font-body), Georgia, serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+::selection {
+  background-color: var(--color-navy);
+  color: var(--color-ivory);
+}
+
+/* ─── Typography scale ─── */
+.text-display-xl {
+  font-family: var(--font-display), Georgia, serif;
+  font-size: clamp(4rem, 9vw, 9rem);
+  line-height: 0.95;
+  letter-spacing: -0.02em;
+  font-weight: 300;
+  font-variation-settings: "SOFT" 100, "opsz" 72;
+}
+
+.text-display-l {
+  font-family: var(--font-display), Georgia, serif;
+  font-size: clamp(3rem, 6vw, 6rem);
+  line-height: 1.0;
+  letter-spacing: -0.015em;
+  font-weight: 300;
+  font-variation-settings: "SOFT" 100, "opsz" 48;
+}
+
+.text-h1 {
+  font-family: var(--font-display), Georgia, serif;
+  font-size: clamp(2.25rem, 4vw, 3.5rem);
+  line-height: 1.1;
+  font-weight: 400;
+  font-variation-settings: "SOFT" 50, "opsz" 36;
+}
+
+.text-h2 {
+  font-family: var(--font-display), Georgia, serif;
+  font-size: clamp(1.75rem, 2.5vw, 2.25rem);
+  line-height: 1.2;
+  font-weight: 400;
+  font-variation-settings: "SOFT" 50, "opsz" 24;
+}
+
+.text-body {
+  font-family: var(--font-body), Georgia, serif;
+  font-size: 1.125rem;
+  line-height: 1.7;
+  font-weight: 400;
+}
+
+.text-small {
+  font-family: var(--font-body), Georgia, serif;
+  font-size: 0.9375rem;
+  line-height: 1.6;
+}
+
+.text-eyebrow {
+  font-family: var(--font-display), Georgia, serif;
+  font-size: 0.75rem;
+  line-height: 1.4;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.text-mono {
+  font-family: var(--font-mono), monospace;
+}
+
+/* ─── Brass dropcap ─── */
+.dropcap::first-letter {
+  font-family: var(--font-display), Georgia, serif;
+  font-size: 4em;
+  float: left;
+  line-height: 0.8;
+  padding-right: 0.1em;
+  color: var(--color-brass);
+  font-weight: 300;
+  font-variation-settings: "SOFT" 100;
+}
+
+/* ─── Marquee ─── */
+@keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-marquee {
+  animation: marquee 120s linear infinite;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
+
+/* ─── Scroll indicator bob ─── */
+@keyframes bob {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(8px); }
+}
+
+.animate-bob {
+  animation: bob 2.5s ease-in-out infinite;
+}
+
+/* ─── Custom cursor ─── */
+.custom-cursor {
+  pointer-events: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  mix-blend-mode: difference;
+}
+
+/* Hide custom cursor on touch */
+@media (hover: none) and (pointer: coarse) {
+  .custom-cursor { display: none !important; }
+}
+
+/* ─── Hairline divider ─── */
+.hairline {
+  height: 0.5px;
+  background-color: var(--color-stone);
+  opacity: 0.3;
 }
