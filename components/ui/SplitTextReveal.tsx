@@ -1,7 +1,8 @@
 "use client";
 
-import { useEffect, useRef, createElement } from "react";
-import { gsap, ScrollTrigger } from "@/lib/gsap";
+import { useEffect, useRef } from "react";
+import { gsap } from "@/lib/gsap";
+import { usePrefersReducedMotion } from "@/lib/usePrefersReducedMotion";
 
 type Tag = "h1" | "h2" | "h3" | "p" | "span";
 
@@ -27,20 +28,29 @@ function splitText(text: string, splitBy: "chars" | "words" | "lines") {
 
 export default function SplitTextReveal({
   text,
-  tag = "p",
+  tag: Tag = "p",
   className,
   splitBy = "words",
   delay = 0,
   stagger = 0.06,
 }: SplitTextRevealProps) {
-  const containerRef = useRef<HTMLElement>(null);
+  const containerRef = useRef<HTMLDivElement>(null);
   const piecesRef = useRef<(HTMLSpanElement | null)[]>([]);
+  const prefersReducedMotion = usePrefersReducedMotion();
 
   const pieces = splitText(text, splitBy);
 
   useEffect(() => {
     const els = piecesRef.current.filter(Boolean) as HTMLSpanElement[];
     if (els.length === 0) return;
+
+    if (prefersReducedMotion) {
+      els.forEach((el) => {
+        el.style.transform = "translateY(0)";
+        el.style.opacity = "1";
+      });
+      return;
+    }
 
     const ctx = gsap.context(() => {
       gsap.fromTo(
@@ -63,9 +73,9 @@ export default function SplitTextReveal({
     });
 
     return () => ctx.revert();
-  }, [text, delay, stagger, splitBy]);
+  }, [text, delay, stagger, splitBy, prefersReducedMotion]);
 
-  const children = pieces.map((piece, i) => (
+  const inner = pieces.map((piece, i) => (
     <span
       key={`${piece}-${i}`}
       style={{
@@ -80,9 +90,9 @@ export default function SplitTextReveal({
         }}
         style={{
           display: "inline-block",
-          willChange: "transform",
-          transform: "translateY(110%)",
-          opacity: 0,
+          willChange: prefersReducedMotion ? "auto" : "transform",
+          transform: prefersReducedMotion ? "none" : "translateY(110%)",
+          opacity: prefersReducedMotion ? 1 : 0,
         }}
       >
         {piece}
@@ -91,12 +101,9 @@ export default function SplitTextReveal({
     </span>
   ));
 
-  return createElement(
-    tag,
-    {
-      ref: containerRef,
-      className,
-    },
-    children
+  return (
+    <Tag ref={containerRef as React.RefObject<never>} className={className}>
+      {inner}
+    </Tag>
   );
 }

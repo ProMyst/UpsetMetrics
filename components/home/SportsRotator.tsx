@@ -2,6 +2,7 @@
 
 import { useEffect, useRef } from "react";
 import { gsap, ScrollTrigger } from "@/lib/gsap";
+import { usePrefersReducedMotion } from "@/lib/usePrefersReducedMotion";
 
 interface Sport {
   name: string;
@@ -15,7 +16,7 @@ const sports: Sport[] = [
   { name: "Formula 1", tagline: "The grid, the paddock, the unexpected", color: "var(--color-claret)" },
   { name: "Equestrian", tagline: "Show jumping, dressage, eventing", color: "var(--color-navy)" },
   { name: "Lacrosse", tagline: "College and professional", color: "var(--color-moss)" },
-  { name: "Yachting", tagline: "America\u2019s Cup and offshore", color: "var(--color-navy)" },
+  { name: "Yachting", tagline: "America's Cup and offshore", color: "var(--color-navy)" },
   { name: "Polo", tagline: "The sport of kings", color: "var(--color-brass)" },
   { name: "Golf", tagline: "Majors, tours, and long-shot Sundays", color: "var(--color-moss)" },
 ];
@@ -23,8 +24,11 @@ const sports: Sport[] = [
 export default function SportsRotator() {
   const containerRef = useRef<HTMLDivElement>(null);
   const pinRef = useRef<HTMLDivElement>(null);
+  const prefersReducedMotion = usePrefersReducedMotion();
 
   useEffect(() => {
+    if (prefersReducedMotion) return;
+
     const container = containerRef.current;
     const pin = pinRef.current;
     if (!container || !pin) return;
@@ -75,30 +79,36 @@ export default function SportsRotator() {
           }
         );
 
-        // Background fade
+        // Background fade: 30% fade in, 40% hold at peak, 30% fade out
         if (bg) {
+          const rangeStart = i / sports.length;
+          const rangeEnd = (i + 1) / sports.length;
+          const rangeSize = rangeEnd - rangeStart;
+          const fadeInEnd = rangeStart + rangeSize * 0.3;
+          const holdEnd = rangeStart + rangeSize * 0.7;
+
           gsap.fromTo(
             bg,
             { opacity: 0 },
             {
-              opacity: 0.05,
+              opacity: 0.10,
               scrollTrigger: {
                 trigger: container,
-                start: `${(i / sports.length) * 100}% top`,
-                end: `${((i + 0.5) / sports.length) * 100}% top`,
+                start: `${rangeStart * 100}% top`,
+                end: `${fadeInEnd * 100}% top`,
                 scrub: true,
               },
             }
           );
           gsap.fromTo(
             bg,
-            { opacity: 0.05 },
+            { opacity: 0.10 },
             {
               opacity: 0,
               scrollTrigger: {
                 trigger: container,
-                start: `${((i + 0.5) / sports.length) * 100}% top`,
-                end: `${((i + 1) / sports.length) * 100}% top`,
+                start: `${holdEnd * 100}% top`,
+                end: `${rangeEnd * 100}% top`,
                 scrub: true,
               },
             }
@@ -108,7 +118,27 @@ export default function SportsRotator() {
     }, container);
 
     return () => ctx.revert();
-  }, []);
+  }, [prefersReducedMotion]);
+
+  // Reduced motion: render all sports stacked vertically
+  if (prefersReducedMotion) {
+    return (
+      <div style={{ padding: "var(--section-pad-y) var(--gutter)" }}>
+        <div className="flex flex-col items-center gap-16">
+          {sports.map((sport) => (
+            <div key={sport.name} className="text-center">
+              <h2 className="text-display-xl font-display italic text-ink">
+                {sport.name}
+              </h2>
+              <p className="text-small text-stone mt-4 tracking-wide">
+                {sport.tagline}
+              </p>
+            </div>
+          ))}
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div

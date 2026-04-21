@@ -1,5 +1,6 @@
 "use client";
 
+import { useEffect, useRef } from "react";
 import Link from "next/link";
 import { motion, AnimatePresence } from "motion/react";
 import { NAV_ITEMS, SPORTS, EASE_SILK } from "@/lib/constants";
@@ -13,11 +14,31 @@ const easeSilk = EASE_SILK as unknown as [number, number, number, number];
 
 export default function MobileNav({ isOpen, onClose }: MobileNavProps) {
   const nonDropdownItems = NAV_ITEMS.filter((item) => !item.hasDropdown);
+  const closeRef = useRef<HTMLButtonElement>(null);
+
+  // Focus the close button on open; return focus to hamburger on close
+  useEffect(() => {
+    if (isOpen) {
+      // Small delay so AnimatePresence has rendered the button
+      const timer = setTimeout(() => closeRef.current?.focus(), 100);
+      return () => clearTimeout(timer);
+    } else {
+      // Return focus to the hamburger button
+      const hamburger = document.querySelector<HTMLButtonElement>(
+        '[aria-controls="mobile-nav"]'
+      );
+      hamburger?.focus();
+    }
+  }, [isOpen]);
 
   return (
     <AnimatePresence>
       {isOpen && (
         <motion.div
+          id="mobile-nav"
+          role="dialog"
+          aria-modal="true"
+          aria-label="Navigation menu"
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           exit={{ opacity: 0 }}
@@ -26,8 +47,9 @@ export default function MobileNav({ isOpen, onClose }: MobileNavProps) {
         >
           {/* Close button */}
           <button
+            ref={closeRef}
             onClick={onClose}
-            className="absolute top-6 right-6 z-50 p-2 text-ink"
+            className="absolute top-6 z-50 p-2 text-ink focus-visible:outline-2 focus-visible:outline-brass focus-visible:outline-offset-2"
             style={{ right: "var(--gutter)" }}
             aria-label="Close menu"
           >
@@ -77,7 +99,7 @@ export default function MobileNav({ isOpen, onClose }: MobileNavProps) {
                   <Link
                     href={`/${sport.slug}`}
                     onClick={onClose}
-                    className="text-display-l text-ink hover:text-brass transition-colors duration-300 block"
+                    className="text-display-l text-ink hover:text-brass transition-colors duration-300 block focus-visible:outline-2 focus-visible:outline-brass focus-visible:outline-offset-2"
                   >
                     {sport.name}
                   </Link>
@@ -110,7 +132,7 @@ export default function MobileNav({ isOpen, onClose }: MobileNavProps) {
                   <Link
                     href={item.href}
                     onClick={onClose}
-                    className="text-display-l text-ink hover:text-brass transition-colors duration-300 block"
+                    className="text-display-l text-ink hover:text-brass transition-colors duration-300 block focus-visible:outline-2 focus-visible:outline-brass focus-visible:outline-offset-2"
                   >
                     {item.label}
                   </Link>

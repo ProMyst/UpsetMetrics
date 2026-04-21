@@ -2,10 +2,12 @@
 
 import { TICKER_ITEMS } from "@/lib/constants";
 
+// TODO: refactor to render items as individual spans when we introduce hover interactions per-upset
+
 function buildTickerText() {
   return TICKER_ITEMS.map(
-    (item) => `${item.matchup} \u00B7 ${item.event} \u00B7 UPSET SCORE ${item.score}`
-  ).join(" \u2726 ");
+    (item) => `${item.matchup} · ${item.event} · UPSET SCORE ${item.score}`
+  ).join(" ✦ ");
 }
 
 export default function UpsetTicker() {
@@ -15,11 +17,11 @@ export default function UpsetTicker() {
     <div className="overflow-hidden whitespace-nowrap">
       <div className="hairline" />
       <div className="py-3 flex animate-marquee">
-        <span className="font-mono text-xs text-stone tracking-wider uppercase shrink-0">
-          {text} &nbsp;\u2726&nbsp;{" "}
+        <span className="font-mono text-stone uppercase shrink-0" style={{ fontSize: "0.6875rem", letterSpacing: "0.15em" }}>
+          {text}{" "}✦{" "}
         </span>
-        <span className="font-mono text-xs text-stone tracking-wider uppercase shrink-0">
-          {text} &nbsp;\u2726&nbsp;{" "}
+        <span className="font-mono text-stone uppercase shrink-0" style={{ fontSize: "0.6875rem", letterSpacing: "0.15em" }}>
+          {text}{" "}✦{" "}
         </span>
       </div>
       <div className="hairline" />

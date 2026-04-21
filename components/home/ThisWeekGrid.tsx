@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useRef } from "react";
-import { gsap, ScrollTrigger } from "@/lib/gsap";
+import { gsap } from "@/lib/gsap";
 import Eyebrow from "@/components/ui/Eyebrow";
 import SplitTextReveal from "@/components/ui/SplitTextReveal";
 import Divider from "@/components/ui/Divider";
@@ -105,13 +105,13 @@ export default function ThisWeekGrid() {
         ref={gridRef}
         className="grid grid-cols-1 lg:grid-cols-12 gap-4"
       >
-        {cards.map((card, i) => (
+        {cards.map((card) => (
           <div
             key={card.headline}
             data-card
             className={`
               ${card.colSpan} ${card.offsetClass ?? ""}
-              bg-cream border border-transparent hover:border-stone/30
+              group bg-cream border border-transparent hover:border-stone/30
               p-6 lg:p-8
               transition-all duration-500
               hover:scale-[1.01]
@@ -123,9 +123,17 @@ export default function ThisWeekGrid() {
               {card.headline}
             </h3>
             <Divider className="my-4" />
-            <span className="text-mono text-sm text-stone">
-              Upset Score: {card.score}
-            </span>
+            <div className="flex items-center justify-between">
+              <span className="text-mono text-sm text-stone">
+                Upset Score: {card.score}
+              </span>
+              <span
+                className="text-brass text-sm transition-transform duration-300 group-hover:translate-x-1"
+                style={{ transitionTimingFunction: "cubic-bezier(0.22, 1, 0.36, 1)" }}
+              >
+                &rarr;
+              </span>
+            </div>
           </div>
         ))}
       </div>

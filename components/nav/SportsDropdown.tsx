@@ -30,6 +30,7 @@ export default function SportsDropdown({
           onMouseLeave={onMouseLeave}
         >
           <div
+            role="menu"
             className="mx-auto grid grid-cols-3 gap-x-8 gap-y-6 py-10"
             style={{
               maxWidth: "var(--layout-max)",
@@ -50,7 +51,8 @@ export default function SportsDropdown({
               >
                 <Link
                   href={`/${sport.slug}`}
-                  className="group block py-2"
+                  className="group block py-2 focus-visible:outline-2 focus-visible:outline-brass focus-visible:outline-offset-2"
+                  role="menuitem"
                 >
                   <span className="font-display italic text-ink text-lg group-hover:text-brass transition-colors duration-300">
                     {sport.name}

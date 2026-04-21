@@ -1,7 +1,8 @@
 "use client";
 
 import { useEffect, useRef } from "react";
-import { gsap, ScrollTrigger } from "@/lib/gsap";
+import { gsap } from "@/lib/gsap";
+import { usePrefersReducedMotion } from "@/lib/usePrefersReducedMotion";
 
 interface RevealOnScrollProps {
   children: React.ReactNode;
@@ -17,10 +18,16 @@ export default function RevealOnScroll({
   direction = "up",
 }: RevealOnScrollProps) {
   const ref = useRef<HTMLDivElement>(null);
+  const prefersReducedMotion = usePrefersReducedMotion();
 
   useEffect(() => {
     const el = ref.current;
     if (!el) return;
+
+    if (prefersReducedMotion) {
+      el.style.opacity = "1";
+      return;
+    }
 
     const offsets = {
       up: { x: 0, y: 60 },
@@ -51,10 +58,14 @@ export default function RevealOnScroll({
     });
 
     return () => ctx.revert();
-  }, [delay, direction]);
+  }, [delay, direction, prefersReducedMotion]);
 
   return (
-    <div ref={ref} className={className} style={{ opacity: 0 }}>
+    <div
+      ref={ref}
+      className={className}
+      style={{ opacity: prefersReducedMotion ? 1 : 0 }}
+    >
       {children}
     </div>
   );

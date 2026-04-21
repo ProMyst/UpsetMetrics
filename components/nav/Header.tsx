@@ -42,7 +42,7 @@ export default function Header() {
   const handleSportsLeave = useCallback(() => {
     closeTimeout.current = setTimeout(() => {
       setSportsOpen(false);
-    }, 150);
+    }, 250);
   }, []);
 
   return (
@@ -65,7 +65,13 @@ export default function Header() {
           }}
         >
           {/* Logo */}
-          <Link href="/" className="font-display font-normal tracking-wide text-ink text-xl">
+          <Link
+            href="/"
+            className={`font-display font-normal tracking-wide text-ink transition-all duration-500 ${
+              scrolled ? "text-base" : "text-xl"
+            }`}
+            style={{ transitionTimingFunction: "cubic-bezier(0.22, 1, 0.36, 1)" }}
+          >
             Upsetmetrics
           </Link>
 
@@ -80,6 +86,8 @@ export default function Header() {
             className="lg:hidden p-2 text-ink"
             onClick={() => setMobileOpen(true)}
             aria-label="Open menu"
+            aria-expanded={mobileOpen}
+            aria-controls="mobile-nav"
           >
             <svg
               width="24"
@@ -96,6 +104,15 @@ export default function Header() {
             </svg>
           </button>
         </div>
+
+        {/* Invisible bridge to prevent dropdown close during diagonal cursor movement */}
+        {sportsOpen && (
+          <div
+            className="absolute left-0 w-full"
+            style={{ height: "12px", bottom: "-12px" }}
+            onMouseEnter={handleSportsEnter}
+          />
+        )}
 
         {/* Sports dropdown */}
         <SportsDropdown

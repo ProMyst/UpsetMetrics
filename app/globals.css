@@ -176,6 +176,16 @@ body {
   .custom-cursor { display: none !important; }
 }
 
+/* ─── Loading pulse for brass divider ─── */
+@keyframes pulse-brass {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.3; }
+}
+
+.animate-pulse-brass {
+  animation: pulse-brass 2.5s ease-in-out infinite;
+}
+
 /* ─── Hairline divider ─── */
 .hairline {
   height: 0.5px;

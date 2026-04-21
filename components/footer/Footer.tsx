@@ -1,7 +1,16 @@
+"use client";
+
+import { useState, type FormEvent } from "react";
 import Link from "next/link";
 import { SPORTS } from "@/lib/constants";
 
 export default function Footer() {
+  const [footerSubmitted, setFooterSubmitted] = useState(false);
+
+  function handleFooterSubmit(e: FormEvent) {
+    e.preventDefault();
+    setFooterSubmitted(true);
+  }
   return (
     <footer className="border-t border-stone/20 bg-ivory">
       <div
@@ -68,13 +77,35 @@ export default function Footer() {
           </ul>
         </div>
 
-        {/* Credit */}
+        {/* Newsletter */}
         <div className="flex flex-col justify-between">
           <div>
             <h4 className="text-eyebrow text-stone mb-6">The Monday Edition</h4>
-            <p className="text-small text-graphite" style={{ maxWidth: "32ch" }}>
+            <p className="text-small text-graphite mb-4" style={{ maxWidth: "32ch" }}>
               One email each week. The upsets that mattered, scored and ranked.
             </p>
+            {!footerSubmitted ? (
+              <form onSubmit={handleFooterSubmit} className="flex flex-col gap-3">
+                <input
+                  type="email"
+                  required
+                  placeholder="Your email"
+                  className="bg-transparent border-0 border-b border-stone/40 text-small text-ink py-2 outline-none placeholder:text-stone/50 focus:border-brass transition-colors"
+                  style={{ maxWidth: "20ch" }}
+                />
+                <button
+                  type="submit"
+                  className="text-eyebrow text-ink cursor-pointer hover:text-brass transition-colors tracking-widest uppercase bg-transparent border-0 text-left"
+                  style={{ fontSize: "0.625rem" }}
+                >
+                  Subscribe
+                </button>
+              </form>
+            ) : (
+              <p className="font-display italic text-small text-ink">
+                Thank you.
+              </p>
+            )}
           </div>
         </div>
       </div>

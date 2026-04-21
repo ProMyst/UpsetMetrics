@@ -23,9 +23,11 @@ export default function NavLinks({ onSportsEnter, onSportsLeave }: NavLinksProps
         >
           <Link
             href={item.href}
-            className="relative text-small font-body text-graphite pb-1 block"
+            className="relative text-small font-body text-graphite pb-1 block focus-visible:outline-none"
             onMouseEnter={() => setHoveredIndex(i)}
             onMouseLeave={() => setHoveredIndex(null)}
+            onFocus={() => setHoveredIndex(i)}
+            onBlur={() => setHoveredIndex(null)}
           >
             {item.label}
             <span

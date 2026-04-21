@@ -6,7 +6,6 @@ import { gsap } from "@/lib/gsap";
 interface MagneticLinkProps {
   children: React.ReactNode;
   className?: string;
-  href?: string;
   onMouseEnter?: () => void;
   onMouseLeave?: () => void;
 }
@@ -19,11 +18,10 @@ function isTouchDevice(): boolean {
 export default function MagneticLink({
   children,
   className,
-  href,
   onMouseEnter,
   onMouseLeave,
 }: MagneticLinkProps) {
-  const ref = useRef<HTMLElement>(null);
+  const ref = useRef<HTMLSpanElement>(null);
   const RADIUS = 120;
   const STRENGTH = 0.3;
 
@@ -49,7 +47,7 @@ export default function MagneticLink({
     }
   }, []);
 
-  const handleMouseLeave = useCallback(() => {
+  const handleMouseLeaveInternal = useCallback(() => {
     const el = ref.current;
     if (!el) return;
 
@@ -59,7 +57,12 @@ export default function MagneticLink({
       duration: 0.6,
       ease: "elastic.out(1, 0.4)",
     });
-  }, []);
+    onMouseLeave?.();
+  }, [onMouseLeave]);
+
+  const handleMouseEnterInternal = useCallback(() => {
+    onMouseEnter?.();
+  }, [onMouseEnter]);
 
   useEffect(() => {
     if (isTouchDevice()) return;
@@ -67,32 +70,24 @@ export default function MagneticLink({
     const el = ref.current;
     if (!el) return;
 
-    const enterHandler = () => onMouseEnter?.();
-    const leaveHandler = () => onMouseLeave?.();
-
     el.addEventListener("mousemove", handleMouseMove);
-    el.addEventListener("mouseleave", handleMouseLeave);
-    if (onMouseEnter) el.addEventListener("mouseenter", enterHandler);
-    if (onMouseLeave) el.addEventListener("mouseleave", leaveHandler);
+    el.addEventListener("mouseenter", handleMouseEnterInternal);
+    el.addEventListener("mouseleave", handleMouseLeaveInternal);
 
     return () => {
       el.removeEventListener("mousemove", handleMouseMove);
-      el.removeEventListener("mouseleave", handleMouseLeave);
-      if (onMouseEnter) el.removeEventListener("mouseenter", enterHandler);
-      if (onMouseLeave) el.removeEventListener("mouseleave", leaveHandler);
+      el.removeEventListener("mouseenter", handleMouseEnterInternal);
+      el.removeEventListener("mouseleave", handleMouseLeaveInternal);
     };
-  }, [handleMouseMove, handleMouseLeave]);
-
-  const Tag = href ? "a" : "div";
+  }, [handleMouseMove, handleMouseEnterInternal, handleMouseLeaveInternal]);
 
   return (
-    <Tag
-      ref={ref as React.Ref<HTMLAnchorElement & HTMLDivElement>}
-      href={href}
+    <span
+      ref={ref}
       className={className}
       style={{ display: "inline-block", willChange: "transform" }}
     >
       {children}
-    </Tag>
+    </span>
   );
 }

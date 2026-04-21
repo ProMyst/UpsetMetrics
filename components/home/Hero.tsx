@@ -58,6 +58,7 @@ export default function Hero() {
           {chars.map((char, i) => (
             <span
               key={`${char}-${i}`}
+              aria-hidden="true"
               style={{
                 display: "inline-block",
                 overflow: "hidden",
@@ -76,7 +77,8 @@ export default function Hero() {
 
         {/* Subtitle */}
         <motion.p
-          className="text-2xl font-body italic text-graphite max-w-[52ch] mx-auto mt-8"
+          className="font-body italic text-graphite max-w-[52ch] mx-auto mt-8"
+          style={{ fontSize: "clamp(1.125rem, 1.5vw, 1.5rem)" }}
           initial={{ opacity: 0, y: 16 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1, delay: 1.3, ease: silk }}

@@ -443,7 +443,6 @@ All content is hardcoded in React components. There is no CMS, no MDX, no conten
 - [ ] Custom cursor implementation (6px ink dot + 32px trailing ring)
 - [ ] Paper-grain texture overlay (extremely subtle)
 - [ ] Loading skeleton states matching design system
-- [ ] Error pages (404, 500) in the editorial style
 
 ---
 
@@ -460,7 +459,8 @@ This is the **bones build only**. The following are explicitly not included:
 - **No real Upset Score calculation** — The methodology is described but not implemented
 - **No search** — Archive page is a placeholder
 - **GSAP SplitText** — We use manual text splitting (not the GSAP paid SplitText plugin). The manual approach handles chars and words well but has no automatic line detection.
-- **SEO** — Basic metadata only; no structured data, Open Graph images, or sitemap yet
+- **SEO** — Basic metadata and OG text only; no structured data, Open Graph images, or sitemap yet
+- **No focus trap library** — The mobile nav uses manual focus management which may have edge cases
 
 ---
 
@@ -522,6 +522,39 @@ npm run lint
 - **Design & Development:** Bones build, April 2026
 - **Typography:** Fraunces by Undercase Type, EB Garamond by Georg Duffner, JetBrains Mono by JetBrains
 - **Animation:** GSAP by GreenSock, Motion (Framer Motion successor), Lenis by Studio Freight
+
+---
+
+## Changelog
+
+### v0.2 — Bug Fixes + Polish (April 2026)
+
+**Bugs fixed:**
+- **BUG 1:** UpsetTicker no longer renders literal `\u2726` — replaced with actual `✦` characters
+- **BUG 2:** MagneticLink consolidated to single set of event listeners with proper cleanup; refactored from `<a>/<div>` to `<span>` wrapper pattern
+- **BUG 3:** Eyebrow component uses static Tailwind class map instead of fragile dynamic `text-${color}` interpolation
+- **BUG 4:** SportsRotator background opacity increased from 0.05 to 0.10 with 3-phase timing (30% fade in, 40% hold, 30% fade out)
+- **BUG 5:** Added branded `not-found.tsx` (404), `loading.tsx` (with pulsing divider), and `error.tsx` (client error boundary with reset)
+- **BUG 6:** Sports dropdown hover reliability improved — 250ms close timeout + 12px invisible bridge element between nav item and dropdown panel
+
+**Polish items:**
+- **FIX 7:** Added viewport metadata (themeColor, maximumScale) and OpenGraph/Twitter text metadata
+- **FIX 8:** Added `prefers-reduced-motion` support via `usePrefersReducedMotion` hook — Lenis skips initialization, all GSAP animations show instantly, SportsRotator renders stacked instead of pinned
+- **FIX 9:** Accessibility improvements — `aria-expanded`/`aria-controls` on hamburger, `role="dialog"`/`aria-modal` on mobile nav, `role="menu"`/`role="menuitem"` on sports dropdown, `aria-hidden` on hero character spans, `focus-visible` styles on nav links and interactive elements, focus management on mobile nav open/close
+- **FIX 10:** Visual refinements — hero subtitle uses fluid `clamp()` sizing, header logo shrinks on scroll, footer fourth column has inline email signup, ThisWeekGrid cards have brass arrow on hover, Divider has `aria-orientation`, UpsetTicker font reduced to 11px with 0.15em tracking
+- **FIX 11:** ESLint passes with zero errors — fixed unused imports, `<img>` → `next/image`, React ref patterns, `useSyncExternalStore` for reduced motion hook
+- **FIX 12:** README updated with changelog and revised known limitations
+
+### v0.1 — Initial Bones Build (April 2026)
+
+- Complete design system: ivory/ink editorial palette, Fraunces + EB Garamond + JetBrains Mono
+- Animation infrastructure: Lenis smooth scroll, GSAP ScrollTrigger, Motion page transitions
+- UI primitives: SplitTextReveal, ParallaxImage, CountUp, MagneticLink, Divider, Eyebrow
+- Navigation: sticky header with frosted glass, sports mega-dropdown, mobile overlay
+- Home page: 7 sections (Hero, UpsetTicker, FeaturedUpset, ThisWeekGrid, SportsRotator, UpsetScoreExplainer, NewsletterBlock)
+- Footer: four-column editorial layout
+- 12 placeholder route pages
+- Exhaustive README documentation
 
 ---
 

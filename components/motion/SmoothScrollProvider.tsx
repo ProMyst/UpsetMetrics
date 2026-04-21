@@ -4,6 +4,7 @@ import { useEffect, useRef } from "react";
 import Lenis from "lenis";
 import { usePathname } from "next/navigation";
 import { ScrollTrigger } from "@/lib/gsap";
+import { usePrefersReducedMotion } from "@/lib/usePrefersReducedMotion";
 
 interface SmoothScrollProviderProps {
   children: React.ReactNode;
@@ -14,8 +15,12 @@ export default function SmoothScrollProvider({
 }: SmoothScrollProviderProps) {
   const lenisRef = useRef<Lenis | null>(null);
   const pathname = usePathname();
+  const prefersReducedMotion = usePrefersReducedMotion();
 
   useEffect(() => {
+    // Skip Lenis entirely if user prefers reduced motion — use native scroll
+    if (prefersReducedMotion) return;
+
     const lenis = new Lenis({
       duration: 1.2,
       easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)),
@@ -41,7 +46,7 @@ export default function SmoothScrollProvider({
       lenis.destroy();
       lenisRef.current = null;
     };
-  }, []);
+  }, [prefersReducedMotion]);
 
   // Scroll to top and refresh ScrollTrigger on route change
   useEffect(() => {

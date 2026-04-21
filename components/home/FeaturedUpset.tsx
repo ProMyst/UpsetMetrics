@@ -5,6 +5,7 @@ import Eyebrow from "@/components/ui/Eyebrow";
 import SplitTextReveal from "@/components/ui/SplitTextReveal";
 import MagneticLink from "@/components/ui/MagneticLink";
 import RevealOnScroll from "@/components/motion/RevealOnScroll";
+import Link from "next/link";
 
 export default function FeaturedUpset() {
   return (
@@ -54,11 +55,13 @@ export default function FeaturedUpset() {
           </RevealOnScroll>
 
           <RevealOnScroll delay={0.4}>
-            <MagneticLink
-              href="/analysis/qualifier-queen-fourteen-aces"
-              className="font-display text-ink underline underline-offset-4"
-            >
-              Read the analysis &rarr;
+            <MagneticLink>
+              <Link
+                href="/analysis/qualifier-queen-fourteen-aces"
+                className="font-display text-ink underline underline-offset-4"
+              >
+                Read the analysis &rarr;
+              </Link>
             </MagneticLink>
           </RevealOnScroll>
         </div>

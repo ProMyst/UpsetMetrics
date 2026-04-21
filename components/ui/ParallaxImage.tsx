@@ -1,7 +1,9 @@
 "use client";
 
 import { useEffect, useRef } from "react";
-import { gsap, ScrollTrigger } from "@/lib/gsap";
+import Image from "next/image";
+import { gsap } from "@/lib/gsap";
+import { usePrefersReducedMotion } from "@/lib/usePrefersReducedMotion";
 
 interface ParallaxImageProps {
   src?: string;
@@ -20,11 +22,17 @@ export default function ParallaxImage({
 }: ParallaxImageProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const imageRef = useRef<HTMLDivElement>(null);
+  const prefersReducedMotion = usePrefersReducedMotion();
 
   useEffect(() => {
     const container = containerRef.current;
     const image = imageRef.current;
     if (!container || !image) return;
+
+    if (prefersReducedMotion) {
+      container.style.clipPath = "inset(0% 0 0 0)";
+      return;
+    }
 
     const ctx = gsap.context(() => {
       // Clip-path reveal + scale on scroll-enter
@@ -76,7 +84,7 @@ export default function ParallaxImage({
     });
 
     return () => ctx.revert();
-  }, [depth]);
+  }, [depth, prefersReducedMotion]);
 
   return (
     <div
@@ -85,7 +93,7 @@ export default function ParallaxImage({
       style={{
         overflow: "hidden",
         position: "relative",
-        clipPath: "inset(100% 0 0 0)",
+        clipPath: prefersReducedMotion ? "inset(0% 0 0 0)" : "inset(100% 0 0 0)",
       }}
     >
       <div
@@ -93,19 +101,15 @@ export default function ParallaxImage({
         style={{
           width: "100%",
           height: "100%",
-          willChange: "transform",
+          willChange: prefersReducedMotion ? "auto" : "transform",
         }}
       >
         {src ? (
-          <img
+          <Image
             src={src}
             alt={alt}
-            style={{
-              width: "100%",
-              height: "100%",
-              objectFit: "cover",
-              display: "block",
-            }}
+            fill
+            style={{ objectFit: "cover" }}
           />
         ) : (
           <div

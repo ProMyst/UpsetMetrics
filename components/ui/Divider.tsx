@@ -8,6 +8,7 @@ export default function Divider({ className, withLines = true }: DividerProps) {
     <div
       className={`flex items-center gap-6 ${className ?? ""}`}
       role="separator"
+      aria-orientation="horizontal"
     >
       {withLines && <div className="hairline flex-1" />}
       <span
