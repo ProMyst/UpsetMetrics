@@ -186,6 +186,67 @@ body {
   animation: pulse-brass 2.5s ease-in-out infinite;
 }
 
+/* ─── Hero textured paper background ─── */
+.hero-section {
+  position: relative;
+  background-color: var(--color-ivory);
+  isolation: isolate;
+}
+
+.hero-section::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  background-image:
+    radial-gradient(
+      ellipse at center,
+      transparent 0%,
+      transparent 55%,
+      rgba(20, 20, 20, 0.05) 100%  /* Tune opacity here if vignette is too strong on your display */
+    ),
+    linear-gradient(
+      180deg,
+      rgba(166, 139, 92, 0.035) 0%,  /* Tune opacity here if warm wash is too visible */
+      transparent 45%
+    );
+  background-size: 100% 100%, 100% 100%;
+}
+
+.hero-section::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.5;  /* Tune this if grain is too heavy — try 0.4 on Safari */
+  mix-blend-mode: multiply;
+  background-image: url("data:image/svg+xml;utf8,<svg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='3' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0.08 0 0 0 0 0.08 0 0 0 0 0.08 0 0 0 0.09 0'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+  background-size: 220px 220px;
+  background-repeat: repeat;
+}
+
+.hero-section > * {
+  position: relative;
+  z-index: 1;
+}
+
+/* ─── Hero headline letterpress ─── */
+.hero-headline-letterpress {
+  color: var(--color-ink);
+  text-shadow:
+    0 1px 0 rgba(255, 255, 255, 0.55),
+    0 2px 3px rgba(20, 20, 20, 0.09),
+    0 0 1px rgba(20, 20, 20, 0.12);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-headline-letterpress {
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
+  }
+}
+
 /* ─── Hairline divider ─── */
 .hairline {
   height: 0.5px;

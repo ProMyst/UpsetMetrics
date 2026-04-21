@@ -33,7 +33,7 @@ const charVariants = {
 
 export default function Hero() {
   return (
-    <section className="min-h-screen flex flex-col justify-center bg-ivory relative">
+    <section className="min-h-screen flex flex-col justify-center bg-ivory relative hero-section">
       <div
         className="mx-auto w-full text-center"
         style={{ padding: "0 var(--gutter)" }}
@@ -49,7 +49,7 @@ export default function Hero() {
 
         {/* Headline — character-by-character reveal */}
         <motion.h1
-          className="text-display-xl font-display text-ink"
+          className="text-display-xl font-display text-ink hero-headline-letterpress"
           variants={containerVariants}
           initial="hidden"
           animate="visible"

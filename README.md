@@ -137,6 +137,15 @@ Fraunces uses the SOFT and opsz variable axes. `font-variation-settings: "SOFT" 
 | **Magnetic radius** | 120px, 30% strength | Spring back on mouseleave |
 | **No bouncy springs** | — | This is not a playful site. |
 
+### Hero Texture Layers (CSS-only)
+
+The hero section uses three stacked pseudo-element layers for tactile feel:
+- Radial vignette at 5% ink, focusing attention on the headline
+- SVG turbulence noise at 50% opacity + multiply blend, creating paper grain
+- Warm brass gradient top-to-middle at 3.5%, mimicking natural paper lighting
+
+The headline also has a letterpress text-shadow (highlight + soft drop + glow) that gives the feeling of type pressed into paper. No image assets are loaded; the entire effect is two CSS classes: `.hero-section` and `.hero-headline-letterpress` in `globals.css`.
+
 ---
 
 ## File Structure
@@ -526,6 +535,13 @@ npm run lint
 ---
 
 ## Changelog
+
+### v0.2.1 — Hero Texture + Letterpress (April 2026)
+
+- Added textured paper background to hero section via layered CSS (radial vignette, SVG turbulence noise, warm brass top wash)
+- Added letterpress text-shadow effect to hero headline for pressed-into-paper feeling
+- Reduced-motion variant of letterpress preserved for accessibility
+- No new assets or dependencies — entire effect is CSS-only
 
 ### v0.2 — Bug Fixes + Polish (April 2026)
 
