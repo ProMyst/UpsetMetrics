@@ -5,7 +5,7 @@ export default function F1Page() {
     <SectionPlaceholder
       title="Formula 1"
       eyebrow="THE GRID · THE PADDOCK · THE UNEXPECTED"
-      subtitle="When the grid order breaks down and the championship shifts. Every race, scored."
+      subtitle="Where the grid meets the unexpected. Every race scored, from Monaco to S&#227;o Paulo."
     />
   );
 }

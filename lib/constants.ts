@@ -4,6 +4,10 @@ export interface SportItem {
   description: string;
 }
 
+// Phase 1 coverage: nine sports at launch.
+// Planned future additions: NASCAR, Cricket, Cycling, Rugby.
+// Each will follow the same route pattern (app/{slug}/page.tsx) and
+// be added to this array when editorial coverage begins.
 export const SPORTS: SportItem[] = [
   { name: "Tennis", slug: "tennis", description: "Grand Slams, Masters, and the moments between" },
   { name: "Formula 1", slug: "f1", description: "The grid, the paddock, the unexpected" },
@@ -31,14 +35,18 @@ export const NAV_ITEMS: NavItem[] = [
 ];
 
 export const TICKER_ITEMS = [
-  { matchup: "ALCARAZ → NORRIE", event: "INDIAN WELLS", score: 88 },
-  { matchup: "VERSTAPPEN P7", event: "MONACO", score: 64 },
-  { matchup: "SIERRA LEONE 50/1", event: "CHURCHILL DOWNS", score: 91 },
-  { matchup: "YALE OVER DUKE", event: "NCAA LACROSSE", score: 73 },
-  { matchup: "LUNA ROSSA CAPSIZE", event: "AMERICA'S CUP", score: 82 },
-  { matchup: "MATSUYAMA +2800", event: "THE OPEN", score: 77 },
-  { matchup: "CELTICS SWEPT", event: "NBA PLAYOFFS", score: 85 },
-  { matchup: "POLO CHALLENGE UPSET", event: "ARGENTINE OPEN", score: 69 },
+  { matchup: "ALCARAZ d. SINNER", event: "ROLAND GARROS", score: 87 },
+  { matchup: "SHELTON d. DJOKOVIC", event: "INDIAN WELLS", score: 91 },
+  { matchup: "SCHAUFFELE +1400", event: "THE MASTERS", score: 78 },
+  { matchup: "ÅBERG EAGLES 18", event: "US OPEN (GOLF)", score: 72 },
+  { matchup: "VERSTAPPEN P9", event: "MONACO GP", score: 64 },
+  { matchup: "SIERRA LEONE 50/1", event: "ROYAL ASCOT", score: 93 },
+  { matchup: "LIONS OVER CHIEFS", event: "SUPER BOWL", score: 89 },
+  { matchup: "CAVS SWEEP CELTICS", event: "NBA EASTERN CONF", score: 84 },
+  { matchup: "INEOS CAPSIZE", event: "AMERICA'S CUP", score: 81 },
+  { matchup: "LA DOLFINA FALLS", event: "ARGENTINE OPEN", score: 68 },
+  { matchup: "BLANEY FROM P28", event: "DAYTONA 500", score: 76 },
+  { matchup: "KENT STATE OVER DUKE", event: "NCAA LACROSSE", score: 62 },
 ];
 
 export const EASE_SILK = [0.22, 1, 0.36, 1] as const;

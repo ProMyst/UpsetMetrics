@@ -19,6 +19,7 @@ export default function NewsletterBlock() {
 
   return (
     <section
+      id="newsletter"
       style={{
         paddingTop: "var(--section-pad-y)",
         paddingBottom: "var(--section-pad-y)",
@@ -40,8 +41,9 @@ export default function NewsletterBlock() {
           </div>
 
           <p className="text-body text-graphite max-w-[52ch] mx-auto mb-10">
-            One email, sent Sunday night, with the week&rsquo;s most meaningful
-            upsets across every sport we cover. No ads. No filler. Read in four
+            One email, sent Monday morning, with the ten most improbable results
+            from the weekend just passed. Scored, ranked, and written with the same
+            care we&rsquo;d want from anyone we read. No ads. No filler. Four
             minutes with coffee.
           </p>
 
@@ -91,7 +93,7 @@ export default function NewsletterBlock() {
                 transition={{ duration: 0.6, ease: silk }}
                 className="font-display italic text-2xl text-ink"
               >
-                Thank you.
+                You&rsquo;re on the list. See you Monday.
               </motion.p>
             )}
           </AnimatePresence>

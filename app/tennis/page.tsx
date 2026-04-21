@@ -5,7 +5,7 @@ export default function TennisPage() {
     <SectionPlaceholder
       title="Tennis"
       eyebrow="GRAND SLAMS · MASTERS · ATP · WTA"
-      subtitle="Upsets from the baseline to the net. Grand Slams, Masters, and the moments between."
+      subtitle="The baselines, the nets, and the quiet moments between points. Every upset from Melbourne to Flushing Meadows, scored."
     />
   );
 }

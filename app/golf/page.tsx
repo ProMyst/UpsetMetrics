@@ -5,7 +5,7 @@ export default function GolfPage() {
     <SectionPlaceholder
       title="Golf"
       eyebrow="THE MAJORS · PGA TOUR · LONG-SHOT SUNDAYS"
-      subtitle="When the leaderboard flips on the back nine. Every major upset, every tour surprise."
+      subtitle="The four majors, the tours, and the long-shot Sundays that redraw the record book."
     />
   );
 }

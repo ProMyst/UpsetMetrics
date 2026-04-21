@@ -5,7 +5,7 @@ export default function LacrossePage() {
     <SectionPlaceholder
       title="Lacrosse"
       eyebrow="COLLEGE · PROFESSIONAL · CHAMPIONSHIP"
-      subtitle="The fastest game on two feet. College and professional upsets that shifted the bracket."
+      subtitle="The NCAA tournament, the PLL, and every championship weekend that rewrote a bracket."
     />
   );
 }

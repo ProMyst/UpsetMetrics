@@ -29,17 +29,19 @@ export default function UpsetScoreExplainer() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 lg:gap-16 mb-16">
         <RevealOnScroll delay={0.1}>
           <p className="text-body text-ink dropcap">
-            Our Upset Score weighs pre-match expectation against outcome across
+            The Upset Score weighs pre-match expectation against outcome across
             five signals: betting markets, ranking differential, recent form,
-            venue history, and narrative weight.
+            venue history, and narrative weight. One number, 0 to 100, applied
+            evenly across every sport we cover.
           </p>
         </RevealOnScroll>
 
         <RevealOnScroll delay={0.2}>
           <p className="text-body text-ink">
-            Every result on this site is scored on the same 0&ndash;100 scale,
-            regardless of sport. A 90 is a 90, whether it happens at Churchill
-            Downs or in Foxborough.
+            A 90 at Churchill Downs is a 90 in Foxborough. A 72 at Wimbledon is
+            a 72 at Daytona. The scale doesn&rsquo;t care what sport you
+            prefer&nbsp;&mdash; only how far the result strayed from what the
+            world expected.
           </p>
         </RevealOnScroll>
       </div>
@@ -47,7 +49,7 @@ export default function UpsetScoreExplainer() {
       <RevealOnScroll delay={0.3}>
         <div className="text-center">
           <CountUp
-            end={1247}
+            end={127}
             suffix=" upsets scored"
             className="text-6xl text-brass"
           />

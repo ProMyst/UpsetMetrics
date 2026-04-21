@@ -5,7 +5,7 @@ export default function HorseRacingPage() {
     <SectionPlaceholder
       title="Horse Racing"
       eyebrow="CHURCHILL DOWNS · ROYAL ASCOT · THE TRIPLE CROWN"
-      subtitle="From 50-to-1 longshots to photo finishes. The turf's greatest upsets, ranked."
+      subtitle="From the Twin Spires to the Royal Enclosure. The turf's longest shots and largest hearts, ranked."
     />
   );
 }

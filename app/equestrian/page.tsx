@@ -5,7 +5,7 @@ export default function EquestrianPage() {
     <SectionPlaceholder
       title="Equestrian"
       eyebrow="SHOW JUMPING · DRESSAGE · EVENTING"
-      subtitle="The sport of precision and pedigree. When favorites fall at the final fence."
+      subtitle="Show jumping, dressage, eventing. When favorites fall at the final fence."
     />
   );
 }

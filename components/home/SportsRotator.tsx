@@ -11,14 +11,14 @@ interface Sport {
 }
 
 const sports: Sport[] = [
-  { name: "Tennis", tagline: "Grand Slams, Masters, and the moments between", color: "var(--color-moss)" },
-  { name: "Horse Racing", tagline: "Churchill Downs to Royal Ascot", color: "var(--color-brass)" },
-  { name: "Formula 1", tagline: "The grid, the paddock, the unexpected", color: "var(--color-claret)" },
-  { name: "Equestrian", tagline: "Show jumping, dressage, eventing", color: "var(--color-navy)" },
-  { name: "Lacrosse", tagline: "College and professional", color: "var(--color-moss)" },
-  { name: "Yachting", tagline: "America's Cup and offshore", color: "var(--color-navy)" },
-  { name: "Polo", tagline: "The sport of kings", color: "var(--color-brass)" },
-  { name: "Golf", tagline: "Majors, tours, and long-shot Sundays", color: "var(--color-moss)" },
+  { name: "Tennis", tagline: "From the baseline, into the history books.", color: "var(--color-moss)" },
+  { name: "Horse Racing", tagline: "Churchill Downs, Royal Ascot, Saratoga in August.", color: "var(--color-brass)" },
+  { name: "Formula 1", tagline: "Where the grid order breaks.", color: "var(--color-claret)" },
+  { name: "Equestrian", tagline: "Precision, pedigree, and the final fence.", color: "var(--color-navy)" },
+  { name: "Lacrosse", tagline: "The fastest game on two feet.", color: "var(--color-moss)" },
+  { name: "Yachting", tagline: "When the wind turns on the favored hull.", color: "var(--color-navy)" },
+  { name: "Polo", tagline: "The sport of kings, scored.", color: "var(--color-brass)" },
+  { name: "Golf", tagline: "The majors, the tours, and the Sunday back nine.", color: "var(--color-moss)" },
 ];
 
 export default function SportsRotator() {

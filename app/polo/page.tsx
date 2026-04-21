@@ -5,7 +5,7 @@ export default function PoloPage() {
     <SectionPlaceholder
       title="Polo"
       eyebrow="THE ARGENTINE OPEN · HIGH GOAL · CHALLENGE CUP"
-      subtitle="The sport of kings, scored. When underdogs ride into history."
+      subtitle="The Argentine Open, the High Goal, the quiet chukkas that decide a cup."
     />
   );
 }

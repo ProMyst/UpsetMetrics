@@ -2,10 +2,12 @@
 
 import { motion } from "motion/react";
 import Eyebrow from "@/components/ui/Eyebrow";
+import MagneticLink from "@/components/ui/MagneticLink";
 import { EASE_SILK } from "@/lib/constants";
 
 const silk = EASE_SILK as unknown as [number, number, number, number];
 
+// Alternative headline for future A/B testing: "A Record of the Unexpected."
 const headline = "The Upsets We Will Remember";
 const chars = headline.split("").map((c) => (c === " " ? "\u00A0" : c));
 
@@ -83,8 +85,8 @@ export default function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1, delay: 1.3, ease: silk }}
         >
-          A weekly record of the unexpected, across the world&rsquo;s sports.
-          Tennis, the turf, the paddock, the grid, and the fields beyond.
+          The Top 10 Upsets of the Week, delivered every Monday morning.
+          NASCAR to Nantucket&nbsp;&mdash; the world&rsquo;s sports, scored on one scale.
         </motion.p>
 
         {/* Brass rule */}
@@ -96,12 +98,29 @@ export default function Hero() {
           style={{ transformOrigin: "left" }}
         />
 
+        {/* Newsletter CTA */}
+        <motion.div
+          className="mt-8"
+          initial={{ opacity: 0, y: 8 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.8, delay: 1.7, ease: silk }}
+        >
+          <MagneticLink>
+            <a
+              href="#newsletter"
+              className="text-small font-body italic text-stone hover:text-brass transition-colors duration-300"
+            >
+              Join the Monday Edition &rarr;
+            </a>
+          </MagneticLink>
+        </motion.div>
+
         {/* Scroll indicator */}
         <motion.div
-          className="mt-16"
+          className="mt-12"
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
-          transition={{ duration: 0.8, delay: 1.8, ease: silk }}
+          transition={{ duration: 0.8, delay: 1.9, ease: silk }}
         >
           <span className="text-mono text-xs text-stone tracking-widest uppercase animate-bob inline-block">
             SCROLL

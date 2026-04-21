@@ -12,14 +12,15 @@ export const viewport: Viewport = {
   maximumScale: 1,
 };
 
+const siteDescription =
+  "A weekly record of the unexpected, across the world's sports. The Top 10 Upsets of the Week, delivered every Monday morning. From NASCAR to Nantucket — scored on one scale.";
+
 export const metadata: Metadata = {
   title: "Upsetmetrics — A Record of the Unexpected",
-  description:
-    "A weekly record of the unexpected, across the world's sports. Tennis, the turf, the paddock, the grid, and the fields beyond.",
+  description: siteDescription,
   openGraph: {
     title: "Upsetmetrics — A Record of the Unexpected",
-    description:
-      "A weekly record of the unexpected, across the world's sports. Tennis, the turf, the paddock, the grid, and the fields beyond.",
+    description: siteDescription,
     siteName: "Upsetmetrics",
     type: "website",
     locale: "en_US",
@@ -27,8 +28,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Upsetmetrics — A Record of the Unexpected",
-    description:
-      "A weekly record of the unexpected, across the world's sports. Tennis, the turf, the paddock, the grid, and the fields beyond.",
+    description: siteDescription,
   },
 };
 

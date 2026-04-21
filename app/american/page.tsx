@@ -5,7 +5,7 @@ export default function AmericanPage() {
     <SectionPlaceholder
       title="American"
       eyebrow="NFL · NBA · CFB · THE BIG UPSETS"
-      subtitle="The major American leagues. When the spread doesn't hold and the bracket busts."
+      subtitle="The NFL, the NBA, college football and basketball. The chalk breaks, the brackets bust, the dynasties stumble."
     />
   );
 }

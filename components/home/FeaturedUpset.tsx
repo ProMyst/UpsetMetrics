@@ -33,7 +33,7 @@ export default function FeaturedUpset() {
           </RevealOnScroll>
 
           <SplitTextReveal
-            text="A Qualifier, A Queen, And Fourteen Aces in the Desert"
+            text="Three Lengths Back at the Turn, Then Something the Grandstand Felt Before It Saw"
             tag="h2"
             className="text-display-l font-display text-ink"
             splitBy="words"
@@ -42,15 +42,15 @@ export default function FeaturedUpset() {
 
           <RevealOnScroll delay={0.2}>
             <blockquote className="font-display italic text-xl text-graphite border-l-2 border-brass pl-6">
-              The ATP didn&rsquo;t see this coming. Neither did the oddsmakers.
-              On a warm Tuesday in Indian Wells, the world &#8470;3 lost in
-              straight sets to a player most viewers had to Google.
+              The rain had stopped twenty minutes before post. The rail was soft,
+              the air warm, and a grey colt nobody had backed found a gap at the
+              furlong pole that the favorite never closed.
             </blockquote>
           </RevealOnScroll>
 
           <RevealOnScroll delay={0.3}>
             <p className="text-small text-stone">
-              Analysis by J. Harrington &middot; March 2026
+              Analysis by J. Harrington &middot; April 2026
             </p>
           </RevealOnScroll>
 

@@ -5,7 +5,7 @@ export default function YachtingPage() {
     <SectionPlaceholder
       title="Yachting"
       eyebrow="AMERICA'S CUP · OFFSHORE · GRAND PRIX"
-      subtitle="When the wind turns and the favored hull falters. Sailing's most improbable outcomes."
+      subtitle="America's Cup, Fastnet, the Sydney Hobart. When the ocean chooses its own winner."
     />
   );
 }

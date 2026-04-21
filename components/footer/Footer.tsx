@@ -82,7 +82,7 @@ export default function Footer() {
           <div>
             <h4 className="text-eyebrow text-stone mb-6">The Monday Edition</h4>
             <p className="text-small text-graphite mb-4" style={{ maxWidth: "32ch" }}>
-              One email each week. The upsets that mattered, scored and ranked.
+              Monday mornings. Ten upsets. Four minutes. No filler.
             </p>
             {!footerSubmitted ? (
               <form onSubmit={handleFooterSubmit} className="flex flex-col gap-3">
