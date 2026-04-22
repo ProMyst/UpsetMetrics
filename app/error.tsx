@@ -25,8 +25,7 @@ export default function ErrorPage({ error, reset }: ErrorPageProps) {
       <div className="text-center max-w-2xl">
         <Eyebrow className="mb-8">ERROR · SOMETHING WENT WRONG</Eyebrow>
         <h1
-          className="text-display-l text-ink mb-6"
-          style={{ fontFamily: "var(--font-display)" }}
+          className="text-display-l font-display text-ink mb-6"
         >
           An unexpected error.
         </h1>

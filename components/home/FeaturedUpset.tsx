@@ -57,7 +57,7 @@ export default function FeaturedUpset() {
           <RevealOnScroll delay={0.4}>
             <MagneticLink>
               <Link
-                href="/analysis/qualifier-queen-fourteen-aces"
+                href="/analysis/three-lengths-back-grandstand"
                 className="font-display text-ink underline underline-offset-4"
               >
                 Read the analysis &rarr;

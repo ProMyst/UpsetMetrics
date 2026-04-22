@@ -45,6 +45,17 @@ export default function Header() {
     }, 250);
   }, []);
 
+  // Close dropdown on Escape key
+  useEffect(() => {
+    function handleKeyDown(e: KeyboardEvent) {
+      if (e.key === "Escape" && sportsOpen) {
+        setSportsOpen(false);
+      }
+    }
+    document.addEventListener("keydown", handleKeyDown);
+    return () => document.removeEventListener("keydown", handleKeyDown);
+  }, [sportsOpen]);
+
   return (
     <>
       <header

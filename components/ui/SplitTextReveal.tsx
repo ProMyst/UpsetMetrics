@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useRef } from "react";
-import { gsap } from "@/lib/gsap";
+import { gsap, GSAP_EASE_SILK } from "@/lib/gsap";
 import { usePrefersReducedMotion } from "@/lib/usePrefersReducedMotion";
 
 type Tag = "h1" | "h2" | "h3" | "p" | "span";
@@ -28,7 +28,7 @@ function splitText(text: string, splitBy: "chars" | "words" | "lines") {
 
 export default function SplitTextReveal({
   text,
-  tag: Tag = "p",
+  tag: Component = "p",
   className,
   splitBy = "words",
   delay = 0,
@@ -62,7 +62,7 @@ export default function SplitTextReveal({
           duration: 1.2,
           delay,
           stagger,
-          ease: "cubic-bezier(0.22, 1, 0.36, 1)",
+          ease: GSAP_EASE_SILK,
           scrollTrigger: {
             trigger: containerRef.current,
             start: "top 80%",
@@ -102,8 +102,8 @@ export default function SplitTextReveal({
   ));
 
   return (
-    <Tag ref={containerRef as React.RefObject<never>} className={className}>
+    <Component ref={containerRef as React.RefObject<never>} className={className}>
       {inner}
-    </Tag>
+    </Component>
   );
 }

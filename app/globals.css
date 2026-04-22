@@ -158,7 +158,7 @@ body {
 }
 
 .animate-bob {
-  animation: bob 2.5s ease-in-out infinite;
+  animation: bob 2.5s var(--ease-silk) infinite;
 }
 
 /* ─── Custom cursor ─── */
@@ -183,7 +183,7 @@ body {
 }
 
 .animate-pulse-brass {
-  animation: pulse-brass 2.5s ease-in-out infinite;
+  animation: pulse-brass 2.5s var(--ease-silk) infinite;
 }
 
 /* ─── Hero textured paper background ─── */

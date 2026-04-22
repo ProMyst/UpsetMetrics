@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useRef } from "react";
-import { gsap } from "@/lib/gsap";
+import { gsap, GSAP_EASE_SILK } from "@/lib/gsap";
 import { usePrefersReducedMotion } from "@/lib/usePrefersReducedMotion";
 
 interface RevealOnScrollProps {
@@ -47,7 +47,7 @@ export default function RevealOnScroll({
           y: 0,
           duration: 1.2,
           delay,
-          ease: "cubic-bezier(0.22, 1, 0.36, 1)",
+          ease: GSAP_EASE_SILK,
           scrollTrigger: {
             trigger: el,
             start: "top 85%",

@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState, useCallback } from "react";
+import { usePrefersReducedMotion } from "@/lib/usePrefersReducedMotion";
 
 interface CountUpProps {
   end: number;
@@ -14,7 +15,6 @@ function formatNumber(n: number): string {
   return Math.round(n).toLocaleString("en-US");
 }
 
-// Ease-out quad: decelerates toward end
 function easeOut(t: number): number {
   return 1 - (1 - t) * (1 - t);
 }
@@ -27,11 +27,15 @@ export default function CountUp({
   className,
 }: CountUpProps) {
   const ref = useRef<HTMLSpanElement>(null);
+  const prefersReducedMotion = usePrefersReducedMotion();
   const [display, setDisplay] = useState("0");
   const hasAnimated = useRef(false);
 
+  // Show final value immediately for reduced motion (derived, no effect needed)
+  const displayValue = prefersReducedMotion ? formatNumber(end) : display;
+
   const animate = useCallback(() => {
-    if (hasAnimated.current) return;
+    if (hasAnimated.current || prefersReducedMotion) return;
     hasAnimated.current = true;
 
     const start = performance.now();
@@ -48,9 +52,11 @@ export default function CountUp({
     }
 
     requestAnimationFrame(tick);
-  }, [end, duration]);
+  }, [end, duration, prefersReducedMotion]);
 
   useEffect(() => {
+    if (prefersReducedMotion) return;
+
     const el = ref.current;
     if (!el) return;
 
@@ -66,12 +72,12 @@ export default function CountUp({
 
     observer.observe(el);
     return () => observer.disconnect();
-  }, [animate]);
+  }, [animate, prefersReducedMotion]);
 
   return (
     <span ref={ref} className={`text-mono ${className ?? ""}`}>
       {prefix}
-      {display}
+      {displayValue}
       {suffix}
     </span>
   );

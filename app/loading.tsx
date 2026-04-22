@@ -10,8 +10,7 @@ export default function Loading() {
       <div className="text-center max-w-2xl">
         <Eyebrow className="mb-8">LOADING</Eyebrow>
         <h1
-          className="text-display-l text-ink mb-6"
-          style={{ fontFamily: "var(--font-display)" }}
+          className="text-display-l font-display text-ink mb-6"
         >
           One moment.
         </h1>

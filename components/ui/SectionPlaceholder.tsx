@@ -30,8 +30,7 @@ export default function SectionPlaceholder({
       >
         <Eyebrow className="mb-8">{eyebrow}</Eyebrow>
         <h1
-          className="text-display-l text-ink mb-6"
-          style={{ fontFamily: "var(--font-display)" }}
+          className="text-display-l font-display text-ink mb-6"
         >
           {title}
         </h1>

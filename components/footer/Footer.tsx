@@ -25,7 +25,6 @@ export default function Footer() {
           <Link
             href="/"
             className="text-h2 font-display text-ink no-underline"
-            style={{ fontFamily: "var(--font-display)" }}
           >
             Upsetmetrics
           </Link>
@@ -113,7 +112,7 @@ export default function Footer() {
       {/* Bottom bar */}
       <div className="border-t border-stone/10">
         <div
-          className="mx-auto flex flex-col sm:flex-row items-center justify-between gap-4 py-6"
+          className="mx-auto flex flex-col sm:flex-row items-center justify-between gap-4"
           style={{
             maxWidth: "var(--layout-max)",
             padding: "1.5rem var(--gutter)",

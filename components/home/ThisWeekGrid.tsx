@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useRef } from "react";
-import { gsap } from "@/lib/gsap";
+import { gsap, GSAP_EASE_SILK } from "@/lib/gsap";
 import Eyebrow from "@/components/ui/Eyebrow";
 import SplitTextReveal from "@/components/ui/SplitTextReveal";
 import Divider from "@/components/ui/Divider";
@@ -71,7 +71,7 @@ export default function ThisWeekGrid() {
           clipPath: "inset(0% 0 0 0)",
           duration: 0.8,
           stagger: 0.08,
-          ease: "cubic-bezier(0.22, 1, 0.36, 1)",
+          ease: GSAP_EASE_SILK,
           scrollTrigger: {
             trigger: grid,
             start: "top 75%",

@@ -16,7 +16,7 @@ export default function UpsetTicker() {
   return (
     <div className="overflow-hidden whitespace-nowrap">
       <div className="hairline" />
-      <div className="py-3 flex animate-marquee">
+      <div className="py-3 flex animate-marquee" style={{ width: "max-content" }}>
         <span className="font-mono text-stone uppercase shrink-0" style={{ fontSize: "0.6875rem", letterSpacing: "0.15em" }}>
           {text}{" "}✦{" "}
         </span>

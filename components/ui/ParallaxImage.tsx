@@ -2,7 +2,7 @@
 
 import { useEffect, useRef } from "react";
 import Image from "next/image";
-import { gsap } from "@/lib/gsap";
+import { gsap, GSAP_EASE_SILK } from "@/lib/gsap";
 import { usePrefersReducedMotion } from "@/lib/usePrefersReducedMotion";
 
 interface ParallaxImageProps {
@@ -42,7 +42,7 @@ export default function ParallaxImage({
         {
           clipPath: "inset(0% 0 0 0)",
           duration: 1.4,
-          ease: "cubic-bezier(0.22, 1, 0.36, 1)",
+          ease: GSAP_EASE_SILK,
           scrollTrigger: {
             trigger: container,
             start: "top 85%",
@@ -57,7 +57,7 @@ export default function ParallaxImage({
         {
           scale: 1,
           duration: 1.4,
-          ease: "cubic-bezier(0.22, 1, 0.36, 1)",
+          ease: GSAP_EASE_SILK,
           scrollTrigger: {
             trigger: container,
             start: "top 85%",

@@ -14,11 +14,11 @@ export default function SmoothScrollProvider({
   children,
 }: SmoothScrollProviderProps) {
   const lenisRef = useRef<Lenis | null>(null);
+  const rafIdRef = useRef<number>(0);
   const pathname = usePathname();
   const prefersReducedMotion = usePrefersReducedMotion();
 
   useEffect(() => {
-    // Skip Lenis entirely if user prefers reduced motion — use native scroll
     if (prefersReducedMotion) return;
 
     const lenis = new Lenis({
@@ -30,25 +30,22 @@ export default function SmoothScrollProvider({
 
     lenisRef.current = lenis;
 
-    // Sync Lenis scroll position with GSAP ScrollTrigger
     lenis.on("scroll", ScrollTrigger.update);
 
-    // RAF loop
     function raf(time: number) {
       lenis.raf(time);
-      requestAnimationFrame(raf);
+      rafIdRef.current = requestAnimationFrame(raf);
     }
 
-    const frameId = requestAnimationFrame(raf);
+    rafIdRef.current = requestAnimationFrame(raf);
 
     return () => {
-      cancelAnimationFrame(frameId);
+      cancelAnimationFrame(rafIdRef.current);
       lenis.destroy();
       lenisRef.current = null;
     };
   }, [prefersReducedMotion]);
 
-  // Scroll to top and refresh ScrollTrigger on route change
   useEffect(() => {
     if (lenisRef.current) {
       lenisRef.current.scrollTo(0, { immediate: true });

@@ -19,6 +19,7 @@ const sports: Sport[] = [
   { name: "Yachting", tagline: "When the wind turns on the favored hull.", color: "var(--color-navy)" },
   { name: "Polo", tagline: "The sport of kings, scored.", color: "var(--color-brass)" },
   { name: "Golf", tagline: "The majors, the tours, and the Sunday back nine.", color: "var(--color-moss)" },
+  { name: "American", tagline: "NFL, NBA, college football. The chalk breaks.", color: "var(--color-claret)" },
 ];
 
 export default function SportsRotator() {
