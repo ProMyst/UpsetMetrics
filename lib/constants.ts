@@ -4,20 +4,22 @@ export interface SportItem {
   description: string;
 }
 
-// Phase 1 coverage: nine sports at launch.
-// Planned future additions: NASCAR, Cricket, Cycling, Rugby.
-// Each will follow the same route pattern (app/{slug}/page.tsx) and
-// be added to this array when editorial coverage begins.
+// Phase 1 coverage — the focused launch lineup 2026-07-03.
+// Primary focus (top of the list): Soccer (FIFA WC bracket), WNBA, MLB.
+// Secondary focus: NBA and NFL — American league coverage split from the
+// original combined "American" route into league-specific pages.
+//
+// Hidden but preserved (see app/_tennis, _f1, _horse-racing, _equestrian,
+// _lacrosse, _yachting, _polo, _golf, _american): the original Phase 1
+// niche lineup. Underscore prefix opts folders out of Next.js App Router
+// routing while keeping the code + placeholders committed for a future
+// unhide when editorial coverage begins.
 export const SPORTS: SportItem[] = [
-  { name: "Tennis", slug: "tennis", description: "Grand Slams, Masters, and the moments between" },
-  { name: "Formula 1", slug: "f1", description: "The grid, the paddock, the unexpected" },
-  { name: "Horse Racing", slug: "horse-racing", description: "Churchill Downs to Royal Ascot" },
-  { name: "Equestrian", slug: "equestrian", description: "Show jumping, dressage, eventing" },
-  { name: "Lacrosse", slug: "lacrosse", description: "College and professional" },
-  { name: "Yachting", slug: "yachting", description: "America's Cup and offshore" },
-  { name: "Polo", slug: "polo", description: "The sport of kings" },
-  { name: "Golf", slug: "golf", description: "Majors, tours, and long-shot Sundays" },
-  { name: "American", slug: "american", description: "NFL, NBA, CFB — the big upsets" },
+  { name: "Soccer", slug: "soccer", description: "FIFA World Cup, UEFA, CONMEBOL, MLS" },
+  { name: "WNBA", slug: "wnba", description: "The growing league, playoffs, rivalries" },
+  { name: "MLB", slug: "mlb", description: "162 games, October, the World Series" },
+  { name: "NBA", slug: "nba", description: "Regular season, playoffs, the Finals" },
+  { name: "NFL", slug: "nfl", description: "Sunday, Monday, Thursday, the Super Bowl" },
 ];
 
 export interface NavItem {
