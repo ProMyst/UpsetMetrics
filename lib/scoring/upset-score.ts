@@ -14,7 +14,14 @@ import type { UpsetFactors } from "@/lib/schema/upset";
  * their original score + methodology version; new games get scored under
  * the current version.
  */
-export const METHODOLOGY_VERSION = "1.0";
+/**
+ * Bumped to "1.1" on 2026-07-03 when the NBA historical ingest layered
+ * real closing moneyline odds (Odds API data 2007-2025) into the pregame
+ * factor. Games ingested before v1.1 keep their v1.0 methodologyVersion
+ * on their entry; new/re-scored games get "1.1". The formula weights are
+ * unchanged between v1.0 and v1.1 — only the input quality improved.
+ */
+export const METHODOLOGY_VERSION = "1.1";
 
 /**
  * Weights sum to 1.0. Rationale for each weight in the methodology page.
