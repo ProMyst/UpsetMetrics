@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-05-30-brewers-at-astros",
+  "sport": "mlb",
+  "date": "2026-05-30",
+  "startTime": "2026-05-30T20:10:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "27-33"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "34-21"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.72,
+    "rankGapFactor": 0.336,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824190",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824190/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.343247Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.343249Z"
+}

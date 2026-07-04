@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-04-05-reds-at-rangers",
+  "sport": "mlb",
+  "date": "2026-04-05",
+  "startTime": "2026-04-05T18:35:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "6-3"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "4-5"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "822917",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/822917/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.184874Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.184877Z"
+}

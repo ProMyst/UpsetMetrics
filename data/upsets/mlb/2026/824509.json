@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-06-03-royals-at-reds",
+  "sport": "mlb",
+  "date": "2026-06-03",
+  "startTime": "2026-06-03T23:10:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "24-38"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "31-30"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.603,
+    "rankGapFactor": 0.242,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824509",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824509/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.354854Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.354856Z"
+}

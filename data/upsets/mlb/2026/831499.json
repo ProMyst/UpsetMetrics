@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-03-21-phillies-at-orioles",
+  "sport": "mlb",
+  "date": "2026-03-21",
+  "startTime": "2026-03-21T17:05:00Z",
+  "season": "2026",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "11-13"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "10-15"
+  },
+  "finalScore": "10-8",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "831499",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/831499/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.130851Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.130855Z"
+}

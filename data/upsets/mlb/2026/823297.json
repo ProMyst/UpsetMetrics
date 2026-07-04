@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-05-24-athletics-at-padres",
+  "sport": "mlb",
+  "date": "2026-05-24",
+  "startTime": "2026-05-24T20:10:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Athletics",
+    "recordEntering": "27-26"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "31-21"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.517,
+    "rankGapFactor": 0.173,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "823297",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/823297/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.327095Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.327097Z"
+}

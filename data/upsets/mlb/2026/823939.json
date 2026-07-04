@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-06-16-rays-at-dodgers",
+  "sport": "mlb",
+  "date": "2026-06-16",
+  "startTime": "2026-06-17T02:10:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "47-27"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "41-29"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "823939",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/823939/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.391881Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.391882Z"
+}

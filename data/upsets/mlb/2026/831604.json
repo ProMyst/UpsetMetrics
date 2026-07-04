@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-03-20-blue-jays-at-twins",
+  "sport": "mlb",
+  "date": "2026-03-20",
+  "startTime": "2026-03-20T17:05:00Z",
+  "season": "2026",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "11-13"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "8-17"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "831604",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/831604/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.120174Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.120183Z"
+}

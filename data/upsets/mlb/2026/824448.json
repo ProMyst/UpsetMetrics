@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-04-21-astros-at-guardians",
+  "sport": "mlb",
+  "date": "2026-04-21",
+  "startTime": "2026-04-21T22:10:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "14-11"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "9-16"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824448",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824448/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.228011Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-guardians",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.228013Z"
+}

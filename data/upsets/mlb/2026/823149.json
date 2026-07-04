@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-04-20-athletics-at-mariners",
+  "sport": "mlb",
+  "date": "2026-04-20",
+  "startTime": "2026-04-21T01:40:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Athletics",
+    "recordEntering": "12-11"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "10-14"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "823149",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/823149/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.227809Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.227812Z"
+}

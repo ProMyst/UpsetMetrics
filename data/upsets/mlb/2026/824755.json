@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-06-03-orioles-at-red-sox",
+  "sport": "mlb",
+  "date": "2026-06-03",
+  "startTime": "2026-06-03T22:45:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "26-34"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "29-33"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.386,
+    "rankGapFactor": 0.069,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824755",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824755/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.354353Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.354355Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-06-02-marlins-at-nationals",
+  "sport": "mlb",
+  "date": "2026-06-02",
+  "startTime": "2026-06-02T22:45:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "28-34"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "31-31"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.421,
+    "rankGapFactor": 0.097,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "822728",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/822728/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.350438Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.350440Z"
+}

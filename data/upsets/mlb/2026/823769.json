@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-06-28-cubs-at-brewers",
+  "sport": "mlb",
+  "date": "2026-06-28",
+  "startTime": "2026-06-28T18:10:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "46-38"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "50-31"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.474,
+    "rankGapFactor": 0.139,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "823769",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/823769/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.425173Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.425175Z"
+}

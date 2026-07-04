@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-05-10-pirates-at-giants",
+  "sport": "mlb",
+  "date": "2026-05-10",
+  "startTime": "2026-05-10T20:05:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "16-24"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "22-19"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.641,
+    "rankGapFactor": 0.273,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "823221",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/823221/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.286420Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.286422Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-06-12-cubs-at-giants",
+  "sport": "mlb",
+  "date": "2026-06-12",
+  "startTime": "2026-06-13T02:15:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "36-34"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "28-42"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "823211",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/823211/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.380472Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.380474Z"
+}

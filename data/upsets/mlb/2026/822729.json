@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-05-31-padres-at-nationals",
+  "sport": "mlb",
+  "date": "2026-05-31",
+  "startTime": "2026-05-31T17:35:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "31-29"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "32-26"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.388,
+    "rankGapFactor": 0.07,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "822729",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/822729/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.345130Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.345132Z"
+}

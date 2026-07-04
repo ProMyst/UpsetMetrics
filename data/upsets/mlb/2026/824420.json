@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-06-29-rangers-at-guardians",
+  "sport": "mlb",
+  "date": "2026-06-29",
+  "startTime": "2026-06-29T23:10:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "43-42"
+  },
+  "loser": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "44-41"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.329,
+    "rankGapFactor": 0.024,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824420",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824420/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.427413Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-guardians",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.427415Z"
+}

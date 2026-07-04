@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-06-03-tigers-at-rays",
+  "sport": "mlb",
+  "date": "2026-06-03",
+  "startTime": "2026-06-03T17:10:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "25-38"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "36-23"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.833,
+    "rankGapFactor": 0.427,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "822973",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/822973/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.353491Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.353493Z"
+}

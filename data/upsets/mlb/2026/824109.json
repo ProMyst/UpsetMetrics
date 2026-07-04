@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-05-23-mariners-at-royals",
+  "sport": "mlb",
+  "date": "2026-05-23",
+  "startTime": "2026-05-23T20:10:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "21-31"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "25-28"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.47,
+    "rankGapFactor": 0.136,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824109",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824109/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.322326Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.322328Z"
+}

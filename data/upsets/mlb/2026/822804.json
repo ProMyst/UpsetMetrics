@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-06-10-phillies-at-blue-jays",
+  "sport": "mlb",
+  "date": "2026-06-10",
+  "startTime": "2026-06-10T23:07:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "37-31"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "33-36"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "822804",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/822804/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.374395Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.374397Z"
+}

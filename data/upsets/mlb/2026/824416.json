@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-07-02-white-sox-at-guardians",
+  "sport": "mlb",
+  "date": "2026-07-02",
+  "startTime": "2026-07-02T22:40:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "46-42"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "45-41"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.301,
+    "rankGapFactor": 0.001,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824416",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824416/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.435541Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-guardians",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.435543Z"
+}

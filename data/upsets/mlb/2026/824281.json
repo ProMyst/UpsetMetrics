@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-05-05-red-sox-at-tigers",
+  "sport": "mlb",
+  "date": "2026-05-05",
+  "startTime": "2026-05-05T22:40:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "15-21"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "18-19"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.475,
+    "rankGapFactor": 0.14,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824281",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824281/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.269612Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.269614Z"
+}

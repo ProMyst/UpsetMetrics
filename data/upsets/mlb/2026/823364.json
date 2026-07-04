@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-06-27-reds-at-pirates",
+  "sport": "mlb",
+  "date": "2026-06-27",
+  "startTime": "2026-06-27T20:05:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "39-42"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "41-42"
+  },
+  "finalScore": "9-7",
+  "factors": {
+    "pregameOddsFactor": 0.331,
+    "rankGapFactor": 0.025,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "823364",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/823364/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.420761Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.420763Z"
+}

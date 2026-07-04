@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-04-21-orioles-at-royals",
+  "sport": "mlb",
+  "date": "2026-04-21",
+  "startTime": "2026-04-21T23:40:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "8-16"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "11-13"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.613,
+    "rankGapFactor": 0.25,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824127",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824127/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.229416Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.229418Z"
+}

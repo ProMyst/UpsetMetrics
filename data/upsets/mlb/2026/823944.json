@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-05-31-phillies-at-dodgers",
+  "sport": "mlb",
+  "date": "2026-05-31",
+  "startTime": "2026-05-31T20:10:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "38-21"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "30-29"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "823944",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/823944/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.347559Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.347561Z"
+}

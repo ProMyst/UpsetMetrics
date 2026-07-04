@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-05-11-yankees-at-orioles",
+  "sport": "mlb",
+  "date": "2026-05-11",
+  "startTime": "2026-05-11T22:35:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "19-23"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "26-16"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.717,
+    "rankGapFactor": 0.333,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824844",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824844/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.287647Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.287649Z"
+}

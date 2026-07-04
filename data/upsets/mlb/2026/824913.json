@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-06-17-giants-at-braves",
+  "sport": "mlb",
+  "date": "2026-06-17",
+  "startTime": "2026-06-17T23:15:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "31-43"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "46-27"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.828,
+    "rankGapFactor": 0.422,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824913",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824913/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.394241Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.394243Z"
+}

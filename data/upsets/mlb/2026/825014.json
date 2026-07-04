@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-05-02-guardians-at-athletics",
+  "sport": "mlb",
+  "date": "2026-05-02",
+  "startTime": "2026-05-02T20:05:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "18-16"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Athletics",
+    "recordEntering": "17-16"
+  },
+  "finalScore": "14-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "825014",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/825014/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.261247Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "guardians-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.261249Z"
+}

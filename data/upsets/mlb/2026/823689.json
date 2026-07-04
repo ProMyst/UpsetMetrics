@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-06-27-rockies-at-twins",
+  "sport": "mlb",
+  "date": "2026-06-27",
+  "startTime": "2026-06-27T23:10:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "33-50"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "39-45"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.467,
+    "rankGapFactor": 0.133,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "823689",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/823689/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.421985Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.421986Z"
+}

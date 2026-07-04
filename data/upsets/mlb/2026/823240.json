@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-04-03-mets-at-giants",
+  "sport": "mlb",
+  "date": "2026-04-03",
+  "startTime": "2026-04-04T02:15:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "4-4"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "3-5"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "823240",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/823240/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.179357Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.179359Z"
+}

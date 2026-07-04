@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-05-26-braves-at-red-sox",
+  "sport": "mlb",
+  "date": "2026-05-26",
+  "startTime": "2026-05-26T22:45:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "37-18"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "22-31"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824758",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824758/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.331244Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.331246Z"
+}

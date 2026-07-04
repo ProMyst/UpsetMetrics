@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-06-12-braves-at-mets",
+  "sport": "mlb",
+  "date": "2026-06-12",
+  "startTime": "2026-06-12T23:15:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "31-38"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "45-24"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.807,
+    "rankGapFactor": 0.406,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "823617",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/823617/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.378797Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.378799Z"
+}

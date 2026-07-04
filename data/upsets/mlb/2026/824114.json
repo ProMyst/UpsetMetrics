@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-05-18-red-sox-at-royals",
+  "sport": "mlb",
+  "date": "2026-05-18",
+  "startTime": "2026-05-18T23:10:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "20-27"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "20-28"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824114",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824114/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.308709Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.308711Z"
+}

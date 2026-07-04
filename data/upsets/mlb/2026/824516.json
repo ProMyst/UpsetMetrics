@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-05-23-cardinals-at-reds",
+  "sport": "mlb",
+  "date": "2026-05-23",
+  "startTime": "2026-05-23T23:15:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "27-25"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "29-22"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.423,
+    "rankGapFactor": 0.099,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824516",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824516/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.321253Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.321255Z"
+}

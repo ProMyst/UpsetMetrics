@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-06-17-royals-at-nationals",
+  "sport": "mlb",
+  "date": "2026-06-17",
+  "startTime": "2026-06-17T17:05:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "30-45"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "39-36"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.6,
+    "rankGapFactor": 0.24,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "822721",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/822721/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.392309Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.392311Z"
+}

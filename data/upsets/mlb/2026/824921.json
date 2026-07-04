@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-05-24-nationals-at-braves",
+  "sport": "mlb",
+  "date": "2026-05-24",
+  "startTime": "2026-05-24T20:10:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "27-27"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "36-18"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.717,
+    "rankGapFactor": 0.333,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824921",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824921/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.327297Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.327299Z"
+}

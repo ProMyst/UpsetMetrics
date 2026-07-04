@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-04-01-twins-at-royals",
+  "sport": "mlb",
+  "date": "2026-04-01",
+  "startTime": "2026-04-01T23:40:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "3-2"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "1-4"
+  },
+  "finalScore": "13-9",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824136",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824136/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.175244Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.175246Z"
+}
