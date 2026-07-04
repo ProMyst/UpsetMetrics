@@ -174,18 +174,24 @@ def game_to_entry(game: dict[str, Any]) -> dict[str, Any] | None:
     winner_losses = int(winner_record.get("losses", 0))
     loser_wins = int(loser_record.get("wins", 0))
     loser_losses = int(loser_record.get("losses", 0))
-    winner_wp = winner_wins / max(1, winner_wins + winner_losses)
-    loser_wp = loser_wins / max(1, loser_wins + loser_losses)
+    winner_games = winner_wins + winner_losses
+    loser_games = loser_wins + loser_losses
+    winner_wp = winner_wins / max(1, winner_games)
+    loser_wp = loser_wins / max(1, loser_games)
 
-    # Rank gap: how much better was the loser? Only counts as upset if the
-    # loser had a better record entering the game.
-    rank_gap = max(0.0, min(1.0, (loser_wp - winner_wp) * 2))
-
-    # Pregame odds proxy: use record differential heuristically. Real
-    # backfill replaces this with actual moneyline data.
-    pregame_odds = max(0.0, min(1.0, (loser_wp - winner_wp) * 2.5 + 0.3))
-    if loser_wp <= winner_wp:
-        pregame_odds = 0.15  # not an upset by record
+    # Small-sample floor: fewer than 15 games in an MLB season is opening
+    # week noise. Use neutral defaults so blowouts in the first 10 days
+    # of April don't top the charts.
+    MIN_SAMPLE = 15
+    if min(winner_games, loser_games) < MIN_SAMPLE:
+        pregame_odds = 0.35
+        rank_gap = 0.2
+    else:
+        rank_gap = max(0.0, min(1.0, (loser_wp - winner_wp) * 2))
+        if loser_wp <= winner_wp:
+            pregame_odds = 0.15
+        else:
+            pregame_odds = max(0.15, min(1.0, (loser_wp - winner_wp) * 2.5 + 0.3))
 
     # Streak factor placeholder — will be filled by streak backfill
     streak = 0.3

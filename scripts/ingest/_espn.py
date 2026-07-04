@@ -129,14 +129,25 @@ def event_to_entry(
 
     ww, wl = parse_record(winner_rec)
     lw, ll = parse_record(loser_rec)
-    winner_wp = ww / max(1, ww + wl)
-    loser_wp = lw / max(1, lw + ll)
+    winner_games = ww + wl
+    loser_games = lw + ll
+    winner_wp = ww / max(1, winner_games)
+    loser_wp = lw / max(1, loser_games)
 
-    rank_gap = max(0.0, min(1.0, (loser_wp - winner_wp) * 2))
-    if loser_wp <= winner_wp:
-        pregame_odds = 0.15
+    # Small-sample floor: with fewer than 5 games entering, records are
+    # too noisy to trust as a proxy for pregame odds. Use conservative
+    # neutral defaults so a WC group-stage 1-1-0 vs 1-0-1 doesn't produce
+    # a fake 86 upset when the actual FIFA-ranked favorite won.
+    MIN_SAMPLE = 5
+    if min(winner_games, loser_games) < MIN_SAMPLE:
+        pregame_odds = 0.35
+        rank_gap = 0.2
     else:
-        pregame_odds = max(0.15, min(1.0, (loser_wp - winner_wp) * 2.5 + 0.3))
+        rank_gap = max(0.0, min(1.0, (loser_wp - winner_wp) * 2))
+        if loser_wp <= winner_wp:
+            pregame_odds = 0.15
+        else:
+            pregame_odds = max(0.15, min(1.0, (loser_wp - winner_wp) * 2.5 + 0.3))
 
     # Stakes — pull from the event's season type or notes
     stakes = stakes_default
