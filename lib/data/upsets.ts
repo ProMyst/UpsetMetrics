@@ -48,8 +48,21 @@ export function getAllUpsets(): UpsetEntry[] {
       }
     }
   }
-  entries.sort((a, b) => b.upsetScore - a.upsetScore);
-  cache = entries;
+  // Dedupe: some games get ingested by multiple sources (ESPN + WC JSON
+  // both catch FIFA WC 2026 matches). Keep whichever has the higher
+  // upset score for each unique (sport, date, winner-slug, loser-slug)
+  // tuple — richer factor data wins.
+  const seen = new Map<string, UpsetEntry>();
+  for (const e of entries) {
+    const key = `${e.sport}:${e.date}:${e.winner.slug}:${e.loser.slug}`;
+    const existing = seen.get(key);
+    if (!existing || e.upsetScore > existing.upsetScore) {
+      seen.set(key, e);
+    }
+  }
+  const deduped = Array.from(seen.values());
+  deduped.sort((a, b) => b.upsetScore - a.upsetScore);
+  cache = deduped;
   cacheAt = now;
   return cache;
 }

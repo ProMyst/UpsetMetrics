@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next";
 import { getAllUpsets } from "@/lib/data/upsets";
 import { getAllEditions } from "@/lib/data/editions";
 import { getAllTeams } from "@/lib/data/teams";
+import { getAllSeasons } from "@/lib/data/seasons";
 
 const SITE =
   process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "") ||
@@ -54,5 +55,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }));
 
-  return [...top, ...editionPages, ...teamPages, ...upsetPages];
+  const seasonPages: MetadataRoute.Sitemap = getAllSeasons().map((s) => ({
+    url: `${SITE}/season/${s.sport}/${s.season}`,
+    lastModified: yesterday,
+    changeFrequency: "monthly" as const,
+    priority: 0.7,
+  }));
+
+  return [
+    ...top,
+    ...editionPages,
+    ...seasonPages,
+    ...teamPages,
+    ...upsetPages,
+  ];
 }
