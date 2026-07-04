@@ -15,9 +15,18 @@ const SITE =
   process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "") ||
   "https://upsetmetrics.com";
 
+/**
+ * SSG only for meaningful upsets (score >= 55). The 200K low-score
+ * games render on-demand via ISR — Next.js caches them after first
+ * hit. Cuts build time from 25+ min to ~3 min while keeping the pages
+ * that matter for SEO pre-rendered.
+ */
 export function generateStaticParams() {
-  return getAllUpsetParams();
+  return getAllUpsetParams().filter((p) => p.upsetScore >= 55);
 }
+
+export const dynamicParams = true;
+export const revalidate = 3600;
 
 interface RouteParams {
   year: string;

@@ -40,3 +40,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 data/editions/
+# Individual upset JSONs — track the packed .jsonl.gz archives instead.
+# Run scripts/build_pack.py after ingest to refresh the pack.
+data/upsets/

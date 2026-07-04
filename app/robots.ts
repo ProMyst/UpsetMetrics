@@ -28,7 +28,7 @@ export default function robots(): MetadataRoute.Robots {
       { userAgent: "anthropic-ai", allow: "/" },
       { userAgent: "Google-Extended", allow: "/" }, // Gemini training
     ],
-    sitemap: `${SITE}/sitemap.xml`,
+    sitemap: [`${SITE}/sitemap-index.xml`, `${SITE}/sitemap.xml`],
     host: SITE,
   };
 }

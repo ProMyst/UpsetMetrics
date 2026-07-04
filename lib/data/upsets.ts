@@ -1,52 +1,82 @@
 import "server-only";
 import fs from "node:fs";
 import path from "node:path";
+import zlib from "node:zlib";
 import type { SportSlug, UpsetEntry } from "@/lib/schema/upset";
 import { computeUpsetScore } from "@/lib/scoring/upset-score";
 
+const PACKED_ROOT = path.join(process.cwd(), "data", "packed");
 const DATA_ROOT = path.join(process.cwd(), "data", "upsets");
 
 let cache: UpsetEntry[] | null = null;
 let cacheAt = 0;
-const CACHE_TTL_MS = 60_000; // 60s in dev; irrelevant in prod (SSG)
+// Effectively infinite in prod build. Only matters in dev when files change.
+const CACHE_TTL_MS = process.env.NODE_ENV === "production" ? 24 * 60 * 60 * 1000 : 60_000;
+// Per-sport caches so getUpsetsBySport doesn't refilter 200K entries on every page.
+const bySportCache = new Map<SportSlug, UpsetEntry[]>();
 
 /**
  * Load every ingested upset entry across all sports and years, apply the
  * scoring formula (source-of-truth in lib/scoring), return sorted by
  * upsetScore desc.
  *
- * Called at build time by SSG routes and at request time by the (few)
- * dynamic endpoints. Cached briefly in-memory so a single request that
- * hits multiple routes doesn't re-read 2,000+ files.
+ * Prefers data/packed/[sport]/[year].jsonl.gz (19x smaller, single
+ * decompress per file). Falls back to data/upsets/[sport]/[year]/*.json
+ * if packed archives aren't present (fresh clone before build_pack.py
+ * has run, or during dev when new files were just ingested).
  */
 export function getAllUpsets(): UpsetEntry[] {
   const now = Date.now();
   if (cache && now - cacheAt < CACHE_TTL_MS) return cache;
 
   const entries: UpsetEntry[] = [];
-  if (!fs.existsSync(DATA_ROOT)) {
-    cache = [];
-    cacheAt = now;
-    return cache;
-  }
-  for (const sportDir of fs.readdirSync(DATA_ROOT)) {
-    const sportPath = path.join(DATA_ROOT, sportDir);
-    if (!fs.statSync(sportPath).isDirectory()) continue;
-    for (const yearDir of fs.readdirSync(sportPath)) {
-      const yearPath = path.join(sportPath, yearDir);
-      if (!fs.statSync(yearPath).isDirectory()) continue;
-      for (const file of fs.readdirSync(yearPath)) {
-        if (!file.endsWith(".json")) continue;
+
+  // Prefer packed archives
+  if (fs.existsSync(PACKED_ROOT)) {
+    for (const sportDir of fs.readdirSync(PACKED_ROOT)) {
+      const sportPath = path.join(PACKED_ROOT, sportDir);
+      if (!fs.statSync(sportPath).isDirectory()) continue;
+      for (const file of fs.readdirSync(sportPath)) {
+        if (!file.endsWith(".jsonl.gz")) continue;
         try {
-          const raw = fs.readFileSync(path.join(yearPath, file), "utf8");
-          const entry = JSON.parse(raw) as UpsetEntry;
-          entry.upsetScore = computeUpsetScore(entry.factors);
-          entries.push(entry);
+          const buf = fs.readFileSync(path.join(sportPath, file));
+          const jsonl = zlib.gunzipSync(buf).toString("utf8");
+          for (const line of jsonl.split("\n")) {
+            if (!line) continue;
+            const entry = JSON.parse(line) as UpsetEntry;
+            entry.upsetScore = computeUpsetScore(entry.factors);
+            entries.push(entry);
+          }
         } catch {
           // skip unreadable
         }
       }
     }
+  } else if (fs.existsSync(DATA_ROOT)) {
+    // Fallback: read individual files (dev / pre-pack)
+    for (const sportDir of fs.readdirSync(DATA_ROOT)) {
+      const sportPath = path.join(DATA_ROOT, sportDir);
+      if (!fs.statSync(sportPath).isDirectory()) continue;
+      for (const yearDir of fs.readdirSync(sportPath)) {
+        const yearPath = path.join(sportPath, yearDir);
+        if (!fs.statSync(yearPath).isDirectory()) continue;
+        for (const file of fs.readdirSync(yearPath)) {
+          if (!file.endsWith(".json")) continue;
+          try {
+            const raw = fs.readFileSync(path.join(yearPath, file), "utf8");
+            const entry = JSON.parse(raw) as UpsetEntry;
+            entry.upsetScore = computeUpsetScore(entry.factors);
+            entries.push(entry);
+          } catch {
+            // skip unreadable
+          }
+        }
+      }
+    }
+  } else {
+    cache = [];
+    cacheAt = now;
+    return cache;
   }
   // Dedupe: some games get ingested by multiple sources (ESPN + WC JSON
   // both catch FIFA WC 2026 matches). Keep whichever has the higher
@@ -68,7 +98,11 @@ export function getAllUpsets(): UpsetEntry[] {
 }
 
 export function getUpsetsBySport(sport: SportSlug): UpsetEntry[] {
-  return getAllUpsets().filter((e) => e.sport === sport);
+  const cached = bySportCache.get(sport);
+  if (cached) return cached;
+  const filtered = getAllUpsets().filter((e) => e.sport === sport);
+  bySportCache.set(sport, filtered);
+  return filtered;
 }
 
 export function getUpsetsByYear(year: string): UpsetEntry[] {
@@ -88,21 +122,24 @@ export function getTopUpsetsForWeek(anyDate: Date, top = 10, days = 7): UpsetEnt
   return getUpsetsForWeek(anyDate, days).slice(0, top);
 }
 
+let routeIndex: Map<string, UpsetEntry> | null = null;
+
 export function getUpsetByRoute(
   year: string,
   sport: SportSlug,
   date: string,
   slug: string,
 ): UpsetEntry | null {
-  return (
-    getAllUpsets().find(
-      (e) =>
-        e.date === date &&
-        e.sport === sport &&
-        e.slug === slug &&
-        e.date.startsWith(year),
-    ) ?? null
-  );
+  if (!routeIndex) {
+    routeIndex = new Map();
+    for (const e of getAllUpsets()) {
+      routeIndex.set(`${e.sport}:${e.date}:${e.slug}`, e);
+    }
+  }
+  const hit = routeIndex.get(`${sport}:${date}:${slug}`);
+  if (!hit) return null;
+  if (!hit.date.startsWith(year)) return null;
+  return hit;
 }
 
 export function getAllUpsetParams(): {
@@ -110,12 +147,14 @@ export function getAllUpsetParams(): {
   sport: SportSlug;
   date: string;
   slug: string;
+  upsetScore: number;
 }[] {
   return getAllUpsets().map((e) => ({
     year: e.date.slice(0, 4),
     sport: e.sport,
     date: e.date,
     slug: e.slug,
+    upsetScore: e.upsetScore,
   }));
 }
 
