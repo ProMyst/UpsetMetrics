@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-03-25-brewers-at-athletics",
+  "sport": "mlb",
+  "date": "2022-03-25",
+  "startTime": "2022-03-25T20:05:00Z",
+  "season": "2022",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "2-4"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "3-4"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "706880",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/706880/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.757785Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.757787Z"
+}

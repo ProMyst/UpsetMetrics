@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-09-19-cubs-at-brewers",
+  "sport": "mlb",
+  "date": "2000-09-19",
+  "startTime": "2000-09-20T00:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "66-85"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "60-91"
+  },
+  "finalScore": "9-8",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4599",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4599/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.881433Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.881435Z"
+}

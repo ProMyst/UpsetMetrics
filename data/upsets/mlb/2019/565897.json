@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-03-31-mets-at-nationals",
+  "sport": "mlb",
+  "date": "2019-03-31",
+  "startTime": "2019-03-31T17:35:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "1-2"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "2-1"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565897",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565897/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.144359Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.144361Z"
+}

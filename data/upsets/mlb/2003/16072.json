@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-05-10-diamondbacks-at-pirates",
+  "sport": "mlb",
+  "date": "2003-05-10",
+  "startTime": "2003-05-10T23:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "15-21"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "16-21"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.339,
+    "rankGapFactor": 0.032,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16072",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16072/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.483165Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.483168Z"
+}

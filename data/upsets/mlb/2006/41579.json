@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-08-05-yankees-at-orioles",
+  "sport": "mlb",
+  "date": "2006-08-05",
+  "startTime": "2006-08-05T20:35:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "50-61"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "65-42"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.693,
+    "rankGapFactor": 0.314,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41579",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41579/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.554704Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.554706Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-06-07-blue-jays-at-braves",
+  "sport": "mlb",
+  "date": "2000-06-07",
+  "startTime": "2000-06-07T23:40:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "31-30"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "37-21"
+  },
+  "finalScore": "12-8",
+  "factors": {
+    "pregameOddsFactor": 0.624,
+    "rankGapFactor": 0.259,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4862",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4862/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.594860Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.594862Z"
+}

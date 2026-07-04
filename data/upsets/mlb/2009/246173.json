@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-09-01-giants-at-phillies",
+  "sport": "mlb",
+  "date": "2009-09-01",
+  "startTime": "2009-09-01T23:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "76-53"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "72-60"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246173",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246173/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.931051Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.931053Z"
+}

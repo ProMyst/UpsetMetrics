@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-08-19-tampa-bay-devil-rays-at-twins",
+  "sport": "mlb",
+  "date": "2001-08-19",
+  "startTime": "2001-08-19T18:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "44-81"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "65-59"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.73,
+    "rankGapFactor": 0.344,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "6176",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/6176/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.347459Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tampa-bay-devil-rays-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.347464Z"
+}

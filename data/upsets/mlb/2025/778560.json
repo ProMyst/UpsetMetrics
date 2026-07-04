@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-03-28-rockies-at-rays",
+  "sport": "mlb",
+  "date": "2025-03-28",
+  "startTime": "2025-03-28T20:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "778560",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/778560/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.694721Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.694724Z"
+}

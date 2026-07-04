@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-09-02-padres-at-dodgers",
+  "sport": "mlb",
+  "date": "2022-09-02",
+  "startTime": "2022-09-03T02:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "74-59"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "90-41"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.627,
+    "rankGapFactor": 0.261,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662603",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662603/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.197900Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.197902Z"
+}

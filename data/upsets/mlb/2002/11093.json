@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-06-08-mets-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2002-06-08",
+  "startTime": "2002-06-08T23:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "31-30"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "29-32"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "11093",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/11093/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.818162Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.818167Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-08-22-montreal-expos-at-rockies",
+  "sport": "mlb",
+  "date": "2004-08-22",
+  "startTime": "2004-08-22T19:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "52-71"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "55-69"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.352,
+    "rankGapFactor": 0.042,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21864",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21864/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.787025Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.787030Z"
+}

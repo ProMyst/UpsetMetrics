@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-04-20-royals-at-yankees",
+  "sport": "mlb",
+  "date": "2019-04-20",
+  "startTime": "2019-04-20T17:05:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "10-10"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "7-14"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567469",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567469/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.185264Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.185265Z"
+}

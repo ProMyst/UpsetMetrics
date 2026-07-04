@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-08-28-yankees-at-blue-jays",
+  "sport": "mlb",
+  "date": "2013-08-28",
+  "startTime": "2013-08-28T23:07:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "60-74"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "70-63"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.496,
+    "rankGapFactor": 0.157,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "348729",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/348729/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.516564Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.516566Z"
+}

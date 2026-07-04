@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-06-21-mets-at-cubs",
+  "sport": "mlb",
+  "date": "2019-06-21",
+  "startTime": "2019-06-21T18:20:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "36-40"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "41-34"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.482,
+    "rankGapFactor": 0.146,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565162",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565162/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.300306Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.300307Z"
+}

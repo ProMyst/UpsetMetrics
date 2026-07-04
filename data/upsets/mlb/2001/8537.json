@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-08-28-montreal-expos-at-braves",
+  "sport": "mlb",
+  "date": "2001-08-28",
+  "startTime": "2001-08-28T23:35:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "56-75"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "71-60"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.586,
+    "rankGapFactor": 0.229,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8537",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8537/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.371094Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.371099Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-09-13-dodgers-at-giants",
+  "sport": "mlb",
+  "date": "2009-09-13",
+  "startTime": "2009-09-13T20:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "77-66"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "85-59"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.43,
+    "rankGapFactor": 0.104,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246329",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246329/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.965980Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.965982Z"
+}

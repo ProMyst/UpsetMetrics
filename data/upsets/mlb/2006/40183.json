@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-04-21-mets-at-padres",
+  "sport": "mlb",
+  "date": "2006-04-21",
+  "startTime": "2006-04-22T02:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "7-9"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "11-5"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.925,
+    "rankGapFactor": 0.5,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40183",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40183/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.267385Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.267387Z"
+}

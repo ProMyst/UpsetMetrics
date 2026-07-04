@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-06-30-phillies-at-braves",
+  "sport": "mlb",
+  "date": "2009-06-30",
+  "startTime": "2009-06-30T23:00:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "36-40"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "39-35"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.433,
+    "rankGapFactor": 0.107,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245353",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245353/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.767991Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.767993Z"
+}

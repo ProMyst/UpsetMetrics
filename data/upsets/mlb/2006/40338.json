@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-05-02-nationals-at-mets",
+  "sport": "mlb",
+  "date": "2006-05-02",
+  "startTime": "2006-05-02T23:10:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "9-18"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "17-9"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.641,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40338",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40338/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.298552Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.298554Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-10-01-cardinals-at-reds",
+  "sport": "mlb",
+  "date": "2009-10-01",
+  "startTime": "2009-10-01T16:35:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "91-68"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "76-83"
+  },
+  "finalScore": "13-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246576",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246576/feed/live",
+    "retrievedAt": "2026-07-04T06:20:14.012916Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:14.012918Z"
+}

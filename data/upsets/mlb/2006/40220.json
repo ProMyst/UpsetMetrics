@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-04-24-dodgers-at-astros",
+  "sport": "mlb",
+  "date": "2006-04-24",
+  "startTime": "2006-04-25T00:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "10-10"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "13-6"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.761,
+    "rankGapFactor": 0.368,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40220",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40220/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.275661Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.275663Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-06-28-brewers-at-reds",
+  "sport": "mlb",
+  "date": "2017-06-28",
+  "startTime": "2017-06-28T23:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "33-44"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "41-39"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.51,
+    "rankGapFactor": 0.168,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491271",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491271/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.208124Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.208126Z"
+}

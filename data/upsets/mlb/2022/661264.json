@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-06-25-blue-jays-at-brewers",
+  "sport": "mlb",
+  "date": "2022-06-25",
+  "startTime": "2022-06-25T20:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "41-33"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "40-31"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.323,
+    "rankGapFactor": 0.019,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661264",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661264/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.018972Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.018974Z"
+}

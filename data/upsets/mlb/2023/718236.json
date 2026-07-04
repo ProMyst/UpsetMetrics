@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-05-09-marlins-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2023-05-09",
+  "startTime": "2023-05-10T01:40:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "18-19"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "20-16"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.473,
+    "rankGapFactor": 0.138,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718236",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718236/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.668475Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.668476Z"
+}

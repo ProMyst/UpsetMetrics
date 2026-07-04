@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-07-11-braves-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2024-07-11",
+  "startTime": "2024-07-12T01:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "47-47"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "51-41"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.436,
+    "rankGapFactor": 0.109,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "747178",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/747178/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.970984Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.970985Z"
+}

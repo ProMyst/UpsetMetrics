@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-07-03-diamondbacks-at-dodgers",
+  "sport": "mlb",
+  "date": "2024-07-03",
+  "startTime": "2024-07-04T02:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "42-44"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "53-34"
+  },
+  "finalScore": "12-4",
+  "factors": {
+    "pregameOddsFactor": 0.602,
+    "rankGapFactor": 0.242,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746128",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746128/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.949055Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.949057Z"
+}

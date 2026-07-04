@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-05-28-red-sox-at-blue-jays",
+  "sport": "mlb",
+  "date": "2016-05-28",
+  "startTime": "2016-05-28T17:07:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "26-25"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "29-20"
+  },
+  "finalScore": "10-9",
+  "factors": {
+    "pregameOddsFactor": 0.505,
+    "rankGapFactor": 0.164,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447595",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447595/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.176429Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.176431Z"
+}

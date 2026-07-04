@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-09-15-nationals-at-mets",
+  "sport": "mlb",
+  "date": "2011-09-15",
+  "startTime": "2011-09-15T17:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "71-77"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "71-79"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "289142",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/289142/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.437027Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.437029Z"
+}

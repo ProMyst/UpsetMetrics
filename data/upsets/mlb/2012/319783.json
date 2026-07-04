@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-09-05-phillies-at-reds",
+  "sport": "mlb",
+  "date": "2012-09-05",
+  "startTime": "2012-09-05T16:35:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "66-71"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "83-55"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.599,
+    "rankGapFactor": 0.239,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319783",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319783/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.647519Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.647521Z"
+}

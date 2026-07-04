@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-06-05-giants-at-padres",
+  "sport": "mlb",
+  "date": "2012-06-05",
+  "startTime": "2012-06-06T02:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "19-37"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "31-25"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.836,
+    "rankGapFactor": 0.429,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318560",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318560/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.403183Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.403185Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-03-26-orioles-at-mets",
+  "sport": "mlb",
+  "date": "2006-03-26",
+  "startTime": "2006-03-26T17:10:00Z",
+  "season": "2006",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "14-10"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "8-15"
+  },
+  "finalScore": "8-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "47466",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/47466/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.195864Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.195866Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-06-13-brewers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2001-06-13",
+  "startTime": "2001-06-13T23:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "40-22"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "31-31"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7648",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7648/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.159970Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.159974Z"
+}

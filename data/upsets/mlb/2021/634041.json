@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-05-20-pirates-at-braves",
+  "sport": "mlb",
+  "date": "2021-05-20",
+  "startTime": "2021-05-20T23:20:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "18-25"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "20-24"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.39,
+    "rankGapFactor": 0.072,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "634041",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/634041/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.941994Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.941996Z"
+}

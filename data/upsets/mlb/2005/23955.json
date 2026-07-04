@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-07-10-nationals-at-phillies",
+  "sport": "mlb",
+  "date": "2005-07-10",
+  "startTime": "2005-07-10T17:35:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "45-44"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "52-36"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.513,
+    "rankGapFactor": 0.171,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23955",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23955/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.631238Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.631240Z"
+}

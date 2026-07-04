@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-06-08-cubs-at-dodgers",
+  "sport": "mlb",
+  "date": "2008-06-08",
+  "startTime": "2008-06-09T00:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "40-24"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "30-33"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234706",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234706/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.893638Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.893640Z"
+}

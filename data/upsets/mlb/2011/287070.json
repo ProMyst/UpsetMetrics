@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-04-13-blue-jays-at-mariners",
+  "sport": "mlb",
+  "date": "2011-04-13",
+  "startTime": "2011-04-13T19:40:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "6-6"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "4-8"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287070",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287070/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.013892Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.013894Z"
+}

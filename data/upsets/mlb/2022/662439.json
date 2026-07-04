@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-07-01-rangers-at-mets",
+  "sport": "mlb",
+  "date": "2022-07-01",
+  "startTime": "2022-07-01T23:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "48-29"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "36-39"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662439",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662439/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.034895Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.034897Z"
+}

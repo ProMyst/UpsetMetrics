@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-08-08-montreal-expos-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2000-08-08",
+  "startTime": "2000-08-09T02:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "50-59"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "62-51"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.525,
+    "rankGapFactor": 0.18,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5665",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5665/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.765396Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.765401Z"
+}

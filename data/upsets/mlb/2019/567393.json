@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-06-12-cardinals-at-marlins",
+  "sport": "mlb",
+  "date": "2019-06-12",
+  "startTime": "2019-06-12T23:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "24-42"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "33-33"
+  },
+  "finalScore": "9-0",
+  "factors": {
+    "pregameOddsFactor": 0.641,
+    "rankGapFactor": 0.273,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567393",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567393/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.285605Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.285606Z"
+}

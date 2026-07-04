@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-04-22-royals-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2009-04-22",
+  "startTime": "2009-04-22T23:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "8-6"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "5-10"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244408",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244408/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.575542Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.575547Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-09-12-reds-at-cubs",
+  "sport": "mlb",
+  "date": "2009-09-12",
+  "startTime": "2009-09-12T17:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "64-78"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "72-68"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.459,
+    "rankGapFactor": 0.127,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246311",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246311/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.960336Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.960338Z"
+}

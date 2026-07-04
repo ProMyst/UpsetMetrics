@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-06-22-dodgers-at-tampa-bay-devil-rays",
+  "sport": "mlb",
+  "date": "2007-06-22",
+  "startTime": "2007-06-22T23:10:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "42-31"
+  },
+  "loser": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "31-40"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69222",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69222/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.343637Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-tampa-bay-devil-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.343643Z"
+}

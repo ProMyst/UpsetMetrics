@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-07-17-nationals-at-cubs",
+  "sport": "mlb",
+  "date": "2023-07-17",
+  "startTime": "2023-07-18T00:05:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "38-56"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "43-50"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.445,
+    "rankGapFactor": 0.116,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717370",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717370/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.846398Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.846400Z"
+}

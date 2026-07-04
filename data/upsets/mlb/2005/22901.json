@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-04-23-athletics-at-angels",
+  "sport": "mlb",
+  "date": "2005-04-23",
+  "startTime": "2005-04-24T02:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "10-8"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "9-9"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "22901",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/22901/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.418015Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.418017Z"
+}

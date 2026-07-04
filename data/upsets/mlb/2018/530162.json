@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-05-25-twins-at-mariners",
+  "sport": "mlb",
+  "date": "2018-05-25",
+  "startTime": "2018-05-26T02:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "30-20"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "21-25"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530162",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530162/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.762546Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.762547Z"
+}

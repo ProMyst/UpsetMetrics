@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-07-24-giants-at-cardinals",
+  "sport": "mlb",
+  "date": "2004-07-24",
+  "startTime": "2004-07-24T19:15:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "55-44"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "61-36"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.483,
+    "rankGapFactor": 0.147,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21473",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21473/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.705159Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.705161Z"
+}

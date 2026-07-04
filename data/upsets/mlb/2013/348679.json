@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-08-25-red-sox-at-dodgers",
+  "sport": "mlb",
+  "date": "2013-08-25",
+  "startTime": "2013-08-26T00:05:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "77-55"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "76-54"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.303,
+    "rankGapFactor": 0.003,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "348679",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/348679/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.510516Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.510518Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-08-03-mets-at-yankees",
+  "sport": "mlb",
+  "date": "2016-08-03",
+  "startTime": "2016-08-03T23:05:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "54-53"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "55-52"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.323,
+    "rankGapFactor": 0.019,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448468",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448468/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.295277Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.295279Z"
+}

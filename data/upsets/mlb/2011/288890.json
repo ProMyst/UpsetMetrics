@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-08-28-cubs-at-brewers",
+  "sport": "mlb",
+  "date": "2011-08-28",
+  "startTime": "2011-08-28T18:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "81-54"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "57-77"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288890",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288890/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.387620Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.387622Z"
+}

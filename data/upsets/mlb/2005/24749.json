@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-09-09-braves-at-nationals",
+  "sport": "mlb",
+  "date": "2005-09-09",
+  "startTime": "2005-09-09T23:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "73-69"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "81-60"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.451,
+    "rankGapFactor": 0.121,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24749",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24749/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.796271Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.796273Z"
+}

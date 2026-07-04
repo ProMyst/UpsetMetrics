@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-04-04-marlins-at-jacksonville-suns",
+  "sport": "mlb",
+  "date": "2015-04-04",
+  "startTime": "2015-04-04T18:05:00Z",
+  "season": "2015",
+  "event": "Exhibition Game",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "jacksonville-suns",
+    "name": "Jacksonville Suns",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "3-1"
+  },
+  "finalScore": "14-8",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "428922",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/428922/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.744288Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-jacksonville-suns",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.744292Z"
+}

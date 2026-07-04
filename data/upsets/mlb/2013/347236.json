@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-05-07-blue-jays-at-rays",
+  "sport": "mlb",
+  "date": "2013-05-07",
+  "startTime": "2013-05-07T23:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "13-21"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "14-18"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.438,
+    "rankGapFactor": 0.11,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347236",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347236/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.209060Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.209061Z"
+}

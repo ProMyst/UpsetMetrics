@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-04-03-marlins-at-greensboro-grasshoppers",
+  "sport": "mlb",
+  "date": "2015-04-03",
+  "startTime": "2015-04-03T19:00:00Z",
+  "season": "2015",
+  "event": "Exhibition Game",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "3-0"
+  },
+  "loser": {
+    "slug": "greensboro-grasshoppers",
+    "name": "Greensboro Grasshoppers",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "425150",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/425150/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.740889Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-greensboro-grasshoppers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.740894Z"
+}

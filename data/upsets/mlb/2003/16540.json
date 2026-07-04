@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-09-27-red-sox-at-tampa-bay-devil-rays",
+  "sport": "mlb",
+  "date": "2003-09-27",
+  "startTime": "2003-09-27T22:15:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "62-99"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "95-66"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.812,
+    "rankGapFactor": 0.41,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16540",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16540/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.870543Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-tampa-bay-devil-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.870548Z"
+}

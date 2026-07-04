@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-08-23-athletics-at-blue-jays",
+  "sport": "mlb",
+  "date": "2003-08-23",
+  "startTime": "2003-08-23T20:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "74-55"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "64-65"
+  },
+  "finalScore": "11-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16685",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16685/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.771532Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.771534Z"
+}

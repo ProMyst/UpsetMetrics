@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-07-22-brewers-at-white-sox",
+  "sport": "mlb",
+  "date": "2020-07-22",
+  "startTime": "2020-07-23T00:10:00Z",
+  "season": "2020",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "11-7"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "12-8"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "632093",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/632093/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.503327Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.503330Z"
+}

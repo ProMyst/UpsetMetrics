@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-04-23-angels-at-red-sox",
+  "sport": "mlb",
+  "date": "2008-04-23",
+  "startTime": "2008-04-23T23:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "13-9"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "15-8"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.453,
+    "rankGapFactor": 0.123,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234068",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234068/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.762445Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.762447Z"
+}

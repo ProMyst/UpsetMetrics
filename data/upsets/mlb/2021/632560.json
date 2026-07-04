@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-09-07-tigers-at-pirates",
+  "sport": "mlb",
+  "date": "2021-09-07",
+  "startTime": "2021-09-07T22:35:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "50-89"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "65-75"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.561,
+    "rankGapFactor": 0.209,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "632560",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/632560/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.236346Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.236348Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-06-05-guardians-at-yankees",
+  "sport": "mlb",
+  "date": "2025-06-05",
+  "startTime": "2025-06-05T23:05:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "38-23"
+  },
+  "loser": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "33-28"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777644",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777644/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.881896Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "guardians-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.881898Z"
+}

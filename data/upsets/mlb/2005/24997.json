@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-09-27-diamondbacks-at-dodgers",
+  "sport": "mlb",
+  "date": "2005-09-27",
+  "startTime": "2005-09-28T02:10:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "73-84"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "70-87"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24997",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24997/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.849648Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.849650Z"
+}

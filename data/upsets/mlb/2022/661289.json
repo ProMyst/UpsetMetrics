@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-05-21-white-sox-at-yankees",
+  "sport": "mlb",
+  "date": "2022-05-21",
+  "startTime": "2022-05-21T17:05:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "29-10"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "19-20"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661289",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661289/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.915280Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.915282Z"
+}

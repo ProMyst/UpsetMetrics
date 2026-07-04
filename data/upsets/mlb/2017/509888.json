@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-03-28-red-sox-at-pirates",
+  "sport": "mlb",
+  "date": "2017-03-28",
+  "startTime": "2017-03-28T22:05:00Z",
+  "season": "2017",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "17-13"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "19-10"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.521,
+    "rankGapFactor": 0.177,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "509888",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/509888/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.036889Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.036892Z"
+}

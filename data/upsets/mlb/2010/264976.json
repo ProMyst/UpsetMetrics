@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-06-30-rays-at-red-sox",
+  "sport": "mlb",
+  "date": "2010-06-30",
+  "startTime": "2010-06-30T23:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "45-32"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "47-32"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.326,
+    "rankGapFactor": 0.021,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264976",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264976/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.001923Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.001925Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-06-29-phillies-at-reds",
+  "sport": "mlb",
+  "date": "2010-06-29",
+  "startTime": "2010-06-29T23:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "41-34"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "43-35"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.312,
+    "rankGapFactor": 0.009,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264958",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264958/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.997550Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.997552Z"
+}

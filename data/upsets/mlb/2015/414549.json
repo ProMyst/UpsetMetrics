@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-06-11-mariners-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2015-06-11",
+  "startTime": "2015-06-11T16:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "28-31"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "27-33"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414549",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414549/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.881000Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.881003Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-08-04-florida-marlins-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2004-08-04",
+  "startTime": "2004-08-05T01:35:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "35-74"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "52-54"
+  },
+  "finalScore": "11-6",
+  "factors": {
+    "pregameOddsFactor": 0.724,
+    "rankGapFactor": 0.339,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21616",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21616/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.736902Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.736907Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-09-21-padres-at-rockies",
+  "sport": "mlb",
+  "date": "2003-09-21",
+  "startTime": "2003-09-21T19:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "71-85"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "61-94"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15485",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15485/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.854484Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.854486Z"
+}

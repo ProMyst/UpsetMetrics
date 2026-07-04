@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-10-04-mariners-at-white-sox",
+  "sport": "mlb",
+  "date": "2000-10-04",
+  "startTime": "2000-10-04T17:00:00Z",
+  "season": "2000",
+  "event": "AL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "2-0"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "0-2"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5933",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5933/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.918421Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.918423Z"
+}

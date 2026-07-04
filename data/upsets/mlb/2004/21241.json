@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-07-05-rangers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2004-07-05",
+  "startTime": "2004-07-05T23:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "46-34"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "39-42"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21241",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21241/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.652918Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.652923Z"
+}

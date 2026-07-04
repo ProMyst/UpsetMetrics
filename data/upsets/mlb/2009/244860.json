@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-05-24-blue-jays-at-braves",
+  "sport": "mlb",
+  "date": "2009-05-24",
+  "startTime": "2009-05-24T17:30:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "23-20"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "27-20"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.399,
+    "rankGapFactor": 0.079,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244860",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244860/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.664520Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.664523Z"
+}

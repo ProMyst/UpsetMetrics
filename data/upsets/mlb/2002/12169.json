@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-10-03-cardinals-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2002-10-03",
+  "startTime": "2002-10-03T20:00:00Z",
+  "season": "2002",
+  "event": "NL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "2-0"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "0-2"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "12169",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/12169/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.132394Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.132396Z"
+}

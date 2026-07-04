@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-06-22-nationals-at-dodgers",
+  "sport": "mlb",
+  "date": "2016-06-22",
+  "startTime": "2016-06-23T02:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "41-33"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "43-30"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.387,
+    "rankGapFactor": 0.07,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447950",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447950/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.222790Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.222791Z"
+}

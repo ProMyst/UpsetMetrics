@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-06-12-royals-at-cardinals",
+  "sport": "mlb",
+  "date": "2015-06-12",
+  "startTime": "2015-06-13T00:15:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "40-21"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "34-24"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414559",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414559/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.883568Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.883569Z"
+}

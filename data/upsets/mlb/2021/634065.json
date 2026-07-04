@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-05-18-rockies-at-padres",
+  "sport": "mlb",
+  "date": "2021-05-18",
+  "startTime": "2021-05-19T02:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "26-17"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "15-28"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "634065",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/634065/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.937295Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.937297Z"
+}

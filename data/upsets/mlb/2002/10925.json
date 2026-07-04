@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-06-01-blue-jays-at-tigers",
+  "sport": "mlb",
+  "date": "2002-06-01",
+  "startTime": "2002-06-01T23:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "19-33"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "20-33"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.33,
+    "rankGapFactor": 0.024,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10925",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10925/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.798474Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.798476Z"
+}

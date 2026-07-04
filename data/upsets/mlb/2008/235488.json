@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-08-08-dodgers-at-giants",
+  "sport": "mlb",
+  "date": "2008-08-08",
+  "startTime": "2008-08-09T02:15:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "58-57"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "48-66"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235488",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235488/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.054989Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.054991Z"
+}

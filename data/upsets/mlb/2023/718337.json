@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-05-02-giants-at-astros",
+  "sport": "mlb",
+  "date": "2023-05-02",
+  "startTime": "2023-05-03T00:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "12-17"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "16-14"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.599,
+    "rankGapFactor": 0.239,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718337",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718337/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.648890Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.648892Z"
+}

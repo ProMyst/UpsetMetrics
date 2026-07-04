@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-09-12-diamondbacks-at-mariners",
+  "sport": "mlb",
+  "date": "2021-09-12",
+  "startTime": "2021-09-12T20:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "47-96"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "77-66"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.824,
+    "rankGapFactor": 0.42,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "632524",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/632524/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.252184Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.252186Z"
+}

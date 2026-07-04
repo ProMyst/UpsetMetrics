@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-10-07-astros-at-rays",
+  "sport": "mlb",
+  "date": "2019-10-07",
+  "startTime": "2019-10-07T17:05:00Z",
+  "season": "2019",
+  "event": "AL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "1-2"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "2-1"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "599339",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/599339/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.469956Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.469958Z"
+}

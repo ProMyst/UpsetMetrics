@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-05-30-royals-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2012-05-30",
+  "startTime": "2012-05-30T16:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "21-28"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "27-23"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.579,
+    "rankGapFactor": 0.223,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318488",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318488/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.386889Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.386893Z"
+}

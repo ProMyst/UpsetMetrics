@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-07-31-cardinals-at-montreal-expos",
+  "sport": "mlb",
+  "date": "2003-07-31",
+  "startTime": "2003-07-31T17:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "55-54"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "56-52"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.335,
+    "rankGapFactor": 0.028,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15867",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15867/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.706498Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.706502Z"
+}

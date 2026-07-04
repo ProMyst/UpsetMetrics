@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-04-04-rockies-at-sacramento-river-cats",
+  "sport": "mlb",
+  "date": "2004-04-04",
+  "startTime": "2004-04-04T20:30:00Z",
+  "season": "2004",
+  "event": "Exhibition",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "0-0"
+  },
+  "loser": {
+    "slug": "sacramento-river-cats",
+    "name": "Sacramento River Cats",
+    "recordEntering": "0-0"
+  },
+  "finalScore": "0-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "243406",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/243406/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.393205Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-sacramento-river-cats",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.393215Z"
+}

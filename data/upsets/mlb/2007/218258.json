@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-03-23-astros-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2007-03-23",
+  "startTime": "2007-03-23T23:05:00Z",
+  "season": "2007",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "13-8"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "12-10"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "218258",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/218258/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.092495Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.092503Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-05-17-rays-at-angels",
+  "sport": "mlb",
+  "date": "2018-05-17",
+  "startTime": "2018-05-18T02:07:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "20-22"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "25-19"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.53,
+    "rankGapFactor": 0.184,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530060",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530060/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.747973Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.747975Z"
+}

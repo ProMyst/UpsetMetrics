@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-06-04-guardians-at-orioles",
+  "sport": "mlb",
+  "date": "2022-06-04",
+  "startTime": "2022-06-04T20:05:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "23-32"
+  },
+  "loser": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "23-25"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.452,
+    "rankGapFactor": 0.122,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661346",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661346/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.956188Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "guardians-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.956190Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-07-28-mets-at-red-sox",
+  "sport": "mlb",
+  "date": "2020-07-28",
+  "startTime": "2020-07-28T23:30:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "3-2"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "1-4"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "631663",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/631663/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.520590Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.520593Z"
+}

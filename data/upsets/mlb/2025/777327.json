@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-06-28-giants-at-white-sox",
+  "sport": "mlb",
+  "date": "2025-06-28",
+  "startTime": "2025-06-28T20:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "27-56"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "45-38"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.842,
+    "rankGapFactor": 0.434,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777327",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777327/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.942509Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.942511Z"
+}

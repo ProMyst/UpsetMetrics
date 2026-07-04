@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-07-16-astros-at-pirates",
+  "sport": "mlb",
+  "date": "2010-07-16",
+  "startTime": "2010-07-16T23:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "37-53"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "30-59"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265147",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265147/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.034648Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.034650Z"
+}

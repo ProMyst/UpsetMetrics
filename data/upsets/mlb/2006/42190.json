@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-19-tigers-at-white-sox",
+  "sport": "mlb",
+  "date": "2006-09-19",
+  "startTime": "2006-09-20T00:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "85-66"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "90-61"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.383,
+    "rankGapFactor": 0.066,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42190",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42190/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.679616Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.679618Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-09-25-brewers-at-pirates",
+  "sport": "mlb",
+  "date": "2024-09-25",
+  "startTime": "2024-09-25T22:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "74-84"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "90-68"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.553,
+    "rankGapFactor": 0.203,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745442",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745442/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.160766Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.160769Z"
+}

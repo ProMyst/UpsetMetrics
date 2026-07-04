@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-07-26-braves-at-pirates",
+  "sport": "mlb",
+  "date": "2004-07-26",
+  "startTime": "2004-07-26T23:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "53-45"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "47-50"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21492",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21492/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.711538Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.711540Z"
+}

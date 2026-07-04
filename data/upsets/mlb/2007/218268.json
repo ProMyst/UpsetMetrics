@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-03-23-cardinals-at-mets",
+  "sport": "mlb",
+  "date": "2007-03-23",
+  "startTime": "2007-03-23T17:10:00Z",
+  "season": "2007",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "9-15"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "11-9"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.738,
+    "rankGapFactor": 0.35,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "218268",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/218268/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.091031Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.091034Z"
+}

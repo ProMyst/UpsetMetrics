@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-05-06-giants-at-rockies",
+  "sport": "mlb",
+  "date": "2009-05-06",
+  "startTime": "2009-05-07T00:40:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "11-15"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "13-13"
+  },
+  "finalScore": "11-1",
+  "factors": {
+    "pregameOddsFactor": 0.492,
+    "rankGapFactor": 0.154,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244608",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244608/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.616002Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.616004Z"
+}

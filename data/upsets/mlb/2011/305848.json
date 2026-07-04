@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-03-23-reds-at-padres",
+  "sport": "mlb",
+  "date": "2011-03-23",
+  "startTime": "2011-03-23T20:05:00Z",
+  "season": "2011",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "11-13"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "14-11"
+  },
+  "finalScore": "10-7",
+  "factors": {
+    "pregameOddsFactor": 0.554,
+    "rankGapFactor": 0.203,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "305848",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/305848/feed/live",
+    "retrievedAt": "2026-07-04T06:23:02.950295Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:02.950298Z"
+}

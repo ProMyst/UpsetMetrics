@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-08-28-mariners-at-white-sox",
+  "sport": "mlb",
+  "date": "2015-08-28",
+  "startTime": "2015-08-29T00:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "60-69"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "60-67"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.318,
+    "rankGapFactor": 0.015,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415571",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415571/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.016983Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.016984Z"
+}

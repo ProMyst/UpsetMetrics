@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-08-29-mets-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2024-08-29",
+  "startTime": "2024-08-29T19:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "70-64"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "76-58"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.412,
+    "rankGapFactor": 0.09,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "747159",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/747159/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.090747Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.090749Z"
+}

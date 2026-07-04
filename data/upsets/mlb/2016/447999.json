@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-06-26-phillies-at-giants",
+  "sport": "mlb",
+  "date": "2016-06-26",
+  "startTime": "2016-06-26T20:05:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "49-28"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "32-45"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447999",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447999/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.233657Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.233658Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-07-18-rays-at-rangers",
+  "sport": "mlb",
+  "date": "2023-07-18",
+  "startTime": "2023-07-19T00:05:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "57-39"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "60-38"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.346,
+    "rankGapFactor": 0.037,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717354",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717354/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.849212Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.849214Z"
+}

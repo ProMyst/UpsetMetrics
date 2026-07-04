@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-08-27-dodgers-at-mets",
+  "sport": "mlb",
+  "date": "2004-08-27",
+  "startTime": "2004-08-27T23:10:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "60-67"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "74-54"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.564,
+    "rankGapFactor": 0.211,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21933",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21933/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.801020Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.801022Z"
+}

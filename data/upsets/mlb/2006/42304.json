@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-27-reds-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2006-09-27",
+  "startTime": "2006-09-27T23:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "77-81"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "78-80"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.316,
+    "rankGapFactor": 0.013,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42304",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42304/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.701226Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.701231Z"
+}

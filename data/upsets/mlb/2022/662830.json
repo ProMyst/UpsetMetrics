@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-06-11-blue-jays-at-tigers",
+  "sport": "mlb",
+  "date": "2022-06-11",
+  "startTime": "2022-06-11T20:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "24-34"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "34-24"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.731,
+    "rankGapFactor": 0.345,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662830",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662830/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.975477Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.975479Z"
+}

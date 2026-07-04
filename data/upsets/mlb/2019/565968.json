@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-09-15-braves-at-nationals",
+  "sport": "mlb",
+  "date": "2019-09-15",
+  "startTime": "2019-09-15T17:38:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "82-66"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "93-58"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.455,
+    "rankGapFactor": 0.124,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565968",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565968/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.444097Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.444099Z"
+}

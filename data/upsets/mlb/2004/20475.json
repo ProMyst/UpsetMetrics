@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-05-09-tigers-at-rangers",
+  "sport": "mlb",
+  "date": "2004-05-09",
+  "startTime": "2004-05-09T18:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "15-16"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "19-12"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.623,
+    "rankGapFactor": 0.258,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20475",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20475/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.497635Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.497637Z"
+}

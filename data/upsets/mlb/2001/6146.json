@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-06-15-royals-at-brewers",
+  "sport": "mlb",
+  "date": "2001-06-15",
+  "startTime": "2001-06-16T03:33:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "26-40"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "32-32"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.565,
+    "rankGapFactor": 0.212,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "6146",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/6146/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.167590Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.167592Z"
+}

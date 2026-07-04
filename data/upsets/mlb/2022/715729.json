@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-10-21-padres-at-phillies",
+  "sport": "mlb",
+  "date": "2022-10-21",
+  "startTime": "2022-10-21T23:37:00Z",
+  "season": "2022",
+  "event": "NL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "2-1"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "1-2"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "715729",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/715729/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.294622Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.294624Z"
+}

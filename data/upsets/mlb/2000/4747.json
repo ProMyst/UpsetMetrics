@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-07-15-rangers-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2000-07-15",
+  "startTime": "2000-07-16T02:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "44-44"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "52-39"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.479,
+    "rankGapFactor": 0.143,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4747",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4747/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.692527Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.692529Z"
+}

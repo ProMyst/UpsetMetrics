@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-06-25-brewers-at-cardinals",
+  "sport": "mlb",
+  "date": "2002-06-25",
+  "startTime": "2002-06-26T00:10:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "27-49"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "40-33"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.782,
+    "rankGapFactor": 0.385,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9642",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9642/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.863027Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.863029Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-05-20-diamondbacks-at-cardinals",
+  "sport": "mlb",
+  "date": "2016-05-20",
+  "startTime": "2016-05-21T00:15:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "20-24"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "22-20"
+  },
+  "finalScore": "11-7",
+  "factors": {
+    "pregameOddsFactor": 0.473,
+    "rankGapFactor": 0.139,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447486",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447486/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.163665Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.163666Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-05-02-red-sox-at-tigers",
+  "sport": "mlb",
+  "date": "2005-05-02",
+  "startTime": "2005-05-02T23:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "12-12"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "13-12"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.04,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23020",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23020/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.439533Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.439535Z"
+}

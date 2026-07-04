@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-04-08-red-sox-at-orioles",
+  "sport": "mlb",
+  "date": "2006-04-08",
+  "startTime": "2006-04-08T20:35:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "4-1"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "2-3"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40001",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40001/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.231680Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.231682Z"
+}

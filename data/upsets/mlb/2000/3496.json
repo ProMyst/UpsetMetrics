@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-04-03-tigers-at-athletics",
+  "sport": "mlb",
+  "date": "2000-04-03",
+  "startTime": "2000-04-04T02:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "3496",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/3496/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.406045Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.406049Z"
+}

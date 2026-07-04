@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-04-06-royals-at-phillies",
+  "sport": "mlb",
+  "date": "2013-04-06",
+  "startTime": "2013-04-06T23:05:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "2-3"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "2-3"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "346818",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/346818/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.125805Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.125807Z"
+}

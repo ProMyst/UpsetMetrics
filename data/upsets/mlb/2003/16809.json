@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-05-29-mets-at-phillies",
+  "sport": "mlb",
+  "date": "2003-05-29",
+  "startTime": "2003-05-29T23:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "24-29"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "28-25"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.489,
+    "rankGapFactor": 0.151,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16809",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16809/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.534483Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.534485Z"
+}

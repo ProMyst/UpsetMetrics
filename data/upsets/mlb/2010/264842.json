@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-06-20-cleveland-indians-at-pirates",
+  "sport": "mlb",
+  "date": "2010-06-20",
+  "startTime": "2010-06-20T17:35:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "25-44"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "26-42"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.04,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264842",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264842/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.970037Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.970042Z"
+}

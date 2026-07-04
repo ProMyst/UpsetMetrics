@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-05-31-white-sox-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2006-05-31",
+  "startTime": "2006-05-31T23:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "26-26"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "33-19"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.637,
+    "rankGapFactor": 0.269,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40729",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40729/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.378607Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.378612Z"
+}

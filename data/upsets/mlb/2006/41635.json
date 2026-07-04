@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-08-09-angels-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2006-08-09",
+  "startTime": "2006-08-09T23:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "48-64"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "59-55"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.522,
+    "rankGapFactor": 0.178,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41635",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41635/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.565478Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.565483Z"
+}

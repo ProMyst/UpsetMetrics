@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-04-14-phillies-at-reds",
+  "sport": "mlb",
+  "date": "2023-04-14",
+  "startTime": "2023-04-14T22:40:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "5-9"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "5-8"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718586",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718586/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.598261Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.598269Z"
+}

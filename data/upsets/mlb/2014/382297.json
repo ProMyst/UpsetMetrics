@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-08-10-twins-at-athletics",
+  "sport": "mlb",
+  "date": "2014-08-10",
+  "startTime": "2014-08-10T20:05:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "52-64"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "72-45"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.718,
+    "rankGapFactor": 0.334,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382297",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382297/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.186749Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.186750Z"
+}

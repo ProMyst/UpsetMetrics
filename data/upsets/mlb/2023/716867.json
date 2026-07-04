@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-08-24-rangers-at-twins",
+  "sport": "mlb",
+  "date": "2023-08-24",
+  "startTime": "2023-08-24T23:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "66-62"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "72-55"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.428,
+    "rankGapFactor": 0.103,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716867",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716867/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.946325Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.946327Z"
+}

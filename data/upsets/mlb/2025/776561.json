@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-08-27-padres-at-mariners",
+  "sport": "mlb",
+  "date": "2025-08-27",
+  "startTime": "2025-08-27T20:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "72-62"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "75-59"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.356,
+    "rankGapFactor": 0.045,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776561",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776561/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.099096Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.099098Z"
+}

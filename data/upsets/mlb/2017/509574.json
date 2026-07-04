@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-03-20-orioles-at-red-sox",
+  "sport": "mlb",
+  "date": "2017-03-20",
+  "startTime": "2017-03-20T17:05:00Z",
+  "season": "2017",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "11-12"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "12-10"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.468,
+    "rankGapFactor": 0.134,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "509574",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/509574/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.004173Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.004195Z"
+}

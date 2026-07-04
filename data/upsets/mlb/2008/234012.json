@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-04-18-nationals-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2008-04-18",
+  "startTime": "2008-04-18T23:10:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "5-12"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "9-7"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.971,
+    "rankGapFactor": 0.537,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234012",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234012/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.749670Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.749675Z"
+}

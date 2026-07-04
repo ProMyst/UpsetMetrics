@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-05-21-blue-jays-at-orioles",
+  "sport": "mlb",
+  "date": "2017-05-21",
+  "startTime": "2017-05-21T17:35:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "19-26"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "25-17"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.733,
+    "rankGapFactor": 0.346,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490761",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490761/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.136973Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.136975Z"
+}

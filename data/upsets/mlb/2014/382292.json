@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-08-10-cleveland-indians-at-yankees",
+  "sport": "mlb",
+  "date": "2014-08-10",
+  "startTime": "2014-08-10T17:05:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "59-59"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "61-56"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.353,
+    "rankGapFactor": 0.043,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382292",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382292/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.185445Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.185448Z"
+}

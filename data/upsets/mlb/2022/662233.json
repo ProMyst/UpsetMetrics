@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-04-18-reds-at-padres",
+  "sport": "mlb",
+  "date": "2022-04-18",
+  "startTime": "2022-04-19T01:40:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "7-5"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "2-9"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662233",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662233/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.825878Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.825880Z"
+}

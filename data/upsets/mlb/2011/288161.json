@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-07-03-cleveland-indians-at-reds",
+  "sport": "mlb",
+  "date": "2011-07-03",
+  "startTime": "2011-07-03T17:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "43-42"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "44-38"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.377,
+    "rankGapFactor": 0.061,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288161",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288161/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.240284Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.240289Z"
+}

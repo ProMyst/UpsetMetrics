@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-09-30-marlins-at-nationals",
+  "sport": "mlb",
+  "date": "2016-09-30",
+  "startTime": "2016-09-30T23:05:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "79-80"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "93-67"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.511,
+    "rankGapFactor": 0.169,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "449259",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/449259/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.396392Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.396393Z"
+}

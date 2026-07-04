@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-05-21-padres-at-rockies",
+  "sport": "mlb",
+  "date": "2002-05-21",
+  "startTime": "2002-05-22T01:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "21-24"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "22-23"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.356,
+    "rankGapFactor": 0.044,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10950",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10950/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.768691Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.768693Z"
+}

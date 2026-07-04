@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-06-05-orioles-at-mets",
+  "sport": "mlb",
+  "date": "2018-06-05",
+  "startTime": "2018-06-05T23:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "18-41"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "27-31"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.701,
+    "rankGapFactor": 0.321,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530305",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530305/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.781703Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.781704Z"
+}

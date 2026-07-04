@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-04-26-phillies-at-pirates",
+  "sport": "mlb",
+  "date": "2008-04-26",
+  "startTime": "2008-04-26T23:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "14-11"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "9-15"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234126",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234126/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.773413Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.773415Z"
+}

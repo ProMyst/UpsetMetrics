@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-07-08-florida-marlins-at-mets",
+  "sport": "mlb",
+  "date": "2006-07-08",
+  "startTime": "2006-07-08T17:20:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "38-46"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "51-36"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.635,
+    "rankGapFactor": 0.268,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41247",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41247/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.486653Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.486657Z"
+}

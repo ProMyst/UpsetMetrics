@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-04-14-giants-at-tigers",
+  "sport": "mlb",
+  "date": "2023-04-14",
+  "startTime": "2023-04-14T22:40:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "4-9"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "5-8"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718585",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718585/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.597600Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.597611Z"
+}

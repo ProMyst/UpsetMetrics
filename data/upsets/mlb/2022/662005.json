@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-05-12-orioles-at-cardinals",
+  "sport": "mlb",
+  "date": "2022-05-12",
+  "startTime": "2022-05-12T17:15:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "14-18"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "17-14"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.577,
+    "rankGapFactor": 0.222,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662005",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662005/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.892260Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.892262Z"
+}

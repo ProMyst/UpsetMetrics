@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-09-25-athletics-at-angels",
+  "sport": "mlb",
+  "date": "2019-09-25",
+  "startTime": "2019-09-26T02:07:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "95-63"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "71-87"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "564810",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/564810/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.460713Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.460714Z"
+}

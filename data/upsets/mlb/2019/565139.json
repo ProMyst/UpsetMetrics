@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-06-marlins-at-cubs",
+  "sport": "mlb",
+  "date": "2019-05-06",
+  "startTime": "2019-05-07T00:05:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "10-24"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "19-13"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.599,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565139",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565139/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.220188Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.220189Z"
+}

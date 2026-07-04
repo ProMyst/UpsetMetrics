@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-01-orioles-at-white-sox",
+  "sport": "mlb",
+  "date": "2019-05-01",
+  "startTime": "2019-05-01T20:15:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "13-15"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "11-21"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567276",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567276/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.208645Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.208647Z"
+}

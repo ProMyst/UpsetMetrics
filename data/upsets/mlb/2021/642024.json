@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-03-26-nationals-at-mets",
+  "sport": "mlb",
+  "date": "2021-03-26",
+  "startTime": "2021-03-26T22:10:00Z",
+  "season": "2021",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "9-9"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "10-10"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "642024",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/642024/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.795573Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.795575Z"
+}

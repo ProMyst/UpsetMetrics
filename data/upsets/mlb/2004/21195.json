@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-07-02-athletics-at-giants",
+  "sport": "mlb",
+  "date": "2004-07-02",
+  "startTime": "2004-07-03T02:15:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "45-35"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "44-34"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.304,
+    "rankGapFactor": 0.003,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21195",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21195/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.645796Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.645798Z"
+}

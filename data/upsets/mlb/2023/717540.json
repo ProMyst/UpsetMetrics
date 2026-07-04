@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-07-01-brewers-at-pirates",
+  "sport": "mlb",
+  "date": "2023-07-01",
+  "startTime": "2023-07-01T20:05:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "44-39"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "39-43"
+  },
+  "finalScore": "11-8",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717540",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717540/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.812406Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.812408Z"
+}

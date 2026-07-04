@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-03-25-rockies-at-angels",
+  "sport": "mlb",
+  "date": "2009-03-25",
+  "startTime": "2009-03-25T20:05:00Z",
+  "season": "2009",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "20-4"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "10-14"
+  },
+  "finalScore": "18-11",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "258949",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/258949/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.497803Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.497805Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-08-20-phillies-at-blue-jays",
+  "sport": "mlb",
+  "date": "2020-08-20",
+  "startTime": "2020-08-20T17:07:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "11-11"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "9-11"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "630919",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/630919/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.587700Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.587702Z"
+}

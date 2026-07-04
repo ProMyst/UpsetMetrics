@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-05-20-cleveland-indians-at-reds",
+  "sport": "mlb",
+  "date": "2005-05-20",
+  "startTime": "2005-05-20T23:10:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "15-26"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "17-23"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.448,
+    "rankGapFactor": 0.118,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23257",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23257/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.490045Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.490050Z"
+}

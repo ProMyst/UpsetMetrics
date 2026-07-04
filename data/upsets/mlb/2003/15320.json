@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-09-11-pirates-at-reds",
+  "sport": "mlb",
+  "date": "2003-09-11",
+  "startTime": "2003-09-11T16:35:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "63-83"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "66-79"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.359,
+    "rankGapFactor": 0.047,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15320",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15320/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.823014Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.823016Z"
+}

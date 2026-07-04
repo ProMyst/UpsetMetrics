@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-07-28-tigers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2008-07-28",
+  "startTime": "2008-07-28T23:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "46-58"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "53-52"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.456,
+    "rankGapFactor": 0.125,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235341",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235341/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.022938Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.022943Z"
+}

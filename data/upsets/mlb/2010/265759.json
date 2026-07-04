@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-08-29-phillies-at-padres",
+  "sport": "mlb",
+  "date": "2010-08-29",
+  "startTime": "2010-08-29T20:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "73-57"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "76-53"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.369,
+    "rankGapFactor": 0.055,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265759",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265759/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.158497Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.158499Z"
+}

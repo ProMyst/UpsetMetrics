@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-06-17-orioles-at-rays",
+  "sport": "mlb",
+  "date": "2025-06-17",
+  "startTime": "2025-06-17T23:35:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "31-41"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "40-33"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.593,
+    "rankGapFactor": 0.235,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777477",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777477/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.912454Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.912456Z"
+}

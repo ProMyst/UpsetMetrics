@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-07-18-cleveland-indians-at-white-sox",
+  "sport": "mlb",
+  "date": "2001-07-18",
+  "startTime": "2001-07-19T00:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "53-39"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "46-46"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8038",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8038/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.258396Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.258401Z"
+}

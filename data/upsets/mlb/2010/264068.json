@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-04-24-padres-at-reds",
+  "sport": "mlb",
+  "date": "2010-04-24",
+  "startTime": "2010-04-24T17:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "11-6"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "7-11"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264068",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264068/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.813941Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.813943Z"
+}

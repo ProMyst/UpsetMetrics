@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-06-13-astros-at-giants",
+  "sport": "mlb",
+  "date": "2012-06-13",
+  "startTime": "2012-06-14T02:15:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "36-27"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "26-36"
+  },
+  "finalScore": "10-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318663",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318663/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.424780Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.424782Z"
+}

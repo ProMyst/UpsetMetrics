@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-10-19-phillies-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2023-10-19",
+  "startTime": "2023-10-19T21:07:00Z",
+  "season": "2023",
+  "event": "NL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "1-2"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "2-1"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "748545",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/748545/feed/live",
+    "retrievedAt": "2026-07-04T06:02:57.054285Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:57.054287Z"
+}

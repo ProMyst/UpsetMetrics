@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-08-10-blue-jays-at-royals",
+  "sport": "mlb",
+  "date": "2007-08-10",
+  "startTime": "2007-08-11T00:10:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "58-56"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "50-64"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69863",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69863/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.477920Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.477922Z"
+}

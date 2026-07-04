@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-05-18-rockies-at-braves",
+  "sport": "mlb",
+  "date": "2009-05-18",
+  "startTime": "2009-05-18T23:00:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "15-22"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "18-19"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.503,
+    "rankGapFactor": 0.162,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244767",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244767/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.647523Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.647525Z"
+}

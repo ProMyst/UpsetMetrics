@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-03-29-brewers-at-padres",
+  "sport": "mlb",
+  "date": "2018-03-29",
+  "startTime": "2018-03-29T20:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "529413",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/529413/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.647543Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.647546Z"
+}

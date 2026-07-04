@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-09-10-cubs-at-montreal-expos",
+  "sport": "mlb",
+  "date": "2003-09-10",
+  "startTime": "2003-09-10T23:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "73-73"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "77-68"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.378,
+    "rankGapFactor": 0.062,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15886",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15886/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.820387Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.820392Z"
+}

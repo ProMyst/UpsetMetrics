@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-04-08-phillies-at-pirates",
+  "sport": "mlb",
+  "date": "2012-04-08",
+  "startTime": "2012-04-08T17:35:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "2-1"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "1-2"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "317774",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/317774/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.245087Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.245089Z"
+}

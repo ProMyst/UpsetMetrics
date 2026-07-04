@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-05-14-phillies-at-braves",
+  "sport": "mlb",
+  "date": "2011-05-14",
+  "startTime": "2011-05-14T17:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "22-19"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "25-13"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.603,
+    "rankGapFactor": 0.243,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287481",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287481/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.097596Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.097598Z"
+}

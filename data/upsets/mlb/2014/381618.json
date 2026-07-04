@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-06-18-phillies-at-braves",
+  "sport": "mlb",
+  "date": "2014-06-18",
+  "startTime": "2014-06-18T16:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "32-38"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "36-35"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.425,
+    "rankGapFactor": 0.1,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381618",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381618/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.093242Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.093244Z"
+}

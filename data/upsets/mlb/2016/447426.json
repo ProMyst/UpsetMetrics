@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-05-15-angels-at-mariners",
+  "sport": "mlb",
+  "date": "2016-05-15",
+  "startTime": "2016-05-15T20:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "16-21"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "21-16"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.638,
+    "rankGapFactor": 0.27,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447426",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447426/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.155437Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.155438Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-09-09-orioles-at-mariners",
+  "sport": "mlb",
+  "date": "2005-09-09",
+  "startTime": "2005-09-10T02:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "61-79"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "65-75"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.371,
+    "rankGapFactor": 0.057,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24741",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24741/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.798586Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.798588Z"
+}

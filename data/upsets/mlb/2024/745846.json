@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-09-29-orioles-at-twins",
+  "sport": "mlb",
+  "date": "2024-09-29",
+  "startTime": "2024-09-29T19:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "91-71"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "82-80"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745846",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745846/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.172618Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.172620Z"
+}

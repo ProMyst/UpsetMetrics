@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-03-23-brewers-at-athletics",
+  "sport": "mlb",
+  "date": "2017-03-23",
+  "startTime": "2017-03-23T20:05:00Z",
+  "season": "2017",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "14-10"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "14-12"
+  },
+  "finalScore": "15-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "509849",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/509849/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.018628Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.018631Z"
+}

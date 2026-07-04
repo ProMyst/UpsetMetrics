@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-04-20-giants-at-mets",
+  "sport": "mlb",
+  "date": "2012-04-20",
+  "startTime": "2012-04-20T23:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "7-6"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "7-6"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "317936",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/317936/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.275640Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.275642Z"
+}

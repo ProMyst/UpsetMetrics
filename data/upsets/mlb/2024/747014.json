@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-07-09-cubs-at-orioles",
+  "sport": "mlb",
+  "date": "2024-07-09",
+  "startTime": "2024-07-09T22:35:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "43-49"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "57-34"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.697,
+    "rankGapFactor": 0.318,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "747014",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/747014/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.962507Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.962508Z"
+}

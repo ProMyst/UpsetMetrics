@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-03-28-pirates-at-twins",
+  "sport": "mlb",
+  "date": "2008-03-28",
+  "startTime": "2008-03-28T17:05:00Z",
+  "season": "2008",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "13-16"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "14-15"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.386,
+    "rankGapFactor": 0.069,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "237635",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/237635/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.693221Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.693223Z"
+}

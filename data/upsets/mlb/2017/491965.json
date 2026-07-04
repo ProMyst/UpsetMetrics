@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-08-21-rangers-at-angels",
+  "sport": "mlb",
+  "date": "2017-08-21",
+  "startTime": "2017-08-22T02:07:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "62-62"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "64-61"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.33,
+    "rankGapFactor": 0.024,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491965",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491965/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.297598Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.297599Z"
+}

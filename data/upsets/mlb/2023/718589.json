@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-04-13-brewers-at-padres",
+  "sport": "mlb",
+  "date": "2023-04-13",
+  "startTime": "2023-04-14T01:40:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "9-4"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "7-7"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718589",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718589/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.597323Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.597325Z"
+}

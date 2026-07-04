@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-05-07-blue-jays-at-mariners",
+  "sport": "mlb",
+  "date": "2002-05-07",
+  "startTime": "2002-05-08T02:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "10-20"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "22-10"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.708,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9781",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9781/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.730040Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.730042Z"
+}

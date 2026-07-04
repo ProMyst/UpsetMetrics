@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-09-22-white-sox-at-red-sox",
+  "sport": "mlb",
+  "date": "2023-09-22",
+  "startTime": "2023-09-22T23:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "76-78"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "58-96"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716478",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716478/feed/live",
+    "retrievedAt": "2026-07-04T06:02:57.023004Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:57.023006Z"
+}

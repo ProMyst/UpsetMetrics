@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-03-27-rockies-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2012-03-27",
+  "startTime": "2012-03-27T20:10:00Z",
+  "season": "2012",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "10-14"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "13-11"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.612,
+    "rankGapFactor": 0.25,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "332464",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/332464/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.211277Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.211279Z"
+}

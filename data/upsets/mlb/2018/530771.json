@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-07-09-nationals-at-pirates",
+  "sport": "mlb",
+  "date": "2018-07-09",
+  "startTime": "2018-07-09T23:05:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "42-48"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "45-45"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.383,
+    "rankGapFactor": 0.067,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530771",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530771/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.843758Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.843760Z"
+}

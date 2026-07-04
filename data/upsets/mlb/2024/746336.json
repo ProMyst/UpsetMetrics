@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-09-24-mariners-at-astros",
+  "sport": "mlb",
+  "date": "2024-09-24",
+  "startTime": "2024-09-25T00:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "86-72"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "81-77"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746336",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746336/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.158612Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.158614Z"
+}

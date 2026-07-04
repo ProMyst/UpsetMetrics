@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-08-06-phillies-at-padres",
+  "sport": "mlb",
+  "date": "2016-08-06",
+  "startTime": "2016-08-07T00:40:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "48-62"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "51-61"
+  },
+  "finalScore": "9-7",
+  "factors": {
+    "pregameOddsFactor": 0.347,
+    "rankGapFactor": 0.038,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448514",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448514/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.302035Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.302036Z"
+}

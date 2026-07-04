@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-07-28-nationals-at-giants",
+  "sport": "mlb",
+  "date": "2016-07-28",
+  "startTime": "2016-07-29T02:15:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "60-42"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "59-43"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448392",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448392/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.285051Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.285052Z"
+}

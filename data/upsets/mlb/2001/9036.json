@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-10-04-cleveland-indians-at-royals",
+  "sport": "mlb",
+  "date": "2001-10-04",
+  "startTime": "2001-10-04T18:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "63-96"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "90-68"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.733,
+    "rankGapFactor": 0.347,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9036",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9036/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.472772Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.472777Z"
+}

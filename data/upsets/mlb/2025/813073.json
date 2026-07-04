@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-10-02-tigers-at-guardians",
+  "sport": "mlb",
+  "date": "2025-10-02",
+  "startTime": "2025-10-02T19:08:00Z",
+  "season": "2025",
+  "event": "AL Wild Card Series",
+  "stakes": "Wild Card",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "2-1"
+  },
+  "loser": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "1-2"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.75,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "813073",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/813073/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.186810Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-guardians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.186811Z"
+}

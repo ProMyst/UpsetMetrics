@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-08-18-reds-at-braves",
+  "sport": "mlb",
+  "date": "2017-08-18",
+  "startTime": "2017-08-18T23:35:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "52-71"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "54-66"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.368,
+    "rankGapFactor": 0.054,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491915",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491915/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.292051Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.292052Z"
+}

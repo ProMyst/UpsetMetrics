@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-08-13-padres-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2000-08-13",
+  "startTime": "2000-08-13T20:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "57-61"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "58-59"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.332,
+    "rankGapFactor": 0.025,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4567",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4567/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.778331Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.778336Z"
+}

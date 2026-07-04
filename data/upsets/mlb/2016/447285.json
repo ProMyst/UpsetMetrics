@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-05-05-red-sox-at-white-sox",
+  "sport": "mlb",
+  "date": "2016-05-05",
+  "startTime": "2016-05-06T00:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "17-11"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "19-10"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.42,
+    "rankGapFactor": 0.096,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447285",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447285/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.136907Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.136908Z"
+}

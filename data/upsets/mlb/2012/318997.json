@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-07-07-twins-at-rangers",
+  "sport": "mlb",
+  "date": "2012-07-07",
+  "startTime": "2012-07-07T23:15:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "51-34"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "36-48"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318997",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318997/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.494064Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.494066Z"
+}

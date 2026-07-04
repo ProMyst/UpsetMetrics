@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-09-17-mets-at-nationals",
+  "sport": "mlb",
+  "date": "2008-09-17",
+  "startTime": "2008-09-17T23:10:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "84-67"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "58-94"
+  },
+  "finalScore": "9-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "236030",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/236030/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.163668Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.163670Z"
+}

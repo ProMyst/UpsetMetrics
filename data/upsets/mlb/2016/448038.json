@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-06-29-marlins-at-tigers",
+  "sport": "mlb",
+  "date": "2016-06-29",
+  "startTime": "2016-06-29T17:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "40-38"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "41-37"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.332,
+    "rankGapFactor": 0.026,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448038",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448038/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.237564Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.237565Z"
+}

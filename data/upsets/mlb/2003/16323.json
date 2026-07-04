@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-05-28-diamondbacks-at-giants",
+  "sport": "mlb",
+  "date": "2003-05-28",
+  "startTime": "2003-05-29T02:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "32-20"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "24-29"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16323",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16323/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.533526Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.533528Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-04-14-nationals-at-mets",
+  "sport": "mlb",
+  "date": "2007-04-14",
+  "startTime": "2007-04-14T17:10:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "3-9"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "7-4"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68296",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68296/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.156601Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.156604Z"
+}

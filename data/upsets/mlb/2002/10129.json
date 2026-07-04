@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-06-29-giants-at-athletics",
+  "sport": "mlb",
+  "date": "2002-06-29",
+  "startTime": "2002-06-29T20:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "45-34"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "45-35"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10129",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10129/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.873484Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.873486Z"
+}

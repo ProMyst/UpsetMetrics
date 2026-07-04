@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-09-05-orioles-at-blue-jays",
+  "sport": "mlb",
+  "date": "2012-09-05",
+  "startTime": "2012-09-05T23:07:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "61-75"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "76-60"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.576,
+    "rankGapFactor": 0.221,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319773",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319773/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.648936Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.648938Z"
+}

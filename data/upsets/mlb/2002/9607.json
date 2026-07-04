@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-09-29-astros-at-giants",
+  "sport": "mlb",
+  "date": "2002-09-29",
+  "startTime": "2002-09-29T20:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "95-66"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "84-78"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9607",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9607/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.130455Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.130457Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-06-01-phillies-at-giants",
+  "sport": "mlb",
+  "date": "2018-06-01",
+  "startTime": "2018-06-02T02:15:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "27-30"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "31-24"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.525,
+    "rankGapFactor": 0.18,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530264",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530264/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.776254Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.776256Z"
+}

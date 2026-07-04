@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-09-angels-at-tigers",
+  "sport": "mlb",
+  "date": "2019-05-09",
+  "startTime": "2019-05-09T17:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "17-20"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "16-18"
+  },
+  "finalScore": "13-0",
+  "factors": {
+    "pregameOddsFactor": 0.328,
+    "rankGapFactor": 0.022,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565527",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565527/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.224345Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.224346Z"
+}

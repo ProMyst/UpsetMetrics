@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-06-11-athletics-at-guardians",
+  "sport": "mlb",
+  "date": "2022-06-11",
+  "startTime": "2022-06-11T20:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "21-40"
+  },
+  "loser": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "28-27"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.712,
+    "rankGapFactor": 0.33,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "663084",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/663084/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.974912Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-guardians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.974914Z"
+}

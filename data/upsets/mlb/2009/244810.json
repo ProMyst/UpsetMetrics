@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-05-21-athletics-at-rays",
+  "sport": "mlb",
+  "date": "2009-05-21",
+  "startTime": "2009-05-21T20:08:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "21-22"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "15-23"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244810",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244810/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.655790Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.655792Z"
+}

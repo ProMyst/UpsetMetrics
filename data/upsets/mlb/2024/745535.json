@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-09-10-rays-at-phillies",
+  "sport": "mlb",
+  "date": "2024-09-10",
+  "startTime": "2024-09-10T22:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "87-58"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "71-74"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745535",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745535/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.120505Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.120507Z"
+}

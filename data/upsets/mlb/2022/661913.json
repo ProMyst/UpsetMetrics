@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-06-03-mariners-at-rangers",
+  "sport": "mlb",
+  "date": "2022-06-03",
+  "startTime": "2022-06-04T00:05:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "23-29"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "24-27"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.371,
+    "rankGapFactor": 0.057,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661913",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661913/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.954260Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.954262Z"
+}

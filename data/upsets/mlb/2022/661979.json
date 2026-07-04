@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-04-25-astros-at-rangers",
+  "sport": "mlb",
+  "date": "2022-04-25",
+  "startTime": "2022-04-26T00:05:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "6-10"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "7-9"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.456,
+    "rankGapFactor": 0.125,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661979",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661979/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.845153Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.845155Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-08-07-red-sox-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "2000-08-07",
+  "startTime": "2000-08-08T02:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "58-55"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "56-52"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.313,
+    "rankGapFactor": 0.01,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "3694",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/3694/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.762111Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.762116Z"
+}

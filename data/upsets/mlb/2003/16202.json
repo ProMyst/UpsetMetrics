@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-08-24-montreal-expos-at-padres",
+  "sport": "mlb",
+  "date": "2003-08-24",
+  "startTime": "2003-08-24T21:00:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "67-64"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "51-80"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16202",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16202/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.776113Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.776118Z"
+}

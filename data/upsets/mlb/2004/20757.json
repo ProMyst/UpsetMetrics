@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-05-30-athletics-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2004-05-30",
+  "startTime": "2004-05-30T17:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "22-26"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "26-23"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.481,
+    "rankGapFactor": 0.145,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20757",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20757/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.552927Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.552932Z"
+}

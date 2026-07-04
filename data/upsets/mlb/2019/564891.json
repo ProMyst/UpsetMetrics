@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-08-18-giants-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2019-08-18",
+  "startTime": "2019-08-18T20:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "62-63"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "63-62"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.32,
+    "rankGapFactor": 0.016,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "564891",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/564891/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.397448Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.397449Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-05-01-braves-at-rockies",
+  "sport": "mlb",
+  "date": "2004-05-01",
+  "startTime": "2004-05-02T00:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "12-11"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "10-13"
+  },
+  "finalScore": "11-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20350",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20350/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.474320Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.474322Z"
+}

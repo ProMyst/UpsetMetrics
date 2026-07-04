@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-06-06-dodgers-at-reds",
+  "sport": "mlb",
+  "date": "2023-06-06",
+  "startTime": "2023-06-06T23:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "28-33"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "35-26"
+  },
+  "finalScore": "9-8",
+  "factors": {
+    "pregameOddsFactor": 0.587,
+    "rankGapFactor": 0.23,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717870",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717870/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.741659Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.741661Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-06-18-twins-at-pirates",
+  "sport": "mlb",
+  "date": "2006-06-18",
+  "startTime": "2006-06-18T17:35:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "34-34"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "26-44"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40981",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40981/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.427623Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.427625Z"
+}

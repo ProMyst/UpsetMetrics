@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-08-11-dodgers-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2003-08-11",
+  "startTime": "2003-08-11T23:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "61-56"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "64-54"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.353,
+    "rankGapFactor": 0.042,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "17086",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/17086/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.737354Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.737358Z"
+}

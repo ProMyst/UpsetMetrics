@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-05-15-guardians-at-rangers",
+  "sport": "mlb",
+  "date": "2024-05-15",
+  "startTime": "2024-05-16T00:05:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "23-22"
+  },
+  "loser": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "27-17"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.556,
+    "rankGapFactor": 0.205,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745015",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745015/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.817814Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "guardians-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.817816Z"
+}

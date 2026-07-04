@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-04-05-rangers-at-angels",
+  "sport": "mlb",
+  "date": "2005-04-05",
+  "startTime": "2005-04-06T02:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "22655",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/22655/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.356696Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.356700Z"
+}

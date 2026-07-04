@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-04-29-athletics-at-astros",
+  "sport": "mlb",
+  "date": "2017-04-29",
+  "startTime": "2017-04-29T23:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "11-13"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "15-9"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.717,
+    "rankGapFactor": 0.333,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490454",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490454/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.098437Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.098438Z"
+}

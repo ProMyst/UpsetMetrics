@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-08-10-nationals-at-phillies",
+  "sport": "mlb",
+  "date": "2023-08-10",
+  "startTime": "2023-08-10T22:40:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "64-52"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "50-66"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717049",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717049/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.908650Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.908652Z"
+}

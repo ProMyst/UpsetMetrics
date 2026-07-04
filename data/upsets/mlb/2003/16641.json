@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-05-13-tampa-bay-devil-rays-at-blue-jays",
+  "sport": "mlb",
+  "date": "2003-05-13",
+  "startTime": "2003-05-13T23:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "15-23"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "18-21"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.467,
+    "rankGapFactor": 0.134,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16641",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16641/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.490024Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tampa-bay-devil-rays-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.490030Z"
+}

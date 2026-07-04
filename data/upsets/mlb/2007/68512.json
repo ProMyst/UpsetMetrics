@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-04-30-florida-marlins-at-mets",
+  "sport": "mlb",
+  "date": "2007-04-30",
+  "startTime": "2007-04-30T23:10:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "12-13"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "15-9"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.663,
+    "rankGapFactor": 0.29,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68512",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68512/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.202201Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.202206Z"
+}

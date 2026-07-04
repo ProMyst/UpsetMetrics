@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-03-22-padres-at-guardians",
+  "sport": "mlb",
+  "date": "2025-03-22",
+  "startTime": "2025-03-22T20:05:00Z",
+  "season": "2025",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "11-17"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "12-17"
+  },
+  "finalScore": "12-8",
+  "factors": {
+    "pregameOddsFactor": 0.352,
+    "rankGapFactor": 0.042,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "778810",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/778810/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.676494Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-guardians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.676498Z"
+}

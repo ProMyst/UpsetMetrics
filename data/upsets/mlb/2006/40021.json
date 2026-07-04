@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-04-09-white-sox-at-royals",
+  "sport": "mlb",
+  "date": "2006-04-09",
+  "startTime": "2006-04-09T18:10:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "2-4"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "2-3"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40021",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40021/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.235336Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.235338Z"
+}

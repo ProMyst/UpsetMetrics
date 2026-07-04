@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-04-23-cleveland-indians-at-tigers",
+  "sport": "mlb",
+  "date": "2004-04-23",
+  "startTime": "2004-04-23T23:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "10-7"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "6-11"
+  },
+  "finalScore": "17-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20259",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20259/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.451438Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.451443Z"
+}

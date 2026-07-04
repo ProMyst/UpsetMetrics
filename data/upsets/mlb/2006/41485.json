@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-07-29-cardinals-at-cubs",
+  "sport": "mlb",
+  "date": "2006-07-29",
+  "startTime": "2006-07-29T20:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "42-61"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "58-45"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.688,
+    "rankGapFactor": 0.311,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41485",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41485/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.535053Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.535055Z"
+}

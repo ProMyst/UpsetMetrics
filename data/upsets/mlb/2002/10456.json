@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-06-29-brewers-at-twins",
+  "sport": "mlb",
+  "date": "2002-06-29",
+  "startTime": "2002-06-29T23:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "29-51"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "45-36"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.783,
+    "rankGapFactor": 0.386,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10456",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10456/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.874969Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.874971Z"
+}

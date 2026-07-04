@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-06-30-astros-at-rangers",
+  "sport": "mlb",
+  "date": "2006-06-30",
+  "startTime": "2006-07-01T00:35:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "41-39"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "38-42"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41135",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41135/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.464838Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.464840Z"
+}

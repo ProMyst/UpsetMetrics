@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-07-04-brewers-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2005-07-04",
+  "startTime": "2005-07-04T22:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "39-43"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "42-38"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.423,
+    "rankGapFactor": 0.099,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23861",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23861/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.614002Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.614007Z"
+}

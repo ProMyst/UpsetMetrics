@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-08-17-rays-at-angels",
+  "sport": "mlb",
+  "date": "2012-08-17",
+  "startTime": "2012-08-18T02:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "65-54"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "62-58"
+  },
+  "finalScore": "12-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319517",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319517/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.595486Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.595488Z"
+}

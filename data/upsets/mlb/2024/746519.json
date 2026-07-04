@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-08-06-mets-at-rockies",
+  "sport": "mlb",
+  "date": "2024-08-06",
+  "startTime": "2024-08-07T00:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "42-72"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "59-54"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.684,
+    "rankGapFactor": 0.307,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746519",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746519/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.029603Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.029605Z"
+}

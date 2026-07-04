@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-22-cardinals-at-astros",
+  "sport": "mlb",
+  "date": "2006-09-22",
+  "startTime": "2006-09-22T23:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "75-78"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "80-72"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.39,
+    "rankGapFactor": 0.072,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42232",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42232/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.685753Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.685755Z"
+}

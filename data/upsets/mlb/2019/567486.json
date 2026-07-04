@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-29-padres-at-yankees",
+  "sport": "mlb",
+  "date": "2019-05-29",
+  "startTime": "2019-05-29T17:05:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "36-19"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "29-27"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567486",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567486/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.261372Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.261373Z"
+}

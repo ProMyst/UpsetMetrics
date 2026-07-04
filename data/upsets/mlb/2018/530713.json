@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-07-05-padres-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2018-07-05",
+  "startTime": "2018-07-06T01:40:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "38-51"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "48-40"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.596,
+    "rankGapFactor": 0.237,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530713",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530713/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.837366Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.837367Z"
+}

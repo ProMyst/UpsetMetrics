@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-07-27-rangers-at-astros",
+  "sport": "mlb",
+  "date": "2018-07-27",
+  "startTime": "2018-07-28T00:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "43-62"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "67-38"
+  },
+  "finalScore": "11-2",
+  "factors": {
+    "pregameOddsFactor": 0.871,
+    "rankGapFactor": 0.457,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530968",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530968/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.869603Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.869605Z"
+}

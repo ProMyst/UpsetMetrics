@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-05-16-angels-at-dodgers",
+  "sport": "mlb",
+  "date": "2016-05-16",
+  "startTime": "2016-05-17T02:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "17-21"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "20-19"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.464,
+    "rankGapFactor": 0.131,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447439",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447439/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.156694Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.156695Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-09-15-giants-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2014-09-15",
+  "startTime": "2014-09-16T01:40:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "62-88"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "82-68"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.633,
+    "rankGapFactor": 0.267,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382784",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382784/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.249748Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.249750Z"
+}

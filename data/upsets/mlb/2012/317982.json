@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-04-24-red-sox-at-twins",
+  "sport": "mlb",
+  "date": "2012-04-24",
+  "startTime": "2012-04-25T00:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "6-10"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "5-13"
+  },
+  "finalScore": "11-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "317982",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/317982/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.289075Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.289077Z"
+}

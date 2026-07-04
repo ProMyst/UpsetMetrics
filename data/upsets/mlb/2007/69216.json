@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-06-22-reds-at-mariners",
+  "sport": "mlb",
+  "date": "2007-06-22",
+  "startTime": "2007-06-23T02:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "29-45"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "37-33"
+  },
+  "finalScore": "16-1",
+  "factors": {
+    "pregameOddsFactor": 0.642,
+    "rankGapFactor": 0.273,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69216",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69216/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.345145Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.345147Z"
+}

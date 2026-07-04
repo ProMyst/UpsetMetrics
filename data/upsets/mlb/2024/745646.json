@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-06-19-royals-at-athletics",
+  "sport": "mlb",
+  "date": "2024-06-19",
+  "startTime": "2024-06-20T01:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "28-48"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "41-34"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.746,
+    "rankGapFactor": 0.356,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745646",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745646/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.908701Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.908703Z"
+}

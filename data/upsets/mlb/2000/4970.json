@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-04-04-brewers-at-reds",
+  "sport": "mlb",
+  "date": "2000-04-04",
+  "startTime": "2000-04-04T23:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4970",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4970/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.408678Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.408683Z"
+}

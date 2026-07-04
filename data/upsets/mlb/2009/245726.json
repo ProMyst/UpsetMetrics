@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-07-31-diamondbacks-at-mets",
+  "sport": "mlb",
+  "date": "2009-07-31",
+  "startTime": "2009-07-31T23:10:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "45-58"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "49-53"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.409,
+    "rankGapFactor": 0.087,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245726",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245726/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.845434Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.845436Z"
+}

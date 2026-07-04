@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-09-14-dodgers-at-braves",
+  "sport": "mlb",
+  "date": "2024-09-14",
+  "startTime": "2024-09-14T23:20:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "81-67"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "87-61"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.401,
+    "rankGapFactor": 0.081,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "747070",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/747070/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.132883Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.132885Z"
+}

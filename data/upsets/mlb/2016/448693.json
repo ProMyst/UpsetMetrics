@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-08-20-red-sox-at-tigers",
+  "sport": "mlb",
+  "date": "2016-08-20",
+  "startTime": "2016-08-20T23:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "69-53"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "64-59"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448693",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448693/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.324900Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.324901Z"
+}

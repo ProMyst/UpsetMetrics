@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-04-02-cardinals-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2013-04-02",
+  "startTime": "2013-04-03T01:40:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "1-1"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "1-1"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "346757",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/346757/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.115796Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.115799Z"
+}

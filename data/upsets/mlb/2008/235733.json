@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-08-26-rockies-at-giants",
+  "sport": "mlb",
+  "date": "2008-08-26",
+  "startTime": "2008-08-27T02:15:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "63-71"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "58-74"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235733",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235733/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.103691Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.103693Z"
+}

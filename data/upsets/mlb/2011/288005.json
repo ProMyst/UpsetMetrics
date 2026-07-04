@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-06-21-cubs-at-white-sox",
+  "sport": "mlb",
+  "date": "2011-06-21",
+  "startTime": "2011-06-22T00:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "36-39"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "30-43"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288005",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288005/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.204777Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.204779Z"
+}

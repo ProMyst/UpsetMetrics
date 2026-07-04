@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-04-21-reds-at-cardinals",
+  "sport": "mlb",
+  "date": "2018-04-21",
+  "startTime": "2018-04-21T18:15:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "12-8"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "3-17"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "529708",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/529708/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.701493Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.701495Z"
+}

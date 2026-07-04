@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-09-29-royals-at-braves",
+  "sport": "mlb",
+  "date": "2024-09-29",
+  "startTime": "2024-09-29T19:20:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "86-76"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "88-72"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.348,
+    "rankGapFactor": 0.038,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "747061",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/747061/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.173384Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.173386Z"
+}

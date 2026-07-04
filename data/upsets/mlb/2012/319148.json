@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-07-22-braves-at-nationals",
+  "sport": "mlb",
+  "date": "2012-07-22",
+  "startTime": "2012-07-22T17:35:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "55-39"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "52-43"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319148",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319148/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.524675Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.524677Z"
+}

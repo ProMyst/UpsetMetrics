@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-09-10-marlins-at-phillies",
+  "sport": "mlb",
+  "date": "2023-09-10",
+  "startTime": "2023-09-10T17:05:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "74-69"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "78-64"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.38,
+    "rankGapFactor": 0.064,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716643",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716643/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.989152Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.989154Z"
+}

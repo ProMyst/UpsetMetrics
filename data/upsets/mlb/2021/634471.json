@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-04-17-white-sox-at-red-sox",
+  "sport": "mlb",
+  "date": "2021-04-17",
+  "startTime": "2021-04-17T20:05:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "10-4"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "6-8"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "634471",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/634471/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.849997Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.849999Z"
+}

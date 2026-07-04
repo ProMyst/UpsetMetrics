@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-06-23-rangers-at-yankees",
+  "sport": "mlb",
+  "date": "2017-06-23",
+  "startTime": "2017-06-23T23:05:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "40-31"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "36-37"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491211",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491211/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.194740Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.194742Z"
+}

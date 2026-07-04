@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-08-24-yankees-at-mariners",
+  "sport": "mlb",
+  "date": "2006-08-24",
+  "startTime": "2006-08-25T02:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "58-69"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "76-50"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.666,
+    "rankGapFactor": 0.293,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41849",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41849/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.608335Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.608337Z"
+}

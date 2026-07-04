@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-05-12-mariners-at-tigers",
+  "sport": "mlb",
+  "date": "2023-05-12",
+  "startTime": "2023-05-12T22:40:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "19-19"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "17-20"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718208",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718208/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.672872Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.672874Z"
+}

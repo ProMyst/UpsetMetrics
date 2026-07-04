@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-05-28-marlins-at-braves",
+  "sport": "mlb",
+  "date": "2016-05-28",
+  "startTime": "2016-05-28T20:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "14-34"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "25-24"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.846,
+    "rankGapFactor": 0.437,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447601",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447601/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.177291Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.177292Z"
+}

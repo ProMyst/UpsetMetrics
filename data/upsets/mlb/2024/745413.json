@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-05-26-yankees-at-padres",
+  "sport": "mlb",
+  "date": "2024-05-26",
+  "startTime": "2024-05-26T20:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "28-28"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "37-18"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.732,
+    "rankGapFactor": 0.345,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745413",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745413/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.846052Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.846053Z"
+}

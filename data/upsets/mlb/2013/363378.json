@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-03-22-rays-at-pirates",
+  "sport": "mlb",
+  "date": "2013-03-22",
+  "startTime": "2013-03-22T17:05:00Z",
+  "season": "2013",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "11-14"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "14-12"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.546,
+    "rankGapFactor": 0.197,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "363378",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/363378/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.078840Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.078843Z"
+}

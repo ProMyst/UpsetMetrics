@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-03-30-phillies-at-rangers",
+  "sport": "mlb",
+  "date": "2023-03-30",
+  "startTime": "2023-03-30T20:05:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "11-7",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718779",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718779/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.558278Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.558280Z"
+}

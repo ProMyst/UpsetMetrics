@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-05-26-florida-marlins-at-reds",
+  "sport": "mlb",
+  "date": "2004-05-26",
+  "startTime": "2004-05-26T23:10:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "26-20"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "27-19"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.354,
+    "rankGapFactor": 0.043,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20694",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20694/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.541173Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.541178Z"
+}

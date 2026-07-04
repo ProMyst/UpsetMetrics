@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-08-22-cubs-at-tigers",
+  "sport": "mlb",
+  "date": "2018-08-22",
+  "startTime": "2018-08-22T23:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "72-53"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "52-75"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531305",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531305/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.915606Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.915607Z"
+}

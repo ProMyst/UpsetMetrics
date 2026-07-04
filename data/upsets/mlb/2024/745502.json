@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-05-22-giants-at-pirates",
+  "sport": "mlb",
+  "date": "2024-05-22",
+  "startTime": "2024-05-22T22:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "24-26"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "23-27"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745502",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745502/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.834493Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.834495Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-06-16-blue-jays-at-astros",
+  "sport": "mlb",
+  "date": "2019-06-16",
+  "startTime": "2019-06-16T18:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "26-45"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "48-24"
+  },
+  "finalScore": "12-0",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.601,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565643",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565643/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.292720Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.292721Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-05-19-guardians-at-twins",
+  "sport": "mlb",
+  "date": "2025-05-19",
+  "startTime": "2025-05-21T17:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "27-21"
+  },
+  "loser": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "25-22"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777861",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777861/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.840538Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "guardians-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.840540Z"
+}

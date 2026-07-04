@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-05-31-rangers-at-tigers",
+  "sport": "mlb",
+  "date": "2023-05-31",
+  "startTime": "2023-05-31T17:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "26-28"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "35-20"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.687,
+    "rankGapFactor": 0.31,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717951",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717951/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.724892Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.724894Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-03-28-padres-at-portland-beavers",
+  "sport": "mlb",
+  "date": "2003-03-28",
+  "startTime": "2003-03-29T00:05:00Z",
+  "season": "2003",
+  "event": "Exhibition",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "0-0"
+  },
+  "loser": {
+    "slug": "portland-beavers",
+    "name": "Portland Beavers",
+    "recordEntering": "0-0"
+  },
+  "finalScore": "0-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "242891",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/242891/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.359996Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-portland-beavers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.360006Z"
+}

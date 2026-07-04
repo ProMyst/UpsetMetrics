@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-03-24-twins-at-orioles",
+  "sport": "mlb",
+  "date": "2018-03-24",
+  "startTime": "2018-03-24T22:05:00Z",
+  "season": "2018",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "13-13"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "16-12"
+  },
+  "finalScore": "12-4",
+  "factors": {
+    "pregameOddsFactor": 0.479,
+    "rankGapFactor": 0.143,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "534221",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/534221/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.634196Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.634199Z"
+}

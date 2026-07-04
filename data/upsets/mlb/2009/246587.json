@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-10-02-brewers-at-cardinals",
+  "sport": "mlb",
+  "date": "2009-10-02",
+  "startTime": "2009-10-03T00:15:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "78-82"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "91-69"
+  },
+  "finalScore": "12-6",
+  "factors": {
+    "pregameOddsFactor": 0.503,
+    "rankGapFactor": 0.162,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246587",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246587/feed/live",
+    "retrievedAt": "2026-07-04T06:20:14.017502Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:14.017504Z"
+}

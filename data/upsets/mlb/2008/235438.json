@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-08-04-twins-at-mariners",
+  "sport": "mlb",
+  "date": "2008-08-04",
+  "startTime": "2008-08-05T02:10:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "43-69"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "62-50"
+  },
+  "finalScore": "11-6",
+  "factors": {
+    "pregameOddsFactor": 0.724,
+    "rankGapFactor": 0.339,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235438",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235438/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.043310Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.043312Z"
+}

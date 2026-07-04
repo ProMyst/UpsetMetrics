@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-07-15-rays-at-twins",
+  "sport": "mlb",
+  "date": "2018-07-15",
+  "startTime": "2018-07-15T18:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "44-50"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "49-47"
+  },
+  "finalScore": "11-7",
+  "factors": {
+    "pregameOddsFactor": 0.406,
+    "rankGapFactor": 0.085,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530852",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530852/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.854767Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.854768Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-08-27-nationals-at-reds",
+  "sport": "mlb",
+  "date": "2011-08-27",
+  "startTime": "2011-08-27T23:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "66-66"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "62-69"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288886",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288886/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.384217Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.384219Z"
+}

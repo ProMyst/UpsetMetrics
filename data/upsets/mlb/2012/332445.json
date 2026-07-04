@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-03-25-giants-at-white-sox",
+  "sport": "mlb",
+  "date": "2012-03-25",
+  "startTime": "2012-03-25T20:05:00Z",
+  "season": "2012",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "10-12"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "13-10"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.577,
+    "rankGapFactor": 0.221,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "332445",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/332445/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.203316Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.203319Z"
+}

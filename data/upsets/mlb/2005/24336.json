@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-08-10-pirates-at-rockies",
+  "sport": "mlb",
+  "date": "2005-08-10",
+  "startTime": "2005-08-11T01:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "44-70"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "48-66"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.388,
+    "rankGapFactor": 0.07,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24336",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24336/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.715922Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.715924Z"
+}

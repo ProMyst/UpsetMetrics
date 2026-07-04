@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-07-27-reds-at-giants",
+  "sport": "mlb",
+  "date": "2016-07-27",
+  "startTime": "2016-07-27T19:45:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "40-61"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "59-42"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.77,
+    "rankGapFactor": 0.376,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448373",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448373/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.282827Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.282828Z"
+}

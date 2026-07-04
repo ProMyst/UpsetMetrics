@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-06-28-florida-marlins-at-braves",
+  "sport": "mlb",
+  "date": "2004-06-28",
+  "startTime": "2004-06-28T23:35:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "36-39"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "40-36"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.416,
+    "rankGapFactor": 0.093,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21135",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21135/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.632523Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.632528Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-06-20-rays-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2016-06-20",
+  "startTime": "2016-06-20T23:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "39-30"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "31-37"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447919",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447919/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.218165Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.218168Z"
+}

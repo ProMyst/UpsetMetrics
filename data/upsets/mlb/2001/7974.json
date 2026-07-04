@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-07-13-giants-at-mariners",
+  "sport": "mlb",
+  "date": "2001-07-13",
+  "startTime": "2001-07-14T02:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "47-43"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "64-25"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.792,
+    "rankGapFactor": 0.394,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7974",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7974/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.238158Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.238160Z"
+}

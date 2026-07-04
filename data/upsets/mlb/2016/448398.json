@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-07-29-rockies-at-mets",
+  "sport": "mlb",
+  "date": "2016-07-29",
+  "startTime": "2016-07-29T23:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "51-52"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "53-49"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.361,
+    "rankGapFactor": 0.049,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448398",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448398/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.285544Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.285545Z"
+}

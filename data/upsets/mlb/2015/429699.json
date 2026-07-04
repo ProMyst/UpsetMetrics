@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-03-23-braves-at-astros",
+  "sport": "mlb",
+  "date": "2015-03-23",
+  "startTime": "2015-03-23T17:05:00Z",
+  "season": "2015",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "9-12"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "8-8"
+  },
+  "finalScore": "14-10",
+  "factors": {
+    "pregameOddsFactor": 0.479,
+    "rankGapFactor": 0.143,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "429699",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/429699/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.706706Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.706709Z"
+}

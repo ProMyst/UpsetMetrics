@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-04-14-rays-at-red-sox",
+  "sport": "mlb",
+  "date": "2012-04-14",
+  "startTime": "2012-04-14T20:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "3-5"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "4-4"
+  },
+  "finalScore": "13-5",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "317856",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/317856/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.260018Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.260020Z"
+}

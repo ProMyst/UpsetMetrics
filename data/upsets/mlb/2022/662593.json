@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-04-21-giants-at-mets",
+  "sport": "mlb",
+  "date": "2022-04-21",
+  "startTime": "2022-04-21T17:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "10-4"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "8-5"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662593",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662593/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.833086Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.833088Z"
+}

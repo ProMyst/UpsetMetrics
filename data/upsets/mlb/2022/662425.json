@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-09-03-nationals-at-mets",
+  "sport": "mlb",
+  "date": "2022-09-03",
+  "startTime": "2022-09-03T23:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "46-87"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "85-49"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.577,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662425",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662425/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.199483Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.199485Z"
+}

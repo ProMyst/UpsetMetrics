@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-06-01-rays-at-yankees",
+  "sport": "mlb",
+  "date": "2021-06-01",
+  "startTime": "2021-06-01T23:05:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "30-25"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "35-21"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.499,
+    "rankGapFactor": 0.159,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633861",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633861/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.974405Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.974407Z"
+}

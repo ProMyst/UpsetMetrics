@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-08-10-athletics-at-angels",
+  "sport": "mlb",
+  "date": "2018-08-10",
+  "startTime": "2018-08-11T02:07:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "59-58"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "68-48"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.505,
+    "rankGapFactor": 0.164,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531149",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531149/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.894200Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.894201Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-07-02-mariners-at-athletics",
+  "sport": "mlb",
+  "date": "2003-07-02",
+  "startTime": "2003-07-03T02:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "54-29"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "47-36"
+  },
+  "finalScore": "13-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16016",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16016/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.628319Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.628321Z"
+}

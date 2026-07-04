@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-10-01-cardinals-at-phillies",
+  "sport": "mlb",
+  "date": "2011-10-01",
+  "startTime": "2011-10-01T21:00:00Z",
+  "season": "2011",
+  "event": "NL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "11-6",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "317037",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/317037/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.477484Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.477486Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-05-05-phillies-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2008-05-05",
+  "startTime": "2008-05-06T01:40:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "19-14"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "21-11"
+  },
+  "finalScore": "11-4",
+  "factors": {
+    "pregameOddsFactor": 0.501,
+    "rankGapFactor": 0.161,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234241",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234241/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.797826Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.797828Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-05-22-mariners-at-twins",
+  "sport": "mlb",
+  "date": "2001-05-22",
+  "startTime": "2001-05-23T00:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "30-13"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "32-12"
+  },
+  "finalScore": "12-11",
+  "factors": {
+    "pregameOddsFactor": 0.374,
+    "rankGapFactor": 0.059,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "6211",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/6211/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.100879Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.100881Z"
+}

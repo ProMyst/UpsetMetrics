@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-06-15-pirates-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2012-06-15",
+  "startTime": "2012-06-15T23:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "33-30"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "32-31"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318695",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318695/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.427484Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.427489Z"
+}

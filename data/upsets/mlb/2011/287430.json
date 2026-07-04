@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-05-10-phillies-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2011-05-10",
+  "startTime": "2011-05-10T23:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "21-14"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "23-12"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.443,
+    "rankGapFactor": 0.114,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287430",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287430/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.087905Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.087909Z"
+}

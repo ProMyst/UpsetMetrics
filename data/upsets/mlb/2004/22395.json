@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-09-30-reds-at-cubs",
+  "sport": "mlb",
+  "date": "2004-09-30",
+  "startTime": "2004-09-30T18:20:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "75-84"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "88-71"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.504,
+    "rankGapFactor": 0.164,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "22395",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/22395/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.898001Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.898003Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-07-20-diamondbacks-at-braves",
+  "sport": "mlb",
+  "date": "2023-07-20",
+  "startTime": "2023-07-20T16:20:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "62-33"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "54-43"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717337",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717337/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.853426Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.853428Z"
+}

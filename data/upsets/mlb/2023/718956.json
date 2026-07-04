@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-03-25-white-sox-at-reds",
+  "sport": "mlb",
+  "date": "2023-03-25",
+  "startTime": "2023-03-26T01:05:00Z",
+  "season": "2023",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "12-12"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "14-13"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.346,
+    "rankGapFactor": 0.037,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718956",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718956/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.548673Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.548675Z"
+}

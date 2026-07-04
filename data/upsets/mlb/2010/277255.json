@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-03-20-royals-at-cubs",
+  "sport": "mlb",
+  "date": "2010-03-20",
+  "startTime": "2010-03-20T20:05:00Z",
+  "season": "2010",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "11-7"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "7-8"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "277255",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/277255/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.706630Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.706635Z"
+}

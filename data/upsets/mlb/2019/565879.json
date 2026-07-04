@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-09-22-rockies-at-dodgers",
+  "sport": "mlb",
+  "date": "2019-09-22",
+  "startTime": "2019-09-22T20:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "100-56"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "67-89"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565879",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565879/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.456378Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.456379Z"
+}

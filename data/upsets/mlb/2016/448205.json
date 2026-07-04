@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-07-15-white-sox-at-angels",
+  "sport": "mlb",
+  "date": "2016-07-15",
+  "startTime": "2016-07-16T02:05:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "38-52"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "45-44"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.508,
+    "rankGapFactor": 0.167,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448205",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448205/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.261279Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.261280Z"
+}

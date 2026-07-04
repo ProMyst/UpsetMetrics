@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-07-12-orioles-at-athletics",
+  "sport": "mlb",
+  "date": "2003-07-12",
+  "startTime": "2003-07-12T20:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "53-39"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "41-49"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16025",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16025/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.660094Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.660096Z"
+}

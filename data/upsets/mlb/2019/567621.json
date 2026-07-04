@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-09-03-astros-at-brewers",
+  "sport": "mlb",
+  "date": "2019-09-03",
+  "startTime": "2019-09-03T23:40:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "71-67"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "90-50"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.621,
+    "rankGapFactor": 0.257,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567621",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567621/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.423521Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.423522Z"
+}

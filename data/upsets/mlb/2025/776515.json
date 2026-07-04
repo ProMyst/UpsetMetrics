@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-08-31-brewers-at-blue-jays",
+  "sport": "mlb",
+  "date": "2025-08-31",
+  "startTime": "2025-08-31T17:37:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "79-58"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "85-53"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.398,
+    "rankGapFactor": 0.079,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776515",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776515/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.110205Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.110207Z"
+}

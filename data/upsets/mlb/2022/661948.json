@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-08-07-yankees-at-cardinals",
+  "sport": "mlb",
+  "date": "2022-08-07",
+  "startTime": "2022-08-07T18:15:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "60-48"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "70-39"
+  },
+  "finalScore": "12-9",
+  "factors": {
+    "pregameOddsFactor": 0.517,
+    "rankGapFactor": 0.173,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661948",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661948/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.129851Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.129853Z"
+}

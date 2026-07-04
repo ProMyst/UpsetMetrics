@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-05-27-cleveland-indians-at-white-sox",
+  "sport": "mlb",
+  "date": "2014-05-27",
+  "startTime": "2014-05-28T00:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "27-27"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "24-29"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381312",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381312/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.054585Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.054588Z"
+}

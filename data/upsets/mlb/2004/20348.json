@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-04-30-anaheim-angels-at-twins",
+  "sport": "mlb",
+  "date": "2004-04-30",
+  "startTime": "2004-05-01T00:10:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "15-7"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "13-10"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20348",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20348/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.471709Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.471714Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-06-20-rockies-at-reds",
+  "sport": "mlb",
+  "date": "2023-06-20",
+  "startTime": "2023-06-20T23:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "39-35"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "29-47"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717685",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717685/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.779693Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.779695Z"
+}

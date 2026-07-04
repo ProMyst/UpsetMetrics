@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-04-08-diamondbacks-at-dodgers",
+  "sport": "mlb",
+  "date": "2003-04-08",
+  "startTime": "2003-04-09T02:10:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "4-5"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "2-6"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15733",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15733/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.392594Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.392597Z"
+}

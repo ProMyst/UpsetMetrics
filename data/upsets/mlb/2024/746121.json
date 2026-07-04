@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-07-20-red-sox-at-dodgers",
+  "sport": "mlb",
+  "date": "2024-07-20",
+  "startTime": "2024-07-20T23:15:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "58-41"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "53-45"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746121",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746121/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.985491Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.985493Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-04-14-marlins-at-braves",
+  "sport": "mlb",
+  "date": "2015-04-14",
+  "startTime": "2015-04-14T23:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "2-6"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "6-2"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "413761",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/413761/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.762823Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.762824Z"
+}

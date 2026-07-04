@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-06-10-tigers-at-reds",
+  "sport": "mlb",
+  "date": "2012-06-10",
+  "startTime": "2012-06-11T00:00:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "28-32"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "32-27"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.489,
+    "rankGapFactor": 0.151,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318626",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318626/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.417533Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.417535Z"
+}

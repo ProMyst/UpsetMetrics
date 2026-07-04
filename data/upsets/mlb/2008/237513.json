@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-03-20-astros-at-nationals",
+  "sport": "mlb",
+  "date": "2008-03-20",
+  "startTime": "2008-03-20T23:05:00Z",
+  "season": "2008",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "11-12"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "9-13"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "237513",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/237513/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.659767Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.659771Z"
+}

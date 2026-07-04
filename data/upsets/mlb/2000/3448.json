@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-05-12-twins-at-white-sox",
+  "sport": "mlb",
+  "date": "2000-05-12",
+  "startTime": "2000-05-13T00:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "17-19"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "19-16"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.477,
+    "rankGapFactor": 0.141,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "3448",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/3448/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.524572Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.524574Z"
+}

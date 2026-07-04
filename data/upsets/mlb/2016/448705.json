@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-08-20-blue-jays-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2016-08-20",
+  "startTime": "2016-08-20T23:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "70-53"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "70-51"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.324,
+    "rankGapFactor": 0.019,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448705",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448705/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.325148Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.325151Z"
+}

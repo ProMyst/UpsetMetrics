@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-08-21-cleveland-indians-at-red-sox",
+  "sport": "mlb",
+  "date": "2018-08-21",
+  "startTime": "2018-08-21T23:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "73-52"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "88-39"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.572,
+    "rankGapFactor": 0.218,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531292",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531292/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.913080Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.913083Z"
+}

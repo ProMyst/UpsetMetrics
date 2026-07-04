@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-05-18-braves-at-brewers",
+  "sport": "mlb",
+  "date": "2022-05-18",
+  "startTime": "2022-05-18T17:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "24-14"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "17-21"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661202",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661202/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.908101Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.908103Z"
+}

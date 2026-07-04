@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-08-30-blue-jays-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2003-08-30",
+  "startTime": "2003-08-30T23:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "67-68"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "60-76"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15396",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15396/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.790508Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.790513Z"
+}

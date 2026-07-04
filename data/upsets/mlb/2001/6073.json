@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-07-06-reds-at-twins",
+  "sport": "mlb",
+  "date": "2001-07-06",
+  "startTime": "2001-07-07T00:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "53-32"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "33-52"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "6073",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/6073/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.224880Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.224881Z"
+}

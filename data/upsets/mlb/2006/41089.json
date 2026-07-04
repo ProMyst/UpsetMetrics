@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-06-27-royals-at-reds",
+  "sport": "mlb",
+  "date": "2006-06-27",
+  "startTime": "2006-06-27T23:10:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "25-50"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "41-36"
+  },
+  "finalScore": "9-8",
+  "factors": {
+    "pregameOddsFactor": 0.798,
+    "rankGapFactor": 0.398,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41089",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41089/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.456206Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.456208Z"
+}

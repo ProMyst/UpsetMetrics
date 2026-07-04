@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-07-10-florida-marlins-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2010-07-10",
+  "startTime": "2010-07-11T00:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "34-54"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "41-46"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.512,
+    "rankGapFactor": 0.17,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265113",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265113/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.029282Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.029287Z"
+}

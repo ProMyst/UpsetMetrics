@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-07-20-mets-at-reds",
+  "sport": "mlb",
+  "date": "2021-07-20",
+  "startTime": "2021-07-20T23:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "49-46"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "50-43"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.355,
+    "rankGapFactor": 0.044,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633234",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633234/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.103842Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.103845Z"
+}

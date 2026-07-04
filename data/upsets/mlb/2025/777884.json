@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-05-17-angels-at-dodgers",
+  "sport": "mlb",
+  "date": "2025-05-17",
+  "startTime": "2025-05-18T01:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "19-25"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "29-17"
+  },
+  "finalScore": "11-9",
+  "factors": {
+    "pregameOddsFactor": 0.797,
+    "rankGapFactor": 0.397,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777884",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777884/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.831369Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.831370Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-08-13-dodgers-at-braves",
+  "sport": "mlb",
+  "date": "2014-08-13",
+  "startTime": "2014-08-13T23:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "61-59"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "69-53"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.443,
+    "rankGapFactor": 0.114,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382335",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382335/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.191443Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.191444Z"
+}

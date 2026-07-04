@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-06-16-rays-at-tigers",
+  "sport": "mlb",
+  "date": "2017-06-16",
+  "startTime": "2017-06-16T23:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "32-34"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "35-35"
+  },
+  "finalScore": "13-4",
+  "factors": {
+    "pregameOddsFactor": 0.338,
+    "rankGapFactor": 0.03,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491113",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491113/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.182836Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.182837Z"
+}

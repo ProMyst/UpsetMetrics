@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-07-08-athletics-at-white-sox",
+  "sport": "mlb",
+  "date": "2005-07-08",
+  "startTime": "2005-07-09T00:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "42-43"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "57-27"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.761,
+    "rankGapFactor": 0.369,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23917",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23917/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.625955Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.625957Z"
+}

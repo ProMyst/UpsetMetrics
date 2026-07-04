@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-10-03-cardinals-at-dodgers",
+  "sport": "mlb",
+  "date": "2014-10-03",
+  "startTime": "2014-10-03T22:30:00Z",
+  "season": "2014",
+  "event": "NL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "10-9",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "416352",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/416352/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.274178Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.274179Z"
+}

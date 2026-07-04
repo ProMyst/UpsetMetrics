@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-06-29-giants-at-cardinals",
+  "sport": "mlb",
+  "date": "2009-06-29",
+  "startTime": "2009-06-30T00:15:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "41-34"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "41-37"
+  },
+  "finalScore": "10-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245340",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245340/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.767246Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.767248Z"
+}

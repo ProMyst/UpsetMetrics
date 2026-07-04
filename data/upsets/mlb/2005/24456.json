@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-08-19-brewers-at-astros",
+  "sport": "mlb",
+  "date": "2005-08-19",
+  "startTime": "2005-08-20T00:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "65-57"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "60-63"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24456",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24456/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.740114Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.740116Z"
+}

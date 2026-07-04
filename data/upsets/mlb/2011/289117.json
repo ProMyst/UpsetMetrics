@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-09-13-rays-at-orioles",
+  "sport": "mlb",
+  "date": "2011-09-13",
+  "startTime": "2011-09-13T23:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "59-88"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "82-65"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.691,
+    "rankGapFactor": 0.313,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "289117",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/289117/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.431418Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.431420Z"
+}

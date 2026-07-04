@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-05-17-reds-at-phillies",
+  "sport": "mlb",
+  "date": "2014-05-17",
+  "startTime": "2014-05-17T23:05:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "18-22"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "19-22"
+  },
+  "finalScore": "12-1",
+  "factors": {
+    "pregameOddsFactor": 0.334,
+    "rankGapFactor": 0.027,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381172",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381172/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.037226Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.037227Z"
+}

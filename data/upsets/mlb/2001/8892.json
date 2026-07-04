@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-09-28-phillies-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2001-09-28",
+  "startTime": "2001-09-28T23:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "72-82"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "81-73"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.446,
+    "rankGapFactor": 0.117,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8892",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8892/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.457269Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.457274Z"
+}

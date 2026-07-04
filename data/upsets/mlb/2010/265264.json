@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-07-24-royals-at-yankees",
+  "sport": "mlb",
+  "date": "2010-07-24",
+  "startTime": "2010-07-24T17:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "42-55"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "61-35"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.806,
+    "rankGapFactor": 0.405,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265264",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265264/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.057324Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.057326Z"
+}

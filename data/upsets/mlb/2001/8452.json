@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-08-22-brewers-at-cubs",
+  "sport": "mlb",
+  "date": "2001-08-22",
+  "startTime": "2001-08-22T18:20:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "70-56"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "55-70"
+  },
+  "finalScore": "16-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8452",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8452/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.353953Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.353955Z"
+}

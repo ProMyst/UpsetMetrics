@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-08-28-padres-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2009-08-28",
+  "startTime": "2009-08-28T23:10:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "55-75"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "67-61"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.551,
+    "rankGapFactor": 0.201,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246115",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246115/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.920691Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.920696Z"
+}

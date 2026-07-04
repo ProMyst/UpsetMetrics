@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-08-27-pirates-at-marlins",
+  "sport": "mlb",
+  "date": "2015-08-27",
+  "startTime": "2015-08-27T23:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "77-49"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "51-77"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415553",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415553/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.015465Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.015466Z"
+}

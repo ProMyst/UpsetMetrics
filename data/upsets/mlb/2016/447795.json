@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-06-11-marlins-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2016-06-11",
+  "startTime": "2016-06-12T02:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "27-37"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "32-30"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.536,
+    "rankGapFactor": 0.189,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447795",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447795/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.202739Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.202740Z"
+}

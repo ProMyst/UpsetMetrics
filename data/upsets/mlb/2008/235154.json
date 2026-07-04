@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-07-11-yankees-at-blue-jays",
+  "sport": "mlb",
+  "date": "2008-07-11",
+  "startTime": "2008-07-11T23:07:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "46-47"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "49-44"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.381,
+    "rankGapFactor": 0.065,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235154",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235154/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.985640Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.985642Z"
+}

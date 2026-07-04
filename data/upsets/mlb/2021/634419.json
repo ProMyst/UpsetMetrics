@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-04-22-mets-at-cubs",
+  "sport": "mlb",
+  "date": "2021-04-22",
+  "startTime": "2021-04-22T23:40:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "9-9"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "8-7"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.383,
+    "rankGapFactor": 0.067,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "634419",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/634419/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.864634Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.864636Z"
+}

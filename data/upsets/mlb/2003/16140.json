@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-04-03-dodgers-at-padres",
+  "sport": "mlb",
+  "date": "2003-04-03",
+  "startTime": "2003-04-03T22:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "1-3"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "2-2"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16140",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16140/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.376720Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.376722Z"
+}

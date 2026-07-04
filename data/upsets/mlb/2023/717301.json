@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-07-22-blue-jays-at-mariners",
+  "sport": "mlb",
+  "date": "2023-07-22",
+  "startTime": "2023-07-22T20:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "50-48"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "54-45"
+  },
+  "finalScore": "9-8",
+  "factors": {
+    "pregameOddsFactor": 0.388,
+    "rankGapFactor": 0.071,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717301",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717301/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.859465Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.859467Z"
+}

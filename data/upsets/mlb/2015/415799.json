@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-09-14-royals-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2015-09-14",
+  "startTime": "2015-09-14T23:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "71-71"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "84-59"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.519,
+    "rankGapFactor": 0.175,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415799",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415799/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.046760Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.046763Z"
+}

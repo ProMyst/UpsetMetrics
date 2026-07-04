@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-09-15-padres-at-dodgers",
+  "sport": "mlb",
+  "date": "2004-09-15",
+  "startTime": "2004-09-16T02:10:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "78-68"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "84-61"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.413,
+    "rankGapFactor": 0.09,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "22195",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/22195/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.855714Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.855716Z"
+}

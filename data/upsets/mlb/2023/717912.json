@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-06-03-mariners-at-rangers",
+  "sport": "mlb",
+  "date": "2023-06-03",
+  "startTime": "2023-06-03T20:05:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "37-20"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "29-29"
+  },
+  "finalScore": "16-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717912",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717912/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.733031Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.733033Z"
+}

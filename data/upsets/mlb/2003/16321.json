@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-05-18-mets-at-giants",
+  "sport": "mlb",
+  "date": "2003-05-18",
+  "startTime": "2003-05-18T20:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "19-25"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "27-16"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.79,
+    "rankGapFactor": 0.392,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16321",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16321/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.505941Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.505943Z"
+}

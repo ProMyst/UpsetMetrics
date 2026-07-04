@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-05-19-rays-at-yankees",
+  "sport": "mlb",
+  "date": "2010-05-19",
+  "startTime": "2010-05-19T23:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "29-11"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "25-15"
+  },
+  "finalScore": "10-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264413",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264413/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.884167Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.884169Z"
+}

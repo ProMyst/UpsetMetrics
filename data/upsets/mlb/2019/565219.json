@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-03-24-rockies-at-reds",
+  "sport": "mlb",
+  "date": "2019-03-24",
+  "startTime": "2019-03-24T19:05:00Z",
+  "season": "2019",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "14-15"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "8-17"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565219",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565219/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.125644Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.125647Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-06-17-yankees-at-nationals",
+  "sport": "mlb",
+  "date": "2006-06-17",
+  "startTime": "2006-06-17T17:20:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "31-39"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "38-28"
+  },
+  "finalScore": "11-9",
+  "factors": {
+    "pregameOddsFactor": 0.632,
+    "rankGapFactor": 0.266,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40970",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40970/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.424117Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.424119Z"
+}

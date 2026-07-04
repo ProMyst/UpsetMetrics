@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-08-24-rockies-at-pirates",
+  "sport": "mlb",
+  "date": "2025-08-24",
+  "startTime": "2025-08-24T16:05:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "57-74"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "37-94"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776610",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776610/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.090129Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.090131Z"
+}

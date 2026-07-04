@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-04-20-royals-at-tigers",
+  "sport": "mlb",
+  "date": "2018-04-20",
+  "startTime": "2018-04-20T17:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "8-9"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "3-14"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "529488",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/529488/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.699071Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.699073Z"
+}

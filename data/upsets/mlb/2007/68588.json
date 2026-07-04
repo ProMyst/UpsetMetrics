@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-05-06-rockies-at-reds",
+  "sport": "mlb",
+  "date": "2007-05-06",
+  "startTime": "2007-05-06T19:15:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "14-17"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "13-18"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68588",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68588/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.219041Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.219043Z"
+}

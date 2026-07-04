@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-08-15-padres-at-braves",
+  "sport": "mlb",
+  "date": "2000-08-15",
+  "startTime": "2000-08-15T23:40:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "73-46"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "57-63"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4415",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4415/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.784311Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.784314Z"
+}

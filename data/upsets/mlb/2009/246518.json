@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-09-27-dodgers-at-pirates",
+  "sport": "mlb",
+  "date": "2009-09-27",
+  "startTime": "2009-09-27T17:35:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "58-96"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "93-63"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.849,
+    "rankGapFactor": 0.439,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246518",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246518/feed/live",
+    "retrievedAt": "2026-07-04T06:20:14.002712Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:14.002714Z"
+}

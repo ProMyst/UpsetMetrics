@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-08-23-guardians-at-rangers",
+  "sport": "mlb",
+  "date": "2025-08-23",
+  "startTime": "2025-08-23T23:05:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "65-66"
+  },
+  "loser": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "64-64"
+  },
+  "finalScore": "10-0",
+  "factors": {
+    "pregameOddsFactor": 0.31,
+    "rankGapFactor": 0.008,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776623",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776623/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.088535Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "guardians-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.088537Z"
+}

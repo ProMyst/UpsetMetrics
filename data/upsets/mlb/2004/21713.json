@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-08-11-twins-at-mariners",
+  "sport": "mlb",
+  "date": "2004-08-11",
+  "startTime": "2004-08-12T02:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "43-70"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "62-51"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.72,
+    "rankGapFactor": 0.336,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21713",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21713/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.757109Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.757111Z"
+}

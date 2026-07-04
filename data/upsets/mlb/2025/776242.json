@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-09-20-marlins-at-rangers",
+  "sport": "mlb",
+  "date": "2025-09-20",
+  "startTime": "2025-09-20T23:05:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "75-80"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "79-76"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.365,
+    "rankGapFactor": 0.052,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776242",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776242/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.163473Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.163475Z"
+}

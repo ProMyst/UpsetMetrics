@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-15-cardinals-at-braves",
+  "sport": "mlb",
+  "date": "2019-05-15",
+  "startTime": "2019-05-15T23:20:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "22-21"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "23-20"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.358,
+    "rankGapFactor": 0.047,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567183",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567183/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.235847Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.235849Z"
+}

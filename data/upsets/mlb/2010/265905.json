@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-09-09-cardinals-at-braves",
+  "sport": "mlb",
+  "date": "2010-09-09",
+  "startTime": "2010-09-09T23:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "73-65"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "80-61"
+  },
+  "finalScore": "11-4",
+  "factors": {
+    "pregameOddsFactor": 0.396,
+    "rankGapFactor": 0.077,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265905",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265905/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.188034Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.188036Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-09-30-orioles-at-rays",
+  "sport": "mlb",
+  "date": "2009-09-30",
+  "startTime": "2009-09-30T23:08:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "82-76"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "60-98"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246553",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246553/feed/live",
+    "retrievedAt": "2026-07-04T06:20:14.011427Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:14.011429Z"
+}

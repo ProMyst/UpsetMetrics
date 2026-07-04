@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-05-30-yankees-at-tigers",
+  "sport": "mlb",
+  "date": "2021-05-30",
+  "startTime": "2021-05-30T17:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "22-31"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "29-24"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.63,
+    "rankGapFactor": 0.264,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633854",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633854/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.968674Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.968676Z"
+}

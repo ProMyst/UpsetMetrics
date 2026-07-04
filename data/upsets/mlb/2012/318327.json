@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-05-19-angels-at-padres",
+  "sport": "mlb",
+  "date": "2012-05-19",
+  "startTime": "2012-05-20T02:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "15-26"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "18-23"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.483,
+    "rankGapFactor": 0.146,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318327",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318327/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.358539Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.358541Z"
+}

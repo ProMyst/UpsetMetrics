@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-06-22-rockies-at-marlins",
+  "sport": "mlb",
+  "date": "2022-06-22",
+  "startTime": "2022-06-22T22:40:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "31-36"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "30-39"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661393",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661393/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.010605Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.010610Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-08-29-rockies-at-giants",
+  "sport": "mlb",
+  "date": "2007-08-29",
+  "startTime": "2007-08-29T19:35:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "68-65"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "61-73"
+  },
+  "finalScore": "8-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "70117",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/70117/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.530304Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.530306Z"
+}

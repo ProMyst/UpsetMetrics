@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-06-22-royals-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "2000-06-22",
+  "startTime": "2000-06-23T02:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "37-34"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "34-36"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5500",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5500/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.634244Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.634249Z"
+}

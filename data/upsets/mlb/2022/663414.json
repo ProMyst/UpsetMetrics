@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-05-29-blue-jays-at-angels",
+  "sport": "mlb",
+  "date": "2022-05-29",
+  "startTime": "2022-05-29T20:07:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "27-20"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "27-22"
+  },
+  "finalScore": "11-10",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "663414",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/663414/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.940560Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.940562Z"
+}

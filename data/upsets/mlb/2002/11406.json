@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-05-19-mariners-at-red-sox",
+  "sport": "mlb",
+  "date": "2002-05-19",
+  "startTime": "2002-05-19T17:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "29-11"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "29-14"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "11406",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/11406/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.762638Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.762640Z"
+}

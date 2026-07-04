@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-09-01-pirates-at-brewers",
+  "sport": "mlb",
+  "date": "2012-09-01",
+  "startTime": "2012-09-01T23:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "64-68"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "70-62"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.414,
+    "rankGapFactor": 0.091,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319720",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319720/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.637422Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.637424Z"
+}

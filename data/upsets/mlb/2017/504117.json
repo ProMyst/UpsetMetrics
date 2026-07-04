@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-04-01-angels-at-dodgers",
+  "sport": "mlb",
+  "date": "2017-04-01",
+  "startTime": "2017-04-02T01:10:00Z",
+  "season": "2017",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "20-14"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "18-17"
+  },
+  "finalScore": "4-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "504117",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/504117/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.048133Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.048135Z"
+}

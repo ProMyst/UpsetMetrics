@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-03-29-reds-at-brewers",
+  "sport": "mlb",
+  "date": "2016-03-29",
+  "startTime": "2016-03-29T20:05:00Z",
+  "season": "2016",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "14-15"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "12-13"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "469913",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/469913/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.063561Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.063564Z"
+}

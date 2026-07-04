@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-08-21-cubs-at-tigers",
+  "sport": "mlb",
+  "date": "2023-08-21",
+  "startTime": "2023-08-21T22:40:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "65-59"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "57-68"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716913",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716913/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.937377Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.937379Z"
+}

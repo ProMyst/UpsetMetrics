@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-08-10-padres-at-reds",
+  "sport": "mlb",
+  "date": "2013-08-10",
+  "startTime": "2013-08-10T23:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "53-63"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "64-52"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.537,
+    "rankGapFactor": 0.19,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "348484",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/348484/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.468522Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.468525Z"
+}

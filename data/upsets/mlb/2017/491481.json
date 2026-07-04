@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-07-17-cleveland-indians-at-giants",
+  "sport": "mlb",
+  "date": "2017-07-17",
+  "startTime": "2017-07-18T02:15:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "48-43"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "35-59"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491481",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491481/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.236281Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.236284Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-08-14-white-sox-at-blue-jays",
+  "sport": "mlb",
+  "date": "2012-08-14",
+  "startTime": "2012-08-14T23:07:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "63-52"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "55-61"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319465",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319465/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.585689Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.585691Z"
+}

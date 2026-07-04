@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-06-09-nationals-at-white-sox",
+  "sport": "mlb",
+  "date": "2016-06-09",
+  "startTime": "2016-06-10T00:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "30-30"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "36-24"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.55,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447771",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447771/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.198657Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.198658Z"
+}

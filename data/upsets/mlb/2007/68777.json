@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-05-19-blue-jays-at-phillies",
+  "sport": "mlb",
+  "date": "2007-05-19",
+  "startTime": "2007-05-19T23:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "19-23"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "21-22"
+  },
+  "finalScore": "13-2",
+  "factors": {
+    "pregameOddsFactor": 0.39,
+    "rankGapFactor": 0.072,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68777",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68777/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.253968Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.253970Z"
+}

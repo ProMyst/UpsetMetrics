@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-07-08-yankees-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2003-07-08",
+  "startTime": "2003-07-08T23:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "38-50"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "54-34"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.755,
+    "rankGapFactor": 0.364,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15369",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15369/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.643192Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.643197Z"
+}

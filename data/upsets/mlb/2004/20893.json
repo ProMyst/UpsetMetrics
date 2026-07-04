@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-06-10-braves-at-tigers",
+  "sport": "mlb",
+  "date": "2004-06-10",
+  "startTime": "2004-06-10T17:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "27-32"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "29-30"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.385,
+    "rankGapFactor": 0.068,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20893",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20893/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.581382Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.581384Z"
+}

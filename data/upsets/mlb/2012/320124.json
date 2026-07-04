@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-10-01-reds-at-cardinals",
+  "sport": "mlb",
+  "date": "2012-10-01",
+  "startTime": "2012-10-02T00:15:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "87-73"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "96-64"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.441,
+    "rankGapFactor": 0.113,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "320124",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/320124/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.721097Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.721099Z"
+}

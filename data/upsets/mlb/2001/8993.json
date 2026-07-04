@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-10-04-cardinals-at-brewers",
+  "sport": "mlb",
+  "date": "2001-10-04",
+  "startTime": "2001-10-04T18:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "92-67"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "66-93"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8993",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8993/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.472969Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.472971Z"
+}

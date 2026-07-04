@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-06-15-cardinals-at-mets",
+  "sport": "mlb",
+  "date": "2019-06-15",
+  "startTime": "2019-06-15T23:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "34-36"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "35-34"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.354,
+    "rankGapFactor": 0.043,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566023",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566023/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.290375Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.290377Z"
+}

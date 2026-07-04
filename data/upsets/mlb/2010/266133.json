@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-09-26-mets-at-phillies",
+  "sport": "mlb",
+  "date": "2010-09-26",
+  "startTime": "2010-09-26T17:35:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "76-79"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "93-63"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.565,
+    "rankGapFactor": 0.212,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "266133",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/266133/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.232047Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.232049Z"
+}

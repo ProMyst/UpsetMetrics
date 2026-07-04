@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-03-25-dodgers-at-brewers",
+  "sport": "mlb",
+  "date": "2012-03-25",
+  "startTime": "2012-03-25T20:05:00Z",
+  "season": "2012",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "9-12"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "11-8"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.676,
+    "rankGapFactor": 0.301,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "332438",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/332438/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.203815Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.203818Z"
+}

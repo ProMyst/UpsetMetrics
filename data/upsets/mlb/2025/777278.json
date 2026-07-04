@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-07-01-giants-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2025-07-01",
+  "startTime": "2025-07-02T01:40:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "43-42"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "45-41"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.343,
+    "rankGapFactor": 0.035,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777278",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777278/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.955278Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.955280Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-09-10-yankees-at-mets",
+  "sport": "mlb",
+  "date": "2021-09-10",
+  "startTime": "2021-09-10T23:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "71-71"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "78-63"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.433,
+    "rankGapFactor": 0.106,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "632552",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/632552/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.244529Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.244531Z"
+}

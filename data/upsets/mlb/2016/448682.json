@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-08-19-marlins-at-pirates",
+  "sport": "mlb",
+  "date": "2016-08-19",
+  "startTime": "2016-08-19T23:05:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "63-59"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "62-57"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.312,
+    "rankGapFactor": 0.009,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448682",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448682/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.322776Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.322777Z"
+}

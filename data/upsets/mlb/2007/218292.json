@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-03-25-yankees-at-tigers",
+  "sport": "mlb",
+  "date": "2007-03-25",
+  "startTime": "2007-03-25T17:05:00Z",
+  "season": "2007",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "17-10"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "12-10"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "218292",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/218292/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.100715Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.100718Z"
+}

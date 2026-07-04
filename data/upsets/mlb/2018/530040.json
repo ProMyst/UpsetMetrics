@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-05-16-white-sox-at-pirates",
+  "sport": "mlb",
+  "date": "2018-05-16",
+  "startTime": "2018-05-16T16:35:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "25-17"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "10-29"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530040",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530040/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.745715Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.745717Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-08-08-mariners-at-white-sox",
+  "sport": "mlb",
+  "date": "2000-08-08",
+  "startTime": "2000-08-09T00:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "67-46"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "67-45"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.313,
+    "rankGapFactor": 0.011,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5038",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5038/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.763111Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.763113Z"
+}

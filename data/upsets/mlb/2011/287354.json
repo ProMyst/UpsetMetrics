@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-05-04-blue-jays-at-rays",
+  "sport": "mlb",
+  "date": "2011-05-04",
+  "startTime": "2011-05-04T22:40:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "14-16"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "16-14"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.467,
+    "rankGapFactor": 0.133,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287354",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287354/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.072133Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.072135Z"
+}

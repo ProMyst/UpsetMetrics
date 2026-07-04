@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-07-09-yankees-at-astros",
+  "sport": "mlb",
+  "date": "2021-07-09",
+  "startTime": "2021-07-10T00:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "45-42"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "54-35"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.524,
+    "rankGapFactor": 0.179,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633348",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633348/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.082881Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.082883Z"
+}

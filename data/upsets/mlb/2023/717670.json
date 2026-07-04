@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-06-21-mets-at-astros",
+  "sport": "mlb",
+  "date": "2023-06-21",
+  "startTime": "2023-06-21T18:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "41-34"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "34-40"
+  },
+  "finalScore": "10-8",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717670",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717670/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.782178Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.782179Z"
+}

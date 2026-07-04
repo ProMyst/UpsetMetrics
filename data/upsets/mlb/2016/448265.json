@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-07-19-marlins-at-phillies",
+  "sport": "mlb",
+  "date": "2016-07-19",
+  "startTime": "2016-07-19T23:05:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "51-42"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "43-52"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448265",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448265/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.267185Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.267186Z"
+}

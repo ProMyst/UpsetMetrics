@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-06-21-twins-at-royals",
+  "sport": "mlb",
+  "date": "2019-06-21",
+  "startTime": "2019-06-22T00:15:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "49-26"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "26-50"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565740",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565740/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.301527Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.301528Z"
+}

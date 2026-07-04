@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-07-28-pirates-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2024-07-28",
+  "startTime": "2024-07-28T20:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "53-52"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "55-51"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.335,
+    "rankGapFactor": 0.028,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "747173",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/747173/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.008170Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.008172Z"
+}

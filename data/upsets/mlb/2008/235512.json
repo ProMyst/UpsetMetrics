@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-08-09-nationals-at-brewers",
+  "sport": "mlb",
+  "date": "2008-08-09",
+  "startTime": "2008-08-09T23:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "66-51"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "44-73"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235512",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235512/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.056559Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.056561Z"
+}

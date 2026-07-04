@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-05-08-red-sox-at-orioles",
+  "sport": "mlb",
+  "date": "2021-05-08",
+  "startTime": "2021-05-08T23:05:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "21-13"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "15-18"
+  },
+  "finalScore": "11-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "634196",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/634196/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.910034Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.910036Z"
+}

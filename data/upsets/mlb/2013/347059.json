@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-04-24-mariners-at-astros",
+  "sport": "mlb",
+  "date": "2013-04-24",
+  "startTime": "2013-04-24T18:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "7-14"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "8-15"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.336,
+    "rankGapFactor": 0.029,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347059",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347059/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.173902Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.173904Z"
+}

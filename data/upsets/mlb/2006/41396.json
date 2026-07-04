@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-07-22-astros-at-mets",
+  "sport": "mlb",
+  "date": "2006-07-22",
+  "startTime": "2006-07-22T17:20:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "59-38"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "46-52"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41396",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41396/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.516724Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.516726Z"
+}

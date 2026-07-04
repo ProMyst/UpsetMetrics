@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-06-08-athletics-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2012-06-08",
+  "startTime": "2012-06-09T01:40:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "28-30"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "26-33"
+  },
+  "finalScore": "9-8",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318601",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318601/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.411320Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.411322Z"
+}

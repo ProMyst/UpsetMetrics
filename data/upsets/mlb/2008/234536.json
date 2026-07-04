@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-05-27-red-sox-at-mariners",
+  "sport": "mlb",
+  "date": "2008-05-27",
+  "startTime": "2008-05-28T02:10:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "19-34"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "32-23"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.858,
+    "rankGapFactor": 0.447,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234536",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234536/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.859824Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.859826Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-08-03-blue-jays-at-mariners",
+  "sport": "mlb",
+  "date": "2018-08-03",
+  "startTime": "2018-08-04T02:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "50-59"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "63-47"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.585,
+    "rankGapFactor": 0.228,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531063",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531063/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.881875Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.881876Z"
+}

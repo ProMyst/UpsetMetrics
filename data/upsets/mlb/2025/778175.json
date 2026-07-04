@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-04-25-marlins-at-mariners",
+  "sport": "mlb",
+  "date": "2025-04-25",
+  "startTime": "2025-04-26T01:40:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "12-13"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "14-12"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.446,
+    "rankGapFactor": 0.117,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "778175",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/778175/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.769898Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.769900Z"
+}

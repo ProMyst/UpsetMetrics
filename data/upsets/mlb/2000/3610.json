@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-06-13-anaheim-angels-at-tampa-bay-devil-rays",
+  "sport": "mlb",
+  "date": "2000-06-13",
+  "startTime": "2000-06-13T23:15:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "33-30"
+  },
+  "loser": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "23-39"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "3610",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/3610/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.609467Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-tampa-bay-devil-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.609475Z"
+}

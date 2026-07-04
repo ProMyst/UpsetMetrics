@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-08-27-mariners-at-padres",
+  "sport": "mlb",
+  "date": "2020-08-27",
+  "startTime": "2020-08-27T19:10:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "19-13"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "12-20"
+  },
+  "finalScore": "10-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "631083",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/631083/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.608286Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.608288Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-07-22-twins-at-dodgers",
+  "sport": "mlb",
+  "date": "2025-07-22",
+  "startTime": "2025-07-23T02:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "49-52"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "59-43"
+  },
+  "finalScore": "10-7",
+  "factors": {
+    "pregameOddsFactor": 0.533,
+    "rankGapFactor": 0.187,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777039",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777039/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.004804Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.004806Z"
+}

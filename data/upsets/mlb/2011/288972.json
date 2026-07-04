@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-09-03-cleveland-indians-at-royals",
+  "sport": "mlb",
+  "date": "2011-09-03",
+  "startTime": "2011-09-03T23:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "58-82"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "69-67"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.533,
+    "rankGapFactor": 0.186,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288972",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288972/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.404529Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.404534Z"
+}

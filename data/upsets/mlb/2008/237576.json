@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-03-24-padres-at-angels",
+  "sport": "mlb",
+  "date": "2008-03-24",
+  "startTime": "2008-03-24T20:05:00Z",
+  "season": "2008",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "11-11"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "17-7"
+  },
+  "finalScore": "4-4",
+  "factors": {
+    "pregameOddsFactor": 0.821,
+    "rankGapFactor": 0.417,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "237576",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/237576/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.679507Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.679509Z"
+}

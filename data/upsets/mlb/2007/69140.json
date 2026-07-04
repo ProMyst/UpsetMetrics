@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-06-16-braves-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2007-06-16",
+  "startTime": "2007-06-16T19:55:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "37-32"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "39-28"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.415,
+    "rankGapFactor": 0.092,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69140",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69140/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.329182Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.329187Z"
+}

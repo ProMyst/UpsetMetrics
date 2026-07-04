@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-07-26-cubs-at-white-sox",
+  "sport": "mlb",
+  "date": "2023-07-26",
+  "startTime": "2023-07-27T00:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "50-51"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "41-62"
+  },
+  "finalScore": "10-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717240",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717240/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.871706Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.871708Z"
+}

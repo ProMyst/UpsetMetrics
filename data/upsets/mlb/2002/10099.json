@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-04-21-anaheim-angels-at-athletics",
+  "sport": "mlb",
+  "date": "2002-04-21",
+  "startTime": "2002-04-22T00:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "11-8"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "6-12"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10099",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10099/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.687341Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.687346Z"
+}

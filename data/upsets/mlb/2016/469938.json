@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-03-24-cardinals-at-nationals",
+  "sport": "mlb",
+  "date": "2016-03-24",
+  "startTime": "2016-03-24T17:05:00Z",
+  "season": "2016",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "15-4"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "8-11"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "469938",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/469938/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.043584Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.043587Z"
+}

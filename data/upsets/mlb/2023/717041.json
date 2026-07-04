@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-08-11-cubs-at-blue-jays",
+  "sport": "mlb",
+  "date": "2023-08-11",
+  "startTime": "2023-08-11T23:07:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "60-56"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "65-53"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.384,
+    "rankGapFactor": 0.067,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717041",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717041/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.910779Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.910781Z"
+}

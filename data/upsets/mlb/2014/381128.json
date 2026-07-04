@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-05-13-rangers-at-astros",
+  "sport": "mlb",
+  "date": "2014-05-13",
+  "startTime": "2014-05-14T00:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "13-27"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "20-20"
+  },
+  "finalScore": "8-0",
+  "factors": {
+    "pregameOddsFactor": 0.738,
+    "rankGapFactor": 0.35,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381128",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381128/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.030254Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.030255Z"
+}

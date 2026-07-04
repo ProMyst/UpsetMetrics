@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-07-17-mets-at-reds",
+  "sport": "mlb",
+  "date": "2008-07-17",
+  "startTime": "2008-07-17T23:10:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "52-44"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "46-51"
+  },
+  "finalScore": "10-8",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235191",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235191/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.993493Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.993495Z"
+}

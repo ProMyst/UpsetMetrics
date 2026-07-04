@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-08-07-pirates-at-padres",
+  "sport": "mlb",
+  "date": "2004-08-07",
+  "startTime": "2004-08-08T02:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "50-58"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "59-51"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.484,
+    "rankGapFactor": 0.147,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21664",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21664/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.746772Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.746774Z"
+}

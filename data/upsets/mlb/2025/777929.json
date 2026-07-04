@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-05-14-nationals-at-braves",
+  "sport": "mlb",
+  "date": "2025-05-14",
+  "startTime": "2025-05-14T23:15:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "18-26"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "21-22"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.498,
+    "rankGapFactor": 0.159,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777929",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777929/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.823283Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.823285Z"
+}

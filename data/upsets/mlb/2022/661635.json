@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-05-03-rangers-at-phillies",
+  "sport": "mlb",
+  "date": "2022-05-03",
+  "startTime": "2022-05-03T22:45:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "9-14"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "11-13"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.468,
+    "rankGapFactor": 0.134,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661635",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661635/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.865374Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.865376Z"
+}

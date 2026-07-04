@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-06-22-giants-at-cardinals",
+  "sport": "mlb",
+  "date": "2001-06-22",
+  "startTime": "2001-06-23T00:10:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "40-33"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "38-35"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7762",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7762/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.185361Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.185363Z"
+}

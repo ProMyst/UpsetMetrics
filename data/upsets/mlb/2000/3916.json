@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-09-22-tigers-at-yankees",
+  "sport": "mlb",
+  "date": "2000-09-22",
+  "startTime": "2000-09-22T23:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "75-78"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "85-67"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.473,
+    "rankGapFactor": 0.138,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "3916",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/3916/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.889716Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.889718Z"
+}

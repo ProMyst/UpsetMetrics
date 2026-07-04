@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-08-22-reds-at-cardinals",
+  "sport": "mlb",
+  "date": "2020-08-22",
+  "startTime": "2020-08-23T00:15:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "8-8"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "11-14"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "630991",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/630991/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.594880Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.594882Z"
+}

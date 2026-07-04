@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-07-29-cardinals-at-pirates",
+  "sport": "mlb",
+  "date": "2013-07-29",
+  "startTime": "2013-07-29T23:05:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "62-42"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "62-41"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.314,
+    "rankGapFactor": 0.012,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "348324",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/348324/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.435033Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.435035Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-08-13-angels-at-royals",
+  "sport": "mlb",
+  "date": "2015-08-13",
+  "startTime": "2015-08-14T00:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "60-54"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "68-46"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.475,
+    "rankGapFactor": 0.14,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415359",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415359/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.991213Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.991214Z"
+}

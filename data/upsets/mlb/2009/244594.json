@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-05-05-mets-at-braves",
+  "sport": "mlb",
+  "date": "2009-05-05",
+  "startTime": "2009-05-05T23:00:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "12-13"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "11-15"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244594",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244594/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.612257Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.612259Z"
+}

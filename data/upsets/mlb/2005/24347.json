@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-08-11-mets-at-padres",
+  "sport": "mlb",
+  "date": "2005-08-11",
+  "startTime": "2005-08-11T19:35:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "58-56"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "58-56"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24347",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24347/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.717645Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.717647Z"
+}

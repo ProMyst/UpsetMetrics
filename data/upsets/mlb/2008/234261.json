@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-05-07-red-sox-at-tigers",
+  "sport": "mlb",
+  "date": "2008-05-07",
+  "startTime": "2008-05-07T23:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "15-20"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "22-14"
+  },
+  "finalScore": "10-9",
+  "factors": {
+    "pregameOddsFactor": 0.756,
+    "rankGapFactor": 0.365,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234261",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234261/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.802274Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.802277Z"
+}

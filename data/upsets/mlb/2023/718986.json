@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-03-24-pirates-at-tigers",
+  "sport": "mlb",
+  "date": "2023-03-24",
+  "startTime": "2023-03-24T22:05:00Z",
+  "season": "2023",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "9-14"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "12-16"
+  },
+  "finalScore": "6-6",
+  "factors": {
+    "pregameOddsFactor": 0.393,
+    "rankGapFactor": 0.075,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718986",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718986/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.543783Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.543785Z"
+}

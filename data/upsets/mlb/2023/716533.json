@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-09-18-red-sox-at-rangers",
+  "sport": "mlb",
+  "date": "2023-09-18",
+  "startTime": "2023-09-19T00:05:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "75-76"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "82-68"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.425,
+    "rankGapFactor": 0.1,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716533",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716533/feed/live",
+    "retrievedAt": "2026-07-04T06:02:57.013065Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:57.013067Z"
+}

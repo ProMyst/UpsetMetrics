@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-08-03-royals-at-tigers",
+  "sport": "mlb",
+  "date": "2024-08-03",
+  "startTime": "2024-08-03T22:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "53-59"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "62-50"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.501,
+    "rankGapFactor": 0.161,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746440",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746440/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.020940Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.020942Z"
+}

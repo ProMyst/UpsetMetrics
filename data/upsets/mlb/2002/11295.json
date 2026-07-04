@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-07-05-cleveland-indians-at-white-sox",
+  "sport": "mlb",
+  "date": "2002-07-05",
+  "startTime": "2002-07-05T23:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "38-46"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "41-45"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.361,
+    "rankGapFactor": 0.049,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "11295",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/11295/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.890637Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.890641Z"
+}

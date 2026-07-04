@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-05-27-royals-at-yankees",
+  "sport": "mlb",
+  "date": "2015-05-27",
+  "startTime": "2015-05-27T17:05:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "25-22"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "28-18"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.492,
+    "rankGapFactor": 0.154,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414351",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414351/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.855635Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.855637Z"
+}

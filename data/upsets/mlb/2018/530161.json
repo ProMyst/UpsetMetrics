@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-05-25-angels-at-yankees",
+  "sport": "mlb",
+  "date": "2018-05-25",
+  "startTime": "2018-05-25T23:05:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "32-16"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "28-23"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530161",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530161/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.761059Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.761061Z"
+}

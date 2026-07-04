@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-07-22-brewers-at-giants",
+  "sport": "mlb",
+  "date": "2011-07-22",
+  "startTime": "2011-07-23T02:15:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "54-47"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "57-43"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.388,
+    "rankGapFactor": 0.071,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288383",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288383/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.286381Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.286383Z"
+}

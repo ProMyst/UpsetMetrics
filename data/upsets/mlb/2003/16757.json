@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-07-29-orioles-at-twins",
+  "sport": "mlb",
+  "date": "2003-07-29",
+  "startTime": "2003-07-30T00:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "50-53"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "51-54"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.301,
+    "rankGapFactor": 0.001,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16757",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16757/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.701977Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.701978Z"
+}

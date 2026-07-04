@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-08-27-cubs-at-giants",
+  "sport": "mlb",
+  "date": "2025-08-27",
+  "startTime": "2025-08-28T01:45:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "65-68"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "76-57"
+  },
+  "finalScore": "12-3",
+  "factors": {
+    "pregameOddsFactor": 0.507,
+    "rankGapFactor": 0.165,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776557",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776557/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.101200Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.101202Z"
+}

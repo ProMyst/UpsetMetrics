@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-03-20-diamondbacks-at-athletics",
+  "sport": "mlb",
+  "date": "2017-03-20",
+  "startTime": "2017-03-21T02:05:00Z",
+  "season": "2017",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "12-10"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "11-10"
+  },
+  "finalScore": "10-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "509848",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/509848/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.009399Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.009402Z"
+}

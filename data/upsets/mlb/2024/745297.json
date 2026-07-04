@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-08-21-white-sox-at-giants",
+  "sport": "mlb",
+  "date": "2024-08-21",
+  "startTime": "2024-08-21T19:45:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "31-97"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "65-64"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.954,
+    "rankGapFactor": 0.523,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745297",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745297/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.068040Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.068042Z"
+}

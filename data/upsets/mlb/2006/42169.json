@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-17-mariners-at-royals",
+  "sport": "mlb",
+  "date": "2006-09-17",
+  "startTime": "2006-09-17T18:10:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "71-78"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "58-92"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42169",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42169/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.674524Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.674526Z"
+}

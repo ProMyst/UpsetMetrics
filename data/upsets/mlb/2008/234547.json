@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-05-27-rangers-at-rays",
+  "sport": "mlb",
+  "date": "2008-05-27",
+  "startTime": "2008-05-27T23:10:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "27-27"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "31-21"
+  },
+  "finalScore": "12-6",
+  "factors": {
+    "pregameOddsFactor": 0.54,
+    "rankGapFactor": 0.192,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234547",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234547/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.857885Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.857887Z"
+}

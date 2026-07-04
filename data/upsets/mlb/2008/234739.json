@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-06-10-nationals-at-pirates",
+  "sport": "mlb",
+  "date": "2008-06-10",
+  "startTime": "2008-06-10T23:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "26-40"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "31-34"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.507,
+    "rankGapFactor": 0.166,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234739",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234739/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.895653Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.895655Z"
+}

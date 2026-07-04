@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-04-24-white-sox-at-athletics",
+  "sport": "mlb",
+  "date": "2012-04-24",
+  "startTime": "2012-04-25T02:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "9-10"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "10-7"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.586,
+    "rankGapFactor": 0.229,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "317983",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/317983/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.289842Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.289844Z"
+}

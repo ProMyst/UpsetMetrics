@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-09-26-cubs-at-rockies",
+  "sport": "mlb",
+  "date": "2012-09-26",
+  "startTime": "2012-09-27T00:40:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "61-94"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "59-96"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "320048",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/320048/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.706957Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.706959Z"
+}

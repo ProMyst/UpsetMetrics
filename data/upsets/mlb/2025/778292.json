@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-04-17-guardians-at-orioles",
+  "sport": "mlb",
+  "date": "2025-04-17",
+  "startTime": "2025-04-17T22:35:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "8-10"
+  },
+  "loser": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "9-9"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.439,
+    "rankGapFactor": 0.111,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "778292",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/778292/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.749012Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "guardians-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.749014Z"
+}

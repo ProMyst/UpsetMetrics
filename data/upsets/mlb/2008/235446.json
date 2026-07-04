@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-08-05-cleveland-indians-at-rays",
+  "sport": "mlb",
+  "date": "2008-08-05",
+  "startTime": "2008-08-05T23:10:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "67-45"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "49-63"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235446",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235446/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.044474Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.044479Z"
+}

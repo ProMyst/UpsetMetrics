@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-07-17-mariners-at-astros",
+  "sport": "mlb",
+  "date": "2017-07-17",
+  "startTime": "2017-07-18T00:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "47-47"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "62-31"
+  },
+  "finalScore": "9-7",
+  "factors": {
+    "pregameOddsFactor": 0.717,
+    "rankGapFactor": 0.333,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491487",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491487/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.235680Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.235681Z"
+}

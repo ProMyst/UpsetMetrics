@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-07-22-braves-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2002-07-22",
+  "startTime": "2002-07-22T23:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "49-50"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "64-36"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.663,
+    "rankGapFactor": 0.29,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10815",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10815/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.937359Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.937364Z"
+}

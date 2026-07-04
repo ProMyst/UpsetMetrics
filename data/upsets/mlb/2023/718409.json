@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-04-27-cardinals-at-giants",
+  "sport": "mlb",
+  "date": "2023-04-27",
+  "startTime": "2023-04-27T19:45:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "10-16"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "11-14"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.438,
+    "rankGapFactor": 0.111,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718409",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718409/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.635574Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.635576Z"
+}

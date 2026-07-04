@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-05-25-cardinals-at-padres",
+  "sport": "mlb",
+  "date": "2011-05-25",
+  "startTime": "2011-05-25T22:35:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "20-30"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "30-21"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.771,
+    "rankGapFactor": 0.376,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287644",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287644/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.130381Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.130383Z"
+}

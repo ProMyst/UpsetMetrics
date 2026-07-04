@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-05-25-giants-at-brewers",
+  "sport": "mlb",
+  "date": "2015-05-25",
+  "startTime": "2015-05-25T18:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "26-20"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "16-30"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414326",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414326/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.851671Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.851673Z"
+}

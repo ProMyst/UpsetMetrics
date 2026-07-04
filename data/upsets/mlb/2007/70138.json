@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-08-31-reds-at-cardinals",
+  "sport": "mlb",
+  "date": "2007-08-31",
+  "startTime": "2007-09-01T00:10:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "65-66"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "62-73"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "70138",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/70138/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.537190Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.537192Z"
+}

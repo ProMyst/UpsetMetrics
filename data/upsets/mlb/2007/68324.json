@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-04-17-braves-at-nationals",
+  "sport": "mlb",
+  "date": "2007-04-17",
+  "startTime": "2007-04-17T23:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "9-4"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "4-10"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68324",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68324/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.164780Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.164782Z"
+}

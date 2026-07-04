@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-08-11-cleveland-indians-at-royals",
+  "sport": "mlb",
+  "date": "2005-08-11",
+  "startTime": "2005-08-12T00:10:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "63-52"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "38-76"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24353",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24353/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.718822Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.718826Z"
+}

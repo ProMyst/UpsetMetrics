@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-10-01-red-sox-at-athletics",
+  "sport": "mlb",
+  "date": "2003-10-01",
+  "startTime": "2003-10-02T02:00:00Z",
+  "season": "2003",
+  "event": "AL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "18494",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/18494/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.875274Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.875276Z"
+}

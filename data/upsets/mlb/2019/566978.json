@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-02-astros-at-twins",
+  "sport": "mlb",
+  "date": "2019-05-02",
+  "startTime": "2019-05-02T17:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "19-10"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "18-14"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566978",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566978/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.212920Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.212921Z"
+}

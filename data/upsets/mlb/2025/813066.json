@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-09-30-padres-at-cubs",
+  "sport": "mlb",
+  "date": "2025-09-30",
+  "startTime": "2025-09-30T19:08:00Z",
+  "season": "2025",
+  "event": "NL Wild Card Series",
+  "stakes": "Wild Card",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.75,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "813066",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/813066/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.185503Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.185505Z"
+}

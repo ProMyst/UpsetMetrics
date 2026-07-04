@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-09-17-giants-at-mets",
+  "sport": "mlb",
+  "date": "2013-09-17",
+  "startTime": "2013-09-17T23:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "70-81"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "67-83"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "349001",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/349001/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.571091Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.571093Z"
+}

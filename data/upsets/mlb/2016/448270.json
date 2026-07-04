@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-07-19-giants-at-red-sox",
+  "sport": "mlb",
+  "date": "2016-07-19",
+  "startTime": "2016-07-19T23:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "52-39"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "57-37"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.387,
+    "rankGapFactor": 0.07,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448270",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448270/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.267551Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.267552Z"
+}

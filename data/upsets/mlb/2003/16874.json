@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-04-19-phillies-at-braves",
+  "sport": "mlb",
+  "date": "2003-04-19",
+  "startTime": "2003-04-19T23:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "10-8"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "9-9"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16874",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16874/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.425741Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.425743Z"
+}

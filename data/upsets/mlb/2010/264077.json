@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-04-25-tigers-at-rangers",
+  "sport": "mlb",
+  "date": "2010-04-25",
+  "startTime": "2010-04-25T19:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "8-10"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "10-9"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.505,
+    "rankGapFactor": 0.164,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264077",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264077/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.818741Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.818743Z"
+}

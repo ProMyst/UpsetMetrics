@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-05-13-red-sox-at-mariners",
+  "sport": "mlb",
+  "date": "2005-05-13",
+  "startTime": "2005-05-14T02:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "14-21"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "21-14"
+  },
+  "finalScore": "14-7",
+  "factors": {
+    "pregameOddsFactor": 0.8,
+    "rankGapFactor": 0.4,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23167",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23167/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.472787Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.472789Z"
+}

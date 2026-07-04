@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-04-27-tigers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2005-04-27",
+  "startTime": "2005-04-27T23:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "9-10"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "8-12"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "22952",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/22952/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.427417Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.427421Z"
+}

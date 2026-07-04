@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-08-16-rockies-at-mets",
+  "sport": "mlb",
+  "date": "2003-08-16",
+  "startTime": "2003-08-16T23:10:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "52-69"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "61-64"
+  },
+  "finalScore": "13-4",
+  "factors": {
+    "pregameOddsFactor": 0.446,
+    "rankGapFactor": 0.116,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15956",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15956/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.752688Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.752690Z"
+}

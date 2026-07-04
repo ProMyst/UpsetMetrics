@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-07-06-phillies-at-cubs",
+  "sport": "mlb",
+  "date": "2021-07-06",
+  "startTime": "2021-07-07T00:05:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "41-42"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "42-44"
+  },
+  "finalScore": "15-10",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633393",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633393/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.073684Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.073686Z"
+}

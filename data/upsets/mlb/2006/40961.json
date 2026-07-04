@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-06-17-padres-at-angels",
+  "sport": "mlb",
+  "date": "2006-06-17",
+  "startTime": "2006-06-17T20:10:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "31-37"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "35-33"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.447,
+    "rankGapFactor": 0.118,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40961",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40961/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.424678Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.424680Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-09-08-cleveland-indians-at-twins",
+  "sport": "mlb",
+  "date": "2012-09-08",
+  "startTime": "2012-09-08T23:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "57-82"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "59-80"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.336,
+    "rankGapFactor": 0.029,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319809",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319809/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.656561Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.656566Z"
+}

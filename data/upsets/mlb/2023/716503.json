@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-09-20-mets-at-marlins",
+  "sport": "mlb",
+  "date": "2023-09-20",
+  "startTime": "2023-09-20T22:40:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "71-81"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "79-74"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.423,
+    "rankGapFactor": 0.098,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716503",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716503/feed/live",
+    "retrievedAt": "2026-07-04T06:02:57.018775Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:57.018777Z"
+}

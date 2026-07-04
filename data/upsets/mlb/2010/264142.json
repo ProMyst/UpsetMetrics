@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-04-30-white-sox-at-yankees",
+  "sport": "mlb",
+  "date": "2010-04-30",
+  "startTime": "2010-04-30T23:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "15-7"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "9-14"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264142",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264142/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.831227Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.831229Z"
+}

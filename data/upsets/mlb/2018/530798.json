@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-07-11-cardinals-at-white-sox",
+  "sport": "mlb",
+  "date": "2018-07-11",
+  "startTime": "2018-07-12T00:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "31-61"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "47-44"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.749,
+    "rankGapFactor": 0.359,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530798",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530798/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.848288Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.848290Z"
+}

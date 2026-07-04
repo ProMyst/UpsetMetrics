@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-06-14-mets-at-orioles",
+  "sport": "mlb",
+  "date": "2001-06-14",
+  "startTime": "2001-06-14T23:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "30-34"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "29-37"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7662",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7662/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.163223Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.163225Z"
+}

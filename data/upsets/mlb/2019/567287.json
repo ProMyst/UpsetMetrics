@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-19-blue-jays-at-white-sox",
+  "sport": "mlb",
+  "date": "2019-05-19",
+  "startTime": "2019-05-19T18:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "19-27"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "21-24"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.434,
+    "rankGapFactor": 0.107,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567287",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567287/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.242135Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.242137Z"
+}

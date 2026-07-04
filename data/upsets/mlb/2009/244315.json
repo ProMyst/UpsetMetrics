@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-04-15-reds-at-brewers",
+  "sport": "mlb",
+  "date": "2009-04-15",
+  "startTime": "2009-04-16T00:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "3-6"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "4-4"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244315",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244315/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.558366Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.558368Z"
+}

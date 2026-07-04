@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-07-22-blue-jays-at-royals",
+  "sport": "mlb",
+  "date": "2005-07-22",
+  "startTime": "2005-07-23T00:10:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "35-61"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "48-48"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.639,
+    "rankGapFactor": 0.271,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24080",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24080/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.663349Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.663351Z"
+}

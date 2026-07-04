@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-04-17-mets-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2016-04-17",
+  "startTime": "2016-04-17T17:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "5-6"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "5-5"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447047",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447047/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.103600Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.103603Z"
+}

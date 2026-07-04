@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-04-26-rays-at-white-sox",
+  "sport": "mlb",
+  "date": "2024-04-26",
+  "startTime": "2024-04-26T23:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "4-22"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "13-14"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.655,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746808",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746808/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.766656Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.766658Z"
+}

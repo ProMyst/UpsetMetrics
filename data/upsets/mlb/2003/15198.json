@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-06-08-yankees-at-cubs",
+  "sport": "mlb",
+  "date": "2003-06-08",
+  "startTime": "2003-06-09T00:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "34-27"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "35-27"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.318,
+    "rankGapFactor": 0.014,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15198",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15198/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.564125Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.564127Z"
+}

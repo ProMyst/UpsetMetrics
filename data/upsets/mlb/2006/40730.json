@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-05-31-yankees-at-tigers",
+  "sport": "mlb",
+  "date": "2006-05-31",
+  "startTime": "2006-05-31T23:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "31-20"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "35-18"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.431,
+    "rankGapFactor": 0.105,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40730",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40730/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.379029Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.379031Z"
+}

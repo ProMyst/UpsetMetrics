@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-06-08-angels-at-athletics",
+  "sport": "mlb",
+  "date": "2008-06-08",
+  "startTime": "2008-06-08T20:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "34-29"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "39-25"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.474,
+    "rankGapFactor": 0.139,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234703",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234703/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.893057Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.893059Z"
+}

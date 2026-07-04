@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-09-15-cleveland-indians-at-white-sox",
+  "sport": "mlb",
+  "date": "2013-09-15",
+  "startTime": "2013-09-15T18:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "81-68"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "58-91"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "348967",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/348967/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.566069Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.566074Z"
+}

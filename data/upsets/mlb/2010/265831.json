@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-09-04-rockies-at-padres",
+  "sport": "mlb",
+  "date": "2010-09-04",
+  "startTime": "2010-09-04T20:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "71-64"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "76-58"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.403,
+    "rankGapFactor": 0.082,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265831",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265831/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.172819Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.172821Z"
+}

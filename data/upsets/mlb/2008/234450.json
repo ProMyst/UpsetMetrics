@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-05-20-cardinals-at-padres",
+  "sport": "mlb",
+  "date": "2008-05-20",
+  "startTime": "2008-05-21T02:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "17-30"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "27-21"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.802,
+    "rankGapFactor": 0.402,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234450",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234450/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.840092Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.840094Z"
+}

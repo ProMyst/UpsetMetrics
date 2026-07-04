@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-05-06-rockies-at-giants",
+  "sport": "mlb",
+  "date": "2011-05-06",
+  "startTime": "2011-05-07T02:15:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "16-16"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "18-12"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.55,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287372",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287372/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.079020Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.079022Z"
+}

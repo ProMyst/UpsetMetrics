@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-05-14-braves-at-marlins",
+  "sport": "mlb",
+  "date": "2017-05-14",
+  "startTime": "2017-05-14T17:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "14-22"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "13-21"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490654",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490654/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.124648Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.124649Z"
+}

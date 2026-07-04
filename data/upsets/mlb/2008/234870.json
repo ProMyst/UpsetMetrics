@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-06-20-cardinals-at-red-sox",
+  "sport": "mlb",
+  "date": "2008-06-20",
+  "startTime": "2008-06-20T23:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "43-32"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "46-30"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.38,
+    "rankGapFactor": 0.064,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234870",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234870/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.922686Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.922688Z"
+}

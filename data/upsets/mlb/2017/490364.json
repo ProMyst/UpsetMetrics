@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-04-22-blue-jays-at-angels",
+  "sport": "mlb",
+  "date": "2017-04-22",
+  "startTime": "2017-04-23T01:07:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "8-11"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "4-13"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490364",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490364/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.086624Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.086625Z"
+}

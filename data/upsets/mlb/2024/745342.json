@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-05-14-dodgers-at-giants",
+  "sport": "mlb",
+  "date": "2024-05-14",
+  "startTime": "2024-05-15T01:45:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "29-15"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "19-25"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745342",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745342/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.815321Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.815323Z"
+}

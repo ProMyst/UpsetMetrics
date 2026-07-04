@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-05-08-red-sox-at-athletics",
+  "sport": "mlb",
+  "date": "2002-05-08",
+  "startTime": "2002-05-09T02:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "23-7"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "17-16"
+  },
+  "finalScore": "12-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10107",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10107/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.732766Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.732768Z"
+}

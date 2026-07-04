@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-07-20-rays-at-orioles",
+  "sport": "mlb",
+  "date": "2010-07-20",
+  "startTime": "2010-07-20T23:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "30-63"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "56-37"
+  },
+  "finalScore": "11-10",
+  "factors": {
+    "pregameOddsFactor": 0.999,
+    "rankGapFactor": 0.559,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265211",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265211/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.045967Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.045969Z"
+}

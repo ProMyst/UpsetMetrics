@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-09-12-rangers-at-mariners",
+  "sport": "mlb",
+  "date": "2024-09-12",
+  "startTime": "2024-09-13T01:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "71-76"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "74-73"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.351,
+    "rankGapFactor": 0.041,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745208",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745208/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.127226Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.127228Z"
+}

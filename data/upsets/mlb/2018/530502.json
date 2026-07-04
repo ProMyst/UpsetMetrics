@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-06-19-rays-at-astros",
+  "sport": "mlb",
+  "date": "2018-06-19",
+  "startTime": "2018-06-20T00:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "34-39"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "49-26"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.769,
+    "rankGapFactor": 0.375,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530502",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530502/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.805772Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.805774Z"
+}

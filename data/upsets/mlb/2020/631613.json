@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-08-17-cardinals-at-cubs",
+  "sport": "mlb",
+  "date": "2020-08-17",
+  "startTime": "2020-08-17T21:15:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "5-4"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "13-7"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "631613",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/631613/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.578266Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.578268Z"
+}

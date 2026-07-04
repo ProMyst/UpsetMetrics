@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-07-22-rockies-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2010-07-22",
+  "startTime": "2010-07-22T16:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "47-48"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "51-44"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.405,
+    "rankGapFactor": 0.084,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265234",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265234/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.051929Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.051933Z"
+}

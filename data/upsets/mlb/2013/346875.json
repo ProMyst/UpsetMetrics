@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-04-11-white-sox-at-nationals",
+  "sport": "mlb",
+  "date": "2013-04-11",
+  "startTime": "2013-04-11T23:05:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "7-2"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "4-5"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "346875",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/346875/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.138888Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.138890Z"
+}

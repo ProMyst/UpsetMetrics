@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-09-24-angels-at-astros",
+  "sport": "mlb",
+  "date": "2017-09-24",
+  "startTime": "2017-09-25T00:05:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "77-78"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "95-60"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.59,
+    "rankGapFactor": 0.232,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "492424",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/492424/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.357595Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.357596Z"
+}

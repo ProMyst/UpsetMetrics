@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-06-10-cleveland-indians-at-reds",
+  "sport": "mlb",
+  "date": "2007-06-10",
+  "startTime": "2007-06-10T17:15:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "25-39"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "37-24"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.84,
+    "rankGapFactor": 0.432,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69066",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69066/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.313176Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.313181Z"
+}

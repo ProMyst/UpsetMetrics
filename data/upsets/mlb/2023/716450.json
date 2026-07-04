@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-09-24-orioles-at-guardians",
+  "sport": "mlb",
+  "date": "2023-09-24",
+  "startTime": "2023-09-24T17:40:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "97-59"
+  },
+  "loser": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "74-83"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716450",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716450/feed/live",
+    "retrievedAt": "2026-07-04T06:02:57.028117Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-guardians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:57.028119Z"
+}

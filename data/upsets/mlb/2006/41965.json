@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-02-twins-at-yankees",
+  "sport": "mlb",
+  "date": "2006-09-02",
+  "startTime": "2006-09-02T17:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "78-56"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "80-54"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.337,
+    "rankGapFactor": 0.03,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41965",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41965/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.630836Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.630838Z"
+}

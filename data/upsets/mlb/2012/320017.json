@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-09-23-twins-at-tigers",
+  "sport": "mlb",
+  "date": "2012-09-23",
+  "startTime": "2012-09-23T17:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "63-89"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "80-71"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.588,
+    "rankGapFactor": 0.231,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "320017",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/320017/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.695622Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.695624Z"
+}

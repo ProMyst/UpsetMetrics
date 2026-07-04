@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-06-04-white-sox-at-tigers",
+  "sport": "mlb",
+  "date": "2016-06-04",
+  "startTime": "2016-06-04T20:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "27-28"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "29-27"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.367,
+    "rankGapFactor": 0.054,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447696",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447696/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.190282Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.190283Z"
+}

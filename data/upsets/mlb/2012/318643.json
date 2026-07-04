@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-06-12-diamondbacks-at-rangers",
+  "sport": "mlb",
+  "date": "2012-06-12",
+  "startTime": "2012-06-13T00:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "36-26"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "30-31"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318643",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318643/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.419981Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.419983Z"
+}

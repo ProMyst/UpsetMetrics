@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-05-14-reds-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2024-05-14",
+  "startTime": "2024-05-15T01:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "18-24"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "20-23"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.391,
+    "rankGapFactor": 0.073,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "747205",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/747205/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.814771Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.814773Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-04-04-diamondbacks-at-padres",
+  "sport": "mlb",
+  "date": "2021-04-04",
+  "startTime": "2021-04-04T20:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "1-3"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "3-1"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "634572",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/634572/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.815934Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.815936Z"
+}

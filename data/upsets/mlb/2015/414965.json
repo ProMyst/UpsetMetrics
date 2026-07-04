@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-07-11-brewers-at-dodgers",
+  "sport": "mlb",
+  "date": "2015-07-11",
+  "startTime": "2015-07-12T02:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "38-51"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "50-39"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.637,
+    "rankGapFactor": 0.27,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414965",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414965/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.939696Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.939697Z"
+}

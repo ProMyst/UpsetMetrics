@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-08-21-cleveland-indians-at-athletics",
+  "sport": "mlb",
+  "date": "2001-08-21",
+  "startTime": "2001-08-22T02:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "70-55"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "73-53"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.348,
+    "rankGapFactor": 0.039,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8441",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8441/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.353564Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.353569Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-07-26-guardians-at-phillies",
+  "sport": "mlb",
+  "date": "2024-07-26",
+  "startTime": "2024-07-26T22:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "62-41"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "64-39"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.349,
+    "rankGapFactor": 0.039,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745554",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745554/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.999795Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "guardians-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.999796Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-05-15-mets-at-cardinals",
+  "sport": "mlb",
+  "date": "2013-05-15",
+  "startTime": "2013-05-16T00:15:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "26-13"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "14-23"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347345",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347345/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.232949Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.232951Z"
+}

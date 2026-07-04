@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-09-09-dodgers-at-cardinals",
+  "sport": "mlb",
+  "date": "2021-09-09",
+  "startTime": "2021-09-09T17:15:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "71-68"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "88-53"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.583,
+    "rankGapFactor": 0.227,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "632564",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/632564/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.241958Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.241959Z"
+}

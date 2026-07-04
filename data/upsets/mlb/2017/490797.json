@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-05-24-giants-at-cubs",
+  "sport": "mlb",
+  "date": "2017-05-24",
+  "startTime": "2017-05-25T00:05:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "24-21"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "20-28"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490797",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490797/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.143369Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.143370Z"
+}

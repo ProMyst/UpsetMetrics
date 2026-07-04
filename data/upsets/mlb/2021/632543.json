@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-09-10-rays-at-tigers",
+  "sport": "mlb",
+  "date": "2021-09-10",
+  "startTime": "2021-09-10T23:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "67-75"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "88-53"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.681,
+    "rankGapFactor": 0.305,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "632543",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/632543/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.244337Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.244339Z"
+}

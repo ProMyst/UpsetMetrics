@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-09-22-giants-at-braves",
+  "sport": "mlb",
+  "date": "2019-09-22",
+  "startTime": "2019-09-22T17:20:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "75-81"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "96-61"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.627,
+    "rankGapFactor": 0.261,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567247",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567247/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.455647Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.455648Z"
+}

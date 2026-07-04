@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-07-07-guardians-at-astros",
+  "sport": "mlb",
+  "date": "2025-07-07",
+  "startTime": "2025-07-08T00:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "41-48"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "55-36"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.659,
+    "rankGapFactor": 0.287,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777202",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777202/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.972157Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "guardians-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.972159Z"
+}

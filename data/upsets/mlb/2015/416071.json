@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-10-04-astros-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2015-10-04",
+  "startTime": "2015-10-04T19:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "79-83"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "86-76"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.408,
+    "rankGapFactor": 0.086,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "416071",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/416071/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.083080Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.083081Z"
+}

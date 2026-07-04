@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-08-11-twins-at-white-sox",
+  "sport": "mlb",
+  "date": "2010-08-11",
+  "startTime": "2010-08-12T00:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "64-50"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "64-50"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265510",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265510/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.108419Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.108421Z"
+}

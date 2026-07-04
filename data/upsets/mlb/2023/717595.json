@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-06-27-yankees-at-athletics",
+  "sport": "mlb",
+  "date": "2023-06-27",
+  "startTime": "2023-06-28T01:40:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "21-60"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "43-36"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.57,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717595",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717595/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.797888Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.797890Z"
+}

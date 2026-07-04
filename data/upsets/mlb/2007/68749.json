@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-05-19-braves-at-red-sox",
+  "sport": "mlb",
+  "date": "2007-05-19",
+  "startTime": "2007-05-19T23:35:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "26-17"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "29-13"
+  },
+  "finalScore": "14-0",
+  "factors": {
+    "pregameOddsFactor": 0.515,
+    "rankGapFactor": 0.172,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68749",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68749/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.252489Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.252491Z"
+}

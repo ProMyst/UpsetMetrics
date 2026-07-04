@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-05-04-yankees-at-tampa-bay-devil-rays",
+  "sport": "mlb",
+  "date": "2005-05-04",
+  "startTime": "2005-05-04T23:15:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "10-18"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "11-17"
+  },
+  "finalScore": "11-8",
+  "factors": {
+    "pregameOddsFactor": 0.389,
+    "rankGapFactor": 0.071,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23051",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23051/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.446592Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-tampa-bay-devil-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.446597Z"
+}

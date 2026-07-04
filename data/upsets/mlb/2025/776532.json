@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-08-30-braves-at-phillies",
+  "sport": "mlb",
+  "date": "2025-08-30",
+  "startTime": "2025-08-30T22:05:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "79-57"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "61-75"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776532",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776532/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.107113Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.107114Z"
+}

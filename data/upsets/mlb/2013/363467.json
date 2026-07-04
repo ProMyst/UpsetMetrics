@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-03-28-pirates-at-yankees",
+  "sport": "mlb",
+  "date": "2013-03-28",
+  "startTime": "2013-03-28T17:05:00Z",
+  "season": "2013",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "13-18"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "13-18"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "363467",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/363467/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.102932Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.102934Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-06-01-royals-at-tigers",
+  "sport": "mlb",
+  "date": "2004-06-01",
+  "startTime": "2004-06-01T23:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "18-31"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "23-28"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.509,
+    "rankGapFactor": 0.167,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20780",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20780/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.557750Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.557752Z"
+}

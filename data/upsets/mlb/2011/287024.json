@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-04-10-athletics-at-twins",
+  "sport": "mlb",
+  "date": "2011-04-10",
+  "startTime": "2011-04-10T18:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "4-5"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "3-6"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287024",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287024/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.006202Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.006204Z"
+}

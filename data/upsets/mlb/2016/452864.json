@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-04-02-philadelphia-phillies-futures-at-phillies",
+  "sport": "mlb",
+  "date": "2016-04-02",
+  "startTime": "2016-04-02T17:05:00Z",
+  "season": "2016",
+  "event": "Exhibition Game",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "3-0"
+  },
+  "loser": {
+    "slug": "philadelphia-phillies-futures",
+    "name": "Philadelphia Phillies Futures",
+    "recordEntering": "0-2"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "452864",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/452864/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.074482Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "philadelphia-phillies-futures-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.074487Z"
+}

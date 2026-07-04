@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-05-19-orioles-at-rangers",
+  "sport": "mlb",
+  "date": "2000-05-19",
+  "startTime": "2000-05-20T00:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "17-23"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "21-20"
+  },
+  "finalScore": "0-0",
+  "factors": {
+    "pregameOddsFactor": 0.518,
+    "rankGapFactor": 0.174,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5202",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5202/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.543108Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.543110Z"
+}

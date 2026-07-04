@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-08-12-cubs-at-rockies",
+  "sport": "mlb",
+  "date": "2007-08-12",
+  "startTime": "2007-08-12T19:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "61-56"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "60-57"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69882",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69882/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.483921Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.483923Z"
+}

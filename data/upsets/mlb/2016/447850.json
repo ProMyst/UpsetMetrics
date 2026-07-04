@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-06-15-brewers-at-giants",
+  "sport": "mlb",
+  "date": "2016-06-15",
+  "startTime": "2016-06-15T19:45:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "41-26"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "30-36"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447850",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447850/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.208776Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.208777Z"
+}

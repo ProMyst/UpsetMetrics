@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-10-18-giants-at-cardinals",
+  "sport": "mlb",
+  "date": "2012-10-18",
+  "startTime": "2012-10-19T00:00:00Z",
+  "season": "2012",
+  "event": "NL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "3-1"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "1-3"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "345626",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/345626/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.734228Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.734230Z"
+}

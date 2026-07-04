@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-08-31-royals-at-twins",
+  "sport": "mlb",
+  "date": "2007-08-31",
+  "startTime": "2007-08-31T18:10:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "60-73"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "67-67"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.422,
+    "rankGapFactor": 0.098,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69749",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69749/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.535035Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.535037Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-07-05-dodgers-at-rockies",
+  "sport": "mlb",
+  "date": "2005-07-05",
+  "startTime": "2005-07-06T01:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "29-53"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "39-44"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.591,
+    "rankGapFactor": 0.232,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23877",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23877/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.617734Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.617736Z"
+}

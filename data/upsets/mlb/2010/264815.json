@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-06-18-brewers-at-rockies",
+  "sport": "mlb",
+  "date": "2010-06-18",
+  "startTime": "2010-06-19T01:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "35-32"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "28-39"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264815",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264815/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.965798Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.965800Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-04-14-florida-marlins-at-phillies",
+  "sport": "mlb",
+  "date": "2003-04-14",
+  "startTime": "2003-04-14T23:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "8-5"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "6-8"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16791",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16791/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.408800Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.408804Z"
+}

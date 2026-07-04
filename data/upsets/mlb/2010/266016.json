@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-09-18-diamondbacks-at-pirates",
+  "sport": "mlb",
+  "date": "2010-09-18",
+  "startTime": "2010-09-18T23:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "50-98"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "59-90"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.445,
+    "rankGapFactor": 0.116,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "266016",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/266016/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.210751Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.210753Z"
+}

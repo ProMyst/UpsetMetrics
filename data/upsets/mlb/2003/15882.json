@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-09-05-florida-marlins-at-montreal-expos",
+  "sport": "mlb",
+  "date": "2003-09-05",
+  "startTime": "2003-09-05T23:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "72-70"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "76-65"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.38,
+    "rankGapFactor": 0.064,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15882",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15882/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.806629Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.806637Z"
+}

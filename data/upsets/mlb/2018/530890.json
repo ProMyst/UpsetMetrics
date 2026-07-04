@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-07-22-red-sox-at-tigers",
+  "sport": "mlb",
+  "date": "2018-07-22",
+  "startTime": "2018-07-22T17:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "70-31"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "42-59"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530890",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530890/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.860386Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.860388Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-06-24-orioles-at-cubs",
+  "sport": "mlb",
+  "date": "2008-06-24",
+  "startTime": "2008-06-25T00:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "40-36"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "48-29"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.543,
+    "rankGapFactor": 0.194,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234910",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234910/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.934122Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.934124Z"
+}

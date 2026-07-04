@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-06-04-twins-at-angels",
+  "sport": "mlb",
+  "date": "2017-06-04",
+  "startTime": "2017-06-04T19:37:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "29-24"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "29-31"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490950",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490950/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.163075Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.163077Z"
+}

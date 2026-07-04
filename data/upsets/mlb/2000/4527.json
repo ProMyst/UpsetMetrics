@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-09-13-dodgers-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2000-09-13",
+  "startTime": "2000-09-14T01:35:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "78-66"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "75-71"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4527",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4527/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.865893Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.865895Z"
+}

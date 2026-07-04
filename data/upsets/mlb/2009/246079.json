@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-08-26-orioles-at-twins",
+  "sport": "mlb",
+  "date": "2009-08-26",
+  "startTime": "2009-08-27T00:10:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "52-75"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "63-64"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.517,
+    "rankGapFactor": 0.173,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246079",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246079/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.915922Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.915924Z"
+}

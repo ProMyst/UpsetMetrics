@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-08-24-yankees-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2004-08-24",
+  "startTime": "2004-08-24T23:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "78-47"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "63-64"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21893",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21893/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.792004Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.792008Z"
+}

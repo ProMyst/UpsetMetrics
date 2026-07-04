@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-10-04-yankees-at-tigers",
+  "sport": "mlb",
+  "date": "2011-10-04",
+  "startTime": "2011-10-05T00:30:00Z",
+  "season": "2011",
+  "event": "AL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "2-2"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "2-2"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "317043",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/317043/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.479289Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.479291Z"
+}

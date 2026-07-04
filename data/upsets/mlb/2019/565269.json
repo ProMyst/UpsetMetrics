@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-07-26-rockies-at-reds",
+  "sport": "mlb",
+  "date": "2019-07-26",
+  "startTime": "2019-07-26T22:40:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "49-55"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "46-55"
+  },
+  "finalScore": "12-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565269",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565269/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.357376Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.357378Z"
+}

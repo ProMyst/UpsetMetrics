@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-08-18-montreal-expos-at-padres",
+  "sport": "mlb",
+  "date": "2000-08-18",
+  "startTime": "2000-08-19T02:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "52-66"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "57-65"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.366,
+    "rankGapFactor": 0.053,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5856",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5856/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.792412Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.792417Z"
+}

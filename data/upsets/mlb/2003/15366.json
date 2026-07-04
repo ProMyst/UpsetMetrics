@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-06-27-reds-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2003-06-27",
+  "startTime": "2003-06-27T23:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "31-46"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "37-41"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.479,
+    "rankGapFactor": 0.144,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15366",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15366/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.611892Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.611897Z"
+}

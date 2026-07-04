@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-05-21-angels-at-athletics",
+  "sport": "mlb",
+  "date": "2025-05-21",
+  "startTime": "2025-05-22T02:05:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "23-25"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Athletics",
+    "recordEntering": "22-28"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777828",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777828/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.842671Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.842673Z"
+}

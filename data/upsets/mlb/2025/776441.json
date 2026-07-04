@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-09-06-brewers-at-pirates",
+  "sport": "mlb",
+  "date": "2025-09-06",
+  "startTime": "2025-09-06T22:40:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "88-55"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "64-79"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776441",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776441/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.125659Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.125661Z"
+}

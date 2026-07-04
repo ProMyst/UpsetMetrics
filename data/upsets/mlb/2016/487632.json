@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-10-26-cubs-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2016-10-26",
+  "startTime": "2016-10-26T23:00:00Z",
+  "season": "2016",
+  "event": "World Series",
+  "stakes": "World Series",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "1-1"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "1-1"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 1.0,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "487632",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/487632/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.405881Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.405884Z"
+}

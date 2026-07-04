@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-10-01-phillies-at-nationals",
+  "sport": "mlb",
+  "date": "2012-10-01",
+  "startTime": "2012-10-01T23:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "81-79"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "96-64"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.534,
+    "rankGapFactor": 0.188,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "320130",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/320130/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.719065Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.719067Z"
+}

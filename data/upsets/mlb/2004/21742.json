@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-08-13-royals-at-athletics",
+  "sport": "mlb",
+  "date": "2004-08-13",
+  "startTime": "2004-08-14T02:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "41-73"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "64-51"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.792,
+    "rankGapFactor": 0.394,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21742",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21742/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.762969Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.762971Z"
+}

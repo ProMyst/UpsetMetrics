@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-06-11-padres-at-giants",
+  "sport": "mlb",
+  "date": "2019-06-11",
+  "startTime": "2019-06-12T01:45:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "27-38"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "33-34"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.493,
+    "rankGapFactor": 0.154,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566502",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566502/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.284675Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.284676Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-05-16-rays-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2017-05-16",
+  "startTime": "2017-05-16T22:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "20-22"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "20-18"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.425,
+    "rankGapFactor": 0.1,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490690",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490690/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.127719Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.127723Z"
+}

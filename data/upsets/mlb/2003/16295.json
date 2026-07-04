@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-09-14-anaheim-angels-at-mariners",
+  "sport": "mlb",
+  "date": "2003-09-14",
+  "startTime": "2003-09-14T20:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "71-79"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "86-63"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.56,
+    "rankGapFactor": 0.208,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16295",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16295/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.833956Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.833961Z"
+}

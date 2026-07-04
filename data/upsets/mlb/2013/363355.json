@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-03-21-brewers-at-white-sox",
+  "sport": "mlb",
+  "date": "2013-03-21",
+  "startTime": "2013-03-21T20:05:00Z",
+  "season": "2013",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "11-10"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "9-13"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "363355",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/363355/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.074790Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.074793Z"
+}

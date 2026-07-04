@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-08-09-brewers-at-cardinals",
+  "sport": "mlb",
+  "date": "2011-08-09",
+  "startTime": "2011-08-10T00:15:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "66-50"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "62-54"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288635",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288635/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.335535Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.335537Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-08-17-brewers-at-cardinals",
+  "sport": "mlb",
+  "date": "2010-08-17",
+  "startTime": "2010-08-18T00:15:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "56-64"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "65-52"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.522,
+    "rankGapFactor": 0.178,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265596",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265596/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.123954Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.123956Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-07-20-phillies-at-padres",
+  "sport": "mlb",
+  "date": "2007-07-20",
+  "startTime": "2007-07-21T02:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "48-48"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "53-42"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.445,
+    "rankGapFactor": 0.116,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69573",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69573/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.420614Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.420616Z"
+}

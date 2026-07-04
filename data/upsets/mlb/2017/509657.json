@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-03-20-cubs-at-rockies",
+  "sport": "mlb",
+  "date": "2017-03-20",
+  "startTime": "2017-03-20T20:10:00Z",
+  "season": "2017",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "9-11"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "12-11"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.479,
+    "rankGapFactor": 0.143,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "509657",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/509657/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.008785Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.008788Z"
+}

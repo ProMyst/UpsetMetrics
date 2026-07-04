@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-05-27-padres-at-angels",
+  "sport": "mlb",
+  "date": "2015-05-27",
+  "startTime": "2015-05-28T02:05:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "23-25"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "23-24"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.325,
+    "rankGapFactor": 0.02,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414354",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414354/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.856948Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.856949Z"
+}

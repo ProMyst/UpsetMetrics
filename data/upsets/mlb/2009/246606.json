@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-10-03-rangers-at-mariners",
+  "sport": "mlb",
+  "date": "2009-10-03",
+  "startTime": "2009-10-04T01:10:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "84-77"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "87-74"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.347,
+    "rankGapFactor": 0.037,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246606",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246606/feed/live",
+    "retrievedAt": "2026-07-04T06:20:14.020859Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:14.020861Z"
+}

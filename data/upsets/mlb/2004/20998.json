@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-06-18-white-sox-at-montreal-expos",
+  "sport": "mlb",
+  "date": "2004-06-18",
+  "startTime": "2004-06-18T23:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "35-28"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "20-45"
+  },
+  "finalScore": "11-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20998",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20998/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.604485Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.604490Z"
+}

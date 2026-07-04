@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-05-28-phillies-at-red-sox",
+  "sport": "mlb",
+  "date": "2013-05-28",
+  "startTime": "2013-05-28T23:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "25-27"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "32-21"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.608,
+    "rankGapFactor": 0.246,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347517",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347517/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.267502Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.267504Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-06-18-brewers-at-rockies",
+  "sport": "mlb",
+  "date": "2021-06-18",
+  "startTime": "2021-06-19T00:40:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "30-41"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "38-32"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.601,
+    "rankGapFactor": 0.241,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633616",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633616/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.020606Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.020608Z"
+}

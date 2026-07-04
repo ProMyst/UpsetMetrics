@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-05-23-royals-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2022-05-23",
+  "startTime": "2022-05-24T01:40:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "22-22"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "14-27"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "663340",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/663340/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.923357Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.923359Z"
+}

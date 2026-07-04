@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-08-08-astros-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2011-08-08",
+  "startTime": "2011-08-09T01:40:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "38-77"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "62-53"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.822,
+    "rankGapFactor": 0.417,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288620",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288620/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.332512Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.332514Z"
+}

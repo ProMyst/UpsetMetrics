@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-07-27-mariners-at-white-sox",
+  "sport": "mlb",
+  "date": "2024-07-27",
+  "startTime": "2024-07-27T23:15:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "55-51"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "27-80"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746768",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746768/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.004820Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.004822Z"
+}

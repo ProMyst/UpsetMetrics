@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-09-02-twins-at-mariners",
+  "sport": "mlb",
+  "date": "2002-09-02",
+  "startTime": "2002-09-02T22:35:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "81-57"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "80-59"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9728",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9728/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.054294Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.054296Z"
+}

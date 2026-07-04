@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-07-26-padres-at-orioles",
+  "sport": "mlb",
+  "date": "2024-07-26",
+  "startTime": "2024-07-26T23:05:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "56-50"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "61-42"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.46,
+    "rankGapFactor": 0.128,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "747010",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/747010/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.000165Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.000167Z"
+}

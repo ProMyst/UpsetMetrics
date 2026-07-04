@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-08-09-twins-at-royals",
+  "sport": "mlb",
+  "date": "2020-08-09",
+  "startTime": "2020-08-09T18:05:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "7-10"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "10-6"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.833,
+    "rankGapFactor": 0.426,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "631421",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/631421/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.557402Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.557404Z"
+}

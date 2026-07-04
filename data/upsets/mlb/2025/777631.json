@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-06-05-mets-at-dodgers",
+  "sport": "mlb",
+  "date": "2025-06-05",
+  "startTime": "2025-06-05T20:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "38-25"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "39-24"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.34,
+    "rankGapFactor": 0.032,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777631",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777631/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.881295Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.881297Z"
+}

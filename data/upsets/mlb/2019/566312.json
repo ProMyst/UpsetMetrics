@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-06-09-nationals-at-padres",
+  "sport": "mlb",
+  "date": "2019-06-09",
+  "startTime": "2019-06-09T20:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "30-35"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "33-33"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.396,
+    "rankGapFactor": 0.077,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566312",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566312/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.281641Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.281642Z"
+}

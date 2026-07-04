@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-07-02-cubs-at-red-sox",
+  "sport": "mlb",
+  "date": "2014-07-02",
+  "startTime": "2014-07-02T23:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "37-46"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "38-47"
+  },
+  "finalScore": "16-9",
+  "factors": {
+    "pregameOddsFactor": 0.303,
+    "rankGapFactor": 0.003,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381803",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381803/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.123538Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.123539Z"
+}

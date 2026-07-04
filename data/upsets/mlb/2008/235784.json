@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-08-30-royals-at-tigers",
+  "sport": "mlb",
+  "date": "2008-08-30",
+  "startTime": "2008-08-30T23:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "57-78"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "65-70"
+  },
+  "finalScore": "13-3",
+  "factors": {
+    "pregameOddsFactor": 0.448,
+    "rankGapFactor": 0.119,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235784",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235784/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.111948Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.111950Z"
+}

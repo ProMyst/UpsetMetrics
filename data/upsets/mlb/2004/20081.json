@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-04-09-cardinals-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2004-04-09",
+  "startTime": "2004-04-10T02:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "2-3"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "2-2"
+  },
+  "finalScore": "13-6",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20081",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20081/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.413011Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.413014Z"
+}

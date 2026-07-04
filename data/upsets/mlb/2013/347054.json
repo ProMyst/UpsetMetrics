@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-04-24-royals-at-tigers",
+  "sport": "mlb",
+  "date": "2013-04-24",
+  "startTime": "2013-04-24T23:08:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "10-9"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "10-8"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.373,
+    "rankGapFactor": 0.058,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347054",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347054/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.175259Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.175261Z"
+}

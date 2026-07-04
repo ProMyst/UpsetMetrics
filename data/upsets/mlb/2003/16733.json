@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-06-10-rockies-at-twins",
+  "sport": "mlb",
+  "date": "2003-06-10",
+  "startTime": "2003-06-11T00:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "33-32"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "35-27"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.442,
+    "rankGapFactor": 0.114,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16733",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16733/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.566645Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.566647Z"
+}

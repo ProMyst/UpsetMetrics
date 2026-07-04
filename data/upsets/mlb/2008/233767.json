@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-03-31-mets-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2008-03-31",
+  "startTime": "2008-03-31T20:10:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "233767",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/233767/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.702205Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.702210Z"
+}

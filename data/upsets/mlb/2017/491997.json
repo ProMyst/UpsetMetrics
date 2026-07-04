@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-08-24-red-sox-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2017-08-24",
+  "startTime": "2017-08-24T23:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "70-56"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "73-54"
+  },
+  "finalScore": "13-6",
+  "factors": {
+    "pregameOddsFactor": 0.348,
+    "rankGapFactor": 0.038,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491997",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491997/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.302657Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.302660Z"
+}

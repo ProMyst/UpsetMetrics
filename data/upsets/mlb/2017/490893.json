@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-05-31-reds-at-blue-jays",
+  "sport": "mlb",
+  "date": "2017-05-31",
+  "startTime": "2017-05-31T16:37:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "26-27"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "24-28"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490893",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490893/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.155526Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.155527Z"
+}

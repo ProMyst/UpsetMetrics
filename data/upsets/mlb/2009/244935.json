@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-05-30-yankees-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2009-05-30",
+  "startTime": "2009-05-30T23:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "29-20"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "21-30"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244935",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244935/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.681470Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.681475Z"
+}

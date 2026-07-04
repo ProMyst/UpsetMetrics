@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-05-12-giants-at-astros",
+  "sport": "mlb",
+  "date": "2005-05-12",
+  "startTime": "2005-05-13T00:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "17-17"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "12-22"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23153",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23153/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.470045Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.470047Z"
+}

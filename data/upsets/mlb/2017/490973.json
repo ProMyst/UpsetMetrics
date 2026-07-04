@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-06-06-pirates-at-orioles",
+  "sport": "mlb",
+  "date": "2017-06-06",
+  "startTime": "2017-06-06T23:05:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "30-26"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "26-32"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490973",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490973/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.164470Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.164471Z"
+}

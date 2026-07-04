@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-07-10-royals-at-yankees",
+  "sport": "mlb",
+  "date": "2013-07-10",
+  "startTime": "2013-07-10T23:05:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "49-42"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "43-45"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "348101",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/348101/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.392123Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.392125Z"
+}

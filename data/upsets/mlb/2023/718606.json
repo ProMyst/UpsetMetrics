@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-04-12-mariners-at-cubs",
+  "sport": "mlb",
+  "date": "2023-04-12",
+  "startTime": "2023-04-12T18:20:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "5-8"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "6-5"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718606",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718606/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.593929Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.593931Z"
+}

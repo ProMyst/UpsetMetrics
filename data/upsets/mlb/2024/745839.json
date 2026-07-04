@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-04-13-royals-at-mets",
+  "sport": "mlb",
+  "date": "2024-04-13",
+  "startTime": "2024-04-13T17:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "10-5"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "6-8"
+  },
+  "finalScore": "11-7",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745839",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745839/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.730131Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.730133Z"
+}

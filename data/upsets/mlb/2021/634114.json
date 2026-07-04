@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-05-13-blue-jays-at-braves",
+  "sport": "mlb",
+  "date": "2021-05-13",
+  "startTime": "2021-05-13T16:20:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "20-16"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "17-20"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "634114",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/634114/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.921498Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.921500Z"
+}

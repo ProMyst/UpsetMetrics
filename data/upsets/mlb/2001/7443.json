@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-05-26-anaheim-angels-at-tampa-bay-devil-rays",
+  "sport": "mlb",
+  "date": "2001-05-26",
+  "startTime": "2001-05-26T20:15:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "22-25"
+  },
+  "loser": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "13-35"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7443",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7443/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.112392Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-tampa-bay-devil-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.112400Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-08-09-reds-at-giants",
+  "sport": "mlb",
+  "date": "2009-08-09",
+  "startTime": "2009-08-09T20:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "48-62"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "61-50"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.583,
+    "rankGapFactor": 0.226,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245855",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245855/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.871400Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.871402Z"
+}

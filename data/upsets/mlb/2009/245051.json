@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-06-07-rays-at-yankees",
+  "sport": "mlb",
+  "date": "2009-06-07",
+  "startTime": "2009-06-07T17:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "33-23"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "29-29"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245051",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245051/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.702261Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.702263Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-05-23-blue-jays-at-yankees",
+  "sport": "mlb",
+  "date": "2003-05-23",
+  "startTime": "2003-05-23T23:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "25-24"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "29-19"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.535,
+    "rankGapFactor": 0.188,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "17132",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/17132/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.517568Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.517570Z"
+}

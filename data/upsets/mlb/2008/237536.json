@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-03-22-braves-at-nationals",
+  "sport": "mlb",
+  "date": "2008-03-22",
+  "startTime": "2008-03-22T17:05:00Z",
+  "season": "2008",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "10-14"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "12-11"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.563,
+    "rankGapFactor": 0.21,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "237536",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/237536/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.669341Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.669344Z"
+}

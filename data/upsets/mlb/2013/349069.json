@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-09-22-astros-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2013-09-22",
+  "startTime": "2013-09-22T17:05:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "86-70"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "51-105"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "349069",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/349069/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.584106Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.584111Z"
+}

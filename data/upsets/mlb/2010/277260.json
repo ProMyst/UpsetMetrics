@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-03-20-angels-at-rockies",
+  "sport": "mlb",
+  "date": "2010-03-20",
+  "startTime": "2010-03-20T20:10:00Z",
+  "season": "2010",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "12-8"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "4-10"
+  },
+  "finalScore": "11-10",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "277260",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/277260/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.709752Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.709756Z"
+}

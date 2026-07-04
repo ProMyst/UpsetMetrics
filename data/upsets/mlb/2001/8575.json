@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-08-31-rockies-at-giants",
+  "sport": "mlb",
+  "date": "2001-08-31",
+  "startTime": "2001-09-01T02:35:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "59-74"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "74-61"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.561,
+    "rankGapFactor": 0.209,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8575",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8575/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.381544Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.381546Z"
+}

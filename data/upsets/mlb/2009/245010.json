@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-06-05-orioles-at-athletics",
+  "sport": "mlb",
+  "date": "2009-06-05",
+  "startTime": "2009-06-06T02:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "23-30"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "24-31"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.306,
+    "rankGapFactor": 0.005,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245010",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245010/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.698193Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.698195Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-05-19-reds-at-braves",
+  "sport": "mlb",
+  "date": "2010-05-19",
+  "startTime": "2010-05-19T23:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "20-20"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "23-17"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.487,
+    "rankGapFactor": 0.15,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264405",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264405/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.884734Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.884736Z"
+}

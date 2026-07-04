@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-08-20-angels-at-rangers",
+  "sport": "mlb",
+  "date": "2019-08-20",
+  "startTime": "2019-08-20T18:05:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "63-65"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "61-65"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566806",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566806/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.398760Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.398761Z"
+}

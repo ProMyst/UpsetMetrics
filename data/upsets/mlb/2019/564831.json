@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-03-25-white-sox-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2019-03-25",
+  "startTime": "2019-03-26T01:40:00Z",
+  "season": "2019",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "11-17"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "12-17"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.352,
+    "rankGapFactor": 0.042,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "564831",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/564831/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.131180Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.131182Z"
+}

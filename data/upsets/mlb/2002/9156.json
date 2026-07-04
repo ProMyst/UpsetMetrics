@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-06-03-astros-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2002-06-03",
+  "startTime": "2002-06-04T02:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "35-22"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "25-31"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9156",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9156/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.804655Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.804657Z"
+}

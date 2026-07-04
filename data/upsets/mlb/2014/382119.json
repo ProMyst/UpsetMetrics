@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-07-28-athletics-at-astros",
+  "sport": "mlb",
+  "date": "2014-07-28",
+  "startTime": "2014-07-29T00:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "43-63"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "65-40"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.833,
+    "rankGapFactor": 0.427,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382119",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382119/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.163607Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.163608Z"
+}

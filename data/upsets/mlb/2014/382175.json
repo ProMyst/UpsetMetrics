@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-08-01-phillies-at-nationals",
+  "sport": "mlb",
+  "date": "2014-08-01",
+  "startTime": "2014-08-01T23:05:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "49-61"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "58-49"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.542,
+    "rankGapFactor": 0.193,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382175",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382175/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.169337Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.169338Z"
+}

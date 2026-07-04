@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-08-30-giants-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2002-08-30",
+  "startTime": "2002-08-31T02:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "76-58"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "84-50"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.449,
+    "rankGapFactor": 0.119,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9194",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9194/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.045532Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.045534Z"
+}

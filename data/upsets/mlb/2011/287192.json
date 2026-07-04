@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-04-25-nationals-at-pirates",
+  "sport": "mlb",
+  "date": "2011-04-25",
+  "startTime": "2011-04-25T23:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "10-12"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "10-11"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.354,
+    "rankGapFactor": 0.043,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287192",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287192/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.047670Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.047672Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-07-24-nationals-at-mets",
+  "sport": "mlb",
+  "date": "2012-07-24",
+  "startTime": "2012-07-24T23:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "57-39"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "47-50"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319190",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319190/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.530125Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.530127Z"
+}

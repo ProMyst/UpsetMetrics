@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-04-11-reds-at-pirates",
+  "sport": "mlb",
+  "date": "2002-04-11",
+  "startTime": "2002-04-11T23:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "5-4"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "5-3"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9930",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9930/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.656434Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.656436Z"
+}

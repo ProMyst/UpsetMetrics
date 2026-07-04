@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-06-11-red-sox-at-marlins",
+  "sport": "mlb",
+  "date": "2012-06-11",
+  "startTime": "2012-06-11T23:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "32-29"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "29-32"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318639",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318639/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.417919Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.417921Z"
+}

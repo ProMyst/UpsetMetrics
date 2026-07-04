@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-07-22-astros-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2012-07-22",
+  "startTime": "2012-07-22T20:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "47-48"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "34-62"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319154",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319154/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.526228Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.526231Z"
+}

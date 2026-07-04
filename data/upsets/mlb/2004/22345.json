@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-09-26-yankees-at-red-sox",
+  "sport": "mlb",
+  "date": "2004-09-26",
+  "startTime": "2004-09-26T18:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "93-62"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "97-59"
+  },
+  "finalScore": "11-4",
+  "factors": {
+    "pregameOddsFactor": 0.354,
+    "rankGapFactor": 0.044,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "22345",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/22345/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.886216Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.886218Z"
+}

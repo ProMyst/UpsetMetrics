@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-09-22-twins-at-white-sox",
+  "sport": "mlb",
+  "date": "2004-09-22",
+  "startTime": "2004-09-23T00:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "76-75"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "88-64"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.489,
+    "rankGapFactor": 0.151,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "22286",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/22286/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.874229Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.874231Z"
+}

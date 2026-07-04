@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-06-20-anaheim-angels-at-rangers",
+  "sport": "mlb",
+  "date": "2001-06-20",
+  "startTime": "2001-06-21T00:35:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "34-35"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "25-44"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7737",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7737/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.180210Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.180215Z"
+}

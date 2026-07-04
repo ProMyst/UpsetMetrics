@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-06-21-diamondbacks-at-royals",
+  "sport": "mlb",
+  "date": "2011-06-21",
+  "startTime": "2011-06-22T00:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "40-34"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "31-42"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288003",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288003/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.204581Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.204583Z"
+}

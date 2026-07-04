@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-03-27-angels-at-dodgers",
+  "sport": "mlb",
+  "date": "2018-03-27",
+  "startTime": "2018-03-28T02:10:00Z",
+  "season": "2018",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "17-15"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "13-20"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "534264",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/534264/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.645251Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.645254Z"
+}

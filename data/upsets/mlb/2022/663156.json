@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-05-18-pirates-at-cubs",
+  "sport": "mlb",
+  "date": "2022-05-18",
+  "startTime": "2022-05-18T23:40:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "16-21"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "15-21"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "663156",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/663156/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.910095Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.910097Z"
+}

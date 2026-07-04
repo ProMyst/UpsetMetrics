@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-05-27-florida-marlins-at-phillies",
+  "sport": "mlb",
+  "date": "2009-05-27",
+  "startTime": "2009-05-27T23:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "22-26"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "25-20"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.543,
+    "rankGapFactor": 0.194,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244895",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244895/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.673921Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.673926Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-08-26-rays-at-royals",
+  "sport": "mlb",
+  "date": "2013-08-26",
+  "startTime": "2013-08-26T18:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "66-64"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "74-55"
+  },
+  "finalScore": "11-1",
+  "factors": {
+    "pregameOddsFactor": 0.465,
+    "rankGapFactor": 0.132,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347167",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347167/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.510712Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.510714Z"
+}

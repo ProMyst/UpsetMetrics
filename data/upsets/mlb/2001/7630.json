@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-06-12-pirates-at-tigers",
+  "sport": "mlb",
+  "date": "2001-06-12",
+  "startTime": "2001-06-12T23:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "20-41"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "25-35"
+  },
+  "finalScore": "13-3",
+  "factors": {
+    "pregameOddsFactor": 0.522,
+    "rankGapFactor": 0.178,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7630",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7630/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.156318Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.156320Z"
+}

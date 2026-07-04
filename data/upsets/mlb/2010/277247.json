@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-03-20-yankees-at-astros",
+  "sport": "mlb",
+  "date": "2010-03-20",
+  "startTime": "2010-03-20T17:05:00Z",
+  "season": "2010",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "9-7"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "8-10"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "277247",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/277247/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.706224Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.706228Z"
+}

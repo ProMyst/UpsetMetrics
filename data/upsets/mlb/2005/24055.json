@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-07-20-brewers-at-cardinals",
+  "sport": "mlb",
+  "date": "2005-07-20",
+  "startTime": "2005-07-21T00:10:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "61-33"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "46-49"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24055",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24055/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.658283Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.658285Z"
+}

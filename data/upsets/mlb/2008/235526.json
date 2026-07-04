@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-08-10-rangers-at-orioles",
+  "sport": "mlb",
+  "date": "2008-08-10",
+  "startTime": "2008-08-10T17:35:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "61-58"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "57-60"
+  },
+  "finalScore": "15-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235526",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235526/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.058782Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.058785Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-04-25-pirates-at-phillies",
+  "sport": "mlb",
+  "date": "2013-04-25",
+  "startTime": "2013-04-25T17:05:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "13-9"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "9-14"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347073",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347073/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.176346Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.176348Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-05-09-cleveland-indians-at-blue-jays",
+  "sport": "mlb",
+  "date": "2017-05-09",
+  "startTime": "2017-05-09T23:07:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "18-14"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "12-21"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490586",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490586/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.115285Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.115288Z"
+}

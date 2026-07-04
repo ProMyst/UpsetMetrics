@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-06-08-cardinals-at-rockies",
+  "sport": "mlb",
+  "date": "2015-06-08",
+  "startTime": "2015-06-09T00:40:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "26-30"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "38-20"
+  },
+  "finalScore": "11-3",
+  "factors": {
+    "pregameOddsFactor": 0.777,
+    "rankGapFactor": 0.382,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414513",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414513/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.877115Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.877116Z"
+}

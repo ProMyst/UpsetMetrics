@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-10-05-angels-at-red-sox",
+  "sport": "mlb",
+  "date": "2007-10-05",
+  "startTime": "2007-10-06T00:30:00Z",
+  "season": "2007",
+  "event": "AL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "2-0"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "0-2"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "223996",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/223996/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.621789Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.621791Z"
+}

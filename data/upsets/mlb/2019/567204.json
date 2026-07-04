@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-06-16-phillies-at-braves",
+  "sport": "mlb",
+  "date": "2019-06-16",
+  "startTime": "2019-06-16T17:20:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "42-30"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "39-32"
+  },
+  "finalScore": "15-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567204",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567204/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.292430Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.292432Z"
+}

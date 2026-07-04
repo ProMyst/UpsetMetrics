@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-18-pirates-at-padres",
+  "sport": "mlb",
+  "date": "2019-05-18",
+  "startTime": "2019-05-19T00:40:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "23-20"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "23-23"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566298",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566298/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.240586Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.240587Z"
+}

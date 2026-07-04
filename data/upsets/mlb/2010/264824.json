@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-06-19-orioles-at-padres",
+  "sport": "mlb",
+  "date": "2010-06-19",
+  "startTime": "2010-06-20T00:35:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "19-49"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "39-29"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.588,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264824",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264824/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.968896Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.968898Z"
+}

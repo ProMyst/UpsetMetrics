@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-05-29-red-sox-at-blue-jays",
+  "sport": "mlb",
+  "date": "2009-05-29",
+  "startTime": "2009-05-29T23:07:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "28-23"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "28-21"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.356,
+    "rankGapFactor": 0.045,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244912",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244912/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.678230Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.678232Z"
+}

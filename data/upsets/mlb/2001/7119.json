@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-04-28-pirates-at-padres",
+  "sport": "mlb",
+  "date": "2001-04-28",
+  "startTime": "2001-04-29T02:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "9-15"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "9-13"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.385,
+    "rankGapFactor": 0.068,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7119",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7119/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.037832Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.037834Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-07-27-white-sox-at-red-sox",
+  "sport": "mlb",
+  "date": "2015-07-27",
+  "startTime": "2015-07-27T23:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "47-50"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "44-56"
+  },
+  "finalScore": "10-8",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415131",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415131/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.960979Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.960980Z"
+}

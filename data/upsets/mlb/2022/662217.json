@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-08-10-giants-at-padres",
+  "sport": "mlb",
+  "date": "2022-08-10",
+  "startTime": "2022-08-10T20:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "63-51"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "54-57"
+  },
+  "finalScore": "13-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662217",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662217/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.136556Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.136558Z"
+}

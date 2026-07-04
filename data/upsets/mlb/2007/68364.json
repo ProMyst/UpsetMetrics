@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-04-19-rangers-at-white-sox",
+  "sport": "mlb",
+  "date": "2007-04-19",
+  "startTime": "2007-04-20T00:11:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "7-7"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "6-9"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68364",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68364/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.172513Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.172515Z"
+}

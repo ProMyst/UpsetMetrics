@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-04-06-rays-at-giants",
+  "sport": "mlb",
+  "date": "2019-04-06",
+  "startTime": "2019-04-06T20:05:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "3-6"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "6-3"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566472",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566472/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.158531Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.158533Z"
+}

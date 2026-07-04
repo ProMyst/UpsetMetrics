@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-05-02-reds-at-braves",
+  "sport": "mlb",
+  "date": "2008-05-02",
+  "startTime": "2008-05-02T23:30:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "13-15"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "12-18"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234193",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234193/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.788994Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.788997Z"
+}

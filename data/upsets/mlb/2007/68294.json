@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-04-14-tampa-bay-devil-rays-at-twins",
+  "sport": "mlb",
+  "date": "2007-04-14",
+  "startTime": "2007-04-14T23:10:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "7-4"
+  },
+  "loser": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "4-7"
+  },
+  "finalScore": "12-5",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68294",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68294/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.157569Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tampa-bay-devil-rays-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.157574Z"
+}

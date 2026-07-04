@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-08-02-athletics-at-angels",
+  "sport": "mlb",
+  "date": "2016-08-02",
+  "startTime": "2016-08-03T02:05:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "48-58"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "47-59"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448454",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448454/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.293834Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.293835Z"
+}

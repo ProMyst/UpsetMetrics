@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-06-26-rockies-at-giants",
+  "sport": "mlb",
+  "date": "2019-06-26",
+  "startTime": "2019-06-26T19:45:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "42-38"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "34-45"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566509",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566509/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.308930Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.308931Z"
+}

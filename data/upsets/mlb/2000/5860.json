@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-08-29-astros-at-mets",
+  "sport": "mlb",
+  "date": "2000-08-29",
+  "startTime": "2000-08-29T23:10:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "55-77"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "78-54"
+  },
+  "finalScore": "11-1",
+  "factors": {
+    "pregameOddsFactor": 0.736,
+    "rankGapFactor": 0.348,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5860",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5860/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.822111Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.822113Z"
+}

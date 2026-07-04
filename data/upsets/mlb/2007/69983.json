@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-08-19-mets-at-nationals",
+  "sport": "mlb",
+  "date": "2007-08-19",
+  "startTime": "2007-08-19T17:35:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "70-53"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "55-69"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69983",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69983/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.501798Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.501800Z"
+}

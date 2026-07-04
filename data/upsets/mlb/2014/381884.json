@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-07-08-braves-at-mets",
+  "sport": "mlb",
+  "date": "2014-07-08",
+  "startTime": "2014-07-08T23:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "41-49"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "49-41"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.522,
+    "rankGapFactor": 0.178,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381884",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381884/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.133176Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.133178Z"
+}

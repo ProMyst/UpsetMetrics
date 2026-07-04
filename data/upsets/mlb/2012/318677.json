@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-06-14-brewers-at-royals",
+  "sport": "mlb",
+  "date": "2012-06-14",
+  "startTime": "2012-06-15T00:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "27-34"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "28-35"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.305,
+    "rankGapFactor": 0.004,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318677",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318677/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.426548Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.426550Z"
+}

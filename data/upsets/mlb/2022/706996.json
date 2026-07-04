@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-04-03-rockies-at-white-sox",
+  "sport": "mlb",
+  "date": "2022-04-03",
+  "startTime": "2022-04-03T20:05:00Z",
+  "season": "2022",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "7-8"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "8-9"
+  },
+  "finalScore": "13-4",
+  "factors": {
+    "pregameOddsFactor": 0.31,
+    "rankGapFactor": 0.008,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "706996",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/706996/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.787494Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.787496Z"
+}

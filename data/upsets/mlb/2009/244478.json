@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-04-27-padres-at-rockies",
+  "sport": "mlb",
+  "date": "2009-04-27",
+  "startTime": "2009-04-28T00:40:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "7-11"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "10-9"
+  },
+  "finalScore": "12-7",
+  "factors": {
+    "pregameOddsFactor": 0.644,
+    "rankGapFactor": 0.275,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244478",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244478/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.591212Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.591214Z"
+}

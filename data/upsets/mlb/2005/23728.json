@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-06-24-orioles-at-braves",
+  "sport": "mlb",
+  "date": "2005-06-24",
+  "startTime": "2005-06-24T23:35:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "39-34"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "42-31"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.403,
+    "rankGapFactor": 0.082,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23728",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23728/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.585703Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.585705Z"
+}

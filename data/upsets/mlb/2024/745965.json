@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-07-12-nationals-at-brewers",
+  "sport": "mlb",
+  "date": "2024-07-12",
+  "startTime": "2024-07-13T00:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "43-52"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "54-41"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.589,
+    "rankGapFactor": 0.232,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745965",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745965/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.972903Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.972905Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-07-31-rangers-at-yankees",
+  "sport": "mlb",
+  "date": "2001-07-31",
+  "startTime": "2001-07-31T23:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "48-58"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "64-42"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.677,
+    "rankGapFactor": 0.302,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8197",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8197/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.293119Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.293121Z"
+}

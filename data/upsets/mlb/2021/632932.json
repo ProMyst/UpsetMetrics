@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-08-13-padres-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2021-08-13",
+  "startTime": "2021-08-14T01:40:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "37-80"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "67-52"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.917,
+    "rankGapFactor": 0.494,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "632932",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/632932/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.169874Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.169876Z"
+}

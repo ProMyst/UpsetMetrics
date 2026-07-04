@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-06-22-yankees-at-mets",
+  "sport": "mlb",
+  "date": "2003-06-22",
+  "startTime": "2003-06-23T00:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "44-29"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "33-40"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15929",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15929/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.601410Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.601412Z"
+}

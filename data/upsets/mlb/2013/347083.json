@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-04-26-giants-at-padres",
+  "sport": "mlb",
+  "date": "2013-04-26",
+  "startTime": "2013-04-27T02:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "7-15"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "13-10"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.918,
+    "rankGapFactor": 0.494,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347083",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347083/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.181444Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.181446Z"
+}

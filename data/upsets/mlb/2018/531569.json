@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-09-11-white-sox-at-royals",
+  "sport": "mlb",
+  "date": "2018-09-11",
+  "startTime": "2018-09-12T00:15:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "49-95"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "56-89"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.415,
+    "rankGapFactor": 0.092,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531569",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531569/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.951902Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.951904Z"
+}

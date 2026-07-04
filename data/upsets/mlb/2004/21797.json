@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-08-17-yankees-at-twins",
+  "sport": "mlb",
+  "date": "2004-08-17",
+  "startTime": "2004-08-18T00:10:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "65-53"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "75-43"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.512,
+    "rankGapFactor": 0.169,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21797",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21797/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.772496Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.772498Z"
+}

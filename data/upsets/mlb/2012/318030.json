@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-04-27-mariners-at-blue-jays",
+  "sport": "mlb",
+  "date": "2012-04-27",
+  "startTime": "2012-04-27T23:07:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "11-10"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "10-10"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318030",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318030/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.295624Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.295626Z"
+}

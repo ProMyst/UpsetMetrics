@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-06-25-rockies-at-red-sox",
+  "sport": "mlb",
+  "date": "2013-06-25",
+  "startTime": "2013-06-25T23:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "46-33"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "39-39"
+  },
+  "finalScore": "11-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347896",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347896/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.344485Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.344487Z"
+}

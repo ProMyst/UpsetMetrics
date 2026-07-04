@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-08-16-giants-at-marlins",
+  "sport": "mlb",
+  "date": "2017-08-16",
+  "startTime": "2017-08-16T17:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "58-61"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "48-74"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491900",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491900/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.288090Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.288092Z"
+}

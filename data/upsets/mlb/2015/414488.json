@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-06-06-cardinals-at-dodgers",
+  "sport": "mlb",
+  "date": "2015-06-06",
+  "startTime": "2015-06-07T02:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "32-24"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "37-19"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.523,
+    "rankGapFactor": 0.179,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414488",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414488/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.874129Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.874130Z"
+}

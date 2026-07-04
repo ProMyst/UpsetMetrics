@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-07-15-tigers-at-orioles",
+  "sport": "mlb",
+  "date": "2012-07-15",
+  "startTime": "2012-07-15T17:35:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "46-43"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "46-42"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.315,
+    "rankGapFactor": 0.012,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319054",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319054/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.504690Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.504692Z"
+}

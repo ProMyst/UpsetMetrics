@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-04-30-twins-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2010-04-30",
+  "startTime": "2010-04-30T23:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "15-8"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "9-13"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264146",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264146/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.830776Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.830781Z"
+}

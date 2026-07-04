@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-09-07-orioles-at-yankees",
+  "sport": "mlb",
+  "date": "2010-09-07",
+  "startTime": "2010-09-07T23:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "53-86"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "86-53"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.894,
+    "rankGapFactor": 0.475,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265873",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265873/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.181745Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.181747Z"
+}

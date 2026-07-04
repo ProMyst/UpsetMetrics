@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-05-15-diamondbacks-at-reds",
+  "sport": "mlb",
+  "date": "2001-05-15",
+  "startTime": "2001-05-15T23:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "20-18"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "17-21"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7313",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7313/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.080323Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.080325Z"
+}

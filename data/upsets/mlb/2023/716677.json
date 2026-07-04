@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-09-08-cardinals-at-reds",
+  "sport": "mlb",
+  "date": "2023-09-08",
+  "startTime": "2023-09-08T22:40:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "62-79"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "73-70"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.477,
+    "rankGapFactor": 0.142,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716677",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716677/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.983525Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.983527Z"
+}

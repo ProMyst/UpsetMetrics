@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-04-23-rays-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2025-04-23",
+  "startTime": "2025-04-24T01:40:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "10-14"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "14-10"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.717,
+    "rankGapFactor": 0.333,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "778199",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/778199/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.765614Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.765616Z"
+}

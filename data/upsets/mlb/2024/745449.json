@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-09-15-royals-at-pirates",
+  "sport": "mlb",
+  "date": "2024-09-15",
+  "startTime": "2024-09-15T17:35:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "71-78"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "82-68"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.475,
+    "rankGapFactor": 0.14,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745449",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745449/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.134632Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.134634Z"
+}

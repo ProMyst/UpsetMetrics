@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-07-21-brewers-at-cubs",
+  "sport": "mlb",
+  "date": "2000-07-21",
+  "startTime": "2000-07-21T19:20:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "41-54"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "40-57"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4321",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4321/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.712734Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.712736Z"
+}

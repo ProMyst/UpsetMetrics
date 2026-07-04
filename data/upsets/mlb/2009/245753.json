@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-08-01-blue-jays-at-athletics",
+  "sport": "mlb",
+  "date": "2009-08-01",
+  "startTime": "2009-08-02T01:20:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "50-54"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "44-59"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245753",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245753/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.849987Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.849989Z"
+}

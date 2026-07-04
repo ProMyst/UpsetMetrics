@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-05-06-padres-at-yankees",
+  "sport": "mlb",
+  "date": "2025-05-06",
+  "startTime": "2025-05-06T23:05:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "20-16"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "23-12"
+  },
+  "finalScore": "12-3",
+  "factors": {
+    "pregameOddsFactor": 0.554,
+    "rankGapFactor": 0.203,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "778041",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/778041/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.800295Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.800297Z"
+}

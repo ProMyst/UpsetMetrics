@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-04-17-athletics-at-royals",
+  "sport": "mlb",
+  "date": "2015-04-17",
+  "startTime": "2015-04-18T00:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "8-2"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "5-6"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "413800",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/413800/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.767826Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.767827Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-06-02-blue-jays-at-nationals",
+  "sport": "mlb",
+  "date": "2015-06-02",
+  "startTime": "2015-06-02T17:05:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "29-22"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "23-30"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414420",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414420/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.865490Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.865491Z"
+}

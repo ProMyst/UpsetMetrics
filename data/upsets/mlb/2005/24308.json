@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-08-08-white-sox-at-yankees",
+  "sport": "mlb",
+  "date": "2005-08-08",
+  "startTime": "2005-08-08T23:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "60-50"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "72-39"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.558,
+    "rankGapFactor": 0.206,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24308",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24308/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.709877Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.709879Z"
+}

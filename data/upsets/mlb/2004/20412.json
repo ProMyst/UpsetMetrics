@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-05-04-giants-at-mets",
+  "sport": "mlb",
+  "date": "2004-05-04",
+  "startTime": "2004-05-04T23:10:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "11-15"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "12-15"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.353,
+    "rankGapFactor": 0.043,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20412",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20412/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.482803Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.482805Z"
+}

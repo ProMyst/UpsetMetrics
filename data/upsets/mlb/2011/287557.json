@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-05-19-yankees-at-orioles",
+  "sport": "mlb",
+  "date": "2011-05-19",
+  "startTime": "2011-05-19T23:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "23-19"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "19-23"
+  },
+  "finalScore": "13-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287557",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287557/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.113048Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.113050Z"
+}

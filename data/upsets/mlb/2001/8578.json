@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-09-01-cubs-at-braves",
+  "sport": "mlb",
+  "date": "2001-09-01",
+  "startTime": "2001-09-01T17:15:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "76-59"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "72-63"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8578",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8578/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.381728Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.381730Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-05-02-phillies-at-padres",
+  "sport": "mlb",
+  "date": "2003-05-02",
+  "startTime": "2003-05-03T02:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "11-18"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "17-13"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.768,
+    "rankGapFactor": 0.375,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16150",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16150/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.460945Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.460947Z"
+}

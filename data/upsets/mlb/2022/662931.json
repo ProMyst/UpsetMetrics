@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-04-09-dodgers-at-rockies",
+  "sport": "mlb",
+  "date": "2022-04-09",
+  "startTime": "2022-04-10T00:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "1-1"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "1-1"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662931",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662931/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.801999Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.802001Z"
+}

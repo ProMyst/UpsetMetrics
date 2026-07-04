@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-07-01-giants-at-padres",
+  "sport": "mlb",
+  "date": "2006-07-01",
+  "startTime": "2006-07-02T02:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "41-40"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "43-38"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.362,
+    "rankGapFactor": 0.049,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41147",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41147/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.466903Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.466905Z"
+}

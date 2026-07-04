@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-06-28-nationals-at-rockies",
+  "sport": "mlb",
+  "date": "2012-06-28",
+  "startTime": "2012-06-28T19:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "29-46"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "43-31"
+  },
+  "finalScore": "11-10",
+  "factors": {
+    "pregameOddsFactor": 0.786,
+    "rankGapFactor": 0.389,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318871",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318871/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.466880Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.466882Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-06-24-dodgers-at-white-sox",
+  "sport": "mlb",
+  "date": "2024-06-24",
+  "startTime": "2024-06-25T00:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "49-31"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "21-59"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746780",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746780/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.920136Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.920138Z"
+}

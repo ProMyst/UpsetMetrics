@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-05-14-astros-at-reds",
+  "sport": "mlb",
+  "date": "2001-05-14",
+  "startTime": "2001-05-14T23:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "20-16"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "17-20"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7303",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7303/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.079947Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.079949Z"
+}

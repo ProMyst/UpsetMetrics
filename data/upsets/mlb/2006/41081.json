@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-06-26-rockies-at-angels",
+  "sport": "mlb",
+  "date": "2006-06-26",
+  "startTime": "2006-06-27T02:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "35-41"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "38-38"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.399,
+    "rankGapFactor": 0.079,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41081",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41081/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.454725Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.454727Z"
+}

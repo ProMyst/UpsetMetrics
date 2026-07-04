@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-04-03-athletics-at-giants",
+  "sport": "mlb",
+  "date": "2009-04-03",
+  "startTime": "2009-04-04T02:15:00Z",
+  "season": "2009",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "16-18"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "20-18"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.439,
+    "rankGapFactor": 0.111,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "256251",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/256251/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.528625Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.528627Z"
+}

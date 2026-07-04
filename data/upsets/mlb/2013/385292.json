@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-09-30-rays-at-rangers",
+  "sport": "mlb",
+  "date": "2013-09-30",
+  "startTime": "2013-10-01T00:07:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "92-71"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "91-72"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "385292",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/385292/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.606739Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.606741Z"
+}

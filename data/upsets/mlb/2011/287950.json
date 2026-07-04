@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-06-17-tigers-at-rockies",
+  "sport": "mlb",
+  "date": "2011-06-17",
+  "startTime": "2011-06-18T00:40:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "34-35"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "38-32"
+  },
+  "finalScore": "13-6",
+  "factors": {
+    "pregameOddsFactor": 0.425,
+    "rankGapFactor": 0.1,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287950",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287950/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.194431Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.194433Z"
+}

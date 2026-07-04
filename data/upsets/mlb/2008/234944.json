@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-06-26-giants-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2008-06-26",
+  "startTime": "2008-06-26T23:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "36-43"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "34-45"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234944",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234944/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.944482Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.944487Z"
+}

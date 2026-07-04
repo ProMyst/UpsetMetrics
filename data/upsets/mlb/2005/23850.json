@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-07-03-rangers-at-mariners",
+  "sport": "mlb",
+  "date": "2005-07-03",
+  "startTime": "2005-07-03T20:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "34-46"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "42-38"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.55,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23850",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23850/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.611572Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.611574Z"
+}

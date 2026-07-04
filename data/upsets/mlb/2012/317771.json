@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-04-08-dodgers-at-padres",
+  "sport": "mlb",
+  "date": "2012-04-08",
+  "startTime": "2012-04-08T20:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "1-3"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "3-1"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "317771",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/317771/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.246284Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.246286Z"
+}

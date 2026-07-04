@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-08-16-mariners-at-mets",
+  "sport": "mlb",
+  "date": "2025-08-16",
+  "startTime": "2025-08-16T20:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "65-58"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "68-56"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.04,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776726",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776726/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.069207Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.069209Z"
+}

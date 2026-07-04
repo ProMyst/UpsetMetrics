@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-05-09-padres-at-mets",
+  "sport": "mlb",
+  "date": "2003-05-09",
+  "startTime": "2003-05-09T23:10:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "12-23"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "14-21"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.443,
+    "rankGapFactor": 0.114,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15912",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15912/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.479708Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.479710Z"
+}

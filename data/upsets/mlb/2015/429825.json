@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-03-28-orioles-at-yankees",
+  "sport": "mlb",
+  "date": "2015-03-28",
+  "startTime": "2015-03-28T17:05:00Z",
+  "season": "2015",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "10-15"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "14-12"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.646,
+    "rankGapFactor": 0.277,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "429825",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/429825/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.723781Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.723783Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-08-21-blue-jays-at-dodgers",
+  "sport": "mlb",
+  "date": "2019-08-21",
+  "startTime": "2019-08-22T02:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "84-44"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "52-77"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565864",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565864/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.402424Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.402425Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-08-10-cleveland-indians-at-white-sox",
+  "sport": "mlb",
+  "date": "2018-08-10",
+  "startTime": "2018-08-11T00:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "42-73"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "64-51"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.778,
+    "rankGapFactor": 0.383,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531144",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531144/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.893833Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.893836Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-07-20-astros-at-reds",
+  "sport": "mlb",
+  "date": "2003-07-20",
+  "startTime": "2003-07-20T17:15:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "54-44"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "43-54"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15293",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15293/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.675354Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.675356Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-06-25-blue-jays-at-cardinals",
+  "sport": "mlb",
+  "date": "2011-06-25",
+  "startTime": "2011-06-25T23:15:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "38-39"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "41-37"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.38,
+    "rankGapFactor": 0.064,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288065",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288065/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.220321Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.220323Z"
+}

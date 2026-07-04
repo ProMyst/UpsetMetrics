@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-09-02-orioles-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2000-09-02",
+  "startTime": "2000-09-02T17:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "61-74"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "71-61"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.515,
+    "rankGapFactor": 0.172,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5761",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5761/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.831641Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.831646Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-04-25-orioles-at-tigers",
+  "sport": "mlb",
+  "date": "2001-04-25",
+  "startTime": "2001-04-25T23:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "10-11"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "5-14"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7078",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7078/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.026898Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.026901Z"
+}

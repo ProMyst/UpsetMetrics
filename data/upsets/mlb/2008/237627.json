@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-03-28-reds-at-rays",
+  "sport": "mlb",
+  "date": "2008-03-28",
+  "startTime": "2008-03-28T17:05:00Z",
+  "season": "2008",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "16-15"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "18-7"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.81,
+    "rankGapFactor": 0.408,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "237627",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/237627/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.692994Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.692997Z"
+}

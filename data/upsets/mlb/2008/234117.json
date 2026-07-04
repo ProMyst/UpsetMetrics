@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-04-26-red-sox-at-rays",
+  "sport": "mlb",
+  "date": "2008-04-26",
+  "startTime": "2008-04-26T23:10:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "13-11"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "15-11"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.388,
+    "rankGapFactor": 0.071,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234117",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234117/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.774010Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.774012Z"
+}

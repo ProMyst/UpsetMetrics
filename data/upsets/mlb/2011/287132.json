@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-04-18-twins-at-orioles",
+  "sport": "mlb",
+  "date": "2011-04-18",
+  "startTime": "2011-04-18T23:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "6-10"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "6-9"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.363,
+    "rankGapFactor": 0.05,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287132",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287132/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.027959Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.027961Z"
+}

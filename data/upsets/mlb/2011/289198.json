@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-09-20-orioles-at-red-sox",
+  "sport": "mlb",
+  "date": "2011-09-20",
+  "startTime": "2011-09-20T23:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "64-90"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "88-67"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.68,
+    "rankGapFactor": 0.304,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "289198",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/289198/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.451095Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.451097Z"
+}

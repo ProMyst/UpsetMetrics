@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-06-10-red-sox-at-braves",
+  "sport": "mlb",
+  "date": "2000-06-10",
+  "startTime": "2000-06-10T23:10:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "39-21"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "32-26"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4786",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4786/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.601525Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.601527Z"
+}

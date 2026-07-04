@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-08-10-padres-at-reds",
+  "sport": "mlb",
+  "date": "2002-08-10",
+  "startTime": "2002-08-10T23:10:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "60-55"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "48-68"
+  },
+  "finalScore": "9-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "11145",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/11145/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.991401Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.991403Z"
+}

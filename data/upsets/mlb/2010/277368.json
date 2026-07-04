@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-03-28-astros-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2010-03-28",
+  "startTime": "2010-03-28T17:05:00Z",
+  "season": "2010",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "12-12"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "12-11"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.354,
+    "rankGapFactor": 0.043,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "277368",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/277368/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.740767Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.740773Z"
+}

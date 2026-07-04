@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-08-29-dodgers-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2008-08-29",
+  "startTime": "2008-08-30T01:40:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "69-65"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "65-70"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235770",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235770/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.110402Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.110404Z"
+}

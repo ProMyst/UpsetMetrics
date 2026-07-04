@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-08-03-dodgers-at-nationals",
+  "sport": "mlb",
+  "date": "2005-08-03",
+  "startTime": "2005-08-03T23:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "57-50"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "48-59"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24246",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24246/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.693526Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.693528Z"
+}

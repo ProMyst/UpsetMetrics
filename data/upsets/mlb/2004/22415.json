@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-10-01-padres-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2004-10-01",
+  "startTime": "2004-10-02T02:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "87-73"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "49-111"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "22415",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/22415/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.902136Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.902138Z"
+}

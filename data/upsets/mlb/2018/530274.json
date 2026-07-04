@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-06-02-dodgers-at-rockies",
+  "sport": "mlb",
+  "date": "2018-06-02",
+  "startTime": "2018-06-02T23:15:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "28-30"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "30-28"
+  },
+  "finalScore": "12-4",
+  "factors": {
+    "pregameOddsFactor": 0.386,
+    "rankGapFactor": 0.069,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530274",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530274/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.777373Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.777374Z"
+}

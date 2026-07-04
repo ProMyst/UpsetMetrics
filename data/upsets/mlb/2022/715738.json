@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-10-19-yankees-at-astros",
+  "sport": "mlb",
+  "date": "2022-10-19",
+  "startTime": "2022-10-19T23:37:00Z",
+  "season": "2022",
+  "event": "AL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "715738",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/715738/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.294236Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.294238Z"
+}

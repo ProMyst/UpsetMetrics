@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-08-24-mariners-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2002-08-24",
+  "startTime": "2002-08-24T17:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "56-72"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "77-53"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.687,
+    "rankGapFactor": 0.31,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "11017",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/11017/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.027239Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.027244Z"
+}

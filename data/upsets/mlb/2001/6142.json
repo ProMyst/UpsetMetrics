@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-05-20-red-sox-at-royals",
+  "sport": "mlb",
+  "date": "2001-05-20",
+  "startTime": "2001-05-20T18:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "25-18"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "17-27"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "6142",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/6142/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.096734Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.096736Z"
+}

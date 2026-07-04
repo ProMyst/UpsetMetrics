@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-08-20-yankees-at-angels",
+  "sport": "mlb",
+  "date": "2016-08-20",
+  "startTime": "2016-08-21T01:35:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "63-59"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "51-72"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448701",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448701/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.326023Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.326024Z"
+}

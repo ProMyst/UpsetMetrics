@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-09-25-mariners-at-royals",
+  "sport": "mlb",
+  "date": "2022-09-25",
+  "startTime": "2022-09-25T18:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "63-90"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "83-69"
+  },
+  "finalScore": "13-12",
+  "factors": {
+    "pregameOddsFactor": 0.636,
+    "rankGapFactor": 0.269,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662631",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662631/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.258935Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.258936Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-06-16-tigers-at-giants",
+  "sport": "mlb",
+  "date": "2008-06-16",
+  "startTime": "2008-06-17T02:15:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "31-40"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "32-38"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.351,
+    "rankGapFactor": 0.041,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234814",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234814/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.914241Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.914243Z"
+}

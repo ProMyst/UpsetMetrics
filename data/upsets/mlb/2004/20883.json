@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-06-09-dodgers-at-blue-jays",
+  "sport": "mlb",
+  "date": "2004-06-09",
+  "startTime": "2004-06-09T23:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "27-32"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "30-26"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.495,
+    "rankGapFactor": 0.156,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20883",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20883/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.578996Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.578998Z"
+}

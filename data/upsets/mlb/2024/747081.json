@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-08-08-brewers-at-braves",
+  "sport": "mlb",
+  "date": "2024-08-08",
+  "startTime": "2024-08-08T16:20:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "65-49"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "60-54"
+  },
+  "finalScore": "16-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "747081",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/747081/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.034176Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.034178Z"
+}

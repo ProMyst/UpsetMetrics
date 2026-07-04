@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-10-01-blue-jays-at-yankees",
+  "sport": "mlb",
+  "date": "2017-10-01",
+  "startTime": "2017-10-01T19:05:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "76-86"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "91-71"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.531,
+    "rankGapFactor": 0.185,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "492528",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/492528/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.368966Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.368967Z"
+}

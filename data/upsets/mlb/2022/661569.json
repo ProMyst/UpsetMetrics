@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-04-22-marlins-at-braves",
+  "sport": "mlb",
+  "date": "2022-04-22",
+  "startTime": "2022-04-22T23:20:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "7-8"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "5-8"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661569",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661569/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.835994Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.835996Z"
+}

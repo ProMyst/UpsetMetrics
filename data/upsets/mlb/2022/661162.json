@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-09-18-yankees-at-brewers",
+  "sport": "mlb",
+  "date": "2022-09-18",
+  "startTime": "2022-09-18T18:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "88-58"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "78-68"
+  },
+  "finalScore": "12-8",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661162",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661162/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.240514Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.240516Z"
+}

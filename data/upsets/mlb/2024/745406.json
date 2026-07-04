@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-06-07-diamondbacks-at-padres",
+  "sport": "mlb",
+  "date": "2024-06-07",
+  "startTime": "2024-06-08T01:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "33-34"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "30-34"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745406",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745406/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.876587Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.876589Z"
+}

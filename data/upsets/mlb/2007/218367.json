@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-03-30-athletics-at-giants",
+  "sport": "mlb",
+  "date": "2007-03-30",
+  "startTime": "2007-03-31T02:15:00Z",
+  "season": "2007",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "15-12"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "15-16"
+  },
+  "finalScore": "2-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "218367",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/218367/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.120759Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.120761Z"
+}

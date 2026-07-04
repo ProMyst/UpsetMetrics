@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-06-16-giants-at-dodgers",
+  "sport": "mlb",
+  "date": "2023-06-16",
+  "startTime": "2023-06-17T02:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "37-32"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "39-31"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.352,
+    "rankGapFactor": 0.042,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717731",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717731/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.769615Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.769617Z"
+}

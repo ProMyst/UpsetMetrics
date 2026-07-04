@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-08-13-dodgers-at-marlins",
+  "sport": "mlb",
+  "date": "2019-08-13",
+  "startTime": "2019-08-13T23:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "80-41"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "44-74"
+  },
+  "finalScore": "15-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567420",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567420/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.388030Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.388031Z"
+}

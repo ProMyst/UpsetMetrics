@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-08-10-yankees-at-white-sox",
+  "sport": "mlb",
+  "date": "2006-08-10",
+  "startTime": "2006-08-11T00:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "67-46"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "67-44"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.327,
+    "rankGapFactor": 0.021,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41646",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41646/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.568905Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.568907Z"
+}

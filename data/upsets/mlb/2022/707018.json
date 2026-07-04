@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-03-23-twins-at-red-sox",
+  "sport": "mlb",
+  "date": "2022-03-23",
+  "startTime": "2022-03-23T17:05:00Z",
+  "season": "2022",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "2-5"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "6-1"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "707018",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/707018/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.747645Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.747648Z"
+}

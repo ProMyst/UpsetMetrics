@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-05-13-diamondbacks-at-astros",
+  "sport": "mlb",
+  "date": "2007-05-13",
+  "startTime": "2007-05-13T18:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "18-19"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "20-19"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.366,
+    "rankGapFactor": 0.053,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68682",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68682/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.237460Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.237462Z"
+}

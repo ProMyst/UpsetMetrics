@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-06-17-orioles-at-cubs",
+  "sport": "mlb",
+  "date": "2023-06-17",
+  "startTime": "2023-06-17T18:20:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "33-37"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "43-27"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.657,
+    "rankGapFactor": 0.286,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717729",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717729/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.770290Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.770292Z"
+}

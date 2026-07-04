@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-09-23-diamondbacks-at-rockies",
+  "sport": "mlb",
+  "date": "2004-09-23",
+  "startTime": "2004-09-23T19:10:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "67-85"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "47-106"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "22263",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/22263/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.876013Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.876015Z"
+}

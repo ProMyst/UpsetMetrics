@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-08-02-yankees-at-padres",
+  "sport": "mlb",
+  "date": "2013-08-02",
+  "startTime": "2013-08-03T02:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "51-59"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "56-52"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.437,
+    "rankGapFactor": 0.11,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "348373",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/348373/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.448130Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.448132Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-08-17-phillies-at-reds",
+  "sport": "mlb",
+  "date": "2022-08-17",
+  "startTime": "2022-08-17T16:35:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "46-70"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "65-52"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.698,
+    "rankGapFactor": 0.318,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "663017",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/663017/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.154200Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.154202Z"
+}

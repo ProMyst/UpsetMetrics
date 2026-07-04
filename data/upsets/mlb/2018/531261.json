@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-08-18-giants-at-reds",
+  "sport": "mlb",
+  "date": "2018-08-18",
+  "startTime": "2018-08-18T23:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "54-69"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "61-63"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.432,
+    "rankGapFactor": 0.106,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531261",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531261/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.908190Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.908191Z"
+}

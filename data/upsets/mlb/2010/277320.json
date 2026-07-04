@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-03-25-braves-at-pirates",
+  "sport": "mlb",
+  "date": "2010-03-25",
+  "startTime": "2010-03-25T17:05:00Z",
+  "season": "2010",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "6-13"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "12-8"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.568,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "277320",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/277320/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.729158Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.729160Z"
+}

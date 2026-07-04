@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-10-13-rays-at-red-sox",
+  "sport": "mlb",
+  "date": "2008-10-13",
+  "startTime": "2008-10-13T20:37:00Z",
+  "season": "2008",
+  "event": "AL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "2-1"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "1-2"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "243834",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/243834/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.199872Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.199874Z"
+}

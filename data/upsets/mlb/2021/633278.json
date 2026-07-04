@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-07-19-twins-at-white-sox",
+  "sport": "mlb",
+  "date": "2021-07-19",
+  "startTime": "2021-07-19T21:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "40-53"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "56-37"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.73,
+    "rankGapFactor": 0.344,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633278",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633278/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.100510Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.100512Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-08-18-yankees-at-mariners",
+  "sport": "mlb",
+  "date": "2002-08-18",
+  "startTime": "2002-08-18T19:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "75-49"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "77-45"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.366,
+    "rankGapFactor": 0.053,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9724",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9724/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.012161Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.012163Z"
+}

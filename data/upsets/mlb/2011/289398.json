@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-03-29-pirates-at-phillies",
+  "sport": "mlb",
+  "date": "2011-03-29",
+  "startTime": "2011-03-29T23:05:00Z",
+  "season": "2011",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "21-13"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "11-21"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "289398",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/289398/feed/live",
+    "retrievedAt": "2026-07-04T06:23:02.974195Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:02.974198Z"
+}

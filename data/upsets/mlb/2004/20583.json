@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-05-18-orioles-at-mariners",
+  "sport": "mlb",
+  "date": "2004-05-18",
+  "startTime": "2004-05-19T02:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "19-16"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "13-25"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20583",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20583/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.521168Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.521170Z"
+}

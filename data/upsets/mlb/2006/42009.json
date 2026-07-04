@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-05-orioles-at-angels",
+  "sport": "mlb",
+  "date": "2006-09-05",
+  "startTime": "2006-09-06T02:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "74-65"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "61-77"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42009",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42009/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.641305Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.641307Z"
+}

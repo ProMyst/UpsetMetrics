@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-04-20-twins-at-white-sox",
+  "sport": "mlb",
+  "date": "2013-04-20",
+  "startTime": "2013-04-20T19:05:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "7-7"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "7-10"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347000",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347000/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.162827Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.162829Z"
+}

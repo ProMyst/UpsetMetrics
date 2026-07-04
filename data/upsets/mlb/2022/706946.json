@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-04-03-mariners-at-royals",
+  "sport": "mlb",
+  "date": "2022-04-03",
+  "startTime": "2022-04-03T20:05:00Z",
+  "season": "2022",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "8-6"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "8-6"
+  },
+  "finalScore": "10-8",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "706946",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/706946/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.787298Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.787300Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-04-24-yankees-at-angels",
+  "sport": "mlb",
+  "date": "2019-04-24",
+  "startTime": "2019-04-25T02:07:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "14-10"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "9-16"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "564747",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/564747/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.195409Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.195411Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-07-25-yankees-at-rays",
+  "sport": "mlb",
+  "date": "2018-07-25",
+  "startTime": "2018-07-25T16:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "52-50"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "64-36"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.625,
+    "rankGapFactor": 0.26,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530938",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530938/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.865846Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.865847Z"
+}

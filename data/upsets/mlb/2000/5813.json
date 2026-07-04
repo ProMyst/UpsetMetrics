@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-09-15-braves-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2000-09-15",
+  "startTime": "2000-09-16T02:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "79-66"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "86-61"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.401,
+    "rankGapFactor": 0.08,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5813",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5813/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.870972Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.870974Z"
+}

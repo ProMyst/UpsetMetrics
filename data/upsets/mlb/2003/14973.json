@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-07-27-dodgers-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2003-07-27",
+  "startTime": "2003-07-27T20:37:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "54-50"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "56-49"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.335,
+    "rankGapFactor": 0.028,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "14973",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/14973/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.698268Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.698270Z"
+}

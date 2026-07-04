@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-03-22-astros-at-nationals",
+  "sport": "mlb",
+  "date": "2011-03-22",
+  "startTime": "2011-03-22T17:05:00Z",
+  "season": "2011",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "12-12"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "10-18"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "305830",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/305830/feed/live",
+    "retrievedAt": "2026-07-04T06:23:02.944538Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:02.944542Z"
+}

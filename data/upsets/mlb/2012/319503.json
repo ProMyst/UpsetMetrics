@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-08-16-rangers-at-yankees",
+  "sport": "mlb",
+  "date": "2012-08-16",
+  "startTime": "2012-08-16T17:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "68-49"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "70-48"
+  },
+  "finalScore": "10-6",
+  "factors": {
+    "pregameOddsFactor": 0.33,
+    "rankGapFactor": 0.024,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319503",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319503/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.590882Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.590884Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-09-25-rangers-at-angels",
+  "sport": "mlb",
+  "date": "2023-09-25",
+  "startTime": "2023-09-26T01:38:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "88-68"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "70-87"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716440",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716440/feed/live",
+    "retrievedAt": "2026-07-04T06:02:57.030424Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:57.030426Z"
+}

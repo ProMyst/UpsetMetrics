@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-05-22-tigers-at-astros",
+  "sport": "mlb",
+  "date": "2017-05-22",
+  "startTime": "2017-05-23T00:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "30-15"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "21-22"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490766",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490766/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.139771Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.139773Z"
+}

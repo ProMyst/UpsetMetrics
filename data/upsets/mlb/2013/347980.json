@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-07-01-padres-at-marlins",
+  "sport": "mlb",
+  "date": "2013-07-01",
+  "startTime": "2013-07-01T23:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "30-51"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "40-43"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.579,
+    "rankGapFactor": 0.223,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347980",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347980/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.366612Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.366614Z"
+}

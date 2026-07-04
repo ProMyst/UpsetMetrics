@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-05-30-tigers-at-red-sox",
+  "sport": "mlb",
+  "date": "2012-05-30",
+  "startTime": "2012-05-30T23:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "26-24"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "23-27"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318486",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318486/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.388154Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.388156Z"
+}

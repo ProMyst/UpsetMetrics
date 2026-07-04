@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-04-09-marlins-at-mets",
+  "sport": "mlb",
+  "date": "2025-04-09",
+  "startTime": "2025-04-09T17:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "6-6"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "8-4"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "778390",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/778390/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.727395Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.727397Z"
+}

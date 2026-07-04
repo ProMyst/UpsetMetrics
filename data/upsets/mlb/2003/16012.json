@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-06-20-giants-at-athletics",
+  "sport": "mlb",
+  "date": "2003-06-20",
+  "startTime": "2003-06-21T02:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "42-29"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "43-29"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.314,
+    "rankGapFactor": 0.011,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16012",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16012/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.594737Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.594739Z"
+}

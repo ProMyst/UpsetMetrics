@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-05-29-royals-at-twins",
+  "sport": "mlb",
+  "date": "2022-05-29",
+  "startTime": "2022-05-29T18:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "29-19"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "16-30"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661731",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661731/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.939803Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.939805Z"
+}

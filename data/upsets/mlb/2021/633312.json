@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-07-10-braves-at-marlins",
+  "sport": "mlb",
+  "date": "2021-07-10",
+  "startTime": "2021-07-10T20:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "44-44"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "38-51"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633312",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633312/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.085561Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.085563Z"
+}

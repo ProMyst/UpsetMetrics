@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-06-25-brewers-at-royals",
+  "sport": "mlb",
+  "date": "2006-06-25",
+  "startTime": "2006-06-25T18:10:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "24-50"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "37-39"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.706,
+    "rankGapFactor": 0.325,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41070",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41070/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.451561Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.451566Z"
+}

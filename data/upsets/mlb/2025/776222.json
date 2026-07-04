@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-09-22-brewers-at-padres",
+  "sport": "mlb",
+  "date": "2025-09-22",
+  "startTime": "2025-09-23T01:40:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "86-71"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "95-62"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.443,
+    "rankGapFactor": 0.115,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776222",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776222/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.168291Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.168292Z"
+}

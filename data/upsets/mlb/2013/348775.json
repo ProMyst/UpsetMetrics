@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-09-01-cleveland-indians-at-tigers",
+  "sport": "mlb",
+  "date": "2013-09-01",
+  "startTime": "2013-09-01T17:08:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "72-64"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "80-57"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.436,
+    "rankGapFactor": 0.109,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "348775",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/348775/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.526705Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.526709Z"
+}

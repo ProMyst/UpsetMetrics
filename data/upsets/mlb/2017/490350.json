@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-04-21-nationals-at-mets",
+  "sport": "mlb",
+  "date": "2017-04-21",
+  "startTime": "2017-04-21T23:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "11-5"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "8-9"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490350",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490350/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.083304Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.083305Z"
+}

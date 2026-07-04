@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-04-06-orioles-at-tigers",
+  "sport": "mlb",
+  "date": "2022-04-06",
+  "startTime": "2022-04-06T17:05:00Z",
+  "season": "2022",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "8-8"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "7-9"
+  },
+  "finalScore": "0-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "707079",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/707079/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.794668Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.794670Z"
+}

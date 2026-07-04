@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-05-18-twins-at-yankees",
+  "sport": "mlb",
+  "date": "2009-05-18",
+  "startTime": "2009-05-18T23:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "21-17"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "18-21"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244768",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244768/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.647885Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.647887Z"
+}

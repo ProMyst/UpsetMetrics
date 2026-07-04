@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-03-24-cubs-at-rangers",
+  "sport": "mlb",
+  "date": "2006-03-24",
+  "startTime": "2006-03-25T02:05:00Z",
+  "season": "2006",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "9-11"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "11-10"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.485,
+    "rankGapFactor": 0.148,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "47435",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/47435/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.192387Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.192389Z"
+}

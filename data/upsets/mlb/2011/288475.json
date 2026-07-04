@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-07-29-angels-at-tigers",
+  "sport": "mlb",
+  "date": "2011-07-29",
+  "startTime": "2011-07-29T23:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "56-50"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "58-49"
+  },
+  "finalScore": "12-2",
+  "factors": {
+    "pregameOddsFactor": 0.334,
+    "rankGapFactor": 0.028,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288475",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288475/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.302687Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.302689Z"
+}

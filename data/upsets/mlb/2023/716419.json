@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-09-27-rays-at-red-sox",
+  "sport": "mlb",
+  "date": "2023-09-27",
+  "startTime": "2023-09-27T22:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "97-62"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "76-82"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716419",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716419/feed/live",
+    "retrievedAt": "2026-07-04T06:02:57.034953Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:57.034955Z"
+}

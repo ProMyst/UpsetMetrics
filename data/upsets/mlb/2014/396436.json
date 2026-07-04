@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-03-20-blue-jays-at-phillies",
+  "sport": "mlb",
+  "date": "2014-03-20",
+  "startTime": "2014-03-20T17:05:00Z",
+  "season": "2014",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "9-11"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "6-14"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "396436",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/396436/feed/live",
+    "retrievedAt": "2026-07-04T06:27:17.914781Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:17.914785Z"
+}

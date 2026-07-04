@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-04-05-mariners-at-reds",
+  "sport": "mlb",
+  "date": "2022-04-05",
+  "startTime": "2022-04-05T19:05:00Z",
+  "season": "2022",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "10-7"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "9-7"
+  },
+  "finalScore": "12-9",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "706987",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/706987/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.792776Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.792778Z"
+}

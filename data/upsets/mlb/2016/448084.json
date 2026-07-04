@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-07-02-pirates-at-athletics",
+  "sport": "mlb",
+  "date": "2016-07-02",
+  "startTime": "2016-07-03T02:05:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "40-41"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "35-46"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448084",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448084/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.244400Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.244401Z"
+}

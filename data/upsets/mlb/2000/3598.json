@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-05-10-white-sox-at-red-sox",
+  "sport": "mlb",
+  "date": "2000-05-10",
+  "startTime": "2000-05-10T23:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "18-12"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "19-15"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "3598",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/3598/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.519372Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.519374Z"
+}

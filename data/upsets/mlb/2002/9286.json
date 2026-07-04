@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-05-22-royals-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "2002-05-22",
+  "startTime": "2002-05-23T02:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "27-17"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "16-29"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9286",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9286/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.771994Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.771999Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-09-09-yankees-at-orioles",
+  "sport": "mlb",
+  "date": "2012-09-09",
+  "startTime": "2012-09-09T17:35:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "79-61"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "78-62"
+  },
+  "finalScore": "13-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319832",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319832/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.659108Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.659110Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-04-07-florida-marlins-at-braves",
+  "sport": "mlb",
+  "date": "2003-04-07",
+  "startTime": "2003-04-07T17:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "3-4"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "2-5"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16872",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16872/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.388590Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.388595Z"
+}

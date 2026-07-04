@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-06-29-red-sox-at-yankees",
+  "sport": "mlb",
+  "date": "2014-06-29",
+  "startTime": "2014-06-30T00:05:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "38-44"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "41-39"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.423,
+    "rankGapFactor": 0.098,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381763",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381763/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.118126Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.118128Z"
+}

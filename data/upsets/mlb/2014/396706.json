@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-03-29-reds-at-louisville-bats",
+  "sport": "mlb",
+  "date": "2014-03-29",
+  "startTime": "2014-03-29T20:00:00Z",
+  "season": "2014",
+  "event": "Exhibition Game",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "louisville-bats",
+    "name": "Louisville Bats",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "396706",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/396706/feed/live",
+    "retrievedAt": "2026-07-04T06:27:17.947233Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-louisville-bats",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:17.947238Z"
+}

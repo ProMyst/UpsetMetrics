@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-08-03-pirates-at-dodgers",
+  "sport": "mlb",
+  "date": "2004-08-03",
+  "startTime": "2004-08-04T02:10:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "62-43"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "49-55"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21606",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21606/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.734290Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.734292Z"
+}

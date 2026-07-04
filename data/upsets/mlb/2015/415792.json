@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-09-13-nationals-at-marlins",
+  "sport": "mlb",
+  "date": "2015-09-13",
+  "startTime": "2015-09-13T17:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "72-70"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "61-82"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415792",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415792/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.045105Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.045106Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-04-13-cubs-at-pirates",
+  "sport": "mlb",
+  "date": "2022-04-13",
+  "startTime": "2022-04-13T16:35:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "2-3"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "3-2"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662317",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662317/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.811262Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.811264Z"
+}

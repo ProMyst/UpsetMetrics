@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-05-08-reds-at-brewers",
+  "sport": "mlb",
+  "date": "2012-05-08",
+  "startTime": "2012-05-09T00:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "13-17"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "15-14"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.51,
+    "rankGapFactor": 0.168,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318175",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318175/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.326719Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.326721Z"
+}

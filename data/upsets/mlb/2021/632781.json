@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-08-24-tigers-at-cardinals",
+  "sport": "mlb",
+  "date": "2021-08-24",
+  "startTime": "2021-08-24T23:45:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "61-66"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "63-61"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.369,
+    "rankGapFactor": 0.055,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "632781",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/632781/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.199001Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.199003Z"
+}

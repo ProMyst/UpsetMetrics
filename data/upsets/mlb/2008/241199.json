@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-06-16-padres-at-cubs",
+  "sport": "mlb",
+  "date": "2008-06-16",
+  "startTime": "2008-06-16T18:00:00Z",
+  "season": "2008",
+  "event": "Exhibition Game",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "0-1"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "0-0"
+  },
+  "finalScore": "0-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "241199",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/241199/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.914429Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.914431Z"
+}

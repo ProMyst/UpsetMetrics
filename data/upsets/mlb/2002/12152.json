@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-10-07-giants-at-braves",
+  "sport": "mlb",
+  "date": "2002-10-07",
+  "startTime": "2002-10-08T00:00:00Z",
+  "season": "2002",
+  "event": "NL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "3-2"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "2-3"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "12152",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/12152/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.134404Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.134406Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-09-10-diamondbacks-at-giants",
+  "sport": "mlb",
+  "date": "2008-09-10",
+  "startTime": "2008-09-10T19:45:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "65-80"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "71-74"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.403,
+    "rankGapFactor": 0.083,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235927",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235927/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.142318Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.142320Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-09-11-athletics-at-rangers",
+  "sport": "mlb",
+  "date": "2020-09-11",
+  "startTime": "2020-09-12T00:05:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "28-15"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "15-29"
+  },
+  "finalScore": "10-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "630909",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/630909/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.653412Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.653414Z"
+}

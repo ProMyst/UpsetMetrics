@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-04-16-tigers-at-athletics",
+  "sport": "mlb",
+  "date": "2021-04-16",
+  "startTime": "2021-04-17T01:40:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "7-7"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "6-8"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "634525",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/634525/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.847706Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.847709Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-08-17-brewers-at-pirates",
+  "sport": "mlb",
+  "date": "2002-08-17",
+  "startTime": "2002-08-17T23:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "53-70"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "43-79"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9883",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9883/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.008849Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.008851Z"
+}

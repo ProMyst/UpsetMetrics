@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-09-29-nationals-at-rockies",
+  "sport": "mlb",
+  "date": "2018-09-29",
+  "startTime": "2018-09-30T00:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "82-79"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "90-71"
+  },
+  "finalScore": "12-2",
+  "factors": {
+    "pregameOddsFactor": 0.424,
+    "rankGapFactor": 0.099,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531822",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531822/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.984118Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.984120Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-07-21-twins-at-yankees",
+  "sport": "mlb",
+  "date": "2008-07-21",
+  "startTime": "2008-07-21T23:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "54-45"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "55-44"
+  },
+  "finalScore": "12-4",
+  "factors": {
+    "pregameOddsFactor": 0.325,
+    "rankGapFactor": 0.02,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235246",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235246/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.003613Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.003616Z"
+}

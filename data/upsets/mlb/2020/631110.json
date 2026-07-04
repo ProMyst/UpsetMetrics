@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-08-09-tigers-at-pirates",
+  "sport": "mlb",
+  "date": "2020-08-09",
+  "startTime": "2020-08-09T17:35:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "8-5"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "3-13"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "631110",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/631110/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.556973Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.556975Z"
+}

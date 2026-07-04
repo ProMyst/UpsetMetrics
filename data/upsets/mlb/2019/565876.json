@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-09-18-rays-at-dodgers",
+  "sport": "mlb",
+  "date": "2019-09-18",
+  "startTime": "2019-09-19T00:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "90-63"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "98-55"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.431,
+    "rankGapFactor": 0.105,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565876",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565876/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.449838Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.449839Z"
+}

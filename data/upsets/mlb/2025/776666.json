@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-08-20-rangers-at-royals",
+  "sport": "mlb",
+  "date": "2025-08-20",
+  "startTime": "2025-08-20T23:40:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "63-65"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "65-62"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.349,
+    "rankGapFactor": 0.039,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776666",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776666/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.081682Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.081683Z"
+}

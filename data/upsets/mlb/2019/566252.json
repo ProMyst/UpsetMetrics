@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-09-17-mariners-at-pirates",
+  "sport": "mlb",
+  "date": "2019-09-17",
+  "startTime": "2019-09-17T23:05:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "63-88"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "65-86"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.333,
+    "rankGapFactor": 0.026,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566252",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566252/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.446450Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.446451Z"
+}

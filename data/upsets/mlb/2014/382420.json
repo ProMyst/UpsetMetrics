@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-08-19-mariners-at-phillies",
+  "sport": "mlb",
+  "date": "2014-08-19",
+  "startTime": "2014-08-19T23:05:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "68-57"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "55-71"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382420",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382420/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.200445Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.200446Z"
+}

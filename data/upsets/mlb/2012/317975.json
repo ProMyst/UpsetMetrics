@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-04-23-yankees-at-rangers",
+  "sport": "mlb",
+  "date": "2012-04-23",
+  "startTime": "2012-04-23T23:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "10-6"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "13-4"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.649,
+    "rankGapFactor": 0.279,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "317975",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/317975/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.285267Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.285269Z"
+}

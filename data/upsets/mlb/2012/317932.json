@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-04-20-dodgers-at-astros",
+  "sport": "mlb",
+  "date": "2012-04-20",
+  "startTime": "2012-04-21T00:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "11-3"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "5-9"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "317932",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/317932/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.276021Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.276024Z"
+}

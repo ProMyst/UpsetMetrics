@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-06-23-blue-jays-at-royals",
+  "sport": "mlb",
+  "date": "2017-06-23",
+  "startTime": "2017-06-24T00:15:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "36-36"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "35-38"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491212",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491212/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.195793Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.195794Z"
+}

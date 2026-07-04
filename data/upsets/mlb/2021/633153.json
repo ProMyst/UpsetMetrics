@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-07-27-marlins-at-orioles",
+  "sport": "mlb",
+  "date": "2021-07-27",
+  "startTime": "2021-07-27T23:05:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "44-58"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "34-65"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633153",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633153/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.121655Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.121657Z"
+}

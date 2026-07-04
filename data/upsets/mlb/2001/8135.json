@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-07-25-mets-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2001-07-25",
+  "startTime": "2001-07-25T23:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "46-56"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "52-49"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.46,
+    "rankGapFactor": 0.128,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8135",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8135/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.279056Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.279060Z"
+}

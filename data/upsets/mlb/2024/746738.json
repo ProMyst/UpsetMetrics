@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-09-26-angels-at-white-sox",
+  "sport": "mlb",
+  "date": "2024-09-26",
+  "startTime": "2024-09-26T18:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "39-120"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "63-96"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.677,
+    "rankGapFactor": 0.302,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746738",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746738/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.163635Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.163637Z"
+}

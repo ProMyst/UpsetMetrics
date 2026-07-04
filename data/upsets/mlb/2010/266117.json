@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-09-25-twins-at-tigers",
+  "sport": "mlb",
+  "date": "2010-09-25",
+  "startTime": "2010-09-25T23:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "79-75"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "92-62"
+  },
+  "finalScore": "11-10",
+  "factors": {
+    "pregameOddsFactor": 0.511,
+    "rankGapFactor": 0.169,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "266117",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/266117/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.229624Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.229626Z"
+}

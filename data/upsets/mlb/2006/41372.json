@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-07-20-yankees-at-blue-jays",
+  "sport": "mlb",
+  "date": "2006-07-20",
+  "startTime": "2006-07-20T23:07:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "53-42"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "55-38"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.384,
+    "rankGapFactor": 0.067,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41372",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41372/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.512278Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.512280Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-06-27-cubs-at-cardinals",
+  "sport": "mlb",
+  "date": "2015-06-27",
+  "startTime": "2015-06-27T23:15:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "50-24"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "39-34"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414770",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414770/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.914348Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.914349Z"
+}

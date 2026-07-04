@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-09-13-reds-at-cardinals",
+  "sport": "mlb",
+  "date": "2017-09-13",
+  "startTime": "2017-09-14T00:15:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "63-83"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "76-69"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.532,
+    "rankGapFactor": 0.185,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "492272",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/492272/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.338817Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.338818Z"
+}

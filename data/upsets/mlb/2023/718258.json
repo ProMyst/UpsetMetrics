@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-05-08-rockies-at-pirates",
+  "sport": "mlb",
+  "date": "2023-05-08",
+  "startTime": "2023-05-08T22:35:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "21-15"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "14-22"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718258",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718258/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.663963Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.663964Z"
+}

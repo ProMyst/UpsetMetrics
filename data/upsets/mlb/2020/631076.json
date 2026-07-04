@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-08-19-rangers-at-padres",
+  "sport": "mlb",
+  "date": "2020-08-19",
+  "startTime": "2020-08-20T01:10:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "14-12"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "10-13"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "631076",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/631076/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.586467Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.586469Z"
+}

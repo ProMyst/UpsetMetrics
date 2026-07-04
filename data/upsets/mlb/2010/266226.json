@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-10-03-cleveland-indians-at-white-sox",
+  "sport": "mlb",
+  "date": "2010-10-03",
+  "startTime": "2010-10-03T18:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "88-74"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "69-93"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "266226",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/266226/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.253383Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.253388Z"
+}

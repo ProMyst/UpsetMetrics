@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-04-27-phillies-at-giants",
+  "sport": "mlb",
+  "date": "2010-04-27",
+  "startTime": "2010-04-28T02:15:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "12-8"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "11-9"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264113",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264113/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.825127Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.825129Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-03-21-nationals-at-cardinals",
+  "sport": "mlb",
+  "date": "2014-03-21",
+  "startTime": "2014-03-21T17:05:00Z",
+  "season": "2014",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "8-10"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "11-11"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.439,
+    "rankGapFactor": 0.111,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "396513",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/396513/feed/live",
+    "retrievedAt": "2026-07-04T06:27:17.918148Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:17.918151Z"
+}

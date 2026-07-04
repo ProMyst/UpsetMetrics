@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-06-04-brewers-at-phillies",
+  "sport": "mlb",
+  "date": "2024-06-04",
+  "startTime": "2024-06-04T22:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "43-19"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "36-25"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745568",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745568/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.867333Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.867335Z"
+}

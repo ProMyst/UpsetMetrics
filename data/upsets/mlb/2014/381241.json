@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-05-22-athletics-at-rays",
+  "sport": "mlb",
+  "date": "2014-05-22",
+  "startTime": "2014-05-22T20:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "20-28"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "30-17"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.854,
+    "rankGapFactor": 0.443,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381241",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381241/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.045165Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.045166Z"
+}

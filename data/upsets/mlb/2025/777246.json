@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-07-04-cardinals-at-cubs",
+  "sport": "mlb",
+  "date": "2025-07-04",
+  "startTime": "2025-07-04T18:20:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "53-35"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "47-42"
+  },
+  "finalScore": "11-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777246",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777246/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.962389Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.962391Z"
+}

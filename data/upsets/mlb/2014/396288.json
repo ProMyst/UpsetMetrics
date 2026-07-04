@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-03-21-marlins-at-astros",
+  "sport": "mlb",
+  "date": "2014-03-21",
+  "startTime": "2014-03-21T17:05:00Z",
+  "season": "2014",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "15-7"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "8-13"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "396288",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/396288/feed/live",
+    "retrievedAt": "2026-07-04T06:27:17.919689Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:17.919692Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-06-02-florida-marlins-at-pirates",
+  "sport": "mlb",
+  "date": "2005-06-02",
+  "startTime": "2005-06-02T23:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "28-23"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "24-28"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23431",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23431/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.526563Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.526568Z"
+}

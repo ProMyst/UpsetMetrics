@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-05-30-rays-at-marlins",
+  "sport": "mlb",
+  "date": "2013-05-30",
+  "startTime": "2013-05-30T23:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "29-24"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "13-41"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347552",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347552/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.274736Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.274738Z"
+}

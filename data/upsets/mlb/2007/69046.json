@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-06-08-blue-jays-at-dodgers",
+  "sport": "mlb",
+  "date": "2007-06-08",
+  "startTime": "2007-06-09T02:40:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "35-26"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "28-32"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69046",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69046/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.309055Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.309057Z"
+}

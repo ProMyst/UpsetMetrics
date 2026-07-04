@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-07-28-diamondbacks-at-marlins",
+  "sport": "mlb",
+  "date": "2019-07-28",
+  "startTime": "2019-07-28T17:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "40-63"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "53-53"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.579,
+    "rankGapFactor": 0.223,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567411",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567411/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.361428Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.361429Z"
+}

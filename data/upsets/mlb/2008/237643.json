@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-03-29-cubs-at-mariners",
+  "sport": "mlb",
+  "date": "2008-03-29",
+  "startTime": "2008-03-29T19:05:00Z",
+  "season": "2008",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "15-15"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "13-16"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "237643",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/237643/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.697729Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.697732Z"
+}

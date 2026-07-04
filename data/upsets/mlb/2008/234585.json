@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-05-30-athletics-at-rangers",
+  "sport": "mlb",
+  "date": "2008-05-30",
+  "startTime": "2008-05-31T00:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "28-28"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "29-26"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.368,
+    "rankGapFactor": 0.055,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234585",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234585/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.866465Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.866467Z"
+}

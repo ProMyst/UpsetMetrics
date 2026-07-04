@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-07-04-astros-at-pirates",
+  "sport": "mlb",
+  "date": "2003-07-04",
+  "startTime": "2003-07-04T20:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "36-46"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "44-41"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.497,
+    "rankGapFactor": 0.157,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16099",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16099/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.632084Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.632086Z"
+}

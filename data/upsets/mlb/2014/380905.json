@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-04-27-red-sox-at-blue-jays",
+  "sport": "mlb",
+  "date": "2014-04-27",
+  "startTime": "2014-04-27T17:07:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "12-13"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "12-14"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "380905",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/380905/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.002284Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.002285Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-08-06-pirates-at-giants",
+  "sport": "mlb",
+  "date": "2000-08-06",
+  "startTime": "2000-08-06T20:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "61-48"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "47-63"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4430",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4430/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.759226Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.759228Z"
+}

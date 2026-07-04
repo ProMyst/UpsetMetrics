@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-05-09-tigers-at-rangers",
+  "sport": "mlb",
+  "date": "2005-05-09",
+  "startTime": "2005-05-10T00:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "15-16"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "17-16"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.378,
+    "rankGapFactor": 0.063,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23120",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23120/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.461203Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.461205Z"
+}

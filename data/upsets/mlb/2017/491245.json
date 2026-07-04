@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-06-26-angels-at-dodgers",
+  "sport": "mlb",
+  "date": "2017-06-26",
+  "startTime": "2017-06-27T02:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "41-39"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "51-27"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.653,
+    "rankGapFactor": 0.283,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491245",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491245/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.204981Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.204982Z"
+}

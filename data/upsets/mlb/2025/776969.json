@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-07-28-nationals-at-astros",
+  "sport": "mlb",
+  "date": "2025-07-28",
+  "startTime": "2025-07-29T00:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "44-62"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "60-47"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.664,
+    "rankGapFactor": 0.291,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776969",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776969/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.020453Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.020455Z"
+}

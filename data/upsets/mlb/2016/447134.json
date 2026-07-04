@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-04-24-red-sox-at-astros",
+  "sport": "mlb",
+  "date": "2016-04-24",
+  "startTime": "2016-04-25T00:05:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "9-9"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "6-13"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447134",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447134/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.118014Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.118015Z"
+}

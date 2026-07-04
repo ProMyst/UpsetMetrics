@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-08-17-mariners-at-angels",
+  "sport": "mlb",
+  "date": "2006-08-17",
+  "startTime": "2006-08-18T02:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "63-59"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "56-65"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41746",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41746/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.588960Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.588963Z"
+}

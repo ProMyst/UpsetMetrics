@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-04-24-giants-at-blue-jays",
+  "sport": "mlb",
+  "date": "2019-04-24",
+  "startTime": "2019-04-24T20:07:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "11-14"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "11-14"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566875",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566875/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.193963Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.193964Z"
+}

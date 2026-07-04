@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-06-19-red-sox-at-royals",
+  "sport": "mlb",
+  "date": "2021-06-19",
+  "startTime": "2021-06-19T20:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "43-28"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "31-38"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633585",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633585/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.023266Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.023268Z"
+}

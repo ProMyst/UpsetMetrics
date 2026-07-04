@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-04-25-rangers-at-mariners",
+  "sport": "mlb",
+  "date": "2014-04-25",
+  "startTime": "2014-04-26T02:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "9-13"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "14-9"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.799,
+    "rankGapFactor": 0.399,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "380888",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/380888/feed/live",
+    "retrievedAt": "2026-07-04T06:27:17.999906Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:17.999907Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-06-20-astros-at-rangers",
+  "sport": "mlb",
+  "date": "2011-06-20",
+  "startTime": "2011-06-21T00:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "39-35"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "27-47"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287997",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287997/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.202274Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.202276Z"
+}

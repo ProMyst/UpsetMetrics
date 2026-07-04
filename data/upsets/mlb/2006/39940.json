@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-04-03-tampa-bay-devil-rays-at-orioles",
+  "sport": "mlb",
+  "date": "2006-04-03",
+  "startTime": "2006-04-03T19:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "39940",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/39940/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.218737Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tampa-bay-devil-rays-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.218743Z"
+}

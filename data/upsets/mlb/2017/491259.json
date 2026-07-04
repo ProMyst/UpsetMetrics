@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-06-27-yankees-at-white-sox",
+  "sport": "mlb",
+  "date": "2017-06-27",
+  "startTime": "2017-06-28T00:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "33-43"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "41-34"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.581,
+    "rankGapFactor": 0.225,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491259",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491259/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.206269Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.206270Z"
+}

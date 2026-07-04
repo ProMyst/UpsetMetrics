@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-07-22-orioles-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2019-07-22",
+  "startTime": "2019-07-23T01:40:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "51-50"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "31-68"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "564879",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/564879/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.351404Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.351405Z"
+}

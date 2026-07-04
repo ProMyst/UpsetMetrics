@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-03-20-angels-at-royals",
+  "sport": "mlb",
+  "date": "2014-03-20",
+  "startTime": "2014-03-20T20:05:00Z",
+  "season": "2014",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "11-10"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "10-9"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.306,
+    "rankGapFactor": 0.005,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "396302",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/396302/feed/live",
+    "retrievedAt": "2026-07-04T06:27:17.915725Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:17.915728Z"
+}

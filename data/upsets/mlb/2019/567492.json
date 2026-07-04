@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-06-11-mets-at-yankees",
+  "sport": "mlb",
+  "date": "2019-06-11",
+  "startTime": "2019-06-11T23:05:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "33-34"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "41-25"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.622,
+    "rankGapFactor": 0.257,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567492",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567492/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.283109Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.283111Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-09-17-cleveland-indians-at-royals",
+  "sport": "mlb",
+  "date": "2010-09-17",
+  "startTime": "2010-09-18T00:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "61-86"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "60-86"
+  },
+  "finalScore": "11-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "266004",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/266004/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.208153Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.208157Z"
+}

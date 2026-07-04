@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-09-21-rays-at-orioles",
+  "sport": "mlb",
+  "date": "2017-09-21",
+  "startTime": "2017-09-21T23:05:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "74-80"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "74-79"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.308,
+    "rankGapFactor": 0.006,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "492386",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/492386/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.351131Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.351133Z"
+}

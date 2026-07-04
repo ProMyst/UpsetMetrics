@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-09-21-nationals-at-phillies",
+  "sport": "mlb",
+  "date": "2011-09-21",
+  "startTime": "2011-09-21T23:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "75-79"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "98-57"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.663,
+    "rankGapFactor": 0.29,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "289225",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/289225/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.454382Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.454384Z"
+}

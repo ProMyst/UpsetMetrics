@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-07-13-angels-at-yankees",
+  "sport": "mlb",
+  "date": "2012-07-13",
+  "startTime": "2012-07-13T23:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "53-33"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "48-39"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319019",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319019/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.498744Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.498746Z"
+}

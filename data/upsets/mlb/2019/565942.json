@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-07-24-rockies-at-nationals",
+  "sport": "mlb",
+  "date": "2019-07-24",
+  "startTime": "2019-07-24T17:05:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "54-46"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "47-54"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565942",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565942/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.354315Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.354316Z"
+}

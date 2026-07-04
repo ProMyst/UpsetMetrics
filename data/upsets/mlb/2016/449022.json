@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-09-13-cubs-at-cardinals",
+  "sport": "mlb",
+  "date": "2016-09-13",
+  "startTime": "2016-09-14T00:15:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "76-68"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "92-52"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.578,
+    "rankGapFactor": 0.222,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "449022",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/449022/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.367941Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.367943Z"
+}

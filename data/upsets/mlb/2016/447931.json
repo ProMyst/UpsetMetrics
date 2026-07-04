@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-06-21-giants-at-pirates",
+  "sport": "mlb",
+  "date": "2016-06-21",
+  "startTime": "2016-06-21T23:05:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "45-27"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "34-37"
+  },
+  "finalScore": "15-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447931",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447931/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.219164Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.219165Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-09-02-twins-at-angels",
+  "sport": "mlb",
+  "date": "2011-09-02",
+  "startTime": "2011-09-03T02:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "58-79"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "74-64"
+  },
+  "finalScore": "13-5",
+  "factors": {
+    "pregameOddsFactor": 0.582,
+    "rankGapFactor": 0.226,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288961",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288961/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.402402Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.402404Z"
+}

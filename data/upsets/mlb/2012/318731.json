@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-06-18-reds-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2012-06-18",
+  "startTime": "2012-06-18T23:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "34-32"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "38-28"
+  },
+  "finalScore": "10-9",
+  "factors": {
+    "pregameOddsFactor": 0.452,
+    "rankGapFactor": 0.121,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318731",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318731/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.435852Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.435857Z"
+}

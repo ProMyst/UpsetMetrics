@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-16-padres-at-dodgers",
+  "sport": "mlb",
+  "date": "2006-09-16",
+  "startTime": "2006-09-17T02:10:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "77-70"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "78-70"
+  },
+  "finalScore": "11-2",
+  "factors": {
+    "pregameOddsFactor": 0.308,
+    "rankGapFactor": 0.006,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42155",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42155/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.672321Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.672323Z"
+}

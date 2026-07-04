@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-06-14-cleveland-indians-at-yankees",
+  "sport": "mlb",
+  "date": "2006-06-14",
+  "startTime": "2006-06-14T23:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "37-26"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "30-34"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40919",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40919/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.416376Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.416381Z"
+}

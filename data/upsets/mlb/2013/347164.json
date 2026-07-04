@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-05-02-white-sox-at-rangers",
+  "sport": "mlb",
+  "date": "2013-05-02",
+  "startTime": "2013-05-03T00:05:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "12-15"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "17-11"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.707,
+    "rankGapFactor": 0.325,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347164",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347164/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.197118Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.197120Z"
+}

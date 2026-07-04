@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-07-18-yankees-at-tigers",
+  "sport": "mlb",
+  "date": "2001-07-18",
+  "startTime": "2001-07-18T17:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "56-37"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "40-51"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8039",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8039/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.256268Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.256271Z"
+}

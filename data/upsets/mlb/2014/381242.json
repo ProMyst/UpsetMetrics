@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-05-22-phillies-at-marlins",
+  "sport": "mlb",
+  "date": "2014-05-22",
+  "startTime": "2014-05-22T16:40:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "25-23"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "20-24"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381242",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381242/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.044565Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.044567Z"
+}

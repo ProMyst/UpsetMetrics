@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-05-14-cardinals-at-pirates",
+  "sport": "mlb",
+  "date": "2009-05-14",
+  "startTime": "2009-05-14T23:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "21-14"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "14-20"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244718",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244718/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.637539Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.637541Z"
+}

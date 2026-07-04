@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-07-20-white-sox-at-rangers",
+  "sport": "mlb",
+  "date": "2004-07-20",
+  "startTime": "2004-07-21T00:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "53-38"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "48-42"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21403",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21403/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.694963Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.694965Z"
+}

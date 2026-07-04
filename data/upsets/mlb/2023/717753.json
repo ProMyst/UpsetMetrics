@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-06-15-blue-jays-at-orioles",
+  "sport": "mlb",
+  "date": "2023-06-15",
+  "startTime": "2023-06-15T17:05:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "43-25"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "38-32"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717753",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717753/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.764874Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.764875Z"
+}

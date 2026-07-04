@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-08-09-rays-at-dodgers",
+  "sport": "mlb",
+  "date": "2013-08-09",
+  "startTime": "2013-08-10T02:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "65-50"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "66-48"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.334,
+    "rankGapFactor": 0.027,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "348472",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/348472/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.466356Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.466358Z"
+}

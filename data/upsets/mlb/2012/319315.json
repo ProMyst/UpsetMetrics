@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-08-03-marlins-at-nationals",
+  "sport": "mlb",
+  "date": "2012-08-03",
+  "startTime": "2012-08-03T20:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "63-42"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "48-58"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319315",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319315/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.554911Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.554913Z"
+}

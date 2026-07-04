@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-04-26-reds-at-giants",
+  "sport": "mlb",
+  "date": "2008-04-26",
+  "startTime": "2008-04-27T01:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "10-15"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "11-14"
+  },
+  "finalScore": "10-9",
+  "factors": {
+    "pregameOddsFactor": 0.4,
+    "rankGapFactor": 0.08,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234119",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234119/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.774583Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.774586Z"
+}

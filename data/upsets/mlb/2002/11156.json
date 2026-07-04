@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-08-29-cardinals-at-reds",
+  "sport": "mlb",
+  "date": "2002-08-29",
+  "startTime": "2002-08-29T16:35:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "66-67"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "73-59"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.442,
+    "rankGapFactor": 0.114,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "11156",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/11156/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.040984Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.040986Z"
+}

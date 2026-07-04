@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-04-27-rangers-at-royals",
+  "sport": "mlb",
+  "date": "2004-04-27",
+  "startTime": "2004-04-28T00:10:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "12-8"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "6-12"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20320",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20320/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.462611Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.462613Z"
+}

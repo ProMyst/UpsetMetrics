@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-05-23-cardinals-at-pirates",
+  "sport": "mlb",
+  "date": "2003-05-23",
+  "startTime": "2003-05-23T23:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "24-22"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "19-28"
+  },
+  "finalScore": "10-8",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16081",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16081/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.517114Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.517116Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-08-27-athletics-at-tigers",
+  "sport": "mlb",
+  "date": "2013-08-27",
+  "startTime": "2013-08-27T23:08:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "74-57"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "77-55"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.346,
+    "rankGapFactor": 0.037,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "348709",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/348709/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.513386Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.513388Z"
+}

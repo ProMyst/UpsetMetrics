@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-08-20-mariners-at-blue-jays",
+  "sport": "mlb",
+  "date": "2003-08-20",
+  "startTime": "2003-08-20T23:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "62-64"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "76-50"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.578,
+    "rankGapFactor": 0.222,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16682",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16682/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.762409Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.762411Z"
+}

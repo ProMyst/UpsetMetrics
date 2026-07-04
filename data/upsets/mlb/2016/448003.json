@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-06-26-blue-jays-at-white-sox",
+  "sport": "mlb",
+  "date": "2016-06-26",
+  "startTime": "2016-06-26T18:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "38-38"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "41-36"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.381,
+    "rankGapFactor": 0.065,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448003",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448003/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.233026Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.233027Z"
+}

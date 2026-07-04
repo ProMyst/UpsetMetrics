@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-09-07-cardinals-at-padres",
+  "sport": "mlb",
+  "date": "2017-09-07",
+  "startTime": "2017-09-08T01:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "63-78"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "72-68"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.469,
+    "rankGapFactor": 0.135,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "492200",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/492200/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.327828Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.327829Z"
+}

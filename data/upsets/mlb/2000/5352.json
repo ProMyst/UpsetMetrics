@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-06-23-tigers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2000-06-23",
+  "startTime": "2000-06-23T23:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "28-40"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "37-33"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.592,
+    "rankGapFactor": 0.234,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5352",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5352/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.634646Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.634651Z"
+}

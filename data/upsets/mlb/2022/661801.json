@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-08-29-cubs-at-blue-jays",
+  "sport": "mlb",
+  "date": "2022-08-29",
+  "startTime": "2022-08-29T23:07:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "69-58"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "55-74"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661801",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661801/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.186935Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.186937Z"
+}

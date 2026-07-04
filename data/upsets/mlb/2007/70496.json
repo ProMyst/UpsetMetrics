@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-09-26-athletics-at-red-sox",
+  "sport": "mlb",
+  "date": "2007-09-26",
+  "startTime": "2007-09-26T21:00:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "94-64"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "75-84"
+  },
+  "finalScore": "11-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "70496",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/70496/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.606087Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.606089Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-05-30-mariners-at-angels",
+  "sport": "mlb",
+  "date": "2009-05-30",
+  "startTime": "2009-05-31T01:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "24-26"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "24-24"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.04,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244938",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244938/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.682409Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.682411Z"
+}

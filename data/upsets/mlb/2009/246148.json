@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-08-30-blue-jays-at-red-sox",
+  "sport": "mlb",
+  "date": "2009-08-30",
+  "startTime": "2009-08-30T17:35:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "76-54"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "58-70"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246148",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246148/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.926177Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.926179Z"
+}

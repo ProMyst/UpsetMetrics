@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-06-16-reds-at-pirates",
+  "sport": "mlb",
+  "date": "2018-06-16",
+  "startTime": "2018-06-16T20:05:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "35-35"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "25-45"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530452",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530452/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.800108Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.800110Z"
+}

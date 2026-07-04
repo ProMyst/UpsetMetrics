@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-08-03-mariners-at-orioles",
+  "sport": "mlb",
+  "date": "2013-08-03",
+  "startTime": "2013-08-03T23:05:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "51-59"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "61-50"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.515,
+    "rankGapFactor": 0.172,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "348389",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/348389/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.449366Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.449368Z"
+}

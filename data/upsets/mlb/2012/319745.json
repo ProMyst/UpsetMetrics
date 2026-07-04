@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-09-03-cubs-at-nationals",
+  "sport": "mlb",
+  "date": "2012-09-03",
+  "startTime": "2012-09-03T17:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "82-52"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "51-83"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319745",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319745/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.641826Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.641828Z"
+}

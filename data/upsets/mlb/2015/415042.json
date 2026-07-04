@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-07-20-rays-at-phillies",
+  "sport": "mlb",
+  "date": "2015-07-20",
+  "startTime": "2015-07-20T23:05:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "33-62"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "47-48"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.668,
+    "rankGapFactor": 0.295,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415042",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415042/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.948246Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.948247Z"
+}

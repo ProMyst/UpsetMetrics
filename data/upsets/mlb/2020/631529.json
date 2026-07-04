@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-09-02-giants-at-rockies",
+  "sport": "mlb",
+  "date": "2020-09-02",
+  "startTime": "2020-09-02T19:10:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "18-19"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "18-20"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "631529",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/631529/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.625425Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.625427Z"
+}

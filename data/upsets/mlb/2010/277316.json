@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-03-25-florida-marlins-at-red-sox",
+  "sport": "mlb",
+  "date": "2010-03-25",
+  "startTime": "2010-03-25T17:05:00Z",
+  "season": "2010",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "11-12"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "11-11"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.354,
+    "rankGapFactor": 0.043,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "277316",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/277316/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.729433Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.729439Z"
+}

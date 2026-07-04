@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-03-20-royals-at-padres",
+  "sport": "mlb",
+  "date": "2015-03-20",
+  "startTime": "2015-03-21T02:05:00Z",
+  "season": "2015",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "12-6"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "8-9"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "429884",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/429884/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.695543Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.695547Z"
+}

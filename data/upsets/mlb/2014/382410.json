@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-08-19-diamondbacks-at-nationals",
+  "sport": "mlb",
+  "date": "2014-08-19",
+  "startTime": "2014-08-19T23:05:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "71-53"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "53-73"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382410",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382410/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.200330Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.200331Z"
+}

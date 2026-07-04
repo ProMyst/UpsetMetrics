@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-07-05-royals-at-tigers",
+  "sport": "mlb",
+  "date": "2001-07-05",
+  "startTime": "2001-07-05T23:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "35-46"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "34-50"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "6070",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/6070/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.221527Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.221529Z"
+}

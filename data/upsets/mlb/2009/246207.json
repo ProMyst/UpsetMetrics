@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-09-04-twins-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2009-09-04",
+  "startTime": "2009-09-04T23:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "59-75"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "67-67"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.449,
+    "rankGapFactor": 0.119,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246207",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246207/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.939023Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.939028Z"
+}

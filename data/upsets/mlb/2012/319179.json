@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-07-24-reds-at-astros",
+  "sport": "mlb",
+  "date": "2012-07-24",
+  "startTime": "2012-07-25T00:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "57-40"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "34-64"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319179",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319179/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.530497Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.530499Z"
+}

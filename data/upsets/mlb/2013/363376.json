@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-03-22-giants-at-rockies",
+  "sport": "mlb",
+  "date": "2013-03-22",
+  "startTime": "2013-03-22T20:10:00Z",
+  "season": "2013",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "11-12"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "13-11"
+  },
+  "finalScore": "11-6",
+  "factors": {
+    "pregameOddsFactor": 0.459,
+    "rankGapFactor": 0.127,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "363376",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/363376/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.081198Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.081201Z"
+}

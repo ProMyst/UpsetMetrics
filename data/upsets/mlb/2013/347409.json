@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-05-20-cardinals-at-padres",
+  "sport": "mlb",
+  "date": "2013-05-20",
+  "startTime": "2013-05-21T02:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "21-23"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "28-16"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.698,
+    "rankGapFactor": 0.318,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347409",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347409/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.246764Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.246767Z"
+}

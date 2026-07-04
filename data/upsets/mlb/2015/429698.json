@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-03-22-pirates-at-astros",
+  "sport": "mlb",
+  "date": "2015-03-22",
+  "startTime": "2015-03-22T17:05:00Z",
+  "season": "2015",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "8-7"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "9-8"
+  },
+  "finalScore": "14-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "429698",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/429698/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.702111Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.702114Z"
+}

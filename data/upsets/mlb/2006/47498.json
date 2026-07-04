@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-03-28-cleveland-indians-at-nationals",
+  "sport": "mlb",
+  "date": "2006-03-28",
+  "startTime": "2006-03-28T23:05:00Z",
+  "season": "2006",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "9-19"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "18-10"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.643,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "47498",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/47498/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.204118Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.204123Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-06-17-twins-at-royals",
+  "sport": "mlb",
+  "date": "2003-06-17",
+  "startTime": "2003-06-18T00:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "35-32"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "38-31"
+  },
+  "finalScore": "14-7",
+  "factors": {
+    "pregameOddsFactor": 0.371,
+    "rankGapFactor": 0.057,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15685",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15685/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.584914Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.584916Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-06-02-white-sox-at-dodgers",
+  "sport": "mlb",
+  "date": "2014-06-02",
+  "startTime": "2014-06-03T02:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "31-28"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "29-30"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381393",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381393/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.065709Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.065710Z"
+}

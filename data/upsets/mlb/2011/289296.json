@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-09-27-cubs-at-padres",
+  "sport": "mlb",
+  "date": "2011-09-27",
+  "startTime": "2011-09-28T02:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "71-90"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "70-91"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "289296",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/289296/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.473350Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.473352Z"
+}

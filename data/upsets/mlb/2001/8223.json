@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-08-02-mets-at-astros",
+  "sport": "mlb",
+  "date": "2001-08-02",
+  "startTime": "2001-08-03T00:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "59-49"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "50-59"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8223",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8223/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.300973Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.300975Z"
+}

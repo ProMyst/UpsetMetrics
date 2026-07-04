@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-08-29-twins-at-tigers",
+  "sport": "mlb",
+  "date": "2020-08-29",
+  "startTime": "2020-08-29T17:15:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "15-16"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "20-14"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.561,
+    "rankGapFactor": 0.209,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "631457",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/631457/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.614503Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.614505Z"
+}

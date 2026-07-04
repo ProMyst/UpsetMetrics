@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-09-13-padres-at-giants",
+  "sport": "mlb",
+  "date": "2024-09-13",
+  "startTime": "2024-09-14T02:15:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "83-65"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "72-76"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745286",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745286/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.130635Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.130637Z"
+}

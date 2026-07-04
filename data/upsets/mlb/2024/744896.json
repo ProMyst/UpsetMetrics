@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-08-20-reds-at-blue-jays",
+  "sport": "mlb",
+  "date": "2024-08-20",
+  "startTime": "2024-08-20T23:07:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "60-67"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "61-65"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.329,
+    "rankGapFactor": 0.023,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "744896",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/744896/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.065179Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.065181Z"
+}

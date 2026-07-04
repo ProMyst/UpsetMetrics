@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-09-25-cardinals-at-cubs",
+  "sport": "mlb",
+  "date": "2010-09-25",
+  "startTime": "2010-09-25T17:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "70-84"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "79-75"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.446,
+    "rankGapFactor": 0.117,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "266121",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/266121/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.227897Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.227899Z"
+}

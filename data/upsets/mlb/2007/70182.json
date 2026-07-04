@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-09-03-cleveland-indians-at-twins",
+  "sport": "mlb",
+  "date": "2007-09-03",
+  "startTime": "2007-09-03T18:10:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "79-58"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "69-69"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "70182",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/70182/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.545080Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.545085Z"
+}

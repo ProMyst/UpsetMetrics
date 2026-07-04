@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-05-03-cardinals-at-cubs",
+  "sport": "mlb",
+  "date": "2014-05-03",
+  "startTime": "2014-05-03T17:05:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "11-17"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "15-16"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.528,
+    "rankGapFactor": 0.182,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "380988",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/380988/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.011719Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.011720Z"
+}

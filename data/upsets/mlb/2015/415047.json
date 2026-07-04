@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-07-21-cleveland-indians-at-brewers",
+  "sport": "mlb",
+  "date": "2015-07-21",
+  "startTime": "2015-07-22T00:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "42-52"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "44-48"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.379,
+    "rankGapFactor": 0.063,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415047",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415047/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.950700Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.950703Z"
+}

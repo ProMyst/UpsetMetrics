@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-05-26-tigers-at-white-sox",
+  "sport": "mlb",
+  "date": "2002-05-26",
+  "startTime": "2002-05-26T18:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "18-29"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "28-22"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.743,
+    "rankGapFactor": 0.354,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "11275",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/11275/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.782324Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.782326Z"
+}

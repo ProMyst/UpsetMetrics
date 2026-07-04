@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-07-12-red-sox-at-astros",
+  "sport": "mlb",
+  "date": "2014-07-12",
+  "startTime": "2014-07-12T20:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "40-55"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "42-52"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.364,
+    "rankGapFactor": 0.052,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381944",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381944/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.140121Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.140122Z"
+}

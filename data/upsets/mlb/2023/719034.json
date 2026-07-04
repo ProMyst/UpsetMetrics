@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-03-20-rays-at-braves",
+  "sport": "mlb",
+  "date": "2023-03-20",
+  "startTime": "2023-03-20T17:05:00Z",
+  "season": "2023",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "12-9"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "13-10"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "719034",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/719034/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.528111Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.528114Z"
+}

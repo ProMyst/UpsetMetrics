@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-07-30-giants-at-reds",
+  "sport": "mlb",
+  "date": "2011-07-30",
+  "startTime": "2011-07-30T23:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "52-55"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "61-46"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.51,
+    "rankGapFactor": 0.168,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288502",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288502/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.307310Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.307312Z"
+}

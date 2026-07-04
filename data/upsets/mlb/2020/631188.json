@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-09-27-marlins-at-yankees",
+  "sport": "mlb",
+  "date": "2020-09-27",
+  "startTime": "2020-09-27T19:05:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "31-29"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "33-27"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.383,
+    "rankGapFactor": 0.067,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "631188",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/631188/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.701352Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.701354Z"
+}

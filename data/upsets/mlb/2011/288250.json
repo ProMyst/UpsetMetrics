@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-07-09-rockies-at-nationals",
+  "sport": "mlb",
+  "date": "2011-07-09",
+  "startTime": "2011-07-09T23:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "43-47"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "45-46"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.342,
+    "rankGapFactor": 0.033,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288250",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288250/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.257699Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.257701Z"
+}

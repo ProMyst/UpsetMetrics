@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-09-21-royals-at-tigers",
+  "sport": "mlb",
+  "date": "2010-09-21",
+  "startTime": "2010-09-21T23:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "62-88"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "76-75"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.525,
+    "rankGapFactor": 0.18,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "266060",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/266060/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.217200Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.217202Z"
+}

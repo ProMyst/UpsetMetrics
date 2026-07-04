@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-08-01-cleveland-indians-at-royals",
+  "sport": "mlb",
+  "date": "2004-08-01",
+  "startTime": "2004-08-01T18:10:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "37-66"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "53-52"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.664,
+    "rankGapFactor": 0.291,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21581",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21581/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.729410Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.729415Z"
+}

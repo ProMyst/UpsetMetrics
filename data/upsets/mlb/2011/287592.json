@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-05-21-nationals-at-orioles",
+  "sport": "mlb",
+  "date": "2011-05-21",
+  "startTime": "2011-05-21T20:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "20-24"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "21-24"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.33,
+    "rankGapFactor": 0.024,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287592",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287592/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.118400Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.118402Z"
+}

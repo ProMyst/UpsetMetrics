@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-11-05-phillies-at-astros",
+  "sport": "mlb",
+  "date": "2022-11-05",
+  "startTime": "2022-11-06T00:03:00Z",
+  "season": "2022",
+  "event": "World Series",
+  "stakes": "World Series",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "4-2"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "2-4"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 1.0,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "715719",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/715719/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.296776Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.296778Z"
+}

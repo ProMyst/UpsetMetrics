@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-06-10-astros-at-giants",
+  "sport": "mlb",
+  "date": "2024-06-10",
+  "startTime": "2024-06-11T01:45:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "33-34"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "30-37"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745334",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745334/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.883651Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.883652Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-09-12-rangers-at-marlins",
+  "sport": "mlb",
+  "date": "2022-09-12",
+  "startTime": "2022-09-12T23:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "58-83"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "61-80"
+  },
+  "finalScore": "10-6",
+  "factors": {
+    "pregameOddsFactor": 0.353,
+    "rankGapFactor": 0.043,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661419",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661419/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.223562Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.223564Z"
+}

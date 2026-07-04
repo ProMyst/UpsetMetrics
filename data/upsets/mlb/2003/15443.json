@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-06-16-padres-at-rockies",
+  "sport": "mlb",
+  "date": "2003-06-16",
+  "startTime": "2003-06-17T01:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "22-49"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "35-36"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.758,
+    "rankGapFactor": 0.366,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15443",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15443/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.583198Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.583200Z"
+}

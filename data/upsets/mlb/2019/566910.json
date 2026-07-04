@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-07-06-orioles-at-blue-jays",
+  "sport": "mlb",
+  "date": "2019-07-06",
+  "startTime": "2019-07-06T19:07:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "27-61"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "33-57"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.45,
+    "rankGapFactor": 0.12,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566910",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566910/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.329452Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.329454Z"
+}

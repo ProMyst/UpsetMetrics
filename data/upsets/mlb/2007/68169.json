@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-04-05-athletics-at-angels",
+  "sport": "mlb",
+  "date": "2007-04-05",
+  "startTime": "2007-04-06T02:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "2-2"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "3-1"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68169",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68169/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.132883Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.132885Z"
+}

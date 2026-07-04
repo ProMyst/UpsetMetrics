@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-09-20-rays-at-orioles",
+  "sport": "mlb",
+  "date": "2020-09-20",
+  "startTime": "2020-09-20T17:05:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "23-31"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "35-19"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.856,
+    "rankGapFactor": 0.444,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "631672",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/631672/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.678365Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.678369Z"
+}

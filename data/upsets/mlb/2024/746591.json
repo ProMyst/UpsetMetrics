@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-09-12-rays-at-guardians",
+  "sport": "mlb",
+  "date": "2024-09-12",
+  "startTime": "2024-09-12T23:15:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "72-75"
+  },
+  "loser": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "84-63"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.504,
+    "rankGapFactor": 0.163,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746591",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746591/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.126852Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-guardians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.126854Z"
+}

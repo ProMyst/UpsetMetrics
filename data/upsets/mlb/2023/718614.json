@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-04-11-nationals-at-angels",
+  "sport": "mlb",
+  "date": "2023-04-11",
+  "startTime": "2023-04-12T01:38:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "6-5"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "4-8"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718614",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718614/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.592569Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.592571Z"
+}

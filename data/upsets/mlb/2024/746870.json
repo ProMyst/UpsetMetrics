@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-06-01-reds-at-cubs",
+  "sport": "mlb",
+  "date": "2024-06-01",
+  "startTime": "2024-06-01T23:15:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "29-30"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "25-33"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746870",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746870/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.861468Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.861470Z"
+}

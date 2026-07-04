@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-08-02-athletics-at-giants",
+  "sport": "mlb",
+  "date": "2017-08-02",
+  "startTime": "2017-08-03T02:15:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "48-60"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "41-68"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491704",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491704/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.264389Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.264390Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-07-28-reds-at-cardinals",
+  "sport": "mlb",
+  "date": "2015-07-28",
+  "startTime": "2015-07-29T00:15:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "44-54"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "64-36"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.778,
+    "rankGapFactor": 0.382,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415142",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415142/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.963074Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.963076Z"
+}

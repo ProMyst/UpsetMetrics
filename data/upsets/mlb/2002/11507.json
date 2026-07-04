@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-09-06-montreal-expos-at-braves",
+  "sport": "mlb",
+  "date": "2002-09-06",
+  "startTime": "2002-09-06T23:35:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "89-50"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "69-72"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "11507",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/11507/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.064825Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.064830Z"
+}

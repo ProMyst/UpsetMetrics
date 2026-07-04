@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-07-19-phillies-at-pirates",
+  "sport": "mlb",
+  "date": "2024-07-19",
+  "startTime": "2024-07-19T22:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "49-48"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "62-35"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.635,
+    "rankGapFactor": 0.268,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745481",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745481/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.980487Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.980488Z"
+}

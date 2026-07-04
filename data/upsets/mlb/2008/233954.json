@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-04-14-blue-jays-at-orioles",
+  "sport": "mlb",
+  "date": "2008-04-14",
+  "startTime": "2008-04-14T23:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "8-5"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "7-6"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "233954",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/233954/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.738342Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.738344Z"
+}

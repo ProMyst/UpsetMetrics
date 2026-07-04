@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-10-01-brewers-at-cardinals",
+  "sport": "mlb",
+  "date": "2006-10-01",
+  "startTime": "2006-10-01T18:15:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "75-87"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "83-78"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.431,
+    "rankGapFactor": 0.105,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42368",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42368/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.712690Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.712692Z"
+}

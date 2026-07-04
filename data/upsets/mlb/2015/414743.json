@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-06-25-white-sox-at-tigers",
+  "sport": "mlb",
+  "date": "2015-06-25",
+  "startTime": "2015-06-25T17:08:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "32-40"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "37-36"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.456,
+    "rankGapFactor": 0.125,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414743",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414743/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.909792Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.909793Z"
+}

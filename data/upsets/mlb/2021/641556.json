@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-03-26-white-sox-at-brewers",
+  "sport": "mlb",
+  "date": "2021-03-26",
+  "startTime": "2021-03-26T20:10:00Z",
+  "season": "2021",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "10-11"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "12-11"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.414,
+    "rankGapFactor": 0.091,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "641556",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/641556/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.795010Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.795012Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-07-19-pirates-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2021-07-19",
+  "startTime": "2021-07-20T01:40:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "28-68"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "36-58"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.528,
+    "rankGapFactor": 0.183,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633243",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633243/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.102512Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.102514Z"
+}

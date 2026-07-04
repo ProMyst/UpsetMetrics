@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-07-15-guardians-at-rangers",
+  "sport": "mlb",
+  "date": "2023-07-15",
+  "startTime": "2023-07-15T20:05:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "54-39"
+  },
+  "loser": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "45-47"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717402",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717402/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.840639Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "guardians-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.840641Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-05-29-brewers-at-cardinals",
+  "sport": "mlb",
+  "date": "2022-05-29",
+  "startTime": "2022-05-29T18:15:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "30-18"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "26-21"
+  },
+  "finalScore": "8-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661990",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661990/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.940188Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.940190Z"
+}

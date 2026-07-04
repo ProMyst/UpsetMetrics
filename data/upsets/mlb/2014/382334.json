@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-08-13-rockies-at-padres",
+  "sport": "mlb",
+  "date": "2014-08-13",
+  "startTime": "2014-08-13T22:40:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "57-62"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "46-75"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382334",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382334/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.190942Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.190943Z"
+}

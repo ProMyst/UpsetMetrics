@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-04-10-astros-at-brewers",
+  "sport": "mlb",
+  "date": "2016-04-10",
+  "startTime": "2016-04-10T18:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "3-3"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "2-4"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "446945",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/446945/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.091018Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.091019Z"
+}

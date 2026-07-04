@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-04-13-diamondbacks-at-rockies",
+  "sport": "mlb",
+  "date": "2001-04-13",
+  "startTime": "2001-04-14T01:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "4-6"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "4-6"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "6937",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/6937/feed/live",
+    "retrievedAt": "2026-07-04T06:08:53.996074Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:53.996076Z"
+}

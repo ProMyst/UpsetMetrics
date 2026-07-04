@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-05-17-cubs-at-brewers",
+  "sport": "mlb",
+  "date": "2016-05-17",
+  "startTime": "2016-05-18T00:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "17-22"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "27-10"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.588,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447446",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447446/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.158030Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.158031Z"
+}

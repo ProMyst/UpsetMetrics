@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-05-08-cardinals-at-giants",
+  "sport": "mlb",
+  "date": "2000-05-08",
+  "startTime": "2000-05-09T02:15:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "17-13"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "19-13"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.368,
+    "rankGapFactor": 0.054,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5174",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5174/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.514300Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.514302Z"
+}

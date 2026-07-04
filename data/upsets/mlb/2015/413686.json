@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-04-09-red-sox-at-phillies",
+  "sport": "mlb",
+  "date": "2015-04-09",
+  "startTime": "2015-04-09T23:05:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "2-1"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "1-2"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "413686",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/413686/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.753435Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.753437Z"
+}

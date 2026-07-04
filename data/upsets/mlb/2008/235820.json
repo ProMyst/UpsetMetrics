@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-09-02-angels-at-tigers",
+  "sport": "mlb",
+  "date": "2008-09-02",
+  "startTime": "2008-09-02T23:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "84-53"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "66-72"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235820",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235820/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.119763Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.119765Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-07-24-cubs-at-phillies",
+  "sport": "mlb",
+  "date": "2004-07-24",
+  "startTime": "2004-07-24T19:15:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "51-46"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "52-45"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.326,
+    "rankGapFactor": 0.021,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21463",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21463/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.705353Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.705355Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-05-26-astros-at-brewers",
+  "sport": "mlb",
+  "date": "2010-05-26",
+  "startTime": "2010-05-27T00:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "16-30"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "18-28"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.409,
+    "rankGapFactor": 0.087,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264501",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264501/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.904103Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.904105Z"
+}

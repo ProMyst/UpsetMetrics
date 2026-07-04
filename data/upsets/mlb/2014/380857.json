@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-04-23-yankees-at-red-sox",
+  "sport": "mlb",
+  "date": "2014-04-23",
+  "startTime": "2014-04-23T23:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "10-12"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "12-9"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.592,
+    "rankGapFactor": 0.234,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "380857",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/380857/feed/live",
+    "retrievedAt": "2026-07-04T06:27:17.996089Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:17.996090Z"
+}

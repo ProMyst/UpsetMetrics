@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-09-23-phillies-at-braves",
+  "sport": "mlb",
+  "date": "2017-09-23",
+  "startTime": "2017-09-23T23:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "70-83"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "61-94"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "492413",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/492413/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.355169Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.355170Z"
+}

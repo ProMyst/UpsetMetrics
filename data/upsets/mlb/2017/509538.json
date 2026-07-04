@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-03-23-tigers-at-braves",
+  "sport": "mlb",
+  "date": "2017-03-23",
+  "startTime": "2017-03-23T22:05:00Z",
+  "season": "2017",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "7-18"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "11-15"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.658,
+    "rankGapFactor": 0.286,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "509538",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/509538/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.019368Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.019370Z"
+}

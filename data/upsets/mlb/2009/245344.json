@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-06-30-diamondbacks-at-reds",
+  "sport": "mlb",
+  "date": "2009-06-30",
+  "startTime": "2009-06-30T23:10:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "31-46"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "37-38"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.527,
+    "rankGapFactor": 0.181,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245344",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245344/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.769110Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.769112Z"
+}

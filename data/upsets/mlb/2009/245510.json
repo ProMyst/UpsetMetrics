@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-07-12-white-sox-at-twins",
+  "sport": "mlb",
+  "date": "2009-07-12",
+  "startTime": "2009-07-12T18:10:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "45-44"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "45-43"
+  },
+  "finalScore": "13-7",
+  "factors": {
+    "pregameOddsFactor": 0.314,
+    "rankGapFactor": 0.011,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245510",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245510/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.802723Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.802725Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-08-08-rockies-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2017-08-08",
+  "startTime": "2017-08-08T23:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "60-50"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "64-49"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.352,
+    "rankGapFactor": 0.042,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491779",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491779/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.273673Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.273676Z"
+}

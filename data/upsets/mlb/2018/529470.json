@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-04-02-nationals-at-braves",
+  "sport": "mlb",
+  "date": "2018-04-02",
+  "startTime": "2018-04-02T23:35:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "4-0"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "2-2"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "529470",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/529470/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.659642Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.659645Z"
+}

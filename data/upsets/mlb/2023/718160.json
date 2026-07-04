@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-05-15-diamondbacks-at-athletics",
+  "sport": "mlb",
+  "date": "2023-05-15",
+  "startTime": "2023-05-16T01:40:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "24-18"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "9-34"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718160",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718160/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.683726Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.683728Z"
+}

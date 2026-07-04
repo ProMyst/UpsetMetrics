@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-22-cubs-at-reds",
+  "sport": "mlb",
+  "date": "2006-09-22",
+  "startTime": "2006-09-22T23:10:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "75-78"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "62-92"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42230",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42230/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.686530Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.686532Z"
+}

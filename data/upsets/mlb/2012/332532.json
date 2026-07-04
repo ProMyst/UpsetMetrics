@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-03-31-cardinals-at-nationals",
+  "sport": "mlb",
+  "date": "2012-03-31",
+  "startTime": "2012-03-31T17:05:00Z",
+  "season": "2012",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "16-8"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "11-15"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "332532",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/332532/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.222641Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.222643Z"
+}

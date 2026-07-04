@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-06-10-marlins-at-blue-jays",
+  "sport": "mlb",
+  "date": "2015-06-10",
+  "startTime": "2015-06-10T16:37:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "31-30"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "24-36"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414535",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414535/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.879282Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.879283Z"
+}

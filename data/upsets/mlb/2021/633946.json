@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-05-30-cardinals-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2021-05-30",
+  "startTime": "2021-05-30T20:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "19-35"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "30-23"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.835,
+    "rankGapFactor": 0.428,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633946",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633946/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.970249Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.970251Z"
+}

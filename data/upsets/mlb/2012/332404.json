@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-03-23-cubs-at-rockies",
+  "sport": "mlb",
+  "date": "2012-03-23",
+  "startTime": "2012-03-23T20:10:00Z",
+  "season": "2012",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "10-12"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "10-10"
+  },
+  "finalScore": "10-8",
+  "factors": {
+    "pregameOddsFactor": 0.414,
+    "rankGapFactor": 0.091,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "332404",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/332404/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.192408Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.192411Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-06-05-cardinals-at-astros",
+  "sport": "mlb",
+  "date": "2012-06-05",
+  "startTime": "2012-06-06T00:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "24-31"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "28-28"
+  },
+  "finalScore": "9-8",
+  "factors": {
+    "pregameOddsFactor": 0.459,
+    "rankGapFactor": 0.127,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318561",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318561/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.401977Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.401979Z"
+}

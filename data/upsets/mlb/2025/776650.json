@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-08-21-mets-at-nationals",
+  "sport": "mlb",
+  "date": "2025-08-21",
+  "startTime": "2025-08-21T20:05:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "52-75"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "67-60"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.595,
+    "rankGapFactor": 0.236,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776650",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776650/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.083575Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.083577Z"
+}

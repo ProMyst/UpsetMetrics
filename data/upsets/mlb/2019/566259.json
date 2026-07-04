@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-09-28-reds-at-pirates",
+  "sport": "mlb",
+  "date": "2019-09-28",
+  "startTime": "2019-09-28T23:05:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "74-87"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "69-92"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566259",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566259/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.465291Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.465292Z"
+}

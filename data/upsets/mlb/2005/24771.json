@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-09-11-angels-at-white-sox",
+  "sport": "mlb",
+  "date": "2005-09-11",
+  "startTime": "2005-09-11T19:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "81-61"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "87-55"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.406,
+    "rankGapFactor": 0.085,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24771",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24771/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.804080Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.804082Z"
+}

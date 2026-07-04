@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-07-08-astros-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2011-07-08",
+  "startTime": "2011-07-08T23:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "41-48"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "30-60"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288237",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288237/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.255002Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.255007Z"
+}

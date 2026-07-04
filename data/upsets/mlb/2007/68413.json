@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-04-23-rockies-at-mets",
+  "sport": "mlb",
+  "date": "2007-04-23",
+  "startTime": "2007-04-23T23:10:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "12-6"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "8-12"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68413",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68413/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.182424Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.182426Z"
+}

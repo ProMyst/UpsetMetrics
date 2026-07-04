@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-06-23-dodgers-at-giants",
+  "sport": "mlb",
+  "date": "2003-06-23",
+  "startTime": "2003-06-24T02:15:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "45-30"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "44-31"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16334",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16334/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.602981Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.602983Z"
+}

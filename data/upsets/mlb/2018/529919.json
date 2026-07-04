@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-05-06-dodgers-at-padres",
+  "sport": "mlb",
+  "date": "2018-05-06",
+  "startTime": "2018-05-06T20:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "13-22"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "15-19"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.474,
+    "rankGapFactor": 0.139,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "529919",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/529919/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.730119Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.730121Z"
+}

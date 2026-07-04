@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-05-30-diamondbacks-at-giants",
+  "sport": "mlb",
+  "date": "2012-05-30",
+  "startTime": "2012-05-31T02:15:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "23-28"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "27-24"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.496,
+    "rankGapFactor": 0.157,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318482",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318482/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.389693Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.389695Z"
+}

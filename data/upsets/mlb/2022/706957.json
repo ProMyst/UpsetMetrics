@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-04-04-blue-jays-at-tigers",
+  "sport": "mlb",
+  "date": "2022-04-04",
+  "startTime": "2022-04-04T17:05:00Z",
+  "season": "2022",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "6-9"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "8-6"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "706957",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/706957/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.789031Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.789033Z"
+}

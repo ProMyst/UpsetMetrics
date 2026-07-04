@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-08-27-twins-at-white-sox",
+  "sport": "mlb",
+  "date": "2019-08-27",
+  "startTime": "2019-08-28T00:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "80-51"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "60-71"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567329",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567329/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.411495Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.411496Z"
+}

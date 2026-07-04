@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-04-30-tigers-at-yankees",
+  "sport": "mlb",
+  "date": "2021-04-30",
+  "startTime": "2021-04-30T23:05:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "12-14"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "8-19"
+  },
+  "finalScore": "10-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "634327",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/634327/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.886768Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.886770Z"
+}

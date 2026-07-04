@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-09-23-royals-at-white-sox",
+  "sport": "mlb",
+  "date": "2001-09-23",
+  "startTime": "2001-09-23T18:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "78-72"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "58-91"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "6272",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/6272/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.445011Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.445013Z"
+}

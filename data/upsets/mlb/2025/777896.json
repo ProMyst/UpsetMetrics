@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-05-16-mariners-at-padres",
+  "sport": "mlb",
+  "date": "2025-05-16",
+  "startTime": "2025-05-17T01:40:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "24-19"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "27-16"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.474,
+    "rankGapFactor": 0.14,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777896",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777896/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.828022Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.828024Z"
+}

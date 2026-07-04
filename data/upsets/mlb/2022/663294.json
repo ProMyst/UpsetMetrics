@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-07-27-giants-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2022-07-27",
+  "startTime": "2022-07-27T19:40:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "45-53"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "48-50"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.377,
+    "rankGapFactor": 0.061,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "663294",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/663294/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.099567Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.099569Z"
+}

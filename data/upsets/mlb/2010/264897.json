@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-06-25-diamondbacks-at-rays",
+  "sport": "mlb",
+  "date": "2010-06-25",
+  "startTime": "2010-06-25T23:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "29-45"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "43-30"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.793,
+    "rankGapFactor": 0.394,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264897",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264897/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.986800Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.986802Z"
+}

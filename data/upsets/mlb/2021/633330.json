@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-07-07-braves-at-pirates",
+  "sport": "mlb",
+  "date": "2021-07-07",
+  "startTime": "2021-07-07T16:35:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "42-44"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "32-54"
+  },
+  "finalScore": "14-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633330",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633330/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.076099Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.076101Z"
+}

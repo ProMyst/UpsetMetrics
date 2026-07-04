@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-06-27-twins-at-white-sox",
+  "sport": "mlb",
+  "date": "2018-06-27",
+  "startTime": "2018-06-28T00:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "28-51"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "34-42"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.532,
+    "rankGapFactor": 0.186,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530606",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530606/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.823310Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.823313Z"
+}

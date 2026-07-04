@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-06-01-athletics-at-tampa-bay-devil-rays",
+  "sport": "mlb",
+  "date": "2002-06-01",
+  "startTime": "2002-06-01T22:15:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "26-28"
+  },
+  "loser": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "18-35"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9499",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9499/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.798094Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-tampa-bay-devil-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.798100Z"
+}

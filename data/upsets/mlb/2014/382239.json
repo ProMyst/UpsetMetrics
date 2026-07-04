@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-08-06-royals-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2014-08-06",
+  "startTime": "2014-08-07T01:40:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "59-53"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "49-65"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382239",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382239/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.178970Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.178971Z"
+}

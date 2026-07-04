@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-29-rangers-at-mariners",
+  "sport": "mlb",
+  "date": "2019-05-29",
+  "startTime": "2019-05-29T19:40:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "27-26"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "24-34"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566398",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566398/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.261661Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.261663Z"
+}

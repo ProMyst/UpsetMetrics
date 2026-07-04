@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-10-02-diamondbacks-at-cubs",
+  "sport": "mlb",
+  "date": "2009-10-02",
+  "startTime": "2009-10-02T18:20:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "69-91"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "82-77"
+  },
+  "finalScore": "12-3",
+  "factors": {
+    "pregameOddsFactor": 0.511,
+    "rankGapFactor": 0.169,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246580",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246580/feed/live",
+    "retrievedAt": "2026-07-04T06:20:14.015551Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:14.015553Z"
+}

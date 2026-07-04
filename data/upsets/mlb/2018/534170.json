@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-03-20-dodgers-at-athletics",
+  "sport": "mlb",
+  "date": "2018-03-20",
+  "startTime": "2018-03-20T20:05:00Z",
+  "season": "2018",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "13-13"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "12-11"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.354,
+    "rankGapFactor": 0.043,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "534170",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/534170/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.613430Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.613434Z"
+}

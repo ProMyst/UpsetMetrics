@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-05-06-cleveland-indians-at-mariners",
+  "sport": "mlb",
+  "date": "2006-05-06",
+  "startTime": "2006-05-07T01:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "13-19"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "16-15"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.575,
+    "rankGapFactor": 0.22,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40397",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40397/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.310914Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.310919Z"
+}

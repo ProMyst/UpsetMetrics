@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-05-24-mets-at-cubs",
+  "sport": "mlb",
+  "date": "2023-05-24",
+  "startTime": "2023-05-24T23:40:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "22-26"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "25-25"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.404,
+    "rankGapFactor": 0.083,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718038",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718038/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.707435Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.707437Z"
+}

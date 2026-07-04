@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-09-03-royals-at-tigers",
+  "sport": "mlb",
+  "date": "2022-09-03",
+  "startTime": "2022-09-03T22:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "54-80"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "51-82"
+  },
+  "finalScore": "12-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662803",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662803/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.198715Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.198717Z"
+}

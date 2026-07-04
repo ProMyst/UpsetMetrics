@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-10-04-giants-at-astros",
+  "sport": "mlb",
+  "date": "2001-10-04",
+  "startTime": "2001-10-04T23:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "89-70"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "91-68"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.331,
+    "rankGapFactor": 0.025,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8983",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8983/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.473945Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.473947Z"
+}

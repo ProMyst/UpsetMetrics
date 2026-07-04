@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-04-26-cardinals-at-mets",
+  "sport": "mlb",
+  "date": "2024-04-26",
+  "startTime": "2024-04-26T23:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "12-14"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "13-12"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.446,
+    "rankGapFactor": 0.117,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745835",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745835/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.766096Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.766098Z"
+}

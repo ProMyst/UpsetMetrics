@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-06-22-astros-at-rays",
+  "sport": "mlb",
+  "date": "2014-06-22",
+  "startTime": "2014-06-22T17:40:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "31-46"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "33-44"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.365,
+    "rankGapFactor": 0.052,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381669",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381669/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.100808Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.100809Z"
+}

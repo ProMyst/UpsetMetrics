@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-05-14-marlins-at-cubs",
+  "sport": "mlb",
+  "date": "2025-05-14",
+  "startTime": "2025-05-14T23:40:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "16-26"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "25-19"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.768,
+    "rankGapFactor": 0.374,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777921",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777921/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.823482Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.823484Z"
+}

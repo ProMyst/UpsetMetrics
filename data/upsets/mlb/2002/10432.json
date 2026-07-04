@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-05-08-royals-at-twins",
+  "sport": "mlb",
+  "date": "2002-05-08",
+  "startTime": "2002-05-09T00:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "22-13"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "9-22"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10432",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10432/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.731982Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.731984Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-05-07-mets-at-giants",
+  "sport": "mlb",
+  "date": "2007-05-07",
+  "startTime": "2007-05-08T02:15:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "17-14"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "19-12"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.461,
+    "rankGapFactor": 0.129,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68604",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68604/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.221436Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.221438Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-09-14-astros-at-angels",
+  "sport": "mlb",
+  "date": "2014-09-14",
+  "startTime": "2014-09-14T19:35:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "66-83"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "93-56"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.753,
+    "rankGapFactor": 0.362,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382766",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382766/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.248059Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.248061Z"
+}

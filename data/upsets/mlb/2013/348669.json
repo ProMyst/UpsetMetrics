@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-08-24-brewers-at-reds",
+  "sport": "mlb",
+  "date": "2013-08-24",
+  "startTime": "2013-08-24T23:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "74-56"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "56-73"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "348669",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/348669/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.506879Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.506881Z"
+}

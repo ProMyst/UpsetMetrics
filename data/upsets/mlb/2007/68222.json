@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-04-09-astros-at-cubs",
+  "sport": "mlb",
+  "date": "2007-04-09",
+  "startTime": "2007-04-09T18:20:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "2-5"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "3-4"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68222",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68222/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.143803Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.143805Z"
+}

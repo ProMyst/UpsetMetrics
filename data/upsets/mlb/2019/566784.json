@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-18-cardinals-at-rangers",
+  "sport": "mlb",
+  "date": "2019-05-18",
+  "startTime": "2019-05-18T20:05:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "24-22"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "20-23"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566784",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566784/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.239462Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.239463Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-10-18-dodgers-at-cardinals",
+  "sport": "mlb",
+  "date": "2013-10-18",
+  "startTime": "2013-10-19T00:30:00Z",
+  "season": "2013",
+  "event": "NL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "4-2"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "2-4"
+  },
+  "finalScore": "9-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "379726",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/379726/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.612845Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.612847Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-05-13-blue-jays-at-rangers",
+  "sport": "mlb",
+  "date": "2016-05-13",
+  "startTime": "2016-05-14T00:05:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "19-18"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "20-16"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.405,
+    "rankGapFactor": 0.084,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447405",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447405/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.151203Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.151204Z"
+}

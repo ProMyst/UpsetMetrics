@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-08-24-angels-at-mariners",
+  "sport": "mlb",
+  "date": "2013-08-24",
+  "startTime": "2013-08-25T01:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "57-71"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "59-69"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.339,
+    "rankGapFactor": 0.031,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "348664",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/348664/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.507682Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.507684Z"
+}

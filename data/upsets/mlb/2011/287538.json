@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-05-18-tigers-at-red-sox",
+  "sport": "mlb",
+  "date": "2011-05-18",
+  "startTime": "2011-05-18T23:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "22-20"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "22-20"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287538",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287538/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.109564Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.109566Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-04-01-marlins-at-astros",
+  "sport": "mlb",
+  "date": "2022-04-01",
+  "startTime": "2022-04-01T17:05:00Z",
+  "season": "2022",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "8-4"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "7-5"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "706956",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/706956/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.780961Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.780963Z"
+}

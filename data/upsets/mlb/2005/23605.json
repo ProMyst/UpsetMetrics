@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-06-15-mets-at-athletics",
+  "sport": "mlb",
+  "date": "2005-06-15",
+  "startTime": "2005-06-16T02:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "27-37"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "32-33"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.476,
+    "rankGapFactor": 0.141,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23605",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23605/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.562824Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.562826Z"
+}

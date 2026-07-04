@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-03-21-dodgers-at-rangers",
+  "sport": "mlb",
+  "date": "2015-03-21",
+  "startTime": "2015-03-21T18:05:00Z",
+  "season": "2015",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "10-5"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "7-9"
+  },
+  "finalScore": "11-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "427471",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/427471/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.698663Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.698666Z"
+}

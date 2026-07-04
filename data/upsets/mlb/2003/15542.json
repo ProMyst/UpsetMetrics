@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-08-07-athletics-at-tigers",
+  "sport": "mlb",
+  "date": "2003-08-07",
+  "startTime": "2003-08-07T17:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "30-82"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "66-48"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.622,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15542",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15542/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.724926Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.724928Z"
+}

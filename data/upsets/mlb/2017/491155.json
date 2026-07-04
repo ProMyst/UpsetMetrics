@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-06-19-nationals-at-marlins",
+  "sport": "mlb",
+  "date": "2017-06-19",
+  "startTime": "2017-06-19T23:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "31-37"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "42-28"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.66,
+    "rankGapFactor": 0.288,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491155",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491155/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.188423Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.188424Z"
+}

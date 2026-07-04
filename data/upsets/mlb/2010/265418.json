@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-08-04-phillies-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2010-08-04",
+  "startTime": "2010-08-04T23:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "59-48"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "53-54"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265418",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265418/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.089099Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.089104Z"
+}

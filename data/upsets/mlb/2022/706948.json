@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-03-22-athletics-at-royals",
+  "sport": "mlb",
+  "date": "2022-03-22",
+  "startTime": "2022-03-22T20:05:00Z",
+  "season": "2022",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "3-0"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "1-2"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "706948",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/706948/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.744926Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.744929Z"
+}

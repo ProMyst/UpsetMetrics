@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-09-19-tigers-at-twins",
+  "sport": "mlb",
+  "date": "2009-09-19",
+  "startTime": "2009-09-19T20:10:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "76-72"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "78-70"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.334,
+    "rankGapFactor": 0.027,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246407",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246407/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.980501Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.980503Z"
+}

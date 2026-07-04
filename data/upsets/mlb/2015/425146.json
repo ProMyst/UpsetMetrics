@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-04-04-mets-at-rangers",
+  "sport": "mlb",
+  "date": "2015-04-04",
+  "startTime": "2015-04-04T18:05:00Z",
+  "season": "2015",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "19-12"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "9-19"
+  },
+  "finalScore": "4-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "425146",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/425146/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.744112Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.744114Z"
+}

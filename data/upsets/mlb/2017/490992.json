@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-06-07-blue-jays-at-athletics",
+  "sport": "mlb",
+  "date": "2017-06-07",
+  "startTime": "2017-06-07T19:35:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "29-31"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "26-33"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490992",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490992/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.166535Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.166536Z"
+}

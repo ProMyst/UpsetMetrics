@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-08-06-athletics-at-nationals",
+  "sport": "mlb",
+  "date": "2025-08-06",
+  "startTime": "2025-08-06T22:45:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "45-68"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Athletics",
+    "recordEntering": "50-66"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.382,
+    "rankGapFactor": 0.066,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776850",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776850/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.044378Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.044380Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-03-25-astros-at-braves",
+  "sport": "mlb",
+  "date": "2016-03-25",
+  "startTime": "2016-03-25T17:05:00Z",
+  "season": "2016",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "14-8"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "6-16"
+  },
+  "finalScore": "1-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "469587",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/469587/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.047378Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.047381Z"
+}

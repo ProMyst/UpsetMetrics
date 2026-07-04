@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-04-21-cubs-at-mets",
+  "sport": "mlb",
+  "date": "2000-04-21",
+  "startTime": "2000-04-21T23:10:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "7-11"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "9-7"
+  },
+  "finalScore": "0-0",
+  "factors": {
+    "pregameOddsFactor": 0.734,
+    "rankGapFactor": 0.347,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4073",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4073/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.466141Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.466143Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-07-24-red-sox-at-rockies",
+  "sport": "mlb",
+  "date": "2024-07-24",
+  "startTime": "2024-07-24T19:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "38-65"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "54-48"
+  },
+  "finalScore": "20-7",
+  "factors": {
+    "pregameOddsFactor": 0.701,
+    "rankGapFactor": 0.321,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746525",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746525/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.995854Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.995856Z"
+}

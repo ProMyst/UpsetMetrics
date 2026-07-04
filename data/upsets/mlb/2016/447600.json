@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-05-28-dodgers-at-mets",
+  "sport": "mlb",
+  "date": "2016-05-28",
+  "startTime": "2016-05-28T23:15:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "26-24"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "28-20"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.458,
+    "rankGapFactor": 0.127,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447600",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447600/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.177714Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.177715Z"
+}

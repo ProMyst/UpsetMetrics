@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-05-17-guardians-at-white-sox",
+  "sport": "mlb",
+  "date": "2023-05-17",
+  "startTime": "2023-05-18T00:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "16-28"
+  },
+  "loser": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "19-23"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.522,
+    "rankGapFactor": 0.177,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718129",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718129/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.690005Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "guardians-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.690007Z"
+}

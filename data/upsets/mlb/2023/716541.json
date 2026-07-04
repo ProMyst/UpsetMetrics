@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-09-17-phillies-at-cardinals",
+  "sport": "mlb",
+  "date": "2023-09-17",
+  "startTime": "2023-09-17T18:15:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "66-83"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "81-68"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.552,
+    "rankGapFactor": 0.201,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716541",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716541/feed/live",
+    "retrievedAt": "2026-07-04T06:02:57.010798Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:57.010800Z"
+}

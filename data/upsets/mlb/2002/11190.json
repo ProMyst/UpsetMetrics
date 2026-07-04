@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-09-11-montreal-expos-at-cubs",
+  "sport": "mlb",
+  "date": "2002-09-11",
+  "startTime": "2002-09-11T18:20:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "62-84"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "71-75"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.454,
+    "rankGapFactor": 0.123,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "11190",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/11190/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.079496Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.079501Z"
+}

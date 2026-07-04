@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-04-23-nationals-at-giants",
+  "sport": "mlb",
+  "date": "2018-04-23",
+  "startTime": "2018-04-24T02:15:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "10-12"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "10-13"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "529744",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/529744/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.706491Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.706493Z"
+}

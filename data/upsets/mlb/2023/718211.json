@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-05-12-cardinals-at-red-sox",
+  "sport": "mlb",
+  "date": "2023-05-12",
+  "startTime": "2023-05-12T23:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "14-25"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "22-17"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.813,
+    "rankGapFactor": 0.41,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718211",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718211/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.674360Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.674362Z"
+}

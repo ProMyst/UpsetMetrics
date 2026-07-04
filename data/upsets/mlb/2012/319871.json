@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-09-12-pirates-at-reds",
+  "sport": "mlb",
+  "date": "2012-09-12",
+  "startTime": "2012-09-12T23:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "87-57"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "72-70"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319871",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319871/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.666716Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.666718Z"
+}

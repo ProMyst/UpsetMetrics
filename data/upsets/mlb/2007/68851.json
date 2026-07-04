@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-05-25-mariners-at-royals",
+  "sport": "mlb",
+  "date": "2007-05-25",
+  "startTime": "2007-05-26T00:10:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "22-22"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "19-30"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68851",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68851/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.269033Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.269035Z"
+}

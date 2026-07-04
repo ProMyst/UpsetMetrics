@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-07-26-astros-at-mariners",
+  "sport": "mlb",
+  "date": "2021-07-26",
+  "startTime": "2021-07-27T02:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "55-46"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "61-40"
+  },
+  "finalScore": "11-8",
+  "factors": {
+    "pregameOddsFactor": 0.449,
+    "rankGapFactor": 0.119,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633206",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633206/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.121264Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.121266Z"
+}

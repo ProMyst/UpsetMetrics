@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-08-24-astros-at-angels",
+  "sport": "mlb",
+  "date": "2018-08-24",
+  "startTime": "2018-08-25T02:07:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "78-50"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "63-66"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531332",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531332/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.919332Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.919333Z"
+}

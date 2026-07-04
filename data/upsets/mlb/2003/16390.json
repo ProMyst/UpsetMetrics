@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-04-30-mets-at-cardinals",
+  "sport": "mlb",
+  "date": "2003-04-30",
+  "startTime": "2003-05-01T00:10:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "13-12"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "11-16"
+  },
+  "finalScore": "13-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16390",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16390/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.454397Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.454399Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-09-27-tigers-at-twins",
+  "sport": "mlb",
+  "date": "2018-09-27",
+  "startTime": "2018-09-28T00:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "74-84"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "64-95"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531787",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531787/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.979538Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.979539Z"
+}

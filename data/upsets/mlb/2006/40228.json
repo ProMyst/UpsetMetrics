@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-04-24-athletics-at-rangers",
+  "sport": "mlb",
+  "date": "2006-04-24",
+  "startTime": "2006-04-25T00:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "9-11"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "10-10"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.425,
+    "rankGapFactor": 0.1,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40228",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40228/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.275887Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.275889Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-10-03-padres-at-giants",
+  "sport": "mlb",
+  "date": "2010-10-03",
+  "startTime": "2010-10-03T20:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "92-70"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "90-72"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "266238",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/266238/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.254348Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.254350Z"
+}

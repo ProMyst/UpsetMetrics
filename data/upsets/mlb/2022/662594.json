@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-08-22-brewers-at-dodgers",
+  "sport": "mlb",
+  "date": "2022-08-22",
+  "startTime": "2022-08-23T02:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "65-56"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "84-37"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.693,
+    "rankGapFactor": 0.314,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662594",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662594/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.169433Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.169435Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-07-06-cubs-at-brewers",
+  "sport": "mlb",
+  "date": "2004-07-06",
+  "startTime": "2004-07-07T00:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "43-38"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "46-37"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.358,
+    "rankGapFactor": 0.047,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21245",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21245/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.656347Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.656349Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-06-18-blue-jays-at-dodgers",
+  "sport": "mlb",
+  "date": "2002-06-18",
+  "startTime": "2002-06-19T02:10:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "28-39"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "41-28"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.741,
+    "rankGapFactor": 0.353,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10608",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10608/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.843875Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.843877Z"
+}

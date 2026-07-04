@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-06-13-yankees-at-orioles",
+  "sport": "mlb",
+  "date": "2015-06-13",
+  "startTime": "2015-06-13T23:15:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "31-30"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "33-28"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.382,
+    "rankGapFactor": 0.066,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414577",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414577/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.885787Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.885788Z"
+}

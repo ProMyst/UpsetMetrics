@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-04-03-rockies-at-mariners",
+  "sport": "mlb",
+  "date": "2015-04-03",
+  "startTime": "2015-04-04T02:05:00Z",
+  "season": "2015",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "12-17"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "16-15"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.556,
+    "rankGapFactor": 0.205,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "429923",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/429923/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.742928Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.742930Z"
+}

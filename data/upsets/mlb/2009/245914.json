@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-08-14-angels-at-orioles",
+  "sport": "mlb",
+  "date": "2009-08-14",
+  "startTime": "2009-08-14T23:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "48-67"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "68-45"
+  },
+  "finalScore": "16-6",
+  "factors": {
+    "pregameOddsFactor": 0.761,
+    "rankGapFactor": 0.369,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245914",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245914/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.881714Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.881716Z"
+}

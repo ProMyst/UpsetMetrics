@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-09-20-white-sox-at-reds",
+  "sport": "mlb",
+  "date": "2020-09-20",
+  "startTime": "2020-09-20T17:10:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "27-27"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "34-19"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.654,
+    "rankGapFactor": 0.283,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "631578",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/631578/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.679348Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.679350Z"
+}

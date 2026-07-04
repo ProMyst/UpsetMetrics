@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-04-14-rockies-at-mariners",
+  "sport": "mlb",
+  "date": "2023-04-14",
+  "startTime": "2023-04-15T02:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "6-8"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "5-9"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718577",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718577/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.600912Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.600914Z"
+}

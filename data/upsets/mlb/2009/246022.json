@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-08-21-cardinals-at-padres",
+  "sport": "mlb",
+  "date": "2009-08-21",
+  "startTime": "2009-08-22T02:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "52-72"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "70-54"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.663,
+    "rankGapFactor": 0.29,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246022",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246022/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.902372Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.902374Z"
+}

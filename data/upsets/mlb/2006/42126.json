@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-14-dodgers-at-cubs",
+  "sport": "mlb",
+  "date": "2006-09-14",
+  "startTime": "2006-09-14T18:20:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "59-88"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "77-69"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.615,
+    "rankGapFactor": 0.252,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42126",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42126/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.664318Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.664320Z"
+}

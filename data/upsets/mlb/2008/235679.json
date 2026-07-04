@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-08-22-dodgers-at-phillies",
+  "sport": "mlb",
+  "date": "2008-08-22",
+  "startTime": "2008-08-22T23:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "69-59"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "65-63"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235679",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235679/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.089366Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.089368Z"
+}

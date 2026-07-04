@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-07-08-braves-at-athletics",
+  "sport": "mlb",
+  "date": "2025-07-08",
+  "startTime": "2025-07-09T02:05:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Athletics",
+    "recordEntering": "38-55"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "39-51"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.362,
+    "rankGapFactor": 0.049,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777189",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777189/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.975643Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.975645Z"
+}

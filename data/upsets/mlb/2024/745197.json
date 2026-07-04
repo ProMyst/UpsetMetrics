@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-04-06-marlins-at-cardinals",
+  "sport": "mlb",
+  "date": "2024-04-06",
+  "startTime": "2024-04-06T18:15:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "5-4"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "0-9"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745197",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745197/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.710659Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.710661Z"
+}

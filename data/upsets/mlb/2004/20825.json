@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-06-04-rangers-at-yankees",
+  "sport": "mlb",
+  "date": "2004-06-04",
+  "startTime": "2004-06-04T23:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "34-19"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "29-23"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20825",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20825/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.565646Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.565648Z"
+}

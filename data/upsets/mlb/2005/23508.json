@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-06-08-rangers-at-phillies",
+  "sport": "mlb",
+  "date": "2005-06-08",
+  "startTime": "2005-06-08T23:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "32-28"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "32-25"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.37,
+    "rankGapFactor": 0.056,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23508",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23508/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.542302Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.542304Z"
+}

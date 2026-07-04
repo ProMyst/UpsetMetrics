@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-10-01-brewers-at-phillies",
+  "sport": "mlb",
+  "date": "2008-10-01",
+  "startTime": "2008-10-01T19:00:00Z",
+  "season": "2008",
+  "event": "NL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "243810",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/243810/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.196075Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.196077Z"
+}

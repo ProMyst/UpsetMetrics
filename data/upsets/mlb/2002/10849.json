@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-08-11-orioles-at-tigers",
+  "sport": "mlb",
+  "date": "2002-08-11",
+  "startTime": "2002-08-11T18:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "45-72"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "56-59"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.556,
+    "rankGapFactor": 0.205,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10849",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10849/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.992900Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.992902Z"
+}

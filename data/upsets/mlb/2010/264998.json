@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-07-02-astros-at-padres",
+  "sport": "mlb",
+  "date": "2010-07-02",
+  "startTime": "2010-07-03T02:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "47-33"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "32-49"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264998",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264998/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.008067Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.008069Z"
+}

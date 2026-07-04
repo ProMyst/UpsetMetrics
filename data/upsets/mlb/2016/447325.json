@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-05-08-diamondbacks-at-braves",
+  "sport": "mlb",
+  "date": "2016-05-08",
+  "startTime": "2016-05-08T17:35:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "15-18"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "7-23"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447325",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447325/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.141934Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.141935Z"
+}

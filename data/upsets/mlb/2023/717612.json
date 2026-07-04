@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-06-25-diamondbacks-at-giants",
+  "sport": "mlb",
+  "date": "2023-06-25",
+  "startTime": "2023-06-25T20:05:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "47-32"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "44-34"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717612",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717612/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.793487Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.793489Z"
+}

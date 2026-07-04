@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-06-26-rockies-at-angels",
+  "sport": "mlb",
+  "date": "2010-06-26",
+  "startTime": "2010-06-27T02:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "42-35"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "39-35"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264916",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264916/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.991422Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.991424Z"
+}

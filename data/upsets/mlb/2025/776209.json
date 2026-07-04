@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-09-23-mets-at-cubs",
+  "sport": "mlb",
+  "date": "2025-09-23",
+  "startTime": "2025-09-23T23:40:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "81-76"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "88-69"
+  },
+  "finalScore": "9-7",
+  "factors": {
+    "pregameOddsFactor": 0.411,
+    "rankGapFactor": 0.089,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776209",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776209/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.170047Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.170049Z"
+}

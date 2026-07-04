@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-09-26-reds-at-pirates",
+  "sport": "mlb",
+  "date": "2022-09-26",
+  "startTime": "2022-09-26T22:35:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "57-97"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "60-94"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.349,
+    "rankGapFactor": 0.039,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662242",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662242/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.260710Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.260712Z"
+}

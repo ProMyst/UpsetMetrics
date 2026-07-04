@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-06-28-cleveland-indians-at-red-sox",
+  "sport": "mlb",
+  "date": "2005-06-28",
+  "startTime": "2005-06-28T23:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "41-34"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "44-32"
+  },
+  "finalScore": "12-8",
+  "factors": {
+    "pregameOddsFactor": 0.381,
+    "rankGapFactor": 0.065,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23771",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23771/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.594922Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.594927Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-08-07-yankees-at-white-sox",
+  "sport": "mlb",
+  "date": "2023-08-07",
+  "startTime": "2023-08-08T00:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "46-68"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "58-55"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.574,
+    "rankGapFactor": 0.22,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717088",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717088/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.900824Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.900825Z"
+}

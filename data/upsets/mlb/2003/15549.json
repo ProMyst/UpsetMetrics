@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-08-21-anaheim-angels-at-tigers",
+  "sport": "mlb",
+  "date": "2003-08-21",
+  "startTime": "2003-08-21T23:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "61-67"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "31-95"
+  },
+  "finalScore": "10-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15549",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15549/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.765090Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.765094Z"
+}

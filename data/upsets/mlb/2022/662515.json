@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-05-26-rockies-at-nationals",
+  "sport": "mlb",
+  "date": "2022-05-26",
+  "startTime": "2022-05-26T23:05:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "16-30"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "20-24"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.567,
+    "rankGapFactor": 0.213,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662515",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662515/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.930180Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.930182Z"
+}

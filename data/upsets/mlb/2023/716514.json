@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-09-19-orioles-at-astros",
+  "sport": "mlb",
+  "date": "2023-09-19",
+  "startTime": "2023-09-20T00:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "95-56"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "84-68"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716514",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716514/feed/live",
+    "retrievedAt": "2026-07-04T06:02:57.015958Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:57.015960Z"
+}

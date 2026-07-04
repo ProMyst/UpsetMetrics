@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-04-23-padres-at-rockies",
+  "sport": "mlb",
+  "date": "2018-04-23",
+  "startTime": "2018-04-24T00:40:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "9-15"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "12-12"
+  },
+  "finalScore": "13-5",
+  "factors": {
+    "pregameOddsFactor": 0.613,
+    "rankGapFactor": 0.25,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "529742",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/529742/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.706204Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.706206Z"
+}

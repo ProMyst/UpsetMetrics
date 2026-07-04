@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-08-23-rangers-at-reds",
+  "sport": "mlb",
+  "date": "2016-08-23",
+  "startTime": "2016-08-23T23:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "54-71"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "73-53"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.668,
+    "rankGapFactor": 0.295,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448744",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448744/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.329523Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.329524Z"
+}

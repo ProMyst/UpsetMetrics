@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-09-30-athletics-at-royals",
+  "sport": "mlb",
+  "date": "2014-09-30",
+  "startTime": "2014-10-01T00:00:00Z",
+  "season": "2014",
+  "event": "AL Wild Card Game",
+  "stakes": "Wild Card",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "9-8",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.75,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "416345",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/416345/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.273471Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.273472Z"
+}

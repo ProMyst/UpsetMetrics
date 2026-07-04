@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-05-28-angels-at-tigers",
+  "sport": "mlb",
+  "date": "2018-05-28",
+  "startTime": "2018-05-28T17:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "24-29"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "29-25"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.511,
+    "rankGapFactor": 0.168,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530203",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530203/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.766879Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.766880Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-05-14-nationals-at-padres",
+  "sport": "mlb",
+  "date": "2015-05-14",
+  "startTime": "2015-05-15T02:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "19-17"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "19-17"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414174",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414174/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.832577Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.832578Z"
+}

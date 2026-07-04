@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-07-15-white-sox-at-braves",
+  "sport": "mlb",
+  "date": "2023-07-15",
+  "startTime": "2023-07-15T23:15:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "39-55"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "61-30"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.939,
+    "rankGapFactor": 0.511,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717395",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717395/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.842009Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.842011Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-07-19-cleveland-indians-at-twins",
+  "sport": "mlb",
+  "date": "2011-07-19",
+  "startTime": "2011-07-20T00:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "45-51"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "51-45"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.456,
+    "rankGapFactor": 0.125,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288344",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288344/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.277473Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.277478Z"
+}

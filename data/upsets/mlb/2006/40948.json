@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-06-16-orioles-at-mets",
+  "sport": "mlb",
+  "date": "2006-06-16",
+  "startTime": "2006-06-16T23:10:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "31-38"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "42-24"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.768,
+    "rankGapFactor": 0.374,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40948",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40948/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.421793Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.421795Z"
+}

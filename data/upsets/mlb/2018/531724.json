@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-09-22-padres-at-dodgers",
+  "sport": "mlb",
+  "date": "2018-09-22",
+  "startTime": "2018-09-23T01:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "86-69"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "62-93"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531724",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531724/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.971763Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.971764Z"
+}

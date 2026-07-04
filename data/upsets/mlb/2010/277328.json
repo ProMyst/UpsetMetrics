@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-03-25-reds-at-rockies",
+  "sport": "mlb",
+  "date": "2010-03-25",
+  "startTime": "2010-03-25T20:10:00Z",
+  "season": "2010",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "14-9"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "9-10"
+  },
+  "finalScore": "10-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "277328",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/277328/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.731506Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.731509Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-06-16-yankees-at-nationals",
+  "sport": "mlb",
+  "date": "2012-06-16",
+  "startTime": "2012-06-16T17:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "39-25"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "38-25"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318708",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318708/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.429956Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.429958Z"
+}

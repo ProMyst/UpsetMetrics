@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-07-08-braves-at-cubs",
+  "sport": "mlb",
+  "date": "2009-07-08",
+  "startTime": "2009-07-08T18:20:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "41-43"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "41-41"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.33,
+    "rankGapFactor": 0.024,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245452",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245452/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.790032Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.790034Z"
+}

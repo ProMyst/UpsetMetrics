@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-05-17-phillies-at-cardinals",
+  "sport": "mlb",
+  "date": "2018-05-17",
+  "startTime": "2018-05-17T23:15:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "25-16"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "23-18"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530058",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530058/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.747737Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.747739Z"
+}

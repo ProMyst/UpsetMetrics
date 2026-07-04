@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-05-17-angels-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2005-05-17",
+  "startTime": "2005-05-17T23:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "17-21"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "22-17"
+  },
+  "finalScore": "13-5",
+  "factors": {
+    "pregameOddsFactor": 0.592,
+    "rankGapFactor": 0.233,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23210",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23210/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.481635Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.481641Z"
+}

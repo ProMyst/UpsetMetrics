@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-07-09-royals-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2021-07-09",
+  "startTime": "2021-07-09T23:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "44-42"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "36-52"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633373",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633373/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.081466Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.081471Z"
+}

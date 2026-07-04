@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-08-30-rockies-at-padres",
+  "sport": "mlb",
+  "date": "2008-08-30",
+  "startTime": "2008-08-31T02:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "52-83"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "64-73"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.505,
+    "rankGapFactor": 0.164,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235783",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235783/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.114167Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.114169Z"
+}

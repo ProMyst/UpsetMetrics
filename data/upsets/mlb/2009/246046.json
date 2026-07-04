@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-08-23-brewers-at-nationals",
+  "sport": "mlb",
+  "date": "2009-08-23",
+  "startTime": "2009-08-23T17:35:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "44-80"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "60-63"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.632,
+    "rankGapFactor": 0.266,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246046",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246046/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.906987Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.906990Z"
+}

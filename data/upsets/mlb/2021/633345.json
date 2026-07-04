@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-07-09-athletics-at-rangers",
+  "sport": "mlb",
+  "date": "2021-07-09",
+  "startTime": "2021-07-10T00:05:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "35-53"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "50-40"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.695,
+    "rankGapFactor": 0.316,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633345",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633345/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.082425Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.082427Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-06-28-padres-at-mariners",
+  "sport": "mlb",
+  "date": "2003-06-28",
+  "startTime": "2003-06-29T02:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "27-55"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "52-27"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.658,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16257",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16257/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.617632Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.617634Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-07-16-rays-at-braves",
+  "sport": "mlb",
+  "date": "2021-07-16",
+  "startTime": "2021-07-16T23:20:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "54-37"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "44-46"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633265",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633265/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.092229Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.092232Z"
+}

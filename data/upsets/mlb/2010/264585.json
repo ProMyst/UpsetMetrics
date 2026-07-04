@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-06-01-cleveland-indians-at-tigers",
+  "sport": "mlb",
+  "date": "2010-06-01",
+  "startTime": "2010-06-01T23:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "19-31"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "26-25"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.625,
+    "rankGapFactor": 0.26,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264585",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264585/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.919121Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.919126Z"
+}

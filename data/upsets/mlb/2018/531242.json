@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-08-17-dodgers-at-mariners",
+  "sport": "mlb",
+  "date": "2018-08-17",
+  "startTime": "2018-08-18T02:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "66-57"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "70-53"
+  },
+  "finalScore": "11-1",
+  "factors": {
+    "pregameOddsFactor": 0.381,
+    "rankGapFactor": 0.065,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531242",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531242/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.907335Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.907337Z"
+}

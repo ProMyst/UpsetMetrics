@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-04-07-rockies-at-brewers",
+  "sport": "mlb",
+  "date": "2010-04-07",
+  "startTime": "2010-04-07T17:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "2-1"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "1-2"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "263832",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/263832/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.768477Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.768479Z"
+}

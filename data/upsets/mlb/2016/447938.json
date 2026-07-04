@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-06-22-white-sox-at-red-sox",
+  "sport": "mlb",
+  "date": "2016-06-22",
+  "startTime": "2016-06-22T23:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "36-36"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "39-32"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.423,
+    "rankGapFactor": 0.099,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447938",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447938/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.222388Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.222389Z"
+}

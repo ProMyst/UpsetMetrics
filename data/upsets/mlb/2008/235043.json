@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-07-03-brewers-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2008-07-03",
+  "startTime": "2008-07-03T19:40:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "43-43"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "46-39"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.403,
+    "rankGapFactor": 0.082,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235043",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235043/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.964079Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.964081Z"
+}

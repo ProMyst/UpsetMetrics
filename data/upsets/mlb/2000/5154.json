@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-05-16-white-sox-at-yankees",
+  "sport": "mlb",
+  "date": "2000-05-16",
+  "startTime": "2000-05-16T23:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "22-16"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "22-14"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.38,
+    "rankGapFactor": 0.064,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5154",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5154/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.534125Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.534127Z"
+}

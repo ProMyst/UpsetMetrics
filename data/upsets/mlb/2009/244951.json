@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-05-31-athletics-at-rangers",
+  "sport": "mlb",
+  "date": "2009-05-31",
+  "startTime": "2009-05-31T19:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "19-29"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "30-20"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.81,
+    "rankGapFactor": 0.408,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244951",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244951/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.684492Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.684494Z"
+}

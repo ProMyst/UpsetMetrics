@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-04-27-astros-at-rockies",
+  "sport": "mlb",
+  "date": "2024-04-27",
+  "startTime": "2024-04-27T22:05:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "8-19"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "7-20"
+  },
+  "finalScore": "12-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746560",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746560/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.769303Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.769306Z"
+}

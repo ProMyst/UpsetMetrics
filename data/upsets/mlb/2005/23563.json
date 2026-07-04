@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-06-12-red-sox-at-cubs",
+  "sport": "mlb",
+  "date": "2005-06-12",
+  "startTime": "2005-06-13T00:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "33-29"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "33-28"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.322,
+    "rankGapFactor": 0.017,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23563",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23563/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.554806Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.554807Z"
+}

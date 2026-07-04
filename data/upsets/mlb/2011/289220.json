@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-09-21-padres-at-rockies",
+  "sport": "mlb",
+  "date": "2011-09-21",
+  "startTime": "2011-09-21T19:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "68-88"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "70-85"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.339,
+    "rankGapFactor": 0.031,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "289220",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/289220/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.453994Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.453996Z"
+}

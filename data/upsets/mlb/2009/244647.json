@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-05-09-royals-at-angels",
+  "sport": "mlb",
+  "date": "2009-05-09",
+  "startTime": "2009-05-10T01:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "15-14"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "18-13"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.459,
+    "rankGapFactor": 0.127,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244647",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244647/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.625674Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.625676Z"
+}

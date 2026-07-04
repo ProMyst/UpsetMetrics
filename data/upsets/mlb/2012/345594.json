@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-10-05-orioles-at-rangers",
+  "sport": "mlb",
+  "date": "2012-10-05",
+  "startTime": "2012-10-06T00:30:00Z",
+  "season": "2012",
+  "event": "AL Wild Card Game",
+  "stakes": "Wild Card",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.75,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "345594",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/345594/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.728730Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.728732Z"
+}

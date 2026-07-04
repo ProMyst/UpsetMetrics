@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-09-09-reds-at-padres",
+  "sport": "mlb",
+  "date": "2025-09-09",
+  "startTime": "2025-09-10T01:40:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "73-72"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "79-66"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.403,
+    "rankGapFactor": 0.083,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776392",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776392/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.134630Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.134632Z"
+}

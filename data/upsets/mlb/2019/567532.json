@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-09-18-angels-at-yankees",
+  "sport": "mlb",
+  "date": "2019-09-18",
+  "startTime": "2019-09-18T22:35:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "69-83"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "99-54"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.783,
+    "rankGapFactor": 0.386,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567532",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567532/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.448683Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.448685Z"
+}

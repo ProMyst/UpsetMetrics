@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-07-15-florida-marlins-at-yankees",
+  "sport": "mlb",
+  "date": "2000-07-15",
+  "startTime": "2000-07-15T20:35:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "46-44"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "46-39"
+  },
+  "finalScore": "0-0",
+  "factors": {
+    "pregameOddsFactor": 0.375,
+    "rankGapFactor": 0.06,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5583",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5583/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.691494Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.691498Z"
+}

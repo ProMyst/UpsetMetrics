@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-07-08-tigers-at-tampa-bay-devil-rays",
+  "sport": "mlb",
+  "date": "2005-07-08",
+  "startTime": "2005-07-08T23:15:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "41-43"
+  },
+  "loser": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "27-60"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23926",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23926/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.624796Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-tampa-bay-devil-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.624802Z"
+}

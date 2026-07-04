@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-08-19-nationals-at-braves",
+  "sport": "mlb",
+  "date": "2016-08-19",
+  "startTime": "2016-08-19T23:35:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "72-49"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "44-78"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448691",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448691/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.323372Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.323374Z"
+}

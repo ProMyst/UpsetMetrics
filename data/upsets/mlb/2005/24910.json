@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-09-21-phillies-at-braves",
+  "sport": "mlb",
+  "date": "2005-09-21",
+  "startTime": "2005-09-21T23:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "81-71"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "86-66"
+  },
+  "finalScore": "10-6",
+  "factors": {
+    "pregameOddsFactor": 0.382,
+    "rankGapFactor": 0.066,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24910",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24910/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.830496Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.830498Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-05-27-white-sox-at-rangers",
+  "sport": "mlb",
+  "date": "2005-05-27",
+  "startTime": "2005-05-28T00:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "28-20"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "33-16"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.525,
+    "rankGapFactor": 0.18,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23356",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23356/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.509951Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.509953Z"
+}

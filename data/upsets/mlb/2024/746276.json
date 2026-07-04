@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-08-05-red-sox-at-royals",
+  "sport": "mlb",
+  "date": "2024-08-05",
+  "startTime": "2024-08-06T00:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "60-52"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "63-51"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.342,
+    "rankGapFactor": 0.034,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746276",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746276/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.027245Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.027247Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-04-10-cubs-at-rockies",
+  "sport": "mlb",
+  "date": "2015-04-10",
+  "startTime": "2015-04-10T20:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "4-0"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "1-2"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "413697",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/413697/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.753994Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.753995Z"
+}

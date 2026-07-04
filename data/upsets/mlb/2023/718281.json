@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-05-06-white-sox-at-reds",
+  "sport": "mlb",
+  "date": "2023-05-06",
+  "startTime": "2023-05-06T22:40:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "14-19"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "11-23"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718281",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718281/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.659073Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.659075Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-09-28-phillies-at-marlins",
+  "sport": "mlb",
+  "date": "2012-09-28",
+  "startTime": "2012-09-28T23:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "67-90"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "78-79"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.475,
+    "rankGapFactor": 0.14,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "320084",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/320084/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.710550Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.710552Z"
+}

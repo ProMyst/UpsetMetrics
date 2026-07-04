@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-05-28-twins-at-rangers",
+  "sport": "mlb",
+  "date": "2002-05-28",
+  "startTime": "2002-05-29T00:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "30-22"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "20-30"
+  },
+  "finalScore": "11-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9470",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9470/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.788258Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.788260Z"
+}

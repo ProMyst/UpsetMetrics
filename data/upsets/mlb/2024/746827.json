@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-09-08-yankees-at-cubs",
+  "sport": "mlb",
+  "date": "2024-09-08",
+  "startTime": "2024-09-08T18:20:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "73-70"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "82-61"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.457,
+    "rankGapFactor": 0.126,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746827",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746827/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.117308Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.117310Z"
+}

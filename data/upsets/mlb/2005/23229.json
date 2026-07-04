@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-05-18-red-sox-at-athletics",
+  "sport": "mlb",
+  "date": "2005-05-18",
+  "startTime": "2005-05-18T19:35:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "16-24"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "23-17"
+  },
+  "finalScore": "13-6",
+  "factors": {
+    "pregameOddsFactor": 0.737,
+    "rankGapFactor": 0.35,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23229",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23229/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.485728Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.485730Z"
+}

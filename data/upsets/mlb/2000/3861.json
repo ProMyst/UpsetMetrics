@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-09-23-athletics-at-mariners",
+  "sport": "mlb",
+  "date": "2000-09-23",
+  "startTime": "2000-09-23T20:10:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "85-68"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "86-69"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "3861",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/3861/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.893243Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.893245Z"
+}

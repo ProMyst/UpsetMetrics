@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-05-15-dodgers-at-marlins",
+  "sport": "mlb",
+  "date": "2018-05-15",
+  "startTime": "2018-05-15T23:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "15-26"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "16-25"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.361,
+    "rankGapFactor": 0.049,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530030",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530030/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.744496Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.744498Z"
+}

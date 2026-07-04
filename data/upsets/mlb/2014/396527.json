@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-03-21-blue-jays-at-rays",
+  "sport": "mlb",
+  "date": "2014-03-21",
+  "startTime": "2014-03-21T17:05:00Z",
+  "season": "2014",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "10-11"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "14-5"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.952,
+    "rankGapFactor": 0.521,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "396527",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/396527/feed/live",
+    "retrievedAt": "2026-07-04T06:27:17.918416Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:17.918419Z"
+}

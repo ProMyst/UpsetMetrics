@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-08-11-padres-at-mets",
+  "sport": "mlb",
+  "date": "2011-08-11",
+  "startTime": "2011-08-11T16:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "53-66"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "58-59"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.426,
+    "rankGapFactor": 0.101,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288665",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288665/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.339258Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.339260Z"
+}

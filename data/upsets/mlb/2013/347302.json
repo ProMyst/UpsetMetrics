@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-05-12-pirates-at-mets",
+  "sport": "mlb",
+  "date": "2013-05-12",
+  "startTime": "2013-05-12T17:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "21-16"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "14-20"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347302",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347302/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.222493Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.222495Z"
+}

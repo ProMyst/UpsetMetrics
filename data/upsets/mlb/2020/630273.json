@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-08-23-phillies-at-braves",
+  "sport": "mlb",
+  "date": "2020-08-23",
+  "startTime": "2020-08-23T23:08:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "10-14"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "16-12"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.687,
+    "rankGapFactor": 0.31,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "630273",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/630273/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.599034Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.599036Z"
+}

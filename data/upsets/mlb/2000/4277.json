@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-07-25-brewers-at-pirates",
+  "sport": "mlb",
+  "date": "2000-07-25",
+  "startTime": "2000-07-25T23:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "41-59"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "42-56"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.346,
+    "rankGapFactor": 0.037,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4277",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4277/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.724045Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.724047Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-09-13-cardinals-at-reds",
+  "sport": "mlb",
+  "date": "2015-09-13",
+  "startTime": "2015-09-13T17:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "89-54"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "60-82"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415790",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415790/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.044861Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.044862Z"
+}

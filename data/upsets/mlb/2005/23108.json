@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-05-09-astros-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2005-05-09",
+  "startTime": "2005-05-09T23:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "12-19"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "17-12"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.798,
+    "rankGapFactor": 0.398,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23108",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23108/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.459886Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.459891Z"
+}

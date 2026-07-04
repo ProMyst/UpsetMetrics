@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-08-16-white-sox-at-astros",
+  "sport": "mlb",
+  "date": "2024-08-16",
+  "startTime": "2024-08-17T00:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "30-93"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "65-56"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.587,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746357",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746357/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.056169Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.056171Z"
+}

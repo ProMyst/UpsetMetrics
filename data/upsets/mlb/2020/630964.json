@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-09-26-brewers-at-cardinals",
+  "sport": "mlb",
+  "date": "2020-09-26",
+  "startTime": "2020-09-26T23:07:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "29-30"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "29-28"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.343,
+    "rankGapFactor": 0.034,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "630964",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/630964/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.698639Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.698641Z"
+}

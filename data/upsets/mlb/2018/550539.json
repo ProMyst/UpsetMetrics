@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-03-27-miami-hurricanes-at-marlins",
+  "sport": "mlb",
+  "date": "2018-03-27",
+  "startTime": "2018-03-27T19:10:00Z",
+  "season": "2018",
+  "event": "Exhibition Game",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "miami-hurricanes",
+    "name": "Miami Hurricanes",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "22-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "550539",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/550539/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.643921Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "miami-hurricanes-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.643927Z"
+}

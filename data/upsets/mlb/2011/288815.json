@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-08-22-mets-at-phillies",
+  "sport": "mlb",
+  "date": "2011-08-22",
+  "startTime": "2011-08-22T23:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "82-44"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "60-67"
+  },
+  "finalScore": "10-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288815",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288815/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.369974Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.369976Z"
+}

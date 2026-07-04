@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-05-05-pirates-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2005-05-05",
+  "startTime": "2005-05-06T01:40:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "11-16"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "17-12"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.747,
+    "rankGapFactor": 0.358,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23056",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23056/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.449488Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.449490Z"
+}

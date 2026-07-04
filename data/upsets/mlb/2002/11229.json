@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-04-11-mets-at-cubs",
+  "sport": "mlb",
+  "date": "2002-04-11",
+  "startTime": "2002-04-11T18:20:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "5-4"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "2-6"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "11229",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/11229/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.655545Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.655547Z"
+}

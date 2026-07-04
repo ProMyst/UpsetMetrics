@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-09-18-tigers-at-dodgers",
+  "sport": "mlb",
+  "date": "2023-09-18",
+  "startTime": "2023-09-19T02:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "92-57"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "70-80"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716528",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716528/feed/live",
+    "retrievedAt": "2026-07-04T06:02:57.013815Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:57.013817Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-10-rangers-at-mariners",
+  "sport": "mlb",
+  "date": "2006-09-10",
+  "startTime": "2006-09-10T20:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "73-71"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "68-74"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42083",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42083/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.655952Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.655954Z"
+}

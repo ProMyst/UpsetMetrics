@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-07-16-cardinals-at-brewers",
+  "sport": "mlb",
+  "date": "2012-07-16",
+  "startTime": "2012-07-17T00:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "47-43"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "42-47"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319073",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319073/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.508530Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.508532Z"
+}

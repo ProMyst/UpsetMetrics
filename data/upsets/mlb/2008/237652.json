@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-03-29-cardinals-at-springfield-cardinals",
+  "sport": "mlb",
+  "date": "2008-03-29",
+  "startTime": "2008-03-29T18:10:00Z",
+  "season": "2008",
+  "event": "Exhibition Game",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "springfield-cardinals",
+    "name": "Springfield Cardinals",
+    "recordEntering": "1-1"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "2-1"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "237652",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/237652/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.697496Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-springfield-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.697502Z"
+}

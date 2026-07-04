@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-06-24-astros-at-royals",
+  "sport": "mlb",
+  "date": "2016-06-24",
+  "startTime": "2016-06-25T00:15:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "38-36"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "38-34"
+  },
+  "finalScore": "13-4",
+  "factors": {
+    "pregameOddsFactor": 0.336,
+    "rankGapFactor": 0.029,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447964",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447964/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.229660Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.229661Z"
+}

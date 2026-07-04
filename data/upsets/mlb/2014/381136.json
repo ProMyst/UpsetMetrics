@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-05-14-rockies-at-royals",
+  "sport": "mlb",
+  "date": "2014-05-14",
+  "startTime": "2014-05-14T18:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "20-19"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "23-19"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.387,
+    "rankGapFactor": 0.07,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381136",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381136/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.031835Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.031836Z"
+}

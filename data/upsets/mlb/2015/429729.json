@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-03-27-diamondbacks-at-angels",
+  "sport": "mlb",
+  "date": "2015-03-27",
+  "startTime": "2015-03-27T20:10:00Z",
+  "season": "2015",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "14-10"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "13-9"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.319,
+    "rankGapFactor": 0.015,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "429729",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/429729/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.720984Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.720986Z"
+}

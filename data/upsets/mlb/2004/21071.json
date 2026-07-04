@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-06-23-phillies-at-montreal-expos",
+  "sport": "mlb",
+  "date": "2004-06-23",
+  "startTime": "2004-06-23T23:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "37-32"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "23-46"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21071",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21071/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.617513Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.617518Z"
+}

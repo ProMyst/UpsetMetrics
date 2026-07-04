@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-09-24-cubs-at-pirates",
+  "sport": "mlb",
+  "date": "2022-09-24",
+  "startTime": "2022-09-24T22:35:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "56-96"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "66-86"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.464,
+    "rankGapFactor": 0.132,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662249",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662249/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.255894Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.255896Z"
+}

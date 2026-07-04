@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-08-16-mets-at-phillies",
+  "sport": "mlb",
+  "date": "2006-08-16",
+  "startTime": "2006-08-16T23:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "59-60"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "71-48"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.552,
+    "rankGapFactor": 0.202,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41736",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41736/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.584548Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.584550Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-09-17-rays-at-red-sox",
+  "sport": "mlb",
+  "date": "2011-09-17",
+  "startTime": "2011-09-17T20:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "84-67"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "87-64"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.04,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "289171",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/289171/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.442689Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.442691Z"
+}

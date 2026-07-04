@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-05-04-rangers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2012-05-04",
+  "startTime": "2012-05-04T23:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "14-10"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "17-9"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.476,
+    "rankGapFactor": 0.141,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318127",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318127/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.314111Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.314116Z"
+}

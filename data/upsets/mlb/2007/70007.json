@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-08-21-brewers-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2007-08-21",
+  "startTime": "2007-08-22T01:40:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "65-61"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "71-56"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.408,
+    "rankGapFactor": 0.086,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "70007",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/70007/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.508656Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.508658Z"
+}

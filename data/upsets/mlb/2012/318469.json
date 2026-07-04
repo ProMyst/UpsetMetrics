@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-05-29-white-sox-at-rays",
+  "sport": "mlb",
+  "date": "2012-05-29",
+  "startTime": "2012-05-29T23:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "28-22"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "29-21"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.04,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318469",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318469/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.385559Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.385561Z"
+}

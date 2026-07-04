@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-09-17-royals-at-red-sox",
+  "sport": "mlb",
+  "date": "2022-09-17",
+  "startTime": "2022-09-17T20:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "58-88"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "70-75"
+  },
+  "finalScore": "9-0",
+  "factors": {
+    "pregameOddsFactor": 0.514,
+    "rankGapFactor": 0.171,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "663208",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/663208/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.236874Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.236876Z"
+}

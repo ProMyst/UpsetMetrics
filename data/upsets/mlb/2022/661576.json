@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-04-08-reds-at-braves",
+  "sport": "mlb",
+  "date": "2022-04-08",
+  "startTime": "2022-04-08T23:20:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "1-1"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "1-1"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661576",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661576/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.798871Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.798873Z"
+}

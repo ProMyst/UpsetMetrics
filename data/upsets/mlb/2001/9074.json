@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-10-14-mariners-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2001-10-14",
+  "startTime": "2001-10-14T17:05:00Z",
+  "season": "2001",
+  "event": "AL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "2-2"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "2-2"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9074",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9074/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.487821Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.487825Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-09-01-pirates-at-braves",
+  "sport": "mlb",
+  "date": "2018-09-01",
+  "startTime": "2018-09-01T23:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "75-60"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "66-70"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531443",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531443/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.932892Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.932893Z"
+}

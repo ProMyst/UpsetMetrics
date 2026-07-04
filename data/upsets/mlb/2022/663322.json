@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-09-14-dodgers-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2022-09-14",
+  "startTime": "2022-09-15T01:40:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "67-75"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "98-44"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.846,
+    "rankGapFactor": 0.437,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "663322",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/663322/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.230990Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.230992Z"
+}

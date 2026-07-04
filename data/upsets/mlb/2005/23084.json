@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-05-07-tigers-at-angels",
+  "sport": "mlb",
+  "date": "2005-05-07",
+  "startTime": "2005-05-08T02:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "13-16"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "18-12"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.679,
+    "rankGapFactor": 0.303,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23084",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23084/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.455883Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.455885Z"
+}

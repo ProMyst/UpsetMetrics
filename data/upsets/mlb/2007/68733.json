@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-05-16-giants-at-astros",
+  "sport": "mlb",
+  "date": "2007-05-16",
+  "startTime": "2007-05-17T00:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "20-19"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "19-20"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68733",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68733/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.245617Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.245619Z"
+}

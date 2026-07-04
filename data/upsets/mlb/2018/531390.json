@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-08-28-mariners-at-padres",
+  "sport": "mlb",
+  "date": "2018-08-28",
+  "startTime": "2018-08-29T02:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "51-83"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "74-58"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.75,
+    "rankGapFactor": 0.36,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531390",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531390/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.926654Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.926655Z"
+}

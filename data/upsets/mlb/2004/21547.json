@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-07-30-diamondbacks-at-rockies",
+  "sport": "mlb",
+  "date": "2004-07-30",
+  "startTime": "2004-07-31T01:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "45-58"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "33-72"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21547",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21547/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.724146Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.724148Z"
+}

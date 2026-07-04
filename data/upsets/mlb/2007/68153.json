@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-04-04-cubs-at-reds",
+  "sport": "mlb",
+  "date": "2007-04-04",
+  "startTime": "2007-04-04T23:10:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "1-1"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "1-1"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68153",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68153/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.129976Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.129978Z"
+}

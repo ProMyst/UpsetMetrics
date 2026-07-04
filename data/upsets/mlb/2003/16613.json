@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-09-12-athletics-at-rangers",
+  "sport": "mlb",
+  "date": "2003-09-12",
+  "startTime": "2003-09-13T00:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "88-60"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "65-82"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16613",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16613/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.827704Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.827706Z"
+}

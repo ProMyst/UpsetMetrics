@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-07-30-phillies-at-pirates",
+  "sport": "mlb",
+  "date": "2021-07-30",
+  "startTime": "2021-07-30T23:05:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "39-64"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "51-52"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.591,
+    "rankGapFactor": 0.233,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633108",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633108/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.130103Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.130105Z"
+}

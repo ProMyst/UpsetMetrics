@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-09-15-mets-at-red-sox",
+  "sport": "mlb",
+  "date": "2018-09-15",
+  "startTime": "2018-09-15T20:05:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "102-47"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "69-79"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531627",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531627/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.958374Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.958375Z"
+}

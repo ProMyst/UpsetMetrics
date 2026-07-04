@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-09-07-phillies-at-marlins",
+  "sport": "mlb",
+  "date": "2024-09-07",
+  "startTime": "2024-09-07T20:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "53-89"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "85-57"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.863,
+    "rankGapFactor": 0.451,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746018",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746018/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.113989Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.113991Z"
+}

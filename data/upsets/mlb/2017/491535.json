@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-07-21-tigers-at-twins",
+  "sport": "mlb",
+  "date": "2017-07-21",
+  "startTime": "2017-07-22T00:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "44-51"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "48-47"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.405,
+    "rankGapFactor": 0.084,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491535",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491535/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.242139Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.242140Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-07-14-padres-at-phillies",
+  "sport": "mlb",
+  "date": "2023-07-14",
+  "startTime": "2023-07-14T22:05:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "44-47"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "48-42"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.425,
+    "rankGapFactor": 0.1,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717418",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717418/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.836545Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.836547Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-06-17-astros-at-reds",
+  "sport": "mlb",
+  "date": "2019-06-17",
+  "startTime": "2019-06-17T23:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "32-38"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "48-25"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.801,
+    "rankGapFactor": 0.401,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565253",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565253/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.293952Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.293954Z"
+}

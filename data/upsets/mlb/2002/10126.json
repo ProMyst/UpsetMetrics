@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-06-11-brewers-at-athletics",
+  "sport": "mlb",
+  "date": "2002-06-11",
+  "startTime": "2002-06-12T02:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "34-30"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "22-42"
+  },
+  "finalScore": "11-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10126",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10126/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.828878Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.828880Z"
+}

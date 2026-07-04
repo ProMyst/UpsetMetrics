@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-08-29-pirates-at-astros",
+  "sport": "mlb",
+  "date": "2011-08-29",
+  "startTime": "2011-08-30T00:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "45-90"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "62-72"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.623,
+    "rankGapFactor": 0.259,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288911",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288911/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.390471Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.390473Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-10-10-tigers-at-athletics",
+  "sport": "mlb",
+  "date": "2012-10-10",
+  "startTime": "2012-10-11T01:30:00Z",
+  "season": "2012",
+  "event": "AL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "2-2"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "2-2"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "345599",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/345599/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.731412Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.731414Z"
+}

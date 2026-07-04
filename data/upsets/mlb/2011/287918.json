@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-06-14-cardinals-at-nationals",
+  "sport": "mlb",
+  "date": "2011-06-14",
+  "startTime": "2011-06-14T23:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "31-36"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "38-30"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.54,
+    "rankGapFactor": 0.192,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287918",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287918/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.184020Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.184022Z"
+}

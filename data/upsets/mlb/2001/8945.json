@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-05-26-athletics-at-twins",
+  "sport": "mlb",
+  "date": "2001-05-26",
+  "startTime": "2001-05-26T23:35:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "31-16"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "24-24"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8945",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8945/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.112009Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.112011Z"
+}

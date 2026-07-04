@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-05-21-cubs-at-astros",
+  "sport": "mlb",
+  "date": "2008-05-21",
+  "startTime": "2008-05-22T00:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "27-21"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "28-19"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.383,
+    "rankGapFactor": 0.066,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234456",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234456/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.842751Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.842753Z"
+}

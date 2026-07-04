@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-06-25-cleveland-indians-at-reds",
+  "sport": "mlb",
+  "date": "2010-06-25",
+  "startTime": "2010-06-25T23:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "41-33"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "26-46"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264899",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264899/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.986539Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.986544Z"
+}

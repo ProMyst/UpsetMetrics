@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-08-25-mariners-at-rangers",
+  "sport": "mlb",
+  "date": "2007-08-25",
+  "startTime": "2007-08-26T00:35:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "57-72"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "73-54"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.632,
+    "rankGapFactor": 0.266,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "70070",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/70070/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.521248Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.521250Z"
+}

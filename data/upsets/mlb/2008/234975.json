@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-06-28-giants-at-athletics",
+  "sport": "mlb",
+  "date": "2008-06-28",
+  "startTime": "2008-06-29T01:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "35-46"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "44-36"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.595,
+    "rankGapFactor": 0.236,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234975",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234975/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.950733Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.950735Z"
+}

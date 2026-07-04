@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-06-23-orioles-at-blue-jays",
+  "sport": "mlb",
+  "date": "2003-06-23",
+  "startTime": "2003-06-23T23:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "44-32"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "33-40"
+  },
+  "finalScore": "13-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16657",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16657/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.602179Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.602181Z"
+}

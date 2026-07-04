@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-05-01-diamondbacks-at-dodgers",
+  "sport": "mlb",
+  "date": "2015-05-01",
+  "startTime": "2015-05-02T02:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "14-8"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "10-12"
+  },
+  "finalScore": "8-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "413983",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/413983/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.793344Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.793345Z"
+}

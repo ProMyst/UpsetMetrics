@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-06-09-cubs-at-giants",
+  "sport": "mlb",
+  "date": "2023-06-09",
+  "startTime": "2023-06-10T02:15:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "27-36"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "32-31"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.498,
+    "rankGapFactor": 0.159,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717823",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717823/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.751489Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.751491Z"
+}

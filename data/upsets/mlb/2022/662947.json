@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-08-01-diamondbacks-at-guardians",
+  "sport": "mlb",
+  "date": "2022-08-01",
+  "startTime": "2022-08-01T23:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "53-49"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "45-57"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662947",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662947/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.111992Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-guardians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.111994Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-07-05-cleveland-indians-at-twins",
+  "sport": "mlb",
+  "date": "2003-07-05",
+  "startTime": "2003-07-05T23:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "36-50"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "44-42"
+  },
+  "finalScore": "13-2",
+  "factors": {
+    "pregameOddsFactor": 0.533,
+    "rankGapFactor": 0.186,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16747",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16747/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.636031Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.636035Z"
+}

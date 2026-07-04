@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-09-29-rangers-at-mariners",
+  "sport": "mlb",
+  "date": "2023-09-29",
+  "startTime": "2023-09-30T02:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "87-73"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "89-71"
+  },
+  "finalScore": "8-0",
+  "factors": {
+    "pregameOddsFactor": 0.331,
+    "rankGapFactor": 0.025,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716379",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716379/feed/live",
+    "retrievedAt": "2026-07-04T06:02:57.041673Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:57.041675Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-07-16-anaheim-angels-at-padres",
+  "sport": "mlb",
+  "date": "2000-07-16",
+  "startTime": "2000-07-16T23:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "41-50"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "49-43"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.505,
+    "rankGapFactor": 0.164,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5589",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5589/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.694799Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.694804Z"
+}

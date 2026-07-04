@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-05-23-yankees-at-rockies",
+  "sport": "mlb",
+  "date": "2025-05-23",
+  "startTime": "2025-05-24T00:40:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "9-42"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "30-20"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.847,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777802",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777802/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.847339Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.847341Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-20-pirates-at-dodgers",
+  "sport": "mlb",
+  "date": "2006-09-20",
+  "startTime": "2006-09-21T02:10:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "65-87"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "79-73"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.53,
+    "rankGapFactor": 0.184,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42209",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42209/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.683614Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.683617Z"
+}

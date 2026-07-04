@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-08-08-mets-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2003-08-08",
+  "startTime": "2003-08-09T02:07:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "48-67"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "60-55"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.561,
+    "rankGapFactor": 0.209,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "14977",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/14977/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.730024Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.730026Z"
+}

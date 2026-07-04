@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-06-19-brewers-at-cubs",
+  "sport": "mlb",
+  "date": "2025-06-19",
+  "startTime": "2025-06-19T18:20:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "40-35"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "45-29"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.487,
+    "rankGapFactor": 0.15,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777450",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777450/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.918082Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.918084Z"
+}

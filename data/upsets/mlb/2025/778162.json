@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-04-26-braves-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2025-04-26",
+  "startTime": "2025-04-27T00:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "12-14"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "14-13"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.442,
+    "rankGapFactor": 0.114,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "778162",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/778162/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.773894Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.773896Z"
+}

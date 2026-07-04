@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-07-31-cleveland-indians-at-blue-jays",
+  "sport": "mlb",
+  "date": "2010-07-31",
+  "startTime": "2010-07-31T17:07:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "43-61"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "54-50"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.564,
+    "rankGapFactor": 0.212,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265366",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265366/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.076490Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.076495Z"
+}

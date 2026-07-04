@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-07-31-cardinals-at-braves",
+  "sport": "mlb",
+  "date": "2008-07-31",
+  "startTime": "2008-07-31T23:00:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "50-58"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "61-50"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.516,
+    "rankGapFactor": 0.173,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235386",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235386/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.031447Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.031449Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-09-05-mets-at-cardinals",
+  "sport": "mlb",
+  "date": "2012-09-05",
+  "startTime": "2012-09-05T17:45:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "65-72"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "74-63"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.464,
+    "rankGapFactor": 0.131,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319782",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319782/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.647725Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.647727Z"
+}

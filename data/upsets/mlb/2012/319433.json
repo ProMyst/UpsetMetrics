@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-08-11-mariners-at-angels",
+  "sport": "mlb",
+  "date": "2012-08-11",
+  "startTime": "2012-08-12T01:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "52-63"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "60-54"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.485,
+    "rankGapFactor": 0.148,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319433",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319433/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.579851Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.579853Z"
+}

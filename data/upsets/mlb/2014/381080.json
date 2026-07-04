@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-05-10-rockies-at-reds",
+  "sport": "mlb",
+  "date": "2014-05-10",
+  "startTime": "2014-05-10T23:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "23-16"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "16-19"
+  },
+  "finalScore": "11-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381080",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381080/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.024343Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.024344Z"
+}

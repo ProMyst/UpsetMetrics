@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-04-08-brewers-at-cardinals",
+  "sport": "mlb",
+  "date": "2000-04-08",
+  "startTime": "2000-04-08T18:10:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "4-1"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "3-2"
+  },
+  "finalScore": "10-8",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "3939",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/3939/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.426551Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.426554Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-08-07-angels-at-athletics",
+  "sport": "mlb",
+  "date": "2012-08-07",
+  "startTime": "2012-08-08T02:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "59-51"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "59-52"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319368",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319368/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.569102Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.569104Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-08-21-phillies-at-nationals",
+  "sport": "mlb",
+  "date": "2018-08-21",
+  "startTime": "2018-08-21T23:05:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "63-63"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "68-57"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.41,
+    "rankGapFactor": 0.088,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531298",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531298/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.912683Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.912685Z"
+}

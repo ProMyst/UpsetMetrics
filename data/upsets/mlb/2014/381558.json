@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-06-14-royals-at-white-sox",
+  "sport": "mlb",
+  "date": "2014-06-14",
+  "startTime": "2014-06-14T18:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "35-32"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "33-36"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381558",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381558/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.085505Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.085506Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-07-13-cubs-at-yankees",
+  "sport": "mlb",
+  "date": "2025-07-13",
+  "startTime": "2025-07-13T17:35:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "57-39"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "53-43"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777122",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777122/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.987405Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.987407Z"
+}

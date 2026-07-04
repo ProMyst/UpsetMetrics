@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-09-25-giants-at-dodgers",
+  "sport": "mlb",
+  "date": "2001-09-25",
+  "startTime": "2001-09-26T02:10:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "81-71"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "83-69"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.333,
+    "rankGapFactor": 0.026,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8867",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8867/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.451113Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.451115Z"
+}

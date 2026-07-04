@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-09-08-padres-at-dodgers",
+  "sport": "mlb",
+  "date": "2014-09-08",
+  "startTime": "2014-09-09T02:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "82-62"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "66-77"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382688",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382688/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.236914Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.236915Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-08-20-cubs-at-astros",
+  "sport": "mlb",
+  "date": "2003-08-20",
+  "startTime": "2003-08-21T00:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "65-60"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "66-60"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.31,
+    "rankGapFactor": 0.008,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15630",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15630/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.762785Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.762787Z"
+}

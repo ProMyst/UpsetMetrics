@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-04-24-orioles-at-angels",
+  "sport": "mlb",
+  "date": "2024-04-24",
+  "startTime": "2024-04-24T20:07:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "16-8"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "10-15"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746244",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746244/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.759885Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.759887Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-04-12-yankees-at-royals",
+  "sport": "mlb",
+  "date": "2009-04-12",
+  "startTime": "2009-04-12T18:10:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "3-3"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "3-3"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244277",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244277/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.550437Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.550439Z"
+}

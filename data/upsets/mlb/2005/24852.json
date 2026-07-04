@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-09-17-phillies-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2005-09-17",
+  "startTime": "2005-09-17T17:20:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "80-69"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "78-71"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24852",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24852/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.819476Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.819481Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-07-19-nationals-at-angels",
+  "sport": "mlb",
+  "date": "2017-07-19",
+  "startTime": "2017-07-20T02:07:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "47-50"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "57-37"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.605,
+    "rankGapFactor": 0.244,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491522",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491522/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.239921Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.239923Z"
+}

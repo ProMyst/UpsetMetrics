@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-06-15-brewers-at-orioles",
+  "sport": "mlb",
+  "date": "2003-06-15",
+  "startTime": "2003-06-15T17:35:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "32-35"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "27-40"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15036",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15036/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.580299Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.580301Z"
+}

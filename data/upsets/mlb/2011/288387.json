@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-07-22-mariners-at-red-sox",
+  "sport": "mlb",
+  "date": "2011-07-22",
+  "startTime": "2011-07-22T23:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "60-37"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "43-56"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288387",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288387/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.284849Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.284851Z"
+}

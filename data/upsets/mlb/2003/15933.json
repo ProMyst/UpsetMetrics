@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-06-30-montreal-expos-at-mets",
+  "sport": "mlb",
+  "date": "2003-06-30",
+  "startTime": "2003-06-30T23:10:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "35-46"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "45-37"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.592,
+    "rankGapFactor": 0.233,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15933",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15933/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.621926Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.621931Z"
+}

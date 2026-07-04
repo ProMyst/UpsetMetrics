@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-09-02-giants-at-dodgers",
+  "sport": "mlb",
+  "date": "2015-09-02",
+  "startTime": "2015-09-03T02:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "75-57"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "69-64"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415641",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415641/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.026472Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.026473Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-09-30-guardians-at-tigers",
+  "sport": "mlb",
+  "date": "2023-09-30",
+  "startTime": "2023-09-30T17:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "77-84"
+  },
+  "loser": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "76-85"
+  },
+  "finalScore": "8-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716380",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716380/feed/live",
+    "retrievedAt": "2026-07-04T06:02:57.042297Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "guardians-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:57.042299Z"
+}

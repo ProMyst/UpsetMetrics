@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-10-06-astros-at-yankees",
+  "sport": "mlb",
+  "date": "2015-10-06",
+  "startTime": "2015-10-07T00:00:00Z",
+  "season": "2015",
+  "event": "AL Wild Card Game",
+  "stakes": "Wild Card",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.75,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "446237",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/446237/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.084140Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.084141Z"
+}

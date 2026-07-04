@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-05-12-royals-at-athletics",
+  "sport": "mlb",
+  "date": "2009-05-12",
+  "startTime": "2009-05-13T02:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "12-18"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "18-15"
+  },
+  "finalScore": "12-3",
+  "factors": {
+    "pregameOddsFactor": 0.664,
+    "rankGapFactor": 0.291,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244684",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244684/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.632879Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.632881Z"
+}

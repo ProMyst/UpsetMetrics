@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-06-04-tigers-at-royals",
+  "sport": "mlb",
+  "date": "2010-06-04",
+  "startTime": "2010-06-05T00:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "23-33"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "28-26"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.57,
+    "rankGapFactor": 0.216,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264626",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264626/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.928192Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.928194Z"
+}

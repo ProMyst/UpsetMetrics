@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-06-07-rockies-at-giants",
+  "sport": "mlb",
+  "date": "2022-06-07",
+  "startTime": "2022-06-08T01:45:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "24-31"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "29-25"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.552,
+    "rankGapFactor": 0.201,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662092",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662092/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.965549Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.965551Z"
+}

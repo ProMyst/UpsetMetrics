@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-06-05-giants-at-mets",
+  "sport": "mlb",
+  "date": "2005-06-05",
+  "startTime": "2005-06-05T20:10:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "24-30"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "29-27"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.484,
+    "rankGapFactor": 0.147,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23441",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23441/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.536154Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.536156Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-03-31-rays-at-phillies",
+  "sport": "mlb",
+  "date": "2017-03-31",
+  "startTime": "2017-03-31T17:05:00Z",
+  "season": "2017",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "12-16"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "14-17"
+  },
+  "finalScore": "7-7",
+  "factors": {
+    "pregameOddsFactor": 0.358,
+    "rankGapFactor": 0.046,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "509871",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/509871/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.043121Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.043122Z"
+}

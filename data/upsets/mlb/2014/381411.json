@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-06-03-rays-at-marlins",
+  "sport": "mlb",
+  "date": "2014-06-03",
+  "startTime": "2014-06-03T23:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "30-28"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "23-36"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381411",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381411/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.066599Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.066600Z"
+}

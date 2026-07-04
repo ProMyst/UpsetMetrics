@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-05-13-giants-at-pirates",
+  "sport": "mlb",
+  "date": "2018-05-13",
+  "startTime": "2018-05-13T17:35:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "20-21"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "23-17"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.518,
+    "rankGapFactor": 0.174,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530011",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530011/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.741607Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.741608Z"
+}

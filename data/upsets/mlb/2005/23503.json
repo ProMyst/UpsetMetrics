@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-06-07-tigers-at-dodgers",
+  "sport": "mlb",
+  "date": "2005-06-07",
+  "startTime": "2005-06-08T02:10:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "27-29"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "30-28"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.388,
+    "rankGapFactor": 0.07,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23503",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23503/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.541276Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.541278Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-07-10-rockies-at-brewers",
+  "sport": "mlb",
+  "date": "2008-07-10",
+  "startTime": "2008-07-10T18:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "51-41"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "39-54"
+  },
+  "finalScore": "11-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235137",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235137/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.982579Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.982581Z"
+}

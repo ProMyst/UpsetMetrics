@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-09-05-rangers-at-orioles",
+  "sport": "mlb",
+  "date": "2009-09-05",
+  "startTime": "2009-09-05T20:10:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "55-81"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "76-59"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.696,
+    "rankGapFactor": 0.317,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246229",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246229/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.942277Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.942279Z"
+}

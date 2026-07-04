@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-04-04-rangers-at-athletics",
+  "sport": "mlb",
+  "date": "2018-04-04",
+  "startTime": "2018-04-05T02:05:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "3-4"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "2-5"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "529495",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/529495/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.666645Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.666647Z"
+}

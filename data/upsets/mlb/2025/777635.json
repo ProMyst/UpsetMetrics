@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-06-05-royals-at-cardinals",
+  "sport": "mlb",
+  "date": "2025-06-05",
+  "startTime": "2025-06-05T23:45:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "33-30"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "34-28"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.361,
+    "rankGapFactor": 0.049,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777635",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777635/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.880061Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.880063Z"
+}

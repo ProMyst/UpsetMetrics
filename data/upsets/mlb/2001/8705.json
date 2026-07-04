@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-09-12-mariners-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "2001-09-12",
+  "startTime": "2001-09-13T02:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "104-40"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "73-71"
+  },
+  "finalScore": "0-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8705",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8705/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.414452Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.414456Z"
+}

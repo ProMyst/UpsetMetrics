@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-05-05-diamondbacks-at-marlins",
+  "sport": "mlb",
+  "date": "2021-05-05",
+  "startTime": "2021-05-05T22:40:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "13-17"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "15-15"
+  },
+  "finalScore": "8-0",
+  "factors": {
+    "pregameOddsFactor": 0.467,
+    "rankGapFactor": 0.133,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "634249",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/634249/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.901405Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.901407Z"
+}

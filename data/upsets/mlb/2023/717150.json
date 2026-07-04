@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-08-03-orioles-at-blue-jays",
+  "sport": "mlb",
+  "date": "2023-08-03",
+  "startTime": "2023-08-03T19:07:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "67-42"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "60-50"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717150",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717150/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.889667Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.889669Z"
+}

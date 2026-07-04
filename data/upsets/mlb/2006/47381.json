@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-03-20-braves-at-cardinals",
+  "sport": "mlb",
+  "date": "2006-03-20",
+  "startTime": "2006-03-20T18:05:00Z",
+  "season": "2006",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "7-13"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "10-8"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.814,
+    "rankGapFactor": 0.411,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "47381",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/47381/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.178147Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.178150Z"
+}

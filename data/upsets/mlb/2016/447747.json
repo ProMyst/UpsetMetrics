@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-06-07-blue-jays-at-tigers",
+  "sport": "mlb",
+  "date": "2016-06-07",
+  "startTime": "2016-06-07T23:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "30-28"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "31-29"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447747",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447747/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.195005Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.195006Z"
+}

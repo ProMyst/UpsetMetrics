@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-07-28-marlins-at-reds",
+  "sport": "mlb",
+  "date": "2022-07-28",
+  "startTime": "2022-07-28T16:35:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "47-52"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "38-60"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "663027",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/663027/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.101142Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.101144Z"
+}

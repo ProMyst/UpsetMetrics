@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-04-23-mets-at-cardinals",
+  "sport": "mlb",
+  "date": "2009-04-23",
+  "startTime": "2009-04-23T17:40:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "11-5"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "6-9"
+  },
+  "finalScore": "12-8",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244423",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244423/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.577807Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.577810Z"
+}

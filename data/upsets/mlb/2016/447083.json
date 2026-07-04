@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-04-20-athletics-at-yankees",
+  "sport": "mlb",
+  "date": "2016-04-20",
+  "startTime": "2016-04-20T23:05:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "8-7"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "5-8"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447083",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447083/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.109169Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.109170Z"
+}

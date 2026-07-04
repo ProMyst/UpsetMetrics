@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-09-21-mariners-at-athletics",
+  "sport": "mlb",
+  "date": "2003-09-21",
+  "startTime": "2003-09-21T20:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "93-63"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "89-67"
+  },
+  "finalScore": "12-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16052",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16052/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.854668Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.854670Z"
+}

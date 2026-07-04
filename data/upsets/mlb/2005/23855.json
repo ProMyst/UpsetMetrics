@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-07-03-rockies-at-cardinals",
+  "sport": "mlb",
+  "date": "2005-07-03",
+  "startTime": "2005-07-03T18:15:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "51-30"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "28-52"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23855",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23855/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.611025Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.611027Z"
+}

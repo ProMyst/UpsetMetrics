@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-05-21-athletics-at-astros",
+  "sport": "mlb",
+  "date": "2023-05-21",
+  "startTime": "2023-05-21T18:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "27-19"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "10-38"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718086",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718086/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.698801Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.698803Z"
+}

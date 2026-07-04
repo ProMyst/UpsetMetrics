@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-03-26-astros-at-nationals",
+  "sport": "mlb",
+  "date": "2006-03-26",
+  "startTime": "2006-03-26T18:05:00Z",
+  "season": "2006",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "8-18"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "9-15"
+  },
+  "finalScore": "13-6",
+  "factors": {
+    "pregameOddsFactor": 0.468,
+    "rankGapFactor": 0.135,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "47471",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/47471/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.196267Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.196269Z"
+}

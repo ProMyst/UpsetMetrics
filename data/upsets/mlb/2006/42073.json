@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-10-royals-at-red-sox",
+  "sport": "mlb",
+  "date": "2006-09-10",
+  "startTime": "2006-09-10T18:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "76-67"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "54-90"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42073",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42073/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.654398Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.654400Z"
+}

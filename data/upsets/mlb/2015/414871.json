@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-07-04-phillies-at-braves",
+  "sport": "mlb",
+  "date": "2015-07-04",
+  "startTime": "2015-07-04T23:15:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "40-41"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "27-56"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414871",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414871/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.927406Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.927407Z"
+}

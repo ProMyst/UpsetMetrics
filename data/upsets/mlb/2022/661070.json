@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-09-21-red-sox-at-reds",
+  "sport": "mlb",
+  "date": "2022-09-21",
+  "startTime": "2022-09-21T22:40:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "59-90"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "72-76"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.526,
+    "rankGapFactor": 0.181,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661070",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661070/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.247106Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.247108Z"
+}

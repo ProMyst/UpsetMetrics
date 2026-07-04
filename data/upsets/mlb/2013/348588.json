@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-08-18-astros-at-angels",
+  "sport": "mlb",
+  "date": "2013-08-18",
+  "startTime": "2013-08-18T19:35:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "41-82"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "55-68"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.585,
+    "rankGapFactor": 0.228,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "348588",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/348588/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.490783Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.490785Z"
+}

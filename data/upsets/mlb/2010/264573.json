@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-05-31-twins-at-mariners",
+  "sport": "mlb",
+  "date": "2010-05-31",
+  "startTime": "2010-06-01T02:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "31-20"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "19-31"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264573",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264573/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.918925Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.918927Z"
+}

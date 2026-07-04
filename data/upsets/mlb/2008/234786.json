@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-06-14-rockies-at-white-sox",
+  "sport": "mlb",
+  "date": "2008-06-14",
+  "startTime": "2008-06-14T23:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "27-41"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "38-31"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.684,
+    "rankGapFactor": 0.307,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234786",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234786/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.908773Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.908775Z"
+}

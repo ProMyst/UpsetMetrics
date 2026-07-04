@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-09-04-yankees-at-athletics",
+  "sport": "mlb",
+  "date": "2018-09-04",
+  "startTime": "2018-09-05T02:05:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "87-52"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "83-57"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531486",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531486/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.939232Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.939233Z"
+}

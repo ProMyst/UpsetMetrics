@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-09-17-athletics-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "2003-09-17",
+  "startTime": "2003-09-17T20:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "92-61"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "72-81"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "14915",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/14915/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.840204Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.840209Z"
+}

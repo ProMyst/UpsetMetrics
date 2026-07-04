@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-07-07-twins-at-blue-jays",
+  "sport": "mlb",
+  "date": "2013-07-07",
+  "startTime": "2013-07-07T17:07:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "43-45"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "37-48"
+  },
+  "finalScore": "11-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "348067",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/348067/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.382703Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.382705Z"
+}

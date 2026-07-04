@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-07-17-mets-at-braves",
+  "sport": "mlb",
+  "date": "2009-07-17",
+  "startTime": "2009-07-17T23:30:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "45-45"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "42-47"
+  },
+  "finalScore": "11-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245542",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245542/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.806892Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.806894Z"
+}

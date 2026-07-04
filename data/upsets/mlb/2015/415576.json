@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-08-29-cubs-at-dodgers",
+  "sport": "mlb",
+  "date": "2015-08-29",
+  "startTime": "2015-08-30T01:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "72-56"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "73-55"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.32,
+    "rankGapFactor": 0.016,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415576",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415576/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.019446Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.019448Z"
+}

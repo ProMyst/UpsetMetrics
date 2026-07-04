@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-01-rockies-at-brewers",
+  "sport": "mlb",
+  "date": "2019-05-01",
+  "startTime": "2019-05-01T23:40:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "14-17"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "17-15"
+  },
+  "finalScore": "11-4",
+  "factors": {
+    "pregameOddsFactor": 0.499,
+    "rankGapFactor": 0.159,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567568",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567568/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.212115Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.212117Z"
+}

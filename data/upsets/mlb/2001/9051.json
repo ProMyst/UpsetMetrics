@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-10-01-pirates-at-mets",
+  "sport": "mlb",
+  "date": "2001-10-01",
+  "startTime": "2001-10-01T23:10:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "59-98"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "80-77"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.634,
+    "rankGapFactor": 0.268,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9051",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9051/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.465760Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.465762Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-09-13-cleveland-indians-at-white-sox",
+  "sport": "mlb",
+  "date": "2016-09-13",
+  "startTime": "2016-09-14T00:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "70-74"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "83-61"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.526,
+    "rankGapFactor": 0.181,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "449023",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/449023/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.367824Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.367827Z"
+}

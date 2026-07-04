@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-05-13-pirates-at-brewers",
+  "sport": "mlb",
+  "date": "2024-05-13",
+  "startTime": "2024-05-13T23:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "19-23"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "24-17"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.632,
+    "rankGapFactor": 0.266,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745991",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745991/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.811072Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.811073Z"
+}

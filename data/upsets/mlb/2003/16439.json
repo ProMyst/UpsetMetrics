@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-08-19-pirates-at-cardinals",
+  "sport": "mlb",
+  "date": "2003-08-19",
+  "startTime": "2003-08-20T00:10:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "65-60"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "57-66"
+  },
+  "finalScore": "13-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16439",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16439/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.760430Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.760432Z"
+}

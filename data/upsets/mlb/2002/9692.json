@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-08-09-pirates-at-giants",
+  "sport": "mlb",
+  "date": "2002-08-09",
+  "startTime": "2002-08-10T02:35:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "52-63"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "63-52"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.539,
+    "rankGapFactor": 0.191,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9692",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9692/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.988797Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.988799Z"
+}

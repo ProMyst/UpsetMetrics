@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-05-05-tigers-at-cardinals",
+  "sport": "mlb",
+  "date": "2023-05-05",
+  "startTime": "2023-05-06T00:15:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "14-17"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "10-23"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718292",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718292/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.656735Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.656737Z"
+}

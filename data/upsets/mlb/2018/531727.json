@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-09-22-rays-at-blue-jays",
+  "sport": "mlb",
+  "date": "2018-09-22",
+  "startTime": "2018-09-22T20:07:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "71-84"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "86-68"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.551,
+    "rankGapFactor": 0.201,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531727",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531727/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.970575Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.970576Z"
+}

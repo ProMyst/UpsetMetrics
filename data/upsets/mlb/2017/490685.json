@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-05-16-brewers-at-padres",
+  "sport": "mlb",
+  "date": "2017-05-16",
+  "startTime": "2017-05-17T02:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "22-18"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "15-26"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490685",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490685/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.129254Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.129255Z"
+}

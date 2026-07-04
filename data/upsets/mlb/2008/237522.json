@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-03-21-orioles-at-cardinals",
+  "sport": "mlb",
+  "date": "2008-03-21",
+  "startTime": "2008-03-21T17:05:00Z",
+  "season": "2008",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "11-10"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "8-12"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "237522",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/237522/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.662405Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.662410Z"
+}

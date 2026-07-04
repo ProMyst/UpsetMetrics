@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-09-14-blue-jays-at-yankees",
+  "sport": "mlb",
+  "date": "2000-09-14",
+  "startTime": "2000-09-14T23:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "76-70"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "84-60"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.457,
+    "rankGapFactor": 0.126,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5812",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5812/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.867277Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.867279Z"
+}

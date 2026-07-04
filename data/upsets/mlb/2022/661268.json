@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-08-01-mariners-at-yankees",
+  "sport": "mlb",
+  "date": "2022-08-01",
+  "startTime": "2022-08-01T23:05:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "70-34"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "55-49"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661268",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661268/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.111797Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.111799Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-08-03-blue-jays-at-rays",
+  "sport": "mlb",
+  "date": "2022-08-03",
+  "startTime": "2022-08-03T16:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "55-49"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "58-46"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.372,
+    "rankGapFactor": 0.058,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661867",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661867/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.116395Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.116397Z"
+}

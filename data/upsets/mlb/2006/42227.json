@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-21-diamondbacks-at-padres",
+  "sport": "mlb",
+  "date": "2006-09-21",
+  "startTime": "2006-09-22T02:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "80-72"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "72-80"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42227",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42227/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.685389Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.685391Z"
+}

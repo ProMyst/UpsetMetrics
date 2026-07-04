@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-04-18-phillies-at-mets",
+  "sport": "mlb",
+  "date": "2017-04-18",
+  "startTime": "2017-04-18T23:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "5-8"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "7-7"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490305",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490305/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.078071Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.078073Z"
+}

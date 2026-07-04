@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-09-07-nationals-at-cubs",
+  "sport": "mlb",
+  "date": "2025-09-07",
+  "startTime": "2025-09-07T18:20:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "58-84"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "81-62"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.695,
+    "rankGapFactor": 0.316,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776420",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776420/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.129571Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.129573Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-06-20-orioles-at-yankees",
+  "sport": "mlb",
+  "date": "2024-06-20",
+  "startTime": "2024-06-20T20:05:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "49-25"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "51-26"
+  },
+  "finalScore": "17-5",
+  "factors": {
+    "pregameOddsFactor": 0.3,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745734",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745734/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.910072Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.910074Z"
+}

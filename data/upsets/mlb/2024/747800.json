@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-03-26-athletics-at-giants",
+  "sport": "mlb",
+  "date": "2024-03-26",
+  "startTime": "2024-03-27T00:05:00Z",
+  "season": "2024",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "14-14"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "15-12"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.439,
+    "rankGapFactor": 0.111,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "747800",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/747800/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.683847Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.683850Z"
+}

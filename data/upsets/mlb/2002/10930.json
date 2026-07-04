@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-06-06-red-sox-at-tigers",
+  "sport": "mlb",
+  "date": "2002-06-06",
+  "startTime": "2002-06-06T18:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "40-17"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "21-37"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10930",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10930/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.812181Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.812183Z"
+}

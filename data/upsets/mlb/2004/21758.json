@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-08-14-dodgers-at-cubs",
+  "sport": "mlb",
+  "date": "2004-08-14",
+  "startTime": "2004-08-14T17:20:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "63-53"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "68-47"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.421,
+    "rankGapFactor": 0.096,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21758",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21758/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.763359Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.763361Z"
+}

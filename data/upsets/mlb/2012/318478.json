@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-05-29-padres-at-cubs",
+  "sport": "mlb",
+  "date": "2012-05-29",
+  "startTime": "2012-05-29T18:20:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "17-32"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "17-34"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318478",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318478/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.384201Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.384203Z"
+}

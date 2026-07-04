@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-07-29-mariners-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2023-07-29",
+  "startTime": "2023-07-30T00:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "56-49"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "53-51"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717210",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717210/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.878262Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.878264Z"
+}

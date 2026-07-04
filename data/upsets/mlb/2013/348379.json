@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-08-02-braves-at-phillies",
+  "sport": "mlb",
+  "date": "2013-08-02",
+  "startTime": "2013-08-02T23:05:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "65-45"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "50-59"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "348379",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/348379/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.445938Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.445940Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-09-21-orioles-at-rays",
+  "sport": "mlb",
+  "date": "2013-09-21",
+  "startTime": "2013-09-21T17:05:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "85-69"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "81-73"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "349051",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/349051/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.581170Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.581172Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-07-21-padres-at-marlins",
+  "sport": "mlb",
+  "date": "2025-07-21",
+  "startTime": "2025-07-21T22:40:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "55-45"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "46-53"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777062",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777062/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.999524Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.999525Z"
+}

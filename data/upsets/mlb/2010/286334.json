@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-10-16-yankees-at-rangers",
+  "sport": "mlb",
+  "date": "2010-10-16",
+  "startTime": "2010-10-16T20:00:00Z",
+  "season": "2010",
+  "event": "AL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "1-1"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "1-1"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "286334",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/286334/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.258029Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.258031Z"
+}

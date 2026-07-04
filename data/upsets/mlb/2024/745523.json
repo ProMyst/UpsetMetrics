@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-04-07-orioles-at-pirates",
+  "sport": "mlb",
+  "date": "2024-04-07",
+  "startTime": "2024-04-07T17:35:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "8-2"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "5-4"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745523",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745523/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.713232Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.713234Z"
+}

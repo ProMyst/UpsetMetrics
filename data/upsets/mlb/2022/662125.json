@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-06-14-twins-at-mariners",
+  "sport": "mlb",
+  "date": "2022-06-14",
+  "startTime": "2022-06-15T02:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "28-34"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "36-28"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.577,
+    "rankGapFactor": 0.222,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662125",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662125/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.985075Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.985078Z"
+}

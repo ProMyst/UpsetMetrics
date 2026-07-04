@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-05-12-cardinals-at-padres",
+  "sport": "mlb",
+  "date": "2007-05-12",
+  "startTime": "2007-05-13T02:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "15-19"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "19-18"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.481,
+    "rankGapFactor": 0.145,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68679",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68679/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.235704Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.235706Z"
+}

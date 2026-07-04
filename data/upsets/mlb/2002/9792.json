@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-05-26-orioles-at-mariners",
+  "sport": "mlb",
+  "date": "2002-05-26",
+  "startTime": "2002-05-26T20:35:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "32-17"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "22-26"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9792",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9792/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.783539Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.783541Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-05-18-red-sox-at-royals",
+  "sport": "mlb",
+  "date": "2016-05-18",
+  "startTime": "2016-05-19T00:15:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "25-16"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "20-20"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447437",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447437/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.159326Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.159327Z"
+}

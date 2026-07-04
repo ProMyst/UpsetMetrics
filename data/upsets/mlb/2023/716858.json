@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-08-25-astros-at-tigers",
+  "sport": "mlb",
+  "date": "2023-08-25",
+  "startTime": "2023-08-25T22:40:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "59-69"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "72-58"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.532,
+    "rankGapFactor": 0.186,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716858",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716858/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.946867Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.946869Z"
+}

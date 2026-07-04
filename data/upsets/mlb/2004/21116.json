@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-06-26-padres-at-mariners",
+  "sport": "mlb",
+  "date": "2004-06-26",
+  "startTime": "2004-06-27T02:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "30-42"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "38-35"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.56,
+    "rankGapFactor": 0.208,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21116",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21116/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.628589Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.628591Z"
+}

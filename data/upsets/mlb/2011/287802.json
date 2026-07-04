@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-06-06-brewers-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2011-06-06",
+  "startTime": "2011-06-06T23:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "34-26"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "31-27"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287802",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287802/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.163079Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.163084Z"
+}

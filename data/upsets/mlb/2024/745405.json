@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-06-12-athletics-at-padres",
+  "sport": "mlb",
+  "date": "2024-06-12",
+  "startTime": "2024-06-12T20:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "37-35"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "26-44"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745405",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745405/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.887204Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.887206Z"
+}

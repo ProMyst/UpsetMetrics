@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-06-24-rockies-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2000-06-24",
+  "startTime": "2000-06-25T02:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "39-30"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "42-31"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.325,
+    "rankGapFactor": 0.02,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4370",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4370/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.640276Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.640278Z"
+}

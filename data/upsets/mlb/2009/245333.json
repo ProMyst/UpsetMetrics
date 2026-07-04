@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-06-29-white-sox-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2009-06-29",
+  "startTime": "2009-06-29T23:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "38-38"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "31-47"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245333",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245333/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.766108Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.766113Z"
+}

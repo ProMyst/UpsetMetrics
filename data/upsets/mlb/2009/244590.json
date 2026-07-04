@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-05-05-rockies-at-padres",
+  "sport": "mlb",
+  "date": "2009-05-05",
+  "startTime": "2009-05-06T02:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "12-15"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "10-15"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244590",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244590/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.613893Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.613895Z"
+}

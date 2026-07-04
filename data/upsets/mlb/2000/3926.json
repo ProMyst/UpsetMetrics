@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-10-01-twins-at-tigers",
+  "sport": "mlb",
+  "date": "2000-10-01",
+  "startTime": "2000-10-01T17:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "79-83"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "69-93"
+  },
+  "finalScore": "12-11",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "3926",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/3926/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.915041Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.915044Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-09-05-pirates-at-giants",
+  "sport": "mlb",
+  "date": "2008-09-05",
+  "startTime": "2008-09-06T02:15:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "60-80"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "60-80"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235868",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235868/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.129576Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.129578Z"
+}

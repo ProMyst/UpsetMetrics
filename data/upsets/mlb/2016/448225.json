@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-07-16-dodgers-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2016-07-16",
+  "startTime": "2016-07-17T00:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "39-53"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "52-41"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.638,
+    "rankGapFactor": 0.27,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448225",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448225/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.263197Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.263198Z"
+}

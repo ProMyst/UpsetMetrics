@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-06-23-tigers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2015-06-23",
+  "startTime": "2015-06-23T23:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "37-34"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "32-38"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414715",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414715/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.906580Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.906583Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-05-28-dodgers-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2022-05-28",
+  "startTime": "2022-05-28T23:15:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "32-14"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "23-25"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "663330",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/663330/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.937364Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.937366Z"
+}

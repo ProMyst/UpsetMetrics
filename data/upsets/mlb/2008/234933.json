@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-06-25-mariners-at-mets",
+  "sport": "mlb",
+  "date": "2008-06-25",
+  "startTime": "2008-06-25T23:10:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "38-39"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "28-50"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234933",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234933/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.936640Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.936642Z"
+}

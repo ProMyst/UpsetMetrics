@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-05-13-athletics-at-dodgers",
+  "sport": "mlb",
+  "date": "2025-05-13",
+  "startTime": "2025-05-14T02:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Athletics",
+    "recordEntering": "22-20"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "27-15"
+  },
+  "finalScore": "11-1",
+  "factors": {
+    "pregameOddsFactor": 0.598,
+    "rankGapFactor": 0.238,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777937",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777937/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.820747Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.820749Z"
+}

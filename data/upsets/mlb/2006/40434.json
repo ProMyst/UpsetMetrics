@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-05-09-rockies-at-cardinals",
+  "sport": "mlb",
+  "date": "2006-05-09",
+  "startTime": "2006-05-10T00:10:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "21-13"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "20-14"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40434",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40434/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.318139Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.318141Z"
+}

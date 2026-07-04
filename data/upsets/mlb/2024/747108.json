@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-06-17-tigers-at-braves",
+  "sport": "mlb",
+  "date": "2024-06-17",
+  "startTime": "2024-06-17T23:20:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "39-31"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "34-38"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "747108",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/747108/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.902254Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.902256Z"
+}

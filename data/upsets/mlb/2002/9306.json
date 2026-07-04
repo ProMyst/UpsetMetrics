@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-07-04-orioles-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "2002-07-04",
+  "startTime": "2002-07-05T01:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "40-42"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "48-35"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.526,
+    "rankGapFactor": 0.181,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9306",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9306/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.889657Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.889662Z"
+}

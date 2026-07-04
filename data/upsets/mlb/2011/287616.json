@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-05-23-blue-jays-at-yankees",
+  "sport": "mlb",
+  "date": "2011-05-23",
+  "startTime": "2011-05-23T23:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "24-23"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "25-21"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.382,
+    "rankGapFactor": 0.066,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287616",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287616/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.124405Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.124407Z"
+}

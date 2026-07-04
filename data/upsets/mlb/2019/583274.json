@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-03-24-rangers-at-nashville-sounds",
+  "sport": "mlb",
+  "date": "2019-03-24",
+  "startTime": "2019-03-24T18:05:00Z",
+  "season": "2019",
+  "event": "Exhibition Game",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nashville-sounds",
+    "name": "Nashville Sounds",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "583274",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/583274/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.125384Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-nashville-sounds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.125391Z"
+}

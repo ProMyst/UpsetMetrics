@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-06-04-phillies-at-dodgers",
+  "sport": "mlb",
+  "date": "2009-06-04",
+  "startTime": "2009-06-05T02:10:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "32-20"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "37-19"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.413,
+    "rankGapFactor": 0.091,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245005",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245005/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.695839Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.695841Z"
+}

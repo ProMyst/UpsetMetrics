@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-06-21-orioles-at-yankees",
+  "sport": "mlb",
+  "date": "2014-06-21",
+  "startTime": "2014-06-21T17:05:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "38-35"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "39-34"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.334,
+    "rankGapFactor": 0.027,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381650",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381650/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.098367Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.098369Z"
+}

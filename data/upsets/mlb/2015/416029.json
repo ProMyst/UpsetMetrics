@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-10-01-marlins-at-rays",
+  "sport": "mlb",
+  "date": "2015-10-01",
+  "startTime": "2015-10-01T23:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "78-81"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "69-90"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "416029",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/416029/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.077542Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.077543Z"
+}

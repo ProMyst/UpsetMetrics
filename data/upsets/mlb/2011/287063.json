@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-04-13-dodgers-at-giants",
+  "sport": "mlb",
+  "date": "2011-04-13",
+  "startTime": "2011-04-14T02:15:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "6-6"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "6-6"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287063",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287063/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.015768Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.015770Z"
+}

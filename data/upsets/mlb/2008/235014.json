@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-07-01-mets-at-cardinals",
+  "sport": "mlb",
+  "date": "2008-07-01",
+  "startTime": "2008-07-02T00:15:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "41-42"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "48-37"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.477,
+    "rankGapFactor": 0.141,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235014",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235014/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.959635Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.959637Z"
+}

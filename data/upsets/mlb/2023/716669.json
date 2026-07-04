@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-09-08-padres-at-astros",
+  "sport": "mlb",
+  "date": "2023-09-08",
+  "startTime": "2023-09-09T00:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "67-75"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "80-62"
+  },
+  "finalScore": "11-2",
+  "factors": {
+    "pregameOddsFactor": 0.529,
+    "rankGapFactor": 0.183,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716669",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716669/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.985414Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.985416Z"
+}

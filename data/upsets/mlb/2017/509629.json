@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-03-29-cleveland-indians-at-reds",
+  "sport": "mlb",
+  "date": "2017-03-29",
+  "startTime": "2017-03-29T19:05:00Z",
+  "season": "2017",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "16-15"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "16-19"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "509629",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/509629/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.039328Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.039333Z"
+}

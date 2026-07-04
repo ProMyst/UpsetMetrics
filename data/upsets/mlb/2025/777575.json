@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-06-09-braves-at-brewers",
+  "sport": "mlb",
+  "date": "2025-06-09",
+  "startTime": "2025-06-09T23:40:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "28-37"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "35-32"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.529,
+    "rankGapFactor": 0.183,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777575",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777575/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.892093Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.892095Z"
+}

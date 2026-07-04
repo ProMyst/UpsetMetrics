@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-04-23-mets-at-giants",
+  "sport": "mlb",
+  "date": "2023-04-23",
+  "startTime": "2023-04-23T23:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "8-13"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "14-9"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.869,
+    "rankGapFactor": 0.455,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718455",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718455/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.626007Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.626009Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-08-02-reds-at-nationals",
+  "sport": "mlb",
+  "date": "2007-08-02",
+  "startTime": "2007-08-02T23:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "48-60"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "45-64"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69746",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69746/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.455702Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.455704Z"
+}

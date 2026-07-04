@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-08-30-rockies-at-padres",
+  "sport": "mlb",
+  "date": "2002-08-30",
+  "startTime": "2002-08-31T02:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "57-77"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "61-74"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.366,
+    "rankGapFactor": 0.053,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9857",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9857/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.045152Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.045154Z"
+}

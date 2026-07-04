@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-09-14-phillies-at-astros",
+  "sport": "mlb",
+  "date": "2011-09-14",
+  "startTime": "2011-09-14T18:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "95-51"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "51-98"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "289129",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/289129/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.434741Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.434743Z"
+}

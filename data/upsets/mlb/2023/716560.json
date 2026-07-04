@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-09-16-astros-at-royals",
+  "sport": "mlb",
+  "date": "2023-09-16",
+  "startTime": "2023-09-16T23:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "48-101"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "83-66"
+  },
+  "finalScore": "10-8",
+  "factors": {
+    "pregameOddsFactor": 0.887,
+    "rankGapFactor": 0.47,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716560",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716560/feed/live",
+    "retrievedAt": "2026-07-04T06:02:57.007581Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:57.007583Z"
+}

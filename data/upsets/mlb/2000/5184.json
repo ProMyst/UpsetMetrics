@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-04-11-rangers-at-yankees",
+  "sport": "mlb",
+  "date": "2000-04-11",
+  "startTime": "2000-04-11T04:00:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "4-3"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "3-3"
+  },
+  "finalScore": "0-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5184",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5184/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.435255Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.435258Z"
+}

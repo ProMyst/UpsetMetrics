@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-05-18-brewers-at-red-sox",
+  "sport": "mlb",
+  "date": "2008-05-18",
+  "startTime": "2008-05-18T17:35:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "27-19"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "20-24"
+  },
+  "finalScore": "11-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234421",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234421/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.834214Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.834216Z"
+}

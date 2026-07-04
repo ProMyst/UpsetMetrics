@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-08-06-brewers-at-dodgers",
+  "sport": "mlb",
+  "date": "2000-08-06",
+  "startTime": "2000-08-07T00:10:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "47-64"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "58-52"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.56,
+    "rankGapFactor": 0.208,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4433",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4433/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.759976Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.759978Z"
+}

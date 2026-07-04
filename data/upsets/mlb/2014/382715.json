@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-09-10-athletics-at-white-sox",
+  "sport": "mlb",
+  "date": "2014-09-10",
+  "startTime": "2014-09-11T00:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "65-80"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "81-64"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.576,
+    "rankGapFactor": 0.221,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382715",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382715/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.240467Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.240469Z"
+}

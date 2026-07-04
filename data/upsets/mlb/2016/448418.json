@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-07-30-phillies-at-braves",
+  "sport": "mlb",
+  "date": "2016-07-30",
+  "startTime": "2016-07-30T23:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "48-58"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "36-68"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448418",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448418/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.287871Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.287872Z"
+}

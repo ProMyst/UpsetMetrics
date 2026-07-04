@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-09-18-giants-at-red-sox",
+  "sport": "mlb",
+  "date": "2019-09-18",
+  "startTime": "2019-09-18T23:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "74-78"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "79-72"
+  },
+  "finalScore": "11-3",
+  "factors": {
+    "pregameOddsFactor": 0.391,
+    "rankGapFactor": 0.073,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565103",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565103/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.449205Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.449206Z"
+}

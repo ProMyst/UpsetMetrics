@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-08-13-red-sox-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2019-08-13",
+  "startTime": "2019-08-13T23:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "64-59"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "72-48"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.499,
+    "rankGapFactor": 0.159,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565379",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565379/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.387792Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.387795Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-08-06-braves-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2004-08-06",
+  "startTime": "2004-08-07T02:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "61-47"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "35-76"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21639",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21639/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.743517Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.743519Z"
+}

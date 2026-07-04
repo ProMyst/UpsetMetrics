@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-09-01-royals-at-athletics",
+  "sport": "mlb",
+  "date": "2009-09-01",
+  "startTime": "2009-09-02T02:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "51-81"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "58-74"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.433,
+    "rankGapFactor": 0.106,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246168",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246168/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.932846Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.932848Z"
+}

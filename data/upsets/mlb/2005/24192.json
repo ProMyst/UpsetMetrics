@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-07-30-pirates-at-braves",
+  "sport": "mlb",
+  "date": "2005-07-30",
+  "startTime": "2005-07-30T23:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "60-44"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "44-60"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24192",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24192/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.686033Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.686035Z"
+}

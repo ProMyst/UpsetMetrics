@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-07-17-padres-at-astros",
+  "sport": "mlb",
+  "date": "2004-07-17",
+  "startTime": "2004-07-17T20:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "49-41"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "44-46"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21367",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21367/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.677890Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.677893Z"
+}

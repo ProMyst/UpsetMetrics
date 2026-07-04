@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-05-11-diamondbacks-at-phillies",
+  "sport": "mlb",
+  "date": "2002-05-11",
+  "startTime": "2002-05-11T23:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "23-13"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "16-20"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9975",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9975/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.740047Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.740049Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-08-06-royals-at-red-sox",
+  "sport": "mlb",
+  "date": "2000-08-06",
+  "startTime": "2000-08-06T17:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "50-60"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "56-51"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.472,
+    "rankGapFactor": 0.138,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5557",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5557/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.757446Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.757448Z"
+}

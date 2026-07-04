@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-05-29-reds-at-braves",
+  "sport": "mlb",
+  "date": "2011-05-29",
+  "startTime": "2011-05-30T00:00:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "30-24"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "27-27"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287691",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287691/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.142891Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.142893Z"
+}

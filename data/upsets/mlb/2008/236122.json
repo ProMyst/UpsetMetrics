@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-09-24-cleveland-indians-at-red-sox",
+  "sport": "mlb",
+  "date": "2008-09-24",
+  "startTime": "2008-09-24T23:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "93-65"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "79-79"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "236122",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/236122/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.181187Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.181192Z"
+}

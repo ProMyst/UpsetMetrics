@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-08-05-nationals-at-reds",
+  "sport": "mlb",
+  "date": "2023-08-05",
+  "startTime": "2023-08-05T20:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "48-63"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "59-54"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.524,
+    "rankGapFactor": 0.179,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717120",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717120/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.894613Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.894615Z"
+}

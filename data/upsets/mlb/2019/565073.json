@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-07-16-blue-jays-at-red-sox",
+  "sport": "mlb",
+  "date": "2019-07-16",
+  "startTime": "2019-07-16T23:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "36-60"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "51-44"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.705,
+    "rankGapFactor": 0.324,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565073",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565073/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.340504Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.340505Z"
+}

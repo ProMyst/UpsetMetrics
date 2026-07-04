@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-09-21-mariners-at-twins",
+  "sport": "mlb",
+  "date": "2011-09-21",
+  "startTime": "2011-09-22T00:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "66-89"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "59-95"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "289221",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/289221/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.455548Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.455550Z"
+}

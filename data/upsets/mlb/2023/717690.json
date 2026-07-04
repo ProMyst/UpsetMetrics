@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-06-20-blue-jays-at-marlins",
+  "sport": "mlb",
+  "date": "2023-06-20",
+  "startTime": "2023-06-20T22:40:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "40-35"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "42-32"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.386,
+    "rankGapFactor": 0.068,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717690",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717690/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.778964Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.778966Z"
+}

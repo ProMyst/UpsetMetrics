@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-22-royals-at-cardinals",
+  "sport": "mlb",
+  "date": "2019-05-22",
+  "startTime": "2019-05-22T17:15:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "17-31"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "24-24"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.665,
+    "rankGapFactor": 0.292,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566591",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566591/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.249015Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.249016Z"
+}

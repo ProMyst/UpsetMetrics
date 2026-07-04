@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-06-11-rockies-at-padres",
+  "sport": "mlb",
+  "date": "2022-06-11",
+  "startTime": "2022-06-12T02:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "26-34"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "37-23"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.758,
+    "rankGapFactor": 0.367,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662222",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662222/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.975290Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.975292Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-05-07-cleveland-indians-at-yankees",
+  "sport": "mlb",
+  "date": "2008-05-07",
+  "startTime": "2008-05-07T23:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "16-17"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "17-18"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.302,
+    "rankGapFactor": 0.002,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234263",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234263/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.802647Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.802652Z"
+}

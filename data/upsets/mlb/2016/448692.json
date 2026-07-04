@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-08-20-diamondbacks-at-padres",
+  "sport": "mlb",
+  "date": "2016-08-20",
+  "startTime": "2016-08-21T00:40:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "51-72"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "52-71"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.32,
+    "rankGapFactor": 0.016,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448692",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448692/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.325787Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.325788Z"
+}

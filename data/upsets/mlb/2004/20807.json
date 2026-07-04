@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-06-03-phillies-at-braves",
+  "sport": "mlb",
+  "date": "2004-06-03",
+  "startTime": "2004-06-03T23:35:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "27-26"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "27-25"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.324,
+    "rankGapFactor": 0.02,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20807",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20807/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.564672Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.564674Z"
+}

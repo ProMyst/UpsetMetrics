@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-07-26-astros-at-phillies",
+  "sport": "mlb",
+  "date": "2017-07-26",
+  "startTime": "2017-07-26T23:05:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "35-64"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "67-34"
+  },
+  "finalScore": "9-0",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.62,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491610",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491610/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.251830Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.251831Z"
+}

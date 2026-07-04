@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-07-19-reds-at-yankees",
+  "sport": "mlb",
+  "date": "2014-07-19",
+  "startTime": "2014-07-19T17:05:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "49-47"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "51-46"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.338,
+    "rankGapFactor": 0.031,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381989",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381989/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.145184Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.145185Z"
+}

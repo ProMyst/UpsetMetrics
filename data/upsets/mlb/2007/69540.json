@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-07-18-reds-at-braves",
+  "sport": "mlb",
+  "date": "2007-07-18",
+  "startTime": "2007-07-18T17:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "40-55"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "50-45"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.563,
+    "rankGapFactor": 0.211,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69540",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69540/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.412926Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.412928Z"
+}

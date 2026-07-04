@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-07-14-rockies-at-giants",
+  "sport": "mlb",
+  "date": "2002-07-14",
+  "startTime": "2002-07-14T20:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "43-49"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "52-39"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.56,
+    "rankGapFactor": 0.208,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9679",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9679/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.910425Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.910427Z"
+}

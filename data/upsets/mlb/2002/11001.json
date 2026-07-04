@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-07-23-yankees-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2002-07-23",
+  "startTime": "2002-07-23T23:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "44-55"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "62-37"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.755,
+    "rankGapFactor": 0.364,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "11001",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/11001/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.939921Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.939926Z"
+}

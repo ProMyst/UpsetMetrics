@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-06-12-rangers-at-dodgers",
+  "sport": "mlb",
+  "date": "2021-06-12",
+  "startTime": "2021-06-13T02:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "25-40"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "38-26"
+  },
+  "finalScore": "12-1",
+  "factors": {
+    "pregameOddsFactor": 0.823,
+    "rankGapFactor": 0.418,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633723",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633723/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.004588Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.004590Z"
+}

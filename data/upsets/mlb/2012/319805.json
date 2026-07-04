@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-09-07-blue-jays-at-red-sox",
+  "sport": "mlb",
+  "date": "2012-09-07",
+  "startTime": "2012-09-07T23:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "62-75"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "63-76"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.302,
+    "rankGapFactor": 0.001,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319805",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319805/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.652837Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.652839Z"
+}

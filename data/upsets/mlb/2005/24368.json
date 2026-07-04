@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-09-20-tigers-at-royals",
+  "sport": "mlb",
+  "date": "2005-09-20",
+  "startTime": "2005-09-20T21:15:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "51-99"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "67-84"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.559,
+    "rankGapFactor": 0.207,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24368",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24368/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.826766Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.826768Z"
+}

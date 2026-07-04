@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-03-22-mets-at-astros",
+  "sport": "mlb",
+  "date": "2019-03-22",
+  "startTime": "2019-03-22T22:05:00Z",
+  "season": "2019",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "15-11"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "10-16"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565604",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565604/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.114457Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.114460Z"
+}

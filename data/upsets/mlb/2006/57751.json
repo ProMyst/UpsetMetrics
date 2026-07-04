@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-10-06-yankees-at-tigers",
+  "sport": "mlb",
+  "date": "2006-10-06",
+  "startTime": "2006-10-07T00:00:00Z",
+  "season": "2006",
+  "event": "AL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "2-1"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "1-2"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "57751",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/57751/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.715715Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.715717Z"
+}

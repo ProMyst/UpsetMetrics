@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-08-12-astros-at-mets",
+  "sport": "mlb",
+  "date": "2004-08-12",
+  "startTime": "2004-08-12T16:10:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "54-59"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "56-58"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.333,
+    "rankGapFactor": 0.027,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21724",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21724/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.757302Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.757304Z"
+}

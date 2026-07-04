@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-06-03-rays-at-mariners",
+  "sport": "mlb",
+  "date": "2011-06-03",
+  "startTime": "2011-06-04T02:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "30-27"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "29-28"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287764",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287764/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.156064Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.156066Z"
+}

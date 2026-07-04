@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-04-18-dodgers-at-padres",
+  "sport": "mlb",
+  "date": "2021-04-18",
+  "startTime": "2021-04-18T20:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "10-7"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "13-3"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.861,
+    "rankGapFactor": 0.449,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "634488",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/634488/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.854445Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.854447Z"
+}

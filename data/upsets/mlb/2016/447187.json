@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-04-27-phillies-at-nationals",
+  "sport": "mlb",
+  "date": "2016-04-27",
+  "startTime": "2016-04-27T23:05:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "11-10"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "14-6"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.74,
+    "rankGapFactor": 0.352,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447187",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447187/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.122029Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.122030Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-05-22-blue-jays-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2010-05-22",
+  "startTime": "2010-05-23T00:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "20-24"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "25-20"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.553,
+    "rankGapFactor": 0.202,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264458",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264458/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.894846Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.894848Z"
+}

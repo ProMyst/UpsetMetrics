@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-04-04-florida-marlins-at-nationals",
+  "sport": "mlb",
+  "date": "2007-04-04",
+  "startTime": "2007-04-04T17:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "1-2"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "2-1"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68155",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68155/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.129046Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.129051Z"
+}

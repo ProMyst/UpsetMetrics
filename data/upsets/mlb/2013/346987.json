@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-04-19-mariners-at-rangers",
+  "sport": "mlb",
+  "date": "2013-04-19",
+  "startTime": "2013-04-20T00:05:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "10-6"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "7-11"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "346987",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/346987/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.159839Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.159841Z"
+}

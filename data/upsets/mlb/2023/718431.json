@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-04-25-nationals-at-mets",
+  "sport": "mlb",
+  "date": "2023-04-25",
+  "startTime": "2023-04-25T23:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "8-14"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "14-10"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.849,
+    "rankGapFactor": 0.439,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718431",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718431/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.630043Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.630045Z"
+}

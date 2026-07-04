@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-05-12-rockies-at-mets",
+  "sport": "mlb",
+  "date": "2002-05-12",
+  "startTime": "2002-05-12T17:10:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "16-21"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "19-18"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.503,
+    "rankGapFactor": 0.162,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10137",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10137/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.742760Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.742762Z"
+}

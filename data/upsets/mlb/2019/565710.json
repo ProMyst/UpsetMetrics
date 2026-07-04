@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-04-11-mariners-at-royals",
+  "sport": "mlb",
+  "date": "2019-04-11",
+  "startTime": "2019-04-11T17:15:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "13-2"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "2-10"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565710",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565710/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.169136Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.169137Z"
+}

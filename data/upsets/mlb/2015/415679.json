@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-09-05-rays-at-yankees",
+  "sport": "mlb",
+  "date": "2015-09-05",
+  "startTime": "2015-09-05T17:05:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "67-68"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "75-59"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.459,
+    "rankGapFactor": 0.127,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415679",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415679/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.029279Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.029280Z"
+}

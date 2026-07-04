@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-07-03-white-sox-at-guardians",
+  "sport": "mlb",
+  "date": "2024-07-03",
+  "startTime": "2024-07-03T22:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "25-63"
+  },
+  "loser": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "53-31"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.694,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746617",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746617/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.946442Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-guardians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.946443Z"
+}

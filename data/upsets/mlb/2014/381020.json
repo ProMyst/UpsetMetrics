@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-05-05-blue-jays-at-phillies",
+  "sport": "mlb",
+  "date": "2014-05-05",
+  "startTime": "2014-05-05T23:05:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "15-17"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "15-15"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.378,
+    "rankGapFactor": 0.062,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381020",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381020/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.015779Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.015780Z"
+}

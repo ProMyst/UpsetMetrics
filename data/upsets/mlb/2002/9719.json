@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-08-13-red-sox-at-mariners",
+  "sport": "mlb",
+  "date": "2002-08-13",
+  "startTime": "2002-08-14T02:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "73-46"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "68-49"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9719",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9719/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.998407Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.998409Z"
+}

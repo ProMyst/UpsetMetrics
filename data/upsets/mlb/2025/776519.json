@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-08-31-marlins-at-mets",
+  "sport": "mlb",
+  "date": "2025-08-31",
+  "startTime": "2025-08-31T17:40:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "65-72"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "73-64"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.446,
+    "rankGapFactor": 0.117,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776519",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776519/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.110601Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.110603Z"
+}

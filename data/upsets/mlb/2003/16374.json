@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-09-16-padres-at-giants",
+  "sport": "mlb",
+  "date": "2003-09-16",
+  "startTime": "2003-09-17T02:15:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "92-57"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "59-91"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16374",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16374/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.839833Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.839835Z"
+}

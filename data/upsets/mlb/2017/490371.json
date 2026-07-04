@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-04-23-astros-at-rays",
+  "sport": "mlb",
+  "date": "2017-04-23",
+  "startTime": "2017-04-23T17:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "13-6"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "10-10"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490371",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490371/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.086912Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.086915Z"
+}

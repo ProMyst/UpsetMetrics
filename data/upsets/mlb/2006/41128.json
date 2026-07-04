@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-06-30-dodgers-at-angels",
+  "sport": "mlb",
+  "date": "2006-06-30",
+  "startTime": "2006-07-01T02:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "41-38"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "35-44"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41128",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41128/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.465057Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.465059Z"
+}

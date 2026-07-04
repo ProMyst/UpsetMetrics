@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-09-13-rays-at-blue-jays",
+  "sport": "mlb",
+  "date": "2016-09-13",
+  "startTime": "2016-09-13T23:07:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "61-83"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "79-65"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.613,
+    "rankGapFactor": 0.25,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "449034",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/449034/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.367003Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.367004Z"
+}

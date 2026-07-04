@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-09-08-royals-at-tigers",
+  "sport": "mlb",
+  "date": "2014-09-08",
+  "startTime": "2014-09-08T20:08:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "79-65"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "79-64"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.31,
+    "rankGapFactor": 0.008,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382684",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382684/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.235758Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.235759Z"
+}

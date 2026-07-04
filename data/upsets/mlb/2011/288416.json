@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-07-24-padres-at-phillies",
+  "sport": "mlb",
+  "date": "2011-07-24",
+  "startTime": "2011-07-24T17:35:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "64-36"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "44-58"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288416",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288416/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.290497Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.290499Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-06-10-cubs-at-astros",
+  "sport": "mlb",
+  "date": "2009-06-10",
+  "startTime": "2009-06-11T00:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "26-32"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "29-27"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.474,
+    "rankGapFactor": 0.139,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245077",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245077/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.711264Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.711266Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-10-03-nationals-at-dodgers",
+  "sport": "mlb",
+  "date": "2019-10-03",
+  "startTime": "2019-10-04T00:37:00Z",
+  "season": "2019",
+  "event": "NL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "599347",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/599347/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.468670Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.468671Z"
+}

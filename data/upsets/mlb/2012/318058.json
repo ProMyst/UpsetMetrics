@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-04-29-pirates-at-braves",
+  "sport": "mlb",
+  "date": "2012-04-29",
+  "startTime": "2012-04-29T17:35:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "14-8"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "9-12"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318058",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318058/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.302208Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.302210Z"
+}

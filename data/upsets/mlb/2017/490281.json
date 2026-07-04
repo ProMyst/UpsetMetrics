@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-04-16-padres-at-braves",
+  "sport": "mlb",
+  "date": "2017-04-16",
+  "startTime": "2017-04-16T17:35:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "5-6"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "5-8"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490281",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490281/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.075183Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.075185Z"
+}

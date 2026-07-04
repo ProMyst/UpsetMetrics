@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-10-03-athletics-at-mariners",
+  "sport": "mlb",
+  "date": "2010-10-03",
+  "startTime": "2010-10-03T20:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "81-81"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "61-101"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "266230",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/266230/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.254729Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.254731Z"
+}

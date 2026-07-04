@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-09-03-phillies-at-blue-jays",
+  "sport": "mlb",
+  "date": "2024-09-03",
+  "startTime": "2024-09-03T23:07:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "82-56"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "67-73"
+  },
+  "finalScore": "10-9",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "744891",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/744891/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.103391Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.103393Z"
+}

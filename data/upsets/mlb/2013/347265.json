@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-05-10-orioles-at-twins",
+  "sport": "mlb",
+  "date": "2013-05-10",
+  "startTime": "2013-05-11T00:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "22-14"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "16-16"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347265",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347265/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.217554Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.217556Z"
+}

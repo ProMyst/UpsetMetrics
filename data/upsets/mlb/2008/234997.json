@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-06-30-royals-at-orioles",
+  "sport": "mlb",
+  "date": "2008-06-30",
+  "startTime": "2008-06-30T23:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "38-45"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "42-40"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.436,
+    "rankGapFactor": 0.109,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234997",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234997/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.954328Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.954330Z"
+}

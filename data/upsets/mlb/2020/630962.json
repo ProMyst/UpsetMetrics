@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-08-08-yankees-at-rays",
+  "sport": "mlb",
+  "date": "2020-08-08",
+  "startTime": "2020-08-08T18:10:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "10-4"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "6-8"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "630962",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/630962/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.552488Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.552490Z"
+}

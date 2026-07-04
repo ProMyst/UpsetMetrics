@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-05-14-giants-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2016-05-14",
+  "startTime": "2016-05-15T00:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "21-18"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "17-22"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447418",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447418/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.153610Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.153611Z"
+}

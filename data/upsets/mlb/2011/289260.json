@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-09-24-athletics-at-angels",
+  "sport": "mlb",
+  "date": "2011-09-24",
+  "startTime": "2011-09-25T01:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "86-72"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "71-87"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "289260",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/289260/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.464383Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.464385Z"
+}

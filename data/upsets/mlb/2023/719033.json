@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-03-20-pirates-at-red-sox",
+  "sport": "mlb",
+  "date": "2023-03-20",
+  "startTime": "2023-03-20T17:05:00Z",
+  "season": "2023",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "8-13"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "12-8"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.848,
+    "rankGapFactor": 0.438,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "719033",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/719033/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.526532Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.526546Z"
+}

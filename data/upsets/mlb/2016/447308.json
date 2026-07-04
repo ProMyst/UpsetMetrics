@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-05-06-rangers-at-tigers",
+  "sport": "mlb",
+  "date": "2016-05-06",
+  "startTime": "2016-05-06T23:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "16-14"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "14-14"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447308",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447308/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.137782Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.137784Z"
+}

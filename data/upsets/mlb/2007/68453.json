@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-04-26-astros-at-pirates",
+  "sport": "mlb",
+  "date": "2007-04-26",
+  "startTime": "2007-04-26T16:35:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "10-10"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "9-12"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68453",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68453/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.190398Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.190400Z"
+}

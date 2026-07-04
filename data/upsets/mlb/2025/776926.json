@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-08-01-giants-at-mets",
+  "sport": "mlb",
+  "date": "2025-08-01",
+  "startTime": "2025-08-01T23:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "55-55"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "62-48"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.459,
+    "rankGapFactor": 0.127,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776926",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776926/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.029611Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.029614Z"
+}

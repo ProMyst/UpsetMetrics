@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-07-30-yankees-at-phillies",
+  "sport": "mlb",
+  "date": "2024-07-30",
+  "startTime": "2024-07-30T22:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "64-45"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "65-42"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.351,
+    "rankGapFactor": 0.041,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745546",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745546/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.011268Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.011269Z"
+}

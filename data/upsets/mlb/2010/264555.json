@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-05-30-astros-at-reds",
+  "sport": "mlb",
+  "date": "2010-05-30",
+  "startTime": "2010-05-30T17:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "17-33"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "30-21"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.921,
+    "rankGapFactor": 0.496,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264555",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264555/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.914316Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.914318Z"
+}

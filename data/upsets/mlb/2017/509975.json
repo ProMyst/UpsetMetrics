@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-03-29-orioles-at-rays",
+  "sport": "mlb",
+  "date": "2017-03-29",
+  "startTime": "2017-03-29T17:05:00Z",
+  "season": "2017",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "12-16"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "16-13"
+  },
+  "finalScore": "15-6",
+  "factors": {
+    "pregameOddsFactor": 0.608,
+    "rankGapFactor": 0.246,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "509975",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/509975/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.037965Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.037967Z"
+}

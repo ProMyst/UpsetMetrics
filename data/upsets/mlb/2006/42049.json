@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-08-astros-at-brewers",
+  "sport": "mlb",
+  "date": "2006-09-08",
+  "startTime": "2006-09-09T00:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "69-71"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "64-77"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42049",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42049/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.648201Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.648203Z"
+}

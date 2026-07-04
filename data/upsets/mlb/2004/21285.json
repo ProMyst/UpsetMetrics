@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-07-09-diamondbacks-at-giants",
+  "sport": "mlb",
+  "date": "2004-07-09",
+  "startTime": "2004-07-10T02:15:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "47-40"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "31-56"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21285",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21285/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.665523Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.665525Z"
+}

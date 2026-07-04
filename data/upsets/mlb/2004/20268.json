@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-04-23-tampa-bay-devil-rays-at-white-sox",
+  "sport": "mlb",
+  "date": "2004-04-23",
+  "startTime": "2004-04-24T00:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "10-6"
+  },
+  "loser": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "6-9"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20268",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20268/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.453040Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tampa-bay-devil-rays-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.453045Z"
+}

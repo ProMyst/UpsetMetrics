@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-09-28-phillies-at-nationals",
+  "sport": "mlb",
+  "date": "2010-09-28",
+  "startTime": "2010-09-28T23:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "68-90"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "94-64"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.711,
+    "rankGapFactor": 0.329,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "266162",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/266162/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.236723Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.236725Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-04-04-mets-at-astros",
+  "sport": "mlb",
+  "date": "2022-04-04",
+  "startTime": "2022-04-04T16:05:00Z",
+  "season": "2022",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "7-6"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "8-5"
+  },
+  "finalScore": "3-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "706951",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/706951/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.788442Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.788444Z"
+}

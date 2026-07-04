@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-09-13-padres-at-mariners",
+  "sport": "mlb",
+  "date": "2022-09-13",
+  "startTime": "2022-09-14T01:40:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "78-64"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "79-62"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.327,
+    "rankGapFactor": 0.022,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662119",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662119/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.227909Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.227911Z"
+}

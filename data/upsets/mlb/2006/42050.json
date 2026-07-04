@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-08-tigers-at-twins",
+  "sport": "mlb",
+  "date": "2006-09-08",
+  "startTime": "2006-09-09T00:10:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "81-59"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "86-56"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.368,
+    "rankGapFactor": 0.054,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42050",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42050/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.648424Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.648426Z"
+}

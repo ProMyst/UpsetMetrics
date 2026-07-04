@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-04-27-pirates-at-dodgers",
+  "sport": "mlb",
+  "date": "2025-04-27",
+  "startTime": "2025-04-27T20:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "18-10"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "11-18"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "778145",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/778145/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.777562Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.777564Z"
+}

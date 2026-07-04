@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-07-19-tigers-at-orioles",
+  "sport": "mlb",
+  "date": "2008-07-19",
+  "startTime": "2008-07-19T23:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "48-49"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "48-49"
+  },
+  "finalScore": "11-10",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235212",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235212/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.998511Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.998513Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-08-23-tigers-at-mets",
+  "sport": "mlb",
+  "date": "2013-08-23",
+  "startTime": "2013-08-23T23:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "75-53"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "58-68"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "348650",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/348650/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.502169Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.502171Z"
+}

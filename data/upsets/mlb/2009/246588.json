@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-10-02-yankees-at-rays",
+  "sport": "mlb",
+  "date": "2009-10-02",
+  "startTime": "2009-10-02T23:38:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "83-77"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "102-58"
+  },
+  "finalScore": "13-4",
+  "factors": {
+    "pregameOddsFactor": 0.597,
+    "rankGapFactor": 0.237,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246588",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246588/feed/live",
+    "retrievedAt": "2026-07-04T06:20:14.017099Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:14.017101Z"
+}

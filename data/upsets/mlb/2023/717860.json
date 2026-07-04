@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-06-07-royals-at-marlins",
+  "sport": "mlb",
+  "date": "2023-06-07",
+  "startTime": "2023-06-07T22:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "35-28"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "18-44"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717860",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717860/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.743436Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.743438Z"
+}

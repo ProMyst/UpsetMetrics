@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-06-07-astros-at-rockies",
+  "sport": "mlb",
+  "date": "2001-06-07",
+  "startTime": "2001-06-08T01:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "29-28"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "30-29"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7583",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7583/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.146047Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.146049Z"
+}

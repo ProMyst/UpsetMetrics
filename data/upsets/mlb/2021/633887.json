@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-05-29-orioles-at-white-sox",
+  "sport": "mlb",
+  "date": "2021-05-29",
+  "startTime": "2021-05-29T18:15:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "31-20"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "17-35"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633887",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633887/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.965515Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.965517Z"
+}

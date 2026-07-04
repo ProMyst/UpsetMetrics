@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-08-03-cardinals-at-athletics",
+  "sport": "mlb",
+  "date": "2019-08-03",
+  "startTime": "2019-08-04T01:07:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "64-48"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "58-51"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566142",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566142/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.371600Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.371601Z"
+}

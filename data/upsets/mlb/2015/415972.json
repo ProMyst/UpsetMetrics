@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-09-27-orioles-at-red-sox",
+  "sport": "mlb",
+  "date": "2015-09-27",
+  "startTime": "2015-09-27T17:35:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "75-80"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "76-79"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.316,
+    "rankGapFactor": 0.013,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415972",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415972/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.070349Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.070350Z"
+}

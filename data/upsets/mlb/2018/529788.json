@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-04-27-reds-at-twins",
+  "sport": "mlb",
+  "date": "2018-04-27",
+  "startTime": "2018-04-28T00:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "6-20"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "8-13"
+  },
+  "finalScore": "15-9",
+  "factors": {
+    "pregameOddsFactor": 0.675,
+    "rankGapFactor": 0.3,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "529788",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/529788/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.713958Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.713959Z"
+}

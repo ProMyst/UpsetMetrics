@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-08-17-nationals-at-braves",
+  "sport": "mlb",
+  "date": "2010-08-17",
+  "startTime": "2010-08-17T23:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "70-49"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "51-68"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265593",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265593/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.122606Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.122608Z"
+}

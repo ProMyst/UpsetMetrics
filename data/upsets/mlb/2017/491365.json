@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-07-05-red-sox-at-rangers",
+  "sport": "mlb",
+  "date": "2017-07-05",
+  "startTime": "2017-07-06T00:05:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "41-44"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "49-36"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.535,
+    "rankGapFactor": 0.188,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491365",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491365/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.221454Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.221455Z"
+}

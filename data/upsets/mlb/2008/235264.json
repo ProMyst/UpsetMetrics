@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-07-22-rangers-at-white-sox",
+  "sport": "mlb",
+  "date": "2008-07-22",
+  "startTime": "2008-07-23T00:11:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "56-44"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "52-49"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235264",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235264/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.007963Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.007965Z"
+}

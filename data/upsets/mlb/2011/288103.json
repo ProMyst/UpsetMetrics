@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-06-29-red-sox-at-phillies",
+  "sport": "mlb",
+  "date": "2011-06-29",
+  "startTime": "2011-06-29T23:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "51-30"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "45-34"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288103",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288103/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.230073Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.230075Z"
+}

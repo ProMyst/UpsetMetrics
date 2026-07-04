@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-04-24-dodgers-at-giants",
+  "sport": "mlb",
+  "date": "2017-04-24",
+  "startTime": "2017-04-25T02:15:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "7-13"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "9-11"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.55,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490384",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490384/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.090118Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.090119Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-09-28-dodgers-at-giants",
+  "sport": "mlb",
+  "date": "2003-09-28",
+  "startTime": "2003-09-28T20:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "100-61"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "85-77"
+  },
+  "finalScore": "12-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16379",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16379/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.873521Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.873523Z"
+}

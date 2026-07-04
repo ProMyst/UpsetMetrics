@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-10-25-dodgers-at-rays",
+  "sport": "mlb",
+  "date": "2020-10-25",
+  "startTime": "2020-10-26T00:08:00Z",
+  "season": "2020",
+  "event": "World Series",
+  "stakes": "World Series",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "3-2"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "2-3"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 1.0,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "635887",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/635887/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.713674Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.713676Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-04-24-anaheim-angels-at-athletics",
+  "sport": "mlb",
+  "date": "2004-04-24",
+  "startTime": "2004-04-24T20:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "10-8"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "10-8"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20270",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20270/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.455808Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.455812Z"
+}

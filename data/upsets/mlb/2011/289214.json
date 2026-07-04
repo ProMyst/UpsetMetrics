@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-09-21-white-sox-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2011-09-21",
+  "startTime": "2011-09-21T23:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "76-79"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "76-78"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.308,
+    "rankGapFactor": 0.006,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "289214",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/289214/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.454584Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.454589Z"
+}

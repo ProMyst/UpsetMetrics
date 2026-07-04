@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-05-03-reds-at-padres",
+  "sport": "mlb",
+  "date": "2023-05-03",
+  "startTime": "2023-05-03T20:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "17-15"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "13-18"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718330",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718330/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.650774Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.650776Z"
+}

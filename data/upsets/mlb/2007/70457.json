@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-09-23-royals-at-tigers",
+  "sport": "mlb",
+  "date": "2007-09-23",
+  "startTime": "2007-09-23T17:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "85-71"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "67-88"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "70457",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/70457/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.598187Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.598189Z"
+}

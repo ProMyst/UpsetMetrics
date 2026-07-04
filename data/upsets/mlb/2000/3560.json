@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-06-29-cleveland-indians-at-royals",
+  "sport": "mlb",
+  "date": "2000-06-29",
+  "startTime": "2000-06-30T00:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "37-39"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "40-37"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.382,
+    "rankGapFactor": 0.065,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "3560",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/3560/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.653395Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.653400Z"
+}

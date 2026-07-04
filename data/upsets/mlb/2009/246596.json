@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-10-03-white-sox-at-tigers",
+  "sport": "mlb",
+  "date": "2009-10-03",
+  "startTime": "2009-10-03T23:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "79-82"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "85-76"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.393,
+    "rankGapFactor": 0.075,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246596",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246596/feed/live",
+    "retrievedAt": "2026-07-04T06:20:14.020088Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:14.020090Z"
+}

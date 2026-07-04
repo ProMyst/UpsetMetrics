@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-07-30-red-sox-at-rangers",
+  "sport": "mlb",
+  "date": "2003-07-30",
+  "startTime": "2003-07-31T00:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "44-63"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "63-43"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.758,
+    "rankGapFactor": 0.366,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16595",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16595/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.704714Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.704716Z"
+}

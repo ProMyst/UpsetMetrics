@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-08-24-cubs-at-reds",
+  "sport": "mlb",
+  "date": "2017-08-24",
+  "startTime": "2017-08-24T23:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "54-74"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "68-58"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.595,
+    "rankGapFactor": 0.236,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491998",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491998/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.302519Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.302520Z"
+}

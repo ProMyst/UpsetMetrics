@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-09-26-yankees-at-red-sox",
+  "sport": "mlb",
+  "date": "2008-09-26",
+  "startTime": "2008-09-26T23:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "88-72"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "94-66"
+  },
+  "finalScore": "19-8",
+  "factors": {
+    "pregameOddsFactor": 0.394,
+    "rankGapFactor": 0.075,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "236151",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/236151/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.186782Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.186784Z"
+}

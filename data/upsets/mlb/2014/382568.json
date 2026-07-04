@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-08-30-rangers-at-astros",
+  "sport": "mlb",
+  "date": "2014-08-30",
+  "startTime": "2014-08-30T23:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "58-79"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "53-82"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382568",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382568/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.220460Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.220461Z"
+}

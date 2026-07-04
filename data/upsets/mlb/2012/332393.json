@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-03-22-yankees-at-red-sox",
+  "sport": "mlb",
+  "date": "2012-03-22",
+  "startTime": "2012-03-22T23:05:00Z",
+  "season": "2012",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "10-9"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "9-7"
+  },
+  "finalScore": "4-4",
+  "factors": {
+    "pregameOddsFactor": 0.39,
+    "rankGapFactor": 0.072,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "332393",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/332393/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.187826Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.187830Z"
+}

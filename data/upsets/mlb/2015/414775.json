@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-06-27-dodgers-at-marlins",
+  "sport": "mlb",
+  "date": "2015-06-27",
+  "startTime": "2015-06-27T20:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "31-45"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "42-34"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.662,
+    "rankGapFactor": 0.289,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414775",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414775/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.913987Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.913988Z"
+}

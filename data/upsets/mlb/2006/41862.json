@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-08-25-red-sox-at-mariners",
+  "sport": "mlb",
+  "date": "2006-08-25",
+  "startTime": "2006-08-26T02:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "59-69"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "71-57"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.534,
+    "rankGapFactor": 0.188,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41862",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41862/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.610994Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.610996Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-06-21-twins-at-giants",
+  "sport": "mlb",
+  "date": "2011-06-21",
+  "startTime": "2011-06-22T02:15:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "32-39"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "39-34"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.509,
+    "rankGapFactor": 0.167,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288009",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288009/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.205558Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.205560Z"
+}

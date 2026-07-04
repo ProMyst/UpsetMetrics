@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-03-31-rockies-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2024-03-31",
+  "startTime": "2024-03-31T20:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "3-1"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "1-3"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "747222",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/747222/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.696334Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.696336Z"
+}

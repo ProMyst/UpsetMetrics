@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-09-21-cleveland-indians-at-red-sox",
+  "sport": "mlb",
+  "date": "2000-09-21",
+  "startTime": "2000-09-21T17:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "80-72"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "82-68"
+  },
+  "finalScore": "9-8",
+  "factors": {
+    "pregameOddsFactor": 0.351,
+    "rankGapFactor": 0.041,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "3913",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/3913/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.885893Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.885897Z"
+}

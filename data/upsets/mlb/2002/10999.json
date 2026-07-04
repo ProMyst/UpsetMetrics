@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-09-13-dodgers-at-rockies",
+  "sport": "mlb",
+  "date": "2002-09-13",
+  "startTime": "2002-09-14T01:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "68-80"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "83-64"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.563,
+    "rankGapFactor": 0.21,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10999",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10999/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.086265Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.086267Z"
+}

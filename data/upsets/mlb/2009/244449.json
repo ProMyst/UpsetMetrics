@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-04-25-pirates-at-padres",
+  "sport": "mlb",
+  "date": "2009-04-25",
+  "startTime": "2009-04-26T02:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "10-7"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "10-7"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244449",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244449/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.586130Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.586132Z"
+}

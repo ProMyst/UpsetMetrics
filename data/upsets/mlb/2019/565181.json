@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-08-05-athletics-at-cubs",
+  "sport": "mlb",
+  "date": "2019-08-05",
+  "startTime": "2019-08-06T00:05:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "61-51"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "65-49"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.364,
+    "rankGapFactor": 0.051,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565181",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565181/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.374687Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.374688Z"
+}

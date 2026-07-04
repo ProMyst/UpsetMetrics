@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-08-06-mets-at-padres",
+  "sport": "mlb",
+  "date": "2009-08-06",
+  "startTime": "2009-08-07T02:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "45-65"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "51-57"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.458,
+    "rankGapFactor": 0.126,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245817",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245817/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.863052Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.863054Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-09-21-dodgers-at-cubs",
+  "sport": "mlb",
+  "date": "2014-09-21",
+  "startTime": "2014-09-21T18:20:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "89-67"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "69-87"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382863",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382863/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.259735Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.259737Z"
+}

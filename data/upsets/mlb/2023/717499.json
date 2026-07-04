@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-07-04-phillies-at-rays",
+  "sport": "mlb",
+  "date": "2023-07-04",
+  "startTime": "2023-07-04T20:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "45-39"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "57-31"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.58,
+    "rankGapFactor": 0.224,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717499",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717499/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.820590Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.820592Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-09-27-mets-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2003-09-27",
+  "startTime": "2003-09-27T17:25:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "66-94"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "90-71"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.666,
+    "rankGapFactor": 0.293,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "17107",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/17107/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.868807Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.868812Z"
+}

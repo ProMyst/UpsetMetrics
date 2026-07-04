@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-08-24-nationals-at-cubs",
+  "sport": "mlb",
+  "date": "2019-08-24",
+  "startTime": "2019-08-24T18:20:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "72-57"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "69-60"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565188",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565188/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.405555Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.405556Z"
+}

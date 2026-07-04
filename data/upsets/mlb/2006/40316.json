@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-05-01-cardinals-at-reds",
+  "sport": "mlb",
+  "date": "2006-05-01",
+  "startTime": "2006-05-01T23:10:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "18-8"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "17-9"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40316",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40316/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.295368Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.295370Z"
+}

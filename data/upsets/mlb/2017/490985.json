@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-06-07-twins-at-mariners",
+  "sport": "mlb",
+  "date": "2017-06-07",
+  "startTime": "2017-06-08T02:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "30-30"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "29-26"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.368,
+    "rankGapFactor": 0.055,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490985",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490985/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.168045Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.168047Z"
+}

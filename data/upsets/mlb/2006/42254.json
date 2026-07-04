@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-23-pirates-at-padres",
+  "sport": "mlb",
+  "date": "2006-09-23",
+  "startTime": "2006-09-24T02:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "82-72"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "65-90"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42254",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42254/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.691146Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.691148Z"
+}

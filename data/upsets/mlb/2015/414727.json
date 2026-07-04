@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-06-24-orioles-at-red-sox",
+  "sport": "mlb",
+  "date": "2015-06-24",
+  "startTime": "2015-06-24T23:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "32-41"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "37-34"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.507,
+    "rankGapFactor": 0.166,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414727",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414727/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.908823Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.908824Z"
+}

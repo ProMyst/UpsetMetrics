@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-09-22-giants-at-padres",
+  "sport": "mlb",
+  "date": "2021-09-22",
+  "startTime": "2021-09-23T02:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "99-53"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "77-75"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "632384",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/632384/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.278921Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.278923Z"
+}

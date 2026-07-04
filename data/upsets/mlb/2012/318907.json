@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-07-01-cleveland-indians-at-orioles",
+  "sport": "mlb",
+  "date": "2012-07-01",
+  "startTime": "2012-07-01T17:35:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "40-38"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "42-36"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.364,
+    "rankGapFactor": 0.051,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318907",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318907/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.475949Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.475954Z"
+}

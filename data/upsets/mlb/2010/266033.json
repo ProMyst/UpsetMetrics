@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-09-19-cubs-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2010-09-19",
+  "startTime": "2010-09-19T17:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "68-81"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "73-75"
+  },
+  "finalScore": "13-3",
+  "factors": {
+    "pregameOddsFactor": 0.392,
+    "rankGapFactor": 0.074,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "266033",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/266033/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.212664Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.212668Z"
+}

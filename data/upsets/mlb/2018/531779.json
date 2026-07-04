@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-09-26-yankees-at-rays",
+  "sport": "mlb",
+  "date": "2018-09-26",
+  "startTime": "2018-09-26T23:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "88-70"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "97-61"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.442,
+    "rankGapFactor": 0.114,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531779",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531779/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.977803Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.977805Z"
+}

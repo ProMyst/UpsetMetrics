@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-08-13-cleveland-indians-at-reds",
+  "sport": "mlb",
+  "date": "2018-08-13",
+  "startTime": "2018-08-13T23:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "67-51"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "52-67"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531188",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531188/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.898982Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.898985Z"
+}

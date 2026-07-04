@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-06-06-red-sox-at-royals",
+  "sport": "mlb",
+  "date": "2019-06-06",
+  "startTime": "2019-06-06T17:15:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "33-29"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "19-43"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565732",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565732/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.275074Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.275075Z"
+}

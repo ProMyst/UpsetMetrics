@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-03-25-nationals-at-cardinals",
+  "sport": "mlb",
+  "date": "2015-03-25",
+  "startTime": "2015-03-25T17:05:00Z",
+  "season": "2015",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "10-7"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "9-10"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "429932",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/429932/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.712725Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.712727Z"
+}

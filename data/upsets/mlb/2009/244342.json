@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-04-17-rockies-at-dodgers",
+  "sport": "mlb",
+  "date": "2009-04-17",
+  "startTime": "2009-04-18T02:10:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "8-3"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "4-5"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244342",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244342/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.563618Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.563620Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-10-29-dodgers-at-astros",
+  "sport": "mlb",
+  "date": "2017-10-29",
+  "startTime": "2017-10-30T00:00:00Z",
+  "season": "2017",
+  "event": "World Series",
+  "stakes": "World Series",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "3-2"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "2-3"
+  },
+  "finalScore": "13-12",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 1.0,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "526515",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/526515/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.374596Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.374597Z"
+}

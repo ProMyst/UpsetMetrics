@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-09-12-pirates-at-astros",
+  "sport": "mlb",
+  "date": "2009-09-12",
+  "startTime": "2009-09-12T23:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "70-72"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "54-86"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246318",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246318/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.961904Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.961906Z"
+}

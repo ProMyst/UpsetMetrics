@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-04-23-padres-at-rockies",
+  "sport": "mlb",
+  "date": "2015-04-23",
+  "startTime": "2015-04-23T19:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "9-7"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "10-7"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.364,
+    "rankGapFactor": 0.051,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "413883",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/413883/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.778296Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.778297Z"
+}

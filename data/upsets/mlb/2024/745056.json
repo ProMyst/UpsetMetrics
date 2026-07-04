@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-08-10-orioles-at-rays",
+  "sport": "mlb",
+  "date": "2024-08-10",
+  "startTime": "2024-08-10T23:15:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "70-48"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "58-58"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745056",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745056/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.041312Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.041314Z"
+}

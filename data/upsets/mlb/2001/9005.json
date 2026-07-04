@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-10-01-red-sox-at-tampa-bay-devil-rays",
+  "sport": "mlb",
+  "date": "2001-10-01",
+  "startTime": "2001-10-01T23:15:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "58-98"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "77-78"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.612,
+    "rankGapFactor": 0.25,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9005",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9005/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.465961Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-tampa-bay-devil-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.465967Z"
+}

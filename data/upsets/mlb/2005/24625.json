@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-08-31-phillies-at-mets",
+  "sport": "mlb",
+  "date": "2005-08-31",
+  "startTime": "2005-08-31T23:10:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "71-62"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "69-63"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24625",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24625/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.774030Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.774032Z"
+}

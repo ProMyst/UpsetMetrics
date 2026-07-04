@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-09-12-athletics-at-orioles",
+  "sport": "mlb",
+  "date": "2018-09-12",
+  "startTime": "2018-09-12T23:05:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "89-57"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "41-104"
+  },
+  "finalScore": "10-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531591",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531591/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.953682Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.953683Z"
+}

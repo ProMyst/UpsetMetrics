@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-08-10-phillies-at-giants",
+  "sport": "mlb",
+  "date": "2003-08-10",
+  "startTime": "2003-08-10T20:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "73-44"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "64-53"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16358",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16358/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.736012Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.736014Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-06-16-athletics-at-cardinals",
+  "sport": "mlb",
+  "date": "2004-06-16",
+  "startTime": "2004-06-17T00:10:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "38-27"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "37-26"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.307,
+    "rankGapFactor": 0.005,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20975",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20975/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.599435Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.599437Z"
+}

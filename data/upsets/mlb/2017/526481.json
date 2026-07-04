@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-10-11-yankees-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2017-10-11",
+  "startTime": "2017-10-12T00:00:00Z",
+  "season": "2017",
+  "event": "AL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "3-2"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "2-3"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "526481",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/526481/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.372455Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.372458Z"
+}

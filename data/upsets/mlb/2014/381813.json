@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-07-02-cardinals-at-giants",
+  "sport": "mlb",
+  "date": "2014-07-02",
+  "startTime": "2014-07-03T02:15:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "45-40"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "48-37"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.388,
+    "rankGapFactor": 0.071,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381813",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381813/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.124105Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.124106Z"
+}

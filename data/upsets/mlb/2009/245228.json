@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-06-21-white-sox-at-reds",
+  "sport": "mlb",
+  "date": "2009-06-21",
+  "startTime": "2009-06-21T17:10:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "33-36"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "34-34"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.354,
+    "rankGapFactor": 0.043,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245228",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245228/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.740097Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.740099Z"
+}

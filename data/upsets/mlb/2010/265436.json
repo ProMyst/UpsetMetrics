@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-08-06-red-sox-at-yankees",
+  "sport": "mlb",
+  "date": "2010-08-06",
+  "startTime": "2010-08-06T23:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "63-47"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "67-41"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.419,
+    "rankGapFactor": 0.095,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265436",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265436/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.093451Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.093453Z"
+}

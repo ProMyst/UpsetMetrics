@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-08-22-athletics-at-orioles",
+  "sport": "mlb",
+  "date": "2017-08-22",
+  "startTime": "2017-08-22T23:05:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "55-71"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "61-65"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.419,
+    "rankGapFactor": 0.095,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491975",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491975/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.298040Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.298042Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-05-29-anaheim-angels-at-white-sox",
+  "sport": "mlb",
+  "date": "2004-05-29",
+  "startTime": "2004-05-29T20:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "30-19"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "28-20"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20732",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20732/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.550556Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.550561Z"
+}

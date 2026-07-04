@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-30-orioles-at-red-sox",
+  "sport": "mlb",
+  "date": "2006-09-30",
+  "startTime": "2006-09-30T23:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "70-91"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "85-76"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.533,
+    "rankGapFactor": 0.186,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42342",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42342/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.709640Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.709642Z"
+}

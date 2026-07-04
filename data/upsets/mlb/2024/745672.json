@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-04-29-pirates-at-athletics",
+  "sport": "mlb",
+  "date": "2024-04-29",
+  "startTime": "2024-04-30T01:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "13-17"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "14-16"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.383,
+    "rankGapFactor": 0.067,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745672",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745672/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.775727Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.775729Z"
+}

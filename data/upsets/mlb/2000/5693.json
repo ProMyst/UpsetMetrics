@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-08-16-pirates-at-astros",
+  "sport": "mlb",
+  "date": "2000-08-16",
+  "startTime": "2000-08-17T00:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "48-73"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "49-70"
+  },
+  "finalScore": "11-10",
+  "factors": {
+    "pregameOddsFactor": 0.338,
+    "rankGapFactor": 0.03,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5693",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5693/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.787883Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.787885Z"
+}

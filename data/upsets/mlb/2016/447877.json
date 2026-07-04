@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-06-17-giants-at-rays",
+  "sport": "mlb",
+  "date": "2016-06-17",
+  "startTime": "2016-06-17T23:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "42-26"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "31-34"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447877",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447877/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.212646Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.212647Z"
+}

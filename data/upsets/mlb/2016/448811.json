@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-08-28-athletics-at-cardinals",
+  "sport": "mlb",
+  "date": "2016-08-28",
+  "startTime": "2016-08-28T18:15:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "57-73"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "68-61"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.522,
+    "rankGapFactor": 0.177,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448811",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448811/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.340008Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.340009Z"
+}

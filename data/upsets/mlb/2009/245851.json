@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-08-09-braves-at-dodgers",
+  "sport": "mlb",
+  "date": "2009-08-09",
+  "startTime": "2009-08-09T20:10:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "58-54"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "67-45"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.501,
+    "rankGapFactor": 0.161,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245851",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245851/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.871774Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.871776Z"
+}

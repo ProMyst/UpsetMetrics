@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-10-10-rays-at-rangers",
+  "sport": "mlb",
+  "date": "2010-10-10",
+  "startTime": "2010-10-10T17:00:00Z",
+  "season": "2010",
+  "event": "AL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "2-2"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "2-2"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "286316",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/286316/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.256822Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.256824Z"
+}

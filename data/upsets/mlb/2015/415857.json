@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-09-18-mariners-at-rangers",
+  "sport": "mlb",
+  "date": "2015-09-18",
+  "startTime": "2015-09-19T00:05:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "72-76"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "79-68"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.427,
+    "rankGapFactor": 0.102,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415857",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415857/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.054080Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.054081Z"
+}

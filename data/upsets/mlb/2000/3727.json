@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-09-10-white-sox-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2000-09-10",
+  "startTime": "2000-09-10T17:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "85-57"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "76-63"
+  },
+  "finalScore": "0-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "3727",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/3727/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.855201Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.855206Z"
+}

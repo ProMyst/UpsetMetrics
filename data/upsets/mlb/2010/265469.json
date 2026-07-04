@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-08-08-rockies-at-pirates",
+  "sport": "mlb",
+  "date": "2010-08-08",
+  "startTime": "2010-08-08T17:35:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "58-53"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "39-72"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265469",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265469/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.099076Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.099078Z"
+}

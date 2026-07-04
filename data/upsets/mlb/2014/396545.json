@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-03-27-tigres-de-quintana-roo-at-rangers",
+  "sport": "mlb",
+  "date": "2014-03-27",
+  "startTime": "2014-03-28T00:05:00Z",
+  "season": "2014",
+  "event": "Exhibition Game",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "tigres-de-quintana-roo",
+    "name": "Tigres de Quintana Roo",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "396545",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/396545/feed/live",
+    "retrievedAt": "2026-07-04T06:27:17.942183Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigres-de-quintana-roo-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:17.942188Z"
+}

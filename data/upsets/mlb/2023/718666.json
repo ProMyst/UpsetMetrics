@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-04-08-astros-at-twins",
+  "sport": "mlb",
+  "date": "2023-04-08",
+  "startTime": "2023-04-08T18:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "6-2"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "3-6"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718666",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718666/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.580918Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.580920Z"
+}

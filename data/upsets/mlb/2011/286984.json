@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-04-07-rays-at-white-sox",
+  "sport": "mlb",
+  "date": "2011-04-07",
+  "startTime": "2011-04-07T18:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "4-2"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "0-6"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "286984",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/286984/feed/live",
+    "retrievedAt": "2026-07-04T06:23:02.997669Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:02.997671Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-06-17-guardians-at-dodgers",
+  "sport": "mlb",
+  "date": "2022-06-17",
+  "startTime": "2022-06-18T02:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "33-27"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "39-24"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.473,
+    "rankGapFactor": 0.138,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662719",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662719/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.993517Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "guardians-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.993519Z"
+}

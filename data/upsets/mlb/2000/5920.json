@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-09-30-giants-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2000-09-30",
+  "startTime": "2000-10-01T02:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "85-76"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "96-65"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.471,
+    "rankGapFactor": 0.137,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5920",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5920/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.914653Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.914655Z"
+}

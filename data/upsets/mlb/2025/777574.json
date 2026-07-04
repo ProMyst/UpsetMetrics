@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-06-09-marlins-at-pirates",
+  "sport": "mlb",
+  "date": "2025-06-09",
+  "startTime": "2025-06-09T22:40:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "27-40"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "24-40"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777574",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777574/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.891485Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.891487Z"
+}

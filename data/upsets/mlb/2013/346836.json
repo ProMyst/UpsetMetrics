@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-04-08-brewers-at-cubs",
+  "sport": "mlb",
+  "date": "2013-04-08",
+  "startTime": "2013-04-08T18:20:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "2-5"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "2-5"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "346836",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/346836/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.130992Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.130994Z"
+}

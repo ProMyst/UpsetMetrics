@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-06-04-rangers-at-red-sox",
+  "sport": "mlb",
+  "date": "2013-06-04",
+  "startTime": "2013-06-04T23:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "36-23"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "35-22"
+  },
+  "finalScore": "17-5",
+  "factors": {
+    "pregameOddsFactor": 0.31,
+    "rankGapFactor": 0.008,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347616",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347616/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.287843Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.287845Z"
+}

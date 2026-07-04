@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-05-04-mets-at-astros",
+  "sport": "mlb",
+  "date": "2002-05-04",
+  "startTime": "2002-05-05T00:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "13-16"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "18-12"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.679,
+    "rankGapFactor": 0.303,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10751",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10751/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.721441Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.721443Z"
+}

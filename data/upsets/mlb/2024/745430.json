@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-04-19-blue-jays-at-padres",
+  "sport": "mlb",
+  "date": "2024-04-19",
+  "startTime": "2024-04-20T01:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "11-9"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "11-11"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745430",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745430/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.747514Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.747515Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-09-24-cardinals-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2019-09-24",
+  "startTime": "2019-09-25T01:40:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "81-77"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "90-68"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.442,
+    "rankGapFactor": 0.114,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "564909",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/564909/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.458615Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.458616Z"
+}

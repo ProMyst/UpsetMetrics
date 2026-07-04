@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-06-15-cleveland-indians-at-rockies",
+  "sport": "mlb",
+  "date": "2002-06-15",
+  "startTime": "2002-06-16T00:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "33-35"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "33-35"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10960",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10960/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.837309Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.837314Z"
+}

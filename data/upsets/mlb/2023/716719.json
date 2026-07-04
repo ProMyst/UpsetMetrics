@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-09-04-twins-at-guardians",
+  "sport": "mlb",
+  "date": "2023-09-04",
+  "startTime": "2023-09-04T22:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "72-66"
+  },
+  "loser": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "66-72"
+  },
+  "finalScore": "20-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716719",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716719/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.975435Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-guardians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.975437Z"
+}

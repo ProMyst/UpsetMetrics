@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-05-26-royals-at-yankees",
+  "sport": "mlb",
+  "date": "2006-05-26",
+  "startTime": "2006-05-26T23:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "11-35"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "26-20"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.652,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40658",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40658/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.363029Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.363031Z"
+}

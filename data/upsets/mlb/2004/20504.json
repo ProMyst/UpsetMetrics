@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-05-11-blue-jays-at-royals",
+  "sport": "mlb",
+  "date": "2004-05-11",
+  "startTime": "2004-05-12T00:10:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "10-21"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "14-19"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.554,
+    "rankGapFactor": 0.203,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20504",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20504/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.501569Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.501571Z"
+}

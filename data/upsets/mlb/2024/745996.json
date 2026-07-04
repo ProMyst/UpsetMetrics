@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-05-01-rays-at-brewers",
+  "sport": "mlb",
+  "date": "2024-05-01",
+  "startTime": "2024-05-01T17:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "19-11"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "14-18"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745996",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745996/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.779900Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.779902Z"
+}

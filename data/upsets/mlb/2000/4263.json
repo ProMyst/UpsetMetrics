@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-07-03-reds-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2000-07-03",
+  "startTime": "2000-07-03T20:35:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "40-41"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "47-35"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.498,
+    "rankGapFactor": 0.159,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4263",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4263/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.663624Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.663626Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-08-31-rangers-at-angels",
+  "sport": "mlb",
+  "date": "2008-08-31",
+  "startTime": "2008-08-31T19:35:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "67-71"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "83-53"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.612,
+    "rankGapFactor": 0.25,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235808",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235808/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.116587Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.116589Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-07-30-red-sox-at-twins",
+  "sport": "mlb",
+  "date": "2004-07-30",
+  "startTime": "2004-07-31T00:10:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "56-45"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "57-45"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.311,
+    "rankGapFactor": 0.009,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21549",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21549/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.723960Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.723962Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-09-02-reds-at-cubs",
+  "sport": "mlb",
+  "date": "2015-09-02",
+  "startTime": "2015-09-02T18:20:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "55-77"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "75-57"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.679,
+    "rankGapFactor": 0.303,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415633",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415633/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.025007Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.025008Z"
+}

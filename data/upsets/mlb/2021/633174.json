@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-07-25-blue-jays-at-mets",
+  "sport": "mlb",
+  "date": "2021-07-25",
+  "startTime": "2021-07-25T17:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "53-44"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "49-46"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633174",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633174/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.117602Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.117604Z"
+}

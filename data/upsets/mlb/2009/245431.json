@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-07-06-athletics-at-red-sox",
+  "sport": "mlb",
+  "date": "2009-07-06",
+  "startTime": "2009-07-06T23:10:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "35-46"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "49-33"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.714,
+    "rankGapFactor": 0.331,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245431",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245431/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.785535Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.785537Z"
+}

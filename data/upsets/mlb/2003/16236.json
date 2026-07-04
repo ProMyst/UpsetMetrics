@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-05-08-yankees-at-mariners",
+  "sport": "mlb",
+  "date": "2003-05-08",
+  "startTime": "2003-05-09T02:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "25-9"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "21-13"
+  },
+  "finalScore": "16-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16236",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16236/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.477952Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.477956Z"
+}

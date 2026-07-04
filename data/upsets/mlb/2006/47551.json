@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-03-31-cubs-at-padres",
+  "sport": "mlb",
+  "date": "2006-03-31",
+  "startTime": "2006-04-01T03:05:00Z",
+  "season": "2006",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "17-10"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "15-13"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "47551",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/47551/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.213575Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.213577Z"
+}

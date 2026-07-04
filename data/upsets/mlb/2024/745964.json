@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-07-26-marlins-at-brewers",
+  "sport": "mlb",
+  "date": "2024-07-26",
+  "startTime": "2024-07-27T00:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "38-66"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "59-44"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.819,
+    "rankGapFactor": 0.415,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745964",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745964/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.001455Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.001457Z"
+}

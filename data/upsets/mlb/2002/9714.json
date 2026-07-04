@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-07-31-tigers-at-mariners",
+  "sport": "mlb",
+  "date": "2002-07-31",
+  "startTime": "2002-08-01T02:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "66-42"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "40-66"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9714",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9714/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.963252Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.963254Z"
+}

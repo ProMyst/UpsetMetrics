@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-05-05-cardinals-at-reds",
+  "sport": "mlb",
+  "date": "2003-05-05",
+  "startTime": "2003-05-05T23:10:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "14-18"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "17-13"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.623,
+    "rankGapFactor": 0.258,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15261",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15261/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.468405Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.468407Z"
+}

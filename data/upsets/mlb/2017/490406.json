@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-04-26-cubs-at-pirates",
+  "sport": "mlb",
+  "date": "2017-04-26",
+  "startTime": "2017-04-26T23:05:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "9-12"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "12-9"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.657,
+    "rankGapFactor": 0.286,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490406",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490406/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.092871Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.092872Z"
+}

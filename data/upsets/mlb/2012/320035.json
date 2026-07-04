@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-09-25-marlins-at-braves",
+  "sport": "mlb",
+  "date": "2012-09-25",
+  "startTime": "2012-09-25T23:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "89-65"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "66-88"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "320035",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/320035/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.702686Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.702688Z"
+}

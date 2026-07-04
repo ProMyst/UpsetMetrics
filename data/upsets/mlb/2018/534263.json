@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-03-27-mariners-at-rockies",
+  "sport": "mlb",
+  "date": "2018-03-27",
+  "startTime": "2018-03-27T19:10:00Z",
+  "season": "2018",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "16-14"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "12-17"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "534263",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/534263/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.643696Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.643698Z"
+}

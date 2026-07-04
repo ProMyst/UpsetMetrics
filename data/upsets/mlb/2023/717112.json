@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-08-05-dodgers-at-padres",
+  "sport": "mlb",
+  "date": "2023-08-05",
+  "startTime": "2023-08-06T00:40:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "55-56"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "63-46"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.506,
+    "rankGapFactor": 0.165,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717112",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717112/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.896298Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.896300Z"
+}

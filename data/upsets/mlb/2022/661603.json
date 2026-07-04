@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-08-26-pirates-at-phillies",
+  "sport": "mlb",
+  "date": "2022-08-26",
+  "startTime": "2022-08-26T23:05:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "71-55"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "47-78"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661603",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661603/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.178188Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.178190Z"
+}

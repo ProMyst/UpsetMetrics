@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-07-10-mariners-at-angels",
+  "sport": "mlb",
+  "date": "2018-07-10",
+  "startTime": "2018-07-11T02:07:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "47-45"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "57-35"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.572,
+    "rankGapFactor": 0.217,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530782",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530782/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.846509Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.846510Z"
+}

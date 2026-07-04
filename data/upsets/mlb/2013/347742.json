@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-06-13-nationals-at-rockies",
+  "sport": "mlb",
+  "date": "2013-06-13",
+  "startTime": "2013-06-13T19:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "33-32"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "35-32"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.337,
+    "rankGapFactor": 0.029,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347742",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347742/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.312331Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.312333Z"
+}

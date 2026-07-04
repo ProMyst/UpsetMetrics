@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-04-22-nationals-at-twins",
+  "sport": "mlb",
+  "date": "2023-04-22",
+  "startTime": "2023-04-22T18:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "7-13"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "11-10"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.735,
+    "rankGapFactor": 0.348,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718468",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718468/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.620279Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.620281Z"
+}

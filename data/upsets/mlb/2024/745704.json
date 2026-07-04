@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-08-21-guardians-at-yankees",
+  "sport": "mlb",
+  "date": "2024-08-21",
+  "startTime": "2024-08-21T23:05:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "74-53"
+  },
+  "loser": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "73-53"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745704",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745704/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.068778Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "guardians-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.068780Z"
+}

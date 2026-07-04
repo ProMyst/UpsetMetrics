@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-09-18-rockies-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2009-09-18",
+  "startTime": "2009-09-19T01:40:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "65-83"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "83-65"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.604,
+    "rankGapFactor": 0.243,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246391",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246391/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.978729Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.978731Z"
+}

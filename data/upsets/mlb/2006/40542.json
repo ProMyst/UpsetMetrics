@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-05-17-mariners-at-athletics",
+  "sport": "mlb",
+  "date": "2006-05-17",
+  "startTime": "2006-05-18T02:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "20-19"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "17-24"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40542",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40542/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.341187Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.341189Z"
+}

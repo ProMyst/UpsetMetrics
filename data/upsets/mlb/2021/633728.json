@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-06-13-blue-jays-at-red-sox",
+  "sport": "mlb",
+  "date": "2021-06-13",
+  "startTime": "2021-06-13T17:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "33-30"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "39-27"
+  },
+  "finalScore": "18-4",
+  "factors": {
+    "pregameOddsFactor": 0.468,
+    "rankGapFactor": 0.134,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633728",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633728/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.005944Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.005946Z"
+}

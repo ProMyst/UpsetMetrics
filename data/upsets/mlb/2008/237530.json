@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-03-21-phillies-at-twins",
+  "sport": "mlb",
+  "date": "2008-03-21",
+  "startTime": "2008-03-21T17:05:00Z",
+  "season": "2008",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "10-13"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "12-10"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.577,
+    "rankGapFactor": 0.221,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "237530",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/237530/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.663208Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.663213Z"
+}

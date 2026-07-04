@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-08-22-mets-at-giants",
+  "sport": "mlb",
+  "date": "2002-08-22",
+  "startTime": "2002-08-22T19:35:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "70-56"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "58-68"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9697",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9697/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.022284Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.022286Z"
+}

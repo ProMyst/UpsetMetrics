@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-22-rockies-at-pirates",
+  "sport": "mlb",
+  "date": "2019-05-22",
+  "startTime": "2019-05-22T23:05:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "22-25"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "24-22"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.434,
+    "rankGapFactor": 0.107,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566199",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566199/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.249499Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.249501Z"
+}

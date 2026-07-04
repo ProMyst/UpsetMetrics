@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-09-18-cardinals-at-cubs",
+  "sport": "mlb",
+  "date": "2015-09-18",
+  "startTime": "2015-09-18T18:20:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "86-61"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "92-55"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.402,
+    "rankGapFactor": 0.082,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415858",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415858/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.053101Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.053102Z"
+}

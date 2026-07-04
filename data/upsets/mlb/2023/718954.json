@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-03-25-mariners-at-giants",
+  "sport": "mlb",
+  "date": "2023-03-25",
+  "startTime": "2023-03-25T20:05:00Z",
+  "season": "2023",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "13-14"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "14-12"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.442,
+    "rankGapFactor": 0.114,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718954",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718954/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.547504Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.547506Z"
+}

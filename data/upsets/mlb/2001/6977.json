@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-04-16-diamondbacks-at-cardinals",
+  "sport": "mlb",
+  "date": "2001-04-16",
+  "startTime": "2001-04-17T00:10:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "5-8"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "6-7"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "6977",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/6977/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.003885Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.003887Z"
+}

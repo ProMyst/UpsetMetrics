@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-06-11-cubs-at-yankees",
+  "sport": "mlb",
+  "date": "2022-06-11",
+  "startTime": "2022-06-11T23:15:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "43-16"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "23-35"
+  },
+  "finalScore": "8-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661276",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661276/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.976318Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.976320Z"
+}

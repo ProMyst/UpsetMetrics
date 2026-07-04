@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-06-07-braves-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2014-06-07",
+  "startTime": "2014-06-08T02:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "27-37"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "32-28"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.579,
+    "rankGapFactor": 0.223,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381454",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381454/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.075119Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.075120Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-09-08-astros-at-dodgers",
+  "sport": "mlb",
+  "date": "2002-09-08",
+  "startTime": "2002-09-08T23:10:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "76-67"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "82-60"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.415,
+    "rankGapFactor": 0.092,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10538",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10538/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.072269Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.072271Z"
+}

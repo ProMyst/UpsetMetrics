@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-07-28-phillies-at-mets",
+  "sport": "mlb",
+  "date": "2001-07-28",
+  "startTime": "2001-07-28T17:15:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "48-57"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "57-47"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.527,
+    "rankGapFactor": 0.182,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8164",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8164/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.286651Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.286653Z"
+}

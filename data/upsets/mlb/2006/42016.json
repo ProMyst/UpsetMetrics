@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-05-cleveland-indians-at-blue-jays",
+  "sport": "mlb",
+  "date": "2006-09-05",
+  "startTime": "2006-09-05T23:07:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "66-71"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "72-67"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.391,
+    "rankGapFactor": 0.072,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42016",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42016/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.640079Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.640084Z"
+}

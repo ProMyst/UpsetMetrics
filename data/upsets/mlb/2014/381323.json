@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-05-28-braves-at-red-sox",
+  "sport": "mlb",
+  "date": "2014-05-28",
+  "startTime": "2014-05-28T23:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "23-29"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "28-24"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.54,
+    "rankGapFactor": 0.192,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381323",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381323/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.056565Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.056566Z"
+}

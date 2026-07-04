@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-08-08-brewers-at-rockies",
+  "sport": "mlb",
+  "date": "2007-08-08",
+  "startTime": "2007-08-08T19:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "59-54"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "60-55"
+  },
+  "finalScore": "19-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69830",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69830/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.471331Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.471333Z"
+}

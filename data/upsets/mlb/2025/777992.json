@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-05-09-giants-at-twins",
+  "sport": "mlb",
+  "date": "2025-05-09",
+  "startTime": "2025-05-10T00:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "19-20"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "24-15"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.621,
+    "rankGapFactor": 0.256,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777992",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777992/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.808759Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.808761Z"
+}

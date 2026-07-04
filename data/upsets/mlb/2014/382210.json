@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-08-03-blue-jays-at-astros",
+  "sport": "mlb",
+  "date": "2014-08-03",
+  "startTime": "2014-08-03T18:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "47-65"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "60-53"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.578,
+    "rankGapFactor": 0.223,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382210",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382210/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.173640Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.173641Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-05-18-braves-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2011-05-18",
+  "startTime": "2011-05-19T01:40:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "19-23"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "25-20"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.558,
+    "rankGapFactor": 0.206,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287534",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287534/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.110989Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.110991Z"
+}

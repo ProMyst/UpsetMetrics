@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-06-27-royals-at-twins",
+  "sport": "mlb",
+  "date": "2013-06-27",
+  "startTime": "2013-06-28T00:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "35-40"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "36-40"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.318,
+    "rankGapFactor": 0.014,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347924",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347924/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.356407Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.356409Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-09-14-athletics-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2005-09-14",
+  "startTime": "2005-09-14T23:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "84-62"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "80-65"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24809",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24809/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.811254Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.811258Z"
+}

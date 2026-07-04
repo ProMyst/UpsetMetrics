@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-08-06-nationals-at-dodgers",
+  "sport": "mlb",
+  "date": "2010-08-06",
+  "startTime": "2010-08-07T02:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "49-61"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "56-54"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.459,
+    "rankGapFactor": 0.127,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265448",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265448/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.095246Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.095248Z"
+}

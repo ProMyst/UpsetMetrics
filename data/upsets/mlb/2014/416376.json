@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-10-16-cardinals-at-giants",
+  "sport": "mlb",
+  "date": "2014-10-16",
+  "startTime": "2014-10-17T00:00:00Z",
+  "season": "2014",
+  "event": "NL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "4-1"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "1-4"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "416376",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/416376/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.276604Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.276605Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-08-16-angels-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2008-08-16",
+  "startTime": "2008-08-16T19:55:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "76-45"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "55-67"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235594",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235594/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.074205Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.074210Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-05-02-astros-at-white-sox",
+  "sport": "mlb",
+  "date": "2025-05-02",
+  "startTime": "2025-05-02T23:40:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "9-23"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "16-15"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.887,
+    "rankGapFactor": 0.47,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "778079",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/778079/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.790394Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.790396Z"
+}

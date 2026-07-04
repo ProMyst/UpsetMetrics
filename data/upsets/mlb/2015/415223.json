@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-08-02-giants-at-rangers",
+  "sport": "mlb",
+  "date": "2015-08-02",
+  "startTime": "2015-08-02T19:05:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "51-53"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "57-47"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.444,
+    "rankGapFactor": 0.115,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415223",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415223/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.972130Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.972131Z"
+}

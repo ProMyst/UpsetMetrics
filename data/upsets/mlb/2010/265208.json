@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-07-20-mets-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2010-07-20",
+  "startTime": "2010-07-21T01:40:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "36-58"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "49-45"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.646,
+    "rankGapFactor": 0.277,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265208",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265208/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.048390Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.048392Z"
+}

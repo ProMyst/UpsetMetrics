@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-09-27-cleveland-indians-at-white-sox",
+  "sport": "mlb",
+  "date": "2008-09-27",
+  "startTime": "2008-09-27T23:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "81-80"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "86-74"
+  },
+  "finalScore": "12-6",
+  "factors": {
+    "pregameOddsFactor": 0.386,
+    "rankGapFactor": 0.069,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "236161",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/236161/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.191210Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.191215Z"
+}

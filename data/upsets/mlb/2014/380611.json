@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-04-05-twins-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2014-04-05",
+  "startTime": "2014-04-05T17:05:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "2-3"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "3-2"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "380611",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/380611/feed/live",
+    "retrievedAt": "2026-07-04T06:27:17.960092Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:17.960096Z"
+}

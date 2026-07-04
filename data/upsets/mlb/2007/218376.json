@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-03-30-rockies-at-colorado-springs-sky-sox",
+  "sport": "mlb",
+  "date": "2007-03-30",
+  "startTime": "2007-03-30T20:00:00Z",
+  "season": "2007",
+  "event": "Exhibition Game",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "colorado-springs-sky-sox",
+    "name": "Colorado Springs Sky Sox",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "218376",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/218376/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.119427Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-colorado-springs-sky-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.119433Z"
+}

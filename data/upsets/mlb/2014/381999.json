@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-07-19-giants-at-marlins",
+  "sport": "mlb",
+  "date": "2014-07-19",
+  "startTime": "2014-07-19T23:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "55-43"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "44-52"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381999",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381999/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.146552Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.146553Z"
+}

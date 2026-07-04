@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-10-01-twins-at-tigers",
+  "sport": "mlb",
+  "date": "2022-10-01",
+  "startTime": "2022-10-01T22:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "64-93"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "77-81"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.499,
+    "rankGapFactor": 0.159,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662770",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662770/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.274531Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.274533Z"
+}

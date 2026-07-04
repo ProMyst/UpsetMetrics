@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-08-04-nationals-at-rockies",
+  "sport": "mlb",
+  "date": "2008-08-04",
+  "startTime": "2008-08-05T01:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "42-70"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "51-63"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.481,
+    "rankGapFactor": 0.145,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235442",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235442/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.042738Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.042740Z"
+}

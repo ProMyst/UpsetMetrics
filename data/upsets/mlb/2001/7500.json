@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-05-31-astros-at-padres",
+  "sport": "mlb",
+  "date": "2001-05-31",
+  "startTime": "2001-05-31T21:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "26-25"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "27-26"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7500",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7500/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.126080Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.126082Z"
+}

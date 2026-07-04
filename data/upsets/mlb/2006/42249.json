@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-23-diamondbacks-at-dodgers",
+  "sport": "mlb",
+  "date": "2006-09-23",
+  "startTime": "2006-09-24T02:10:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "73-81"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "81-74"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.421,
+    "rankGapFactor": 0.097,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42249",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42249/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.691341Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.691343Z"
+}

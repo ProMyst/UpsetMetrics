@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-04-15-rangers-at-astros",
+  "sport": "mlb",
+  "date": "2023-04-15",
+  "startTime": "2023-04-15T23:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "7-8"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "8-6"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718562",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718562/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.603603Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.603605Z"
+}

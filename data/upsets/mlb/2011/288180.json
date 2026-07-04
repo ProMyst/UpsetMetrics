@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-07-04-yankees-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2011-07-04",
+  "startTime": "2011-07-04T22:35:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "45-38"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "50-33"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.451,
+    "rankGapFactor": 0.12,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288180",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288180/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.244423Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.244427Z"
+}

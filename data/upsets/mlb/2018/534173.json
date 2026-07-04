@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-03-20-rangers-at-white-sox",
+  "sport": "mlb",
+  "date": "2018-03-20",
+  "startTime": "2018-03-20T20:05:00Z",
+  "season": "2018",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "13-11"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "7-17"
+  },
+  "finalScore": "10-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "534173",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/534173/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.613837Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.613841Z"
+}

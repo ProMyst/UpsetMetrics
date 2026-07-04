@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-08-09-astros-at-twins",
+  "sport": "mlb",
+  "date": "2016-08-09",
+  "startTime": "2016-08-10T00:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "58-55"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "46-67"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448548",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448548/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.306967Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.306968Z"
+}

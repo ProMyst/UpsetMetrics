@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-09-24-giants-at-padres",
+  "sport": "mlb",
+  "date": "2015-09-24",
+  "startTime": "2015-09-25T01:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "72-81"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "79-73"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.423,
+    "rankGapFactor": 0.098,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415937",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415937/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.065292Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.065294Z"
+}

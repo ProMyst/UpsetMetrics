@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-05-30-cardinals-at-rockies",
+  "sport": "mlb",
+  "date": "2007-05-30",
+  "startTime": "2007-05-31T01:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "21-29"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "25-28"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.429,
+    "rankGapFactor": 0.103,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68925",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68925/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.285044Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.285046Z"
+}

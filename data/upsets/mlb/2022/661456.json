@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-06-23-orioles-at-white-sox",
+  "sport": "mlb",
+  "date": "2022-06-23",
+  "startTime": "2022-06-24T00:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "32-39"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "33-35"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.386,
+    "rankGapFactor": 0.069,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661456",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661456/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.014259Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.014261Z"
+}

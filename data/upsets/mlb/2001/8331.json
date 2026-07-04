@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-08-11-white-sox-at-mariners",
+  "sport": "mlb",
+  "date": "2001-08-11",
+  "startTime": "2001-08-12T02:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "84-33"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "57-58"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8331",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8331/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.326919Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.326921Z"
+}

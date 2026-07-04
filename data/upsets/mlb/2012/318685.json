@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-06-15-red-sox-at-cubs",
+  "sport": "mlb",
+  "date": "2012-06-15",
+  "startTime": "2012-06-15T18:20:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "22-42"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "31-33"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.652,
+    "rankGapFactor": 0.281,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318685",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318685/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.427106Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.427108Z"
+}

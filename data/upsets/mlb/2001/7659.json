@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-06-14-reds-at-white-sox",
+  "sport": "mlb",
+  "date": "2001-06-14",
+  "startTime": "2001-06-14T23:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "30-32"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "25-39"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7659",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7659/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.163603Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.163605Z"
+}

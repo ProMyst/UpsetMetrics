@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-09-20-royals-at-tigers",
+  "sport": "mlb",
+  "date": "2015-09-20",
+  "startTime": "2015-09-20T17:08:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "87-62"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "69-79"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415880",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415880/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.057068Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.057069Z"
+}

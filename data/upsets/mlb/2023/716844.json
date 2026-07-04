@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-08-26-nationals-at-marlins",
+  "sport": "mlb",
+  "date": "2023-08-26",
+  "startTime": "2023-08-26T20:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "61-69"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "65-65"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.377,
+    "rankGapFactor": 0.062,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716844",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716844/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.950511Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.950513Z"
+}

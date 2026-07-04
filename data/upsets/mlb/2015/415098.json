@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-07-24-nationals-at-pirates",
+  "sport": "mlb",
+  "date": "2015-07-24",
+  "startTime": "2015-07-24T23:05:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "56-40"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "51-44"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415098",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415098/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.954998Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.955000Z"
+}

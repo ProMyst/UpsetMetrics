@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-05-13-yankees-at-athletics",
+  "sport": "mlb",
+  "date": "2005-05-13",
+  "startTime": "2005-05-14T02:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "17-19"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "14-21"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23165",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23165/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.473184Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.473185Z"
+}

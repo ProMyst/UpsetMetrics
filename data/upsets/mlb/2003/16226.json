@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-04-16-athletics-at-mariners",
+  "sport": "mlb",
+  "date": "2003-04-16",
+  "startTime": "2003-04-17T02:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "8-7"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "8-7"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16226",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16226/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.416122Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.416125Z"
+}

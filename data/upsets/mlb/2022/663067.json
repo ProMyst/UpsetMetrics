@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-05-04-padres-at-guardians",
+  "sport": "mlb",
+  "date": "2022-05-04",
+  "startTime": "2022-05-04T17:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "16-8"
+  },
+  "loser": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "10-13"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "663067",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/663067/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.868634Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-guardians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.868636Z"
+}

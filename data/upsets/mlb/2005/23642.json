@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-06-18-pirates-at-red-sox",
+  "sport": "mlb",
+  "date": "2005-06-18",
+  "startTime": "2005-06-18T23:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "31-35"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "37-30"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.506,
+    "rankGapFactor": 0.165,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23642",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23642/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.569449Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.569451Z"
+}

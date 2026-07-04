@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-03-25-guardians-at-rockies",
+  "sport": "mlb",
+  "date": "2023-03-25",
+  "startTime": "2023-03-26T01:40:00Z",
+  "season": "2023",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "11-14"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "11-17"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718957",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718957/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.548870Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "guardians-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.548872Z"
+}

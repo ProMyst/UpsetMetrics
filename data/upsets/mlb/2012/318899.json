@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-06-30-pirates-at-cardinals",
+  "sport": "mlb",
+  "date": "2012-06-30",
+  "startTime": "2012-06-30T18:15:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "42-35"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "40-38"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318899",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318899/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.473207Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.473209Z"
+}

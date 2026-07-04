@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-06-02-white-sox-at-athletics",
+  "sport": "mlb",
+  "date": "2004-06-02",
+  "startTime": "2004-06-02T19:35:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "28-23"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "29-22"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.349,
+    "rankGapFactor": 0.039,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20791",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20791/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.561557Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.561559Z"
+}

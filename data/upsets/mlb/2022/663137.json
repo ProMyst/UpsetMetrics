@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-08-30-cardinals-at-reds",
+  "sport": "mlb",
+  "date": "2022-08-30",
+  "startTime": "2022-08-30T22:40:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "51-77"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "75-55"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.746,
+    "rankGapFactor": 0.357,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "663137",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/663137/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.188253Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.188255Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-08-03-tigers-at-tampa-bay-devil-rays",
+  "sport": "mlb",
+  "date": "2006-08-03",
+  "startTime": "2006-08-03T23:15:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "45-64"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "72-36"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.935,
+    "rankGapFactor": 0.508,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41562",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41562/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.549852Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-tampa-bay-devil-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.549857Z"
+}

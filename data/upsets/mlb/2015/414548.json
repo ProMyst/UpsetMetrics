@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-06-11-padres-at-braves",
+  "sport": "mlb",
+  "date": "2015-06-11",
+  "startTime": "2015-06-11T16:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "31-31"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "29-31"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414548",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414548/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.881124Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.881125Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-07-24-rockies-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2012-07-24",
+  "startTime": "2012-07-25T01:40:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "49-48"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "36-60"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319180",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319180/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.531254Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.531256Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-04-24-padres-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2005-04-24",
+  "startTime": "2005-04-24T20:40:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "11-8"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "8-11"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "22915",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/22915/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.420768Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.420770Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-08-04-reds-at-giants",
+  "sport": "mlb",
+  "date": "2004-08-04",
+  "startTime": "2004-08-05T02:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "52-55"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "58-51"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.415,
+    "rankGapFactor": 0.092,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21614",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21614/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.737088Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.737090Z"
+}

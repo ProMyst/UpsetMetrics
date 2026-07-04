@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-06-24-rockies-at-dodgers",
+  "sport": "mlb",
+  "date": "2002-06-24",
+  "startTime": "2002-06-25T02:10:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "38-38"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "46-29"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.583,
+    "rankGapFactor": 0.227,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10614",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10614/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.860502Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.860504Z"
+}

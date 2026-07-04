@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-06-16-athletics-at-cubs",
+  "sport": "mlb",
+  "date": "2010-06-16",
+  "startTime": "2010-06-17T00:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "29-36"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "33-34"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.416,
+    "rankGapFactor": 0.093,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264785",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264785/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.960697Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.960699Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-08-11-tigers-at-athletics",
+  "sport": "mlb",
+  "date": "2004-08-11",
+  "startTime": "2004-08-11T19:35:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "52-61"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "64-49"
+  },
+  "finalScore": "11-3",
+  "factors": {
+    "pregameOddsFactor": 0.565,
+    "rankGapFactor": 0.212,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21708",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21708/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.754306Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.754308Z"
+}

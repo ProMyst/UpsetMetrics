@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-08-10-mariners-at-rangers",
+  "sport": "mlb",
+  "date": "2011-08-10",
+  "startTime": "2011-08-11T00:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "50-66"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "66-52"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.621,
+    "rankGapFactor": 0.257,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288655",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288655/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.338482Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.338484Z"
+}

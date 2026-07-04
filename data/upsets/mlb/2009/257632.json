@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-03-26-royals-at-mariners",
+  "sport": "mlb",
+  "date": "2009-03-26",
+  "startTime": "2009-03-26T20:05:00Z",
+  "season": "2009",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "14-12"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "14-10"
+  },
+  "finalScore": "10-9",
+  "factors": {
+    "pregameOddsFactor": 0.412,
+    "rankGapFactor": 0.09,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "257632",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/257632/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.500791Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.500794Z"
+}

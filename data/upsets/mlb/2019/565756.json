@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-07-28-cleveland-indians-at-royals",
+  "sport": "mlb",
+  "date": "2019-07-28",
+  "startTime": "2019-07-28T18:15:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "40-67"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "62-43"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.842,
+    "rankGapFactor": 0.433,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565756",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565756/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.361903Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.361906Z"
+}

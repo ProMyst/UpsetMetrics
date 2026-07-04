@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-05-05-pirates-at-cardinals",
+  "sport": "mlb",
+  "date": "2025-05-05",
+  "startTime": "2025-05-05T23:45:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "17-19"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "12-24"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "778036",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/778036/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.798579Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.798581Z"
+}

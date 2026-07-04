@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-05-28-florida-marlins-at-reds",
+  "sport": "mlb",
+  "date": "2000-05-28",
+  "startTime": "2000-05-28T17:15:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "24-27"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "27-22"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.501,
+    "rankGapFactor": 0.161,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4165",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4165/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.566231Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.566235Z"
+}

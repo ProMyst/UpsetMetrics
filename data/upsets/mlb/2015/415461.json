@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-08-20-rays-at-astros",
+  "sport": "mlb",
+  "date": "2015-08-20",
+  "startTime": "2015-08-21T00:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "60-61"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "66-56"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.413,
+    "rankGapFactor": 0.09,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415461",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415461/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.003124Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.003126Z"
+}

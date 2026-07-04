@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-06-08-blue-jays-at-white-sox",
+  "sport": "mlb",
+  "date": "2021-06-08",
+  "startTime": "2021-06-09T00:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "37-23"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "30-28"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633788",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633788/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.992484Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.992486Z"
+}

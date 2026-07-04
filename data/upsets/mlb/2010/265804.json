@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-09-01-cardinals-at-astros",
+  "sport": "mlb",
+  "date": "2010-09-01",
+  "startTime": "2010-09-01T18:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "62-71"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "69-62"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.451,
+    "rankGapFactor": 0.121,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265804",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265804/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.164966Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.164968Z"
+}

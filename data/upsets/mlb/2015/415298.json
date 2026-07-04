@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-08-08-dodgers-at-pirates",
+  "sport": "mlb",
+  "date": "2015-08-08",
+  "startTime": "2015-08-08T20:05:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "64-44"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "62-48"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415298",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415298/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.982206Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.982207Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-25-astros-at-phillies",
+  "sport": "mlb",
+  "date": "2006-09-25",
+  "startTime": "2006-09-25T23:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "78-78"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "82-74"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.364,
+    "rankGapFactor": 0.051,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42013",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42013/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.694902Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.694904Z"
+}

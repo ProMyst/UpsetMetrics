@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-05-21-blue-jays-at-rays",
+  "sport": "mlb",
+  "date": "2012-05-21",
+  "startTime": "2012-05-21T23:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "24-19"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "25-18"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.358,
+    "rankGapFactor": 0.047,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318368",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318368/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.362761Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.362763Z"
+}

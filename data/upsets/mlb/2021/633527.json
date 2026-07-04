@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-06-27-athletics-at-giants",
+  "sport": "mlb",
+  "date": "2021-06-27",
+  "startTime": "2021-06-27T20:05:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "47-33"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "50-27"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.455,
+    "rankGapFactor": 0.124,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633527",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633527/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.049971Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.049973Z"
+}

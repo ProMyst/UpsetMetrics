@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-05-22-athletics-at-mariners",
+  "sport": "mlb",
+  "date": "2023-05-22",
+  "startTime": "2023-05-23T01:40:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "23-24"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "10-39"
+  },
+  "finalScore": "11-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718062",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718062/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.702205Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.702207Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-06-12-marlins-at-mariners",
+  "sport": "mlb",
+  "date": "2023-06-12",
+  "startTime": "2023-06-13T01:40:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "32-33"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "37-30"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.45,
+    "rankGapFactor": 0.12,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717786",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717786/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.758809Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.758811Z"
+}

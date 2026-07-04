@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-08-17-giants-at-montreal-expos",
+  "sport": "mlb",
+  "date": "2003-08-17",
+  "startTime": "2003-08-17T17:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "64-60"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "73-49"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.506,
+    "rankGapFactor": 0.164,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15876",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15876/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.753339Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.753344Z"
+}

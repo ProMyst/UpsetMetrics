@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-07-22-rangers-at-orioles",
+  "sport": "mlb",
+  "date": "2003-07-22",
+  "startTime": "2003-07-22T16:35:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "47-50"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "40-59"
+  },
+  "finalScore": "12-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15054",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15054/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.681103Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.681105Z"
+}

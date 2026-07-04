@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-05-07-angels-at-twins",
+  "sport": "mlb",
+  "date": "2012-05-07",
+  "startTime": "2012-05-08T00:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "13-17"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "7-21"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318159",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318159/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.323775Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.323777Z"
+}

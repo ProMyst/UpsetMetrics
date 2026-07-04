@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-04-04-orioles-at-braves",
+  "sport": "mlb",
+  "date": "2015-04-04",
+  "startTime": "2015-04-04T19:05:00Z",
+  "season": "2015",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "15-17"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "12-19"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "429558",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/429558/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.744460Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.744461Z"
+}

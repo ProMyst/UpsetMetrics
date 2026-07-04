@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-08-08-diamondbacks-at-nationals",
+  "sport": "mlb",
+  "date": "2009-08-08",
+  "startTime": "2009-08-08T23:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "39-72"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "50-61"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.548,
+    "rankGapFactor": 0.198,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245835",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245835/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.867150Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.867152Z"
+}

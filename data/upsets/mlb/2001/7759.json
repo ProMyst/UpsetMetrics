@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-06-22-rangers-at-athletics",
+  "sport": "mlb",
+  "date": "2001-06-22",
+  "startTime": "2001-06-23T02:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "27-44"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "34-38"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.53,
+    "rankGapFactor": 0.184,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7759",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7759/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.185923Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.185925Z"
+}

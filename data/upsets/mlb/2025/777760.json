@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-05-26-reds-at-royals",
+  "sport": "mlb",
+  "date": "2025-05-26",
+  "startTime": "2025-05-26T20:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "27-28"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "29-26"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.391,
+    "rankGapFactor": 0.073,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777760",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777760/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.855136Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.855138Z"
+}

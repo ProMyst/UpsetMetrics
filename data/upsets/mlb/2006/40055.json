@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-04-12-white-sox-at-tigers",
+  "sport": "mlb",
+  "date": "2006-04-12",
+  "startTime": "2006-04-12T17:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "4-4"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "5-3"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40055",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40055/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.240240Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.240242Z"
+}

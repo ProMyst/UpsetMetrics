@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-08-18-blue-jays-at-rangers",
+  "sport": "mlb",
+  "date": "2002-08-18",
+  "startTime": "2002-08-19T00:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "54-68"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "52-70"
+  },
+  "finalScore": "10-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9402",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9402/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.013139Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.013141Z"
+}

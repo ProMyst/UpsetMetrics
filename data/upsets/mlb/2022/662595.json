@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-10-01-rockies-at-dodgers",
+  "sport": "mlb",
+  "date": "2022-10-01",
+  "startTime": "2022-10-02T01:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "110-48"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "65-93"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662595",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662595/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.275834Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.275836Z"
+}

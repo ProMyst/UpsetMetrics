@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-08-12-phillies-at-mets",
+  "sport": "mlb",
+  "date": "2022-08-12",
+  "startTime": "2022-08-12T23:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "63-49"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "73-40"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.509,
+    "rankGapFactor": 0.167,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662434",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662434/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.140973Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.140975Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-07-04-mariners-at-athletics",
+  "sport": "mlb",
+  "date": "2011-07-04",
+  "startTime": "2011-07-04T20:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "42-43"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "38-48"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288184",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288184/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.243420Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.243422Z"
+}

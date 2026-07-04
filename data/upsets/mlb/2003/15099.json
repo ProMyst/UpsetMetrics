@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-05-04-twins-at-red-sox",
+  "sport": "mlb",
+  "date": "2003-05-04",
+  "startTime": "2003-05-04T18:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "15-15"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "20-11"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.663,
+    "rankGapFactor": 0.29,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15099",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15099/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.465842Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.465844Z"
+}

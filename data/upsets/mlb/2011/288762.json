@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-08-19-diamondbacks-at-braves",
+  "sport": "mlb",
+  "date": "2011-08-19",
+  "startTime": "2011-08-19T23:35:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "74-52"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "69-56"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288762",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288762/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.361432Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.361434Z"
+}

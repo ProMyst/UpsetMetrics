@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-08-09-marlins-at-padres",
+  "sport": "mlb",
+  "date": "2021-08-09",
+  "startTime": "2021-08-10T02:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "66-49"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "47-67"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "632942",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/632942/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.157492Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.157494Z"
+}

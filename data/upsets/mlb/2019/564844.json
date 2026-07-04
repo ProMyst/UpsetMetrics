@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-04-28-cubs-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2019-04-28",
+  "startTime": "2019-04-28T20:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "14-12"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "16-13"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.333,
+    "rankGapFactor": 0.027,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "564844",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/564844/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.202545Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.202546Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-08-25-angels-at-astros",
+  "sport": "mlb",
+  "date": "2020-08-25",
+  "startTime": "2020-08-25T20:10:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "10-22"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "17-14"
+  },
+  "finalScore": "12-5",
+  "factors": {
+    "pregameOddsFactor": 0.89,
+    "rankGapFactor": 0.472,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "631426",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/631426/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.601650Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.601652Z"
+}

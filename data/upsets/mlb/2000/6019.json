@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-10-08-giants-at-mets",
+  "sport": "mlb",
+  "date": "2000-10-08",
+  "startTime": "2000-10-08T20:07:00Z",
+  "season": "2000",
+  "event": "NL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "3-1"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "1-3"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "6019",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/6019/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.920290Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.920292Z"
+}

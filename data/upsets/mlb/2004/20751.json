@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-05-30-cubs-at-pirates",
+  "sport": "mlb",
+  "date": "2004-05-30",
+  "startTime": "2004-05-30T17:35:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "26-23"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "23-23"
+  },
+  "finalScore": "12-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20751",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20751/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.553499Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.553501Z"
+}

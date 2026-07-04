@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-09-01-cleveland-indians-at-tigers",
+  "sport": "mlb",
+  "date": "2009-09-01",
+  "startTime": "2009-09-01T23:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "70-61"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "58-73"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246166",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246166/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.930846Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.930851Z"
+}

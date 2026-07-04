@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-09-06-angels-at-white-sox",
+  "sport": "mlb",
+  "date": "2019-09-06",
+  "startTime": "2019-09-07T00:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "66-76"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "62-79"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567332",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567332/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.428260Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.428261Z"
+}

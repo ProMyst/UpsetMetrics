@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-09-05-padres-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2007-09-05",
+  "startTime": "2007-09-06T01:40:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "78-63"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "76-63"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "70221",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/70221/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.552505Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.552507Z"
+}

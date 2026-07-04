@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-08-14-diamondbacks-at-reds",
+  "sport": "mlb",
+  "date": "2003-08-14",
+  "startTime": "2003-08-14T23:10:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "53-67"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "64-56"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.529,
+    "rankGapFactor": 0.183,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15306",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15306/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.746312Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.746314Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-03-24-cleveland-indians-at-giants",
+  "sport": "mlb",
+  "date": "2011-03-24",
+  "startTime": "2011-03-25T02:05:00Z",
+  "season": "2011",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "13-11"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "18-10"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.553,
+    "rankGapFactor": 0.202,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "305856",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/305856/feed/live",
+    "retrievedAt": "2026-07-04T06:23:02.956176Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:02.956182Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-04-13-dodgers-at-giants",
+  "sport": "mlb",
+  "date": "2000-04-13",
+  "startTime": "2000-04-14T02:35:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "6-3"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "3-7"
+  },
+  "finalScore": "11-7",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4048",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4048/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.444501Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.444503Z"
+}

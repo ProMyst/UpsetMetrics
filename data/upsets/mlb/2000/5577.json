@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-07-05-montreal-expos-at-braves",
+  "sport": "mlb",
+  "date": "2000-07-05",
+  "startTime": "2000-07-05T23:40:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "40-40"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "50-34"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.538,
+    "rankGapFactor": 0.19,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5577",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5577/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.670050Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.670054Z"
+}

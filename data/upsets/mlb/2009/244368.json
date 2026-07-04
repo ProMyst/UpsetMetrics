@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-04-19-orioles-at-red-sox",
+  "sport": "mlb",
+  "date": "2009-04-19",
+  "startTime": "2009-04-19T17:35:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "6-6"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "6-6"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244368",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244368/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.567732Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.567734Z"
+}

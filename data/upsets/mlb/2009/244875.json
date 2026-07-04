@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-05-25-nationals-at-mets",
+  "sport": "mlb",
+  "date": "2009-05-25",
+  "startTime": "2009-05-25T23:10:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "24-20"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "14-31"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244875",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244875/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.668846Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.668848Z"
+}

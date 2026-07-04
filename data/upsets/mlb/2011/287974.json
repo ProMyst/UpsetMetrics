@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-06-18-giants-at-athletics",
+  "sport": "mlb",
+  "date": "2011-06-18",
+  "startTime": "2011-06-19T02:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "32-40"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "39-32"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.562,
+    "rankGapFactor": 0.21,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287974",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287974/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.197699Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.197701Z"
+}

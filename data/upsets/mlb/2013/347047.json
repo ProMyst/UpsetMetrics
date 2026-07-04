@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-04-23-rangers-at-angels",
+  "sport": "mlb",
+  "date": "2013-04-23",
+  "startTime": "2013-04-24T02:05:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "8-11"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "13-7"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.872,
+    "rankGapFactor": 0.458,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347047",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347047/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.172349Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.172351Z"
+}

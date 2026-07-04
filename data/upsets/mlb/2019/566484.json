@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-04-29-dodgers-at-giants",
+  "sport": "mlb",
+  "date": "2019-04-29",
+  "startTime": "2019-04-30T01:45:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "12-17"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "19-12"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.798,
+    "rankGapFactor": 0.398,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566484",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566484/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.204117Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.204118Z"
+}

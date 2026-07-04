@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-07-13-athletics-at-giants",
+  "sport": "mlb",
+  "date": "2018-07-13",
+  "startTime": "2018-07-14T02:15:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "50-46"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "53-42"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.393,
+    "rankGapFactor": 0.074,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530819",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530819/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.851697Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.851698Z"
+}

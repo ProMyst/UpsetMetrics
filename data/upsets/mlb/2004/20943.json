@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-06-13-mets-at-royals",
+  "sport": "mlb",
+  "date": "2004-06-13",
+  "startTime": "2004-06-13T18:10:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "29-33"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "23-37"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20943",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20943/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.592088Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.592090Z"
+}

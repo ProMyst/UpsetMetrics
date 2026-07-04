@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-03-25-marlins-at-rays",
+  "sport": "mlb",
+  "date": "2012-03-25",
+  "startTime": "2012-03-25T17:05:00Z",
+  "season": "2012",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "8-10"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "6-14"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "332439",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/332439/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.202005Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.202008Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-06-21-royals-at-angels",
+  "sport": "mlb",
+  "date": "2022-06-21",
+  "startTime": "2022-06-22T01:38:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "25-42"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "33-38"
+  },
+  "finalScore": "12-11",
+  "factors": {
+    "pregameOddsFactor": 0.529,
+    "rankGapFactor": 0.183,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "663442",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/663442/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.004025Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.004027Z"
+}

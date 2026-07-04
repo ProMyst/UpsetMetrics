@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-09-28-royals-at-white-sox",
+  "sport": "mlb",
+  "date": "2013-09-28",
+  "startTime": "2013-09-28T23:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "63-98"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "85-76"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.642,
+    "rankGapFactor": 0.273,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "349149",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/349149/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.602489Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.602491Z"
+}

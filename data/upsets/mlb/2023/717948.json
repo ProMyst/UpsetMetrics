@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-05-31-reds-at-red-sox",
+  "sport": "mlb",
+  "date": "2023-05-31",
+  "startTime": "2023-05-31T23:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "26-29"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "28-27"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.391,
+    "rankGapFactor": 0.073,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717948",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717948/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.727038Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.727040Z"
+}

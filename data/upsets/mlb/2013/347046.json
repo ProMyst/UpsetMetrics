@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-04-23-cardinals-at-nationals",
+  "sport": "mlb",
+  "date": "2013-04-23",
+  "startTime": "2013-04-23T23:05:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "12-8"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "10-10"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347046",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347046/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.171024Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.171026Z"
+}

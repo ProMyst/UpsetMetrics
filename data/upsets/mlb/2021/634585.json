@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-04-07-cardinals-at-marlins",
+  "sport": "mlb",
+  "date": "2021-04-07",
+  "startTime": "2021-04-07T20:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "4-2"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "1-5"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "634585",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/634585/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.824360Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.824362Z"
+}

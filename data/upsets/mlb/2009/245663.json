@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-07-26-mets-at-astros",
+  "sport": "mlb",
+  "date": "2009-07-26",
+  "startTime": "2009-07-26T18:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "46-51"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "50-48"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.39,
+    "rankGapFactor": 0.072,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245663",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245663/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.831982Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.831984Z"
+}

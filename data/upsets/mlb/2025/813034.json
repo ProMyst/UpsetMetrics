@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-10-14-dodgers-at-brewers",
+  "sport": "mlb",
+  "date": "2025-10-14",
+  "startTime": "2025-10-15T00:08:00Z",
+  "season": "2025",
+  "event": "NL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "2-0"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "0-2"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "813034",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/813034/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.191434Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.191435Z"
+}

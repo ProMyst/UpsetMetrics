@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-10-16-brewers-at-dodgers",
+  "sport": "mlb",
+  "date": "2018-10-16",
+  "startTime": "2018-10-17T01:09:00Z",
+  "season": "2018",
+  "event": "NL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "2-2"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "2-2"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "563403",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/563403/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.989888Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.989890Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-10-15-blue-jays-at-mariners",
+  "sport": "mlb",
+  "date": "2025-10-15",
+  "startTime": "2025-10-16T00:08:00Z",
+  "season": "2025",
+  "event": "AL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "1-2"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "2-1"
+  },
+  "finalScore": "13-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "813043",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/813043/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.191632Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.191634Z"
+}

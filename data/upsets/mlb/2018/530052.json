@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-05-16-blue-jays-at-mets",
+  "sport": "mlb",
+  "date": "2018-05-16",
+  "startTime": "2018-05-16T17:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "22-21"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "20-19"
+  },
+  "finalScore": "12-1",
+  "factors": {
+    "pregameOddsFactor": 0.303,
+    "rankGapFactor": 0.002,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530052",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530052/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.745958Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.745959Z"
+}

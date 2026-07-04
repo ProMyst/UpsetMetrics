@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-09-05-royals-at-athletics",
+  "sport": "mlb",
+  "date": "2011-09-05",
+  "startTime": "2011-09-05T20:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "59-83"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "64-77"
+  },
+  "finalScore": "11-6",
+  "factors": {
+    "pregameOddsFactor": 0.396,
+    "rankGapFactor": 0.077,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "289006",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/289006/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.410602Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.410603Z"
+}

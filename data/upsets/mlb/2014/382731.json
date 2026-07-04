@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-09-12-red-sox-at-royals",
+  "sport": "mlb",
+  "date": "2014-09-12",
+  "startTime": "2014-09-13T00:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "65-83"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "80-67"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.563,
+    "rankGapFactor": 0.21,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382731",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382731/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.243640Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.243641Z"
+}

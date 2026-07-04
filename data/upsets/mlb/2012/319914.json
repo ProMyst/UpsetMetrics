@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-09-15-rays-at-yankees",
+  "sport": "mlb",
+  "date": "2012-09-15",
+  "startTime": "2012-09-15T20:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "82-63"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "78-67"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319914",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319914/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.674494Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.674496Z"
+}

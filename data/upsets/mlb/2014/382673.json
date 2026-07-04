@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-09-07-pirates-at-cubs",
+  "sport": "mlb",
+  "date": "2014-09-07",
+  "startTime": "2014-09-07T18:20:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "74-68"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "64-79"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382673",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382673/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.234793Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.234794Z"
+}

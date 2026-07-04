@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-06-09-cardinals-at-royals",
+  "sport": "mlb",
+  "date": "2002-06-09",
+  "startTime": "2002-06-09T18:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "24-36"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "34-27"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.693,
+    "rankGapFactor": 0.315,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10633",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10633/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.821168Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.821170Z"
+}

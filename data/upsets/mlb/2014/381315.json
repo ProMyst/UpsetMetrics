@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-05-27-astros-at-royals",
+  "sport": "mlb",
+  "date": "2014-05-27",
+  "startTime": "2014-05-28T00:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "21-32"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "24-27"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.486,
+    "rankGapFactor": 0.149,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381315",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381315/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.054336Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.054338Z"
+}

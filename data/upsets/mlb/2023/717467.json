@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-07-06-mariners-at-astros",
+  "sport": "mlb",
+  "date": "2023-07-06",
+  "startTime": "2023-07-07T00:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "43-43"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "49-39"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.442,
+    "rankGapFactor": 0.114,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717467",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717467/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.827446Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.827448Z"
+}

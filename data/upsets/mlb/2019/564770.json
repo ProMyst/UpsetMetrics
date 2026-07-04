@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-06-11-dodgers-at-angels",
+  "sport": "mlb",
+  "date": "2019-06-11",
+  "startTime": "2019-06-12T02:07:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "33-35"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "45-23"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.741,
+    "rankGapFactor": 0.353,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "564770",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/564770/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.284789Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.284791Z"
+}

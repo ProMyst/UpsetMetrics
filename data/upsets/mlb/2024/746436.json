@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-08-14-mariners-at-tigers",
+  "sport": "mlb",
+  "date": "2024-08-14",
+  "startTime": "2024-08-14T22:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "58-63"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "63-58"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.403,
+    "rankGapFactor": 0.083,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746436",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746436/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.051364Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.051366Z"
+}

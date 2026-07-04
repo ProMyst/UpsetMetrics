@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-07-04-orioles-at-yankees",
+  "sport": "mlb",
+  "date": "2023-07-04",
+  "startTime": "2023-07-04T17:05:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "48-38"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "49-35"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.363,
+    "rankGapFactor": 0.05,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717508",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717508/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.819292Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.819294Z"
+}

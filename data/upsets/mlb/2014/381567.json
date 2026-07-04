@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-06-15-angels-at-braves",
+  "sport": "mlb",
+  "date": "2014-06-15",
+  "startTime": "2014-06-16T00:00:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "36-32"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "37-31"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.337,
+    "rankGapFactor": 0.029,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381567",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381567/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.089700Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.089701Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-08-19-phillies-at-giants",
+  "sport": "mlb",
+  "date": "2017-08-19",
+  "startTime": "2017-08-20T01:05:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "44-77"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "50-75"
+  },
+  "finalScore": "12-9",
+  "factors": {
+    "pregameOddsFactor": 0.391,
+    "rankGapFactor": 0.073,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491938",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491938/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.294839Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.294841Z"
+}

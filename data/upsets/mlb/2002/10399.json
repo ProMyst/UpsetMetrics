@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-04-25-brewers-at-montreal-expos",
+  "sport": "mlb",
+  "date": "2002-04-25",
+  "startTime": "2002-04-25T23:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "14-8"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "7-15"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10399",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10399/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.696410Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.696415Z"
+}

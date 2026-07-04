@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-07-27-orioles-at-blue-jays",
+  "sport": "mlb",
+  "date": "2010-07-27",
+  "startTime": "2010-07-27T23:07:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "52-49"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "31-69"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265311",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265311/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.065522Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.065527Z"
+}

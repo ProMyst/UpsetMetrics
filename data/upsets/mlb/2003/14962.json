@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-06-24-astros-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2003-06-24",
+  "startTime": "2003-06-25T01:37:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "40-36"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "41-36"
+  },
+  "finalScore": "12-5",
+  "factors": {
+    "pregameOddsFactor": 0.315,
+    "rankGapFactor": 0.012,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "14962",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/14962/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.605313Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.605315Z"
+}

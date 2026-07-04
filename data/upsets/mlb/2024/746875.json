@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-05-21-braves-at-cubs",
+  "sport": "mlb",
+  "date": "2024-05-21",
+  "startTime": "2024-05-21T23:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "27-22"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "27-18"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.422,
+    "rankGapFactor": 0.098,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746875",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746875/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.832243Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.832245Z"
+}

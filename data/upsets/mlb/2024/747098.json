@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-07-07-phillies-at-braves",
+  "sport": "mlb",
+  "date": "2024-07-07",
+  "startTime": "2024-07-07T17:35:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "49-39"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "58-32"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.519,
+    "rankGapFactor": 0.175,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "747098",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/747098/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.958792Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.958794Z"
+}

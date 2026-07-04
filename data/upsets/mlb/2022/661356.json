@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-08-17-padres-at-marlins",
+  "sport": "mlb",
+  "date": "2022-08-17",
+  "startTime": "2022-08-17T20:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "66-54"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "52-66"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661356",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661356/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.155123Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.155125Z"
+}

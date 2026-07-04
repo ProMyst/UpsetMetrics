@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-06-21-tigers-at-dodgers",
+  "sport": "mlb",
+  "date": "2011-06-21",
+  "startTime": "2011-06-22T02:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "34-41"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "39-35"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.484,
+    "rankGapFactor": 0.147,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288007",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288007/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.205360Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.205362Z"
+}

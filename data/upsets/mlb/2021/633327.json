@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-07-11-phillies-at-red-sox",
+  "sport": "mlb",
+  "date": "2021-07-11",
+  "startTime": "2021-07-11T17:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "44-44"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "55-36"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.561,
+    "rankGapFactor": 0.209,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633327",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633327/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.088184Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.088186Z"
+}

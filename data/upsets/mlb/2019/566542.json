@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-09-12-pirates-at-giants",
+  "sport": "mlb",
+  "date": "2019-09-12",
+  "startTime": "2019-09-12T19:45:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "65-82"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "70-77"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.385,
+    "rankGapFactor": 0.068,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566542",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566542/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.438629Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.438630Z"
+}

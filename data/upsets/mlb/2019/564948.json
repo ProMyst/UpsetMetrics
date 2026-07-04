@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-08-red-sox-at-orioles",
+  "sport": "mlb",
+  "date": "2019-05-08",
+  "startTime": "2019-05-08T23:05:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "19-19"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "13-24"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "564948",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/564948/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.223409Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.223411Z"
+}

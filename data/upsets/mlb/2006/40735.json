@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-05-31-nationals-at-phillies",
+  "sport": "mlb",
+  "date": "2006-05-31",
+  "startTime": "2006-05-31T17:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "22-32"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "27-25"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.58,
+    "rankGapFactor": 0.224,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40735",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40735/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.377364Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.377366Z"
+}

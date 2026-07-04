@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-04-21-athletics-at-guardians",
+  "sport": "mlb",
+  "date": "2024-04-21",
+  "startTime": "2024-04-21T17:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "16-6"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "8-14"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746652",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746652/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.752324Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-guardians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.752326Z"
+}

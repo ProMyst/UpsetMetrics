@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-08-09-blue-jays-at-rays",
+  "sport": "mlb",
+  "date": "2012-08-09",
+  "startTime": "2012-08-09T17:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "59-52"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "53-58"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319405",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319405/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.572957Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.572958Z"
+}

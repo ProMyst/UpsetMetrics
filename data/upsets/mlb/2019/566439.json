@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-08-27-yankees-at-mariners",
+  "sport": "mlb",
+  "date": "2019-08-27",
+  "startTime": "2019-08-28T02:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "87-47"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "56-77"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566439",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566439/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.412347Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.412349Z"
+}

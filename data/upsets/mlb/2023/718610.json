@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-04-12-padres-at-mets",
+  "sport": "mlb",
+  "date": "2023-04-12",
+  "startTime": "2023-04-12T17:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "7-6"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "7-6"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718610",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718610/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.593343Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.593345Z"
+}

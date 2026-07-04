@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-07-31-mariners-at-orioles",
+  "sport": "mlb",
+  "date": "2006-07-31",
+  "startTime": "2006-07-31T23:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "52-53"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "48-59"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41512",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41512/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.541031Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.541033Z"
+}

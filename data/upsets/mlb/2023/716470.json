@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-09-23-tigers-at-athletics",
+  "sport": "mlb",
+  "date": "2023-09-23",
+  "startTime": "2023-09-23T20:07:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "48-107"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "72-83"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.687,
+    "rankGapFactor": 0.31,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716470",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716470/feed/live",
+    "retrievedAt": "2026-07-04T06:02:57.024966Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:57.024968Z"
+}

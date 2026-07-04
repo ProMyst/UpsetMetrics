@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-06-11-rangers-at-red-sox",
+  "sport": "mlb",
+  "date": "2019-06-11",
+  "startTime": "2019-06-11T23:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "36-30"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "34-34"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565058",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565058/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.283731Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.283733Z"
+}

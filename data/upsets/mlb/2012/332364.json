@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-03-20-cubs-at-athletics",
+  "sport": "mlb",
+  "date": "2012-03-20",
+  "startTime": "2012-03-20T20:05:00Z",
+  "season": "2012",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "8-12"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "14-4"
+  },
+  "finalScore": "5-5",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.756,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "332364",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/332364/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.173512Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.173517Z"
+}

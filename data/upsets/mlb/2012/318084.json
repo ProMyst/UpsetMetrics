@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-05-01-mets-at-astros",
+  "sport": "mlb",
+  "date": "2012-05-01",
+  "startTime": "2012-05-02T00:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "10-14"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "13-11"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.612,
+    "rankGapFactor": 0.25,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318084",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318084/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.307540Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.307542Z"
+}

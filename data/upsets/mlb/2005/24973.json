@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-09-25-mets-at-nationals",
+  "sport": "mlb",
+  "date": "2005-09-25",
+  "startTime": "2005-09-25T17:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "78-77"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "78-78"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24973",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24973/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.841531Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.841533Z"
+}

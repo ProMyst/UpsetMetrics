@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-07-16-brewers-at-giants",
+  "sport": "mlb",
+  "date": "2022-07-16",
+  "startTime": "2022-07-16T23:15:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "47-43"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "50-42"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.353,
+    "rankGapFactor": 0.043,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662113",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662113/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.078913Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.078915Z"
+}

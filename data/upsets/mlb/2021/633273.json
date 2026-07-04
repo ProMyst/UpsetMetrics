@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-07-18-red-sox-at-yankees",
+  "sport": "mlb",
+  "date": "2021-07-18",
+  "startTime": "2021-07-18T23:08:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "48-44"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "56-38"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.485,
+    "rankGapFactor": 0.148,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633273",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633273/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.100316Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.100318Z"
+}

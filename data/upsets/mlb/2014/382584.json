@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-08-31-nationals-at-mariners",
+  "sport": "mlb",
+  "date": "2014-08-31",
+  "startTime": "2014-08-31T20:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "73-62"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "77-58"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.374,
+    "rankGapFactor": 0.059,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382584",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382584/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.222900Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.222901Z"
+}

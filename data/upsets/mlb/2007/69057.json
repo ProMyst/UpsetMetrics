@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-06-09-phillies-at-royals",
+  "sport": "mlb",
+  "date": "2007-06-09",
+  "startTime": "2007-06-09T23:10:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "32-30"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "23-40"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69057",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69057/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.310986Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.310988Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-04-14-padres-at-braves",
+  "sport": "mlb",
+  "date": "2006-04-14",
+  "startTime": "2006-04-14T23:35:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "5-6"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "3-6"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40080",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40080/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.247380Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.247382Z"
+}

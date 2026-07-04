@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-06-15-yankees-at-mets",
+  "sport": "mlb",
+  "date": "2002-06-15",
+  "startTime": "2002-06-15T17:15:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "33-34"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "43-25"
+  },
+  "finalScore": "8-0",
+  "factors": {
+    "pregameOddsFactor": 0.65,
+    "rankGapFactor": 0.28,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10145",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10145/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.835313Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.835315Z"
+}

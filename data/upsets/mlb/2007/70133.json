@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-08-30-mets-at-phillies",
+  "sport": "mlb",
+  "date": "2007-08-30",
+  "startTime": "2007-08-30T17:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "71-62"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "73-60"
+  },
+  "finalScore": "11-10",
+  "factors": {
+    "pregameOddsFactor": 0.338,
+    "rankGapFactor": 0.03,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "70133",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/70133/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.533096Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.533098Z"
+}

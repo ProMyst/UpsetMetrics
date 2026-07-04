@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-06-09-orioles-at-yankees",
+  "sport": "mlb",
+  "date": "2017-06-09",
+  "startTime": "2017-06-09T23:35:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "35-23"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "31-28"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491005",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491005/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.170515Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.170516Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-05-15-dodgers-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2009-05-15",
+  "startTime": "2009-05-15T23:10:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "25-12"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "17-19"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244728",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244728/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.639459Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.639464Z"
+}

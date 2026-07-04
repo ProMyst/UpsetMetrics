@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-05-09-yankees-at-brewers",
+  "sport": "mlb",
+  "date": "2014-05-09",
+  "startTime": "2014-05-10T00:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "19-15"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "22-14"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.431,
+    "rankGapFactor": 0.105,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381070",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381070/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.023096Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.023097Z"
+}

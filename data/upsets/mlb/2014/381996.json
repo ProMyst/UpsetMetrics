@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-07-19-mets-at-padres",
+  "sport": "mlb",
+  "date": "2014-07-19",
+  "startTime": "2014-07-20T00:40:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "42-55"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "46-51"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.403,
+    "rankGapFactor": 0.082,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381996",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381996/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.146789Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.146791Z"
+}

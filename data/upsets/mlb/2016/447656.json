@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-06-01-white-sox-at-mets",
+  "sport": "mlb",
+  "date": "2016-06-01",
+  "startTime": "2016-06-01T17:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "29-25"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "29-23"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.352,
+    "rankGapFactor": 0.041,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447656",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447656/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.184439Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.184440Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-08-17-athletics-at-rangers",
+  "sport": "mlb",
+  "date": "2016-08-17",
+  "startTime": "2016-08-18T00:05:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "72-50"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "52-69"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448674",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448674/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.320714Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.320715Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-04-08-dodgers-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2008-04-08",
+  "startTime": "2008-04-09T01:40:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "6-2"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "4-4"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "233867",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/233867/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.723713Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.723715Z"
+}

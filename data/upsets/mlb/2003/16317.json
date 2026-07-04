@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-05-14-montreal-expos-at-giants",
+  "sport": "mlb",
+  "date": "2003-05-14",
+  "startTime": "2003-05-14T19:35:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "25-15"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "25-14"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.34,
+    "rankGapFactor": 0.032,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16317",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16317/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.492484Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.492488Z"
+}

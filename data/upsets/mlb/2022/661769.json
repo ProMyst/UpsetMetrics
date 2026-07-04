@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-09-17-orioles-at-blue-jays",
+  "sport": "mlb",
+  "date": "2022-09-17",
+  "startTime": "2022-09-17T19:07:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "83-63"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "75-69"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661769",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661769/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.236499Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.236501Z"
+}

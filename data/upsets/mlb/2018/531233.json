@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-08-16-nationals-at-cardinals",
+  "sport": "mlb",
+  "date": "2018-08-16",
+  "startTime": "2018-08-16T23:15:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "61-61"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "66-56"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.402,
+    "rankGapFactor": 0.082,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531233",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531233/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.904737Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.904738Z"
+}

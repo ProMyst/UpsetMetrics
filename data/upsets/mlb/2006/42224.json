@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-21-giants-at-brewers",
+  "sport": "mlb",
+  "date": "2006-09-21",
+  "startTime": "2006-09-22T00:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "70-83"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "75-77"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.39,
+    "rankGapFactor": 0.072,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42224",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42224/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.685006Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.685008Z"
+}

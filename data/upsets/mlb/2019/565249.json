@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-06-02-nationals-at-reds",
+  "sport": "mlb",
+  "date": "2019-06-02",
+  "startTime": "2019-06-02T17:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "26-33"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "27-32"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.342,
+    "rankGapFactor": 0.034,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565249",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565249/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.268786Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.268788Z"
+}

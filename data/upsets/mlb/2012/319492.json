@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-08-15-nationals-at-giants",
+  "sport": "mlb",
+  "date": "2012-08-15",
+  "startTime": "2012-08-15T19:45:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "73-45"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "64-54"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319492",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319492/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.588920Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.588922Z"
+}

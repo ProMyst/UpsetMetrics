@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-08-06-giants-at-cubs",
+  "sport": "mlb",
+  "date": "2015-08-06",
+  "startTime": "2015-08-07T00:05:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "59-48"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "59-49"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415275",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415275/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.979356Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.979357Z"
+}

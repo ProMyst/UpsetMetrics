@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-05-11-blue-jays-at-mariners",
+  "sport": "mlb",
+  "date": "2025-05-11",
+  "startTime": "2025-05-11T20:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "20-20"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "22-17"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.46,
+    "rankGapFactor": 0.128,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777958",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777958/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.815365Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.815367Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-08-08-yankees-at-tigers",
+  "sport": "mlb",
+  "date": "2012-08-08",
+  "startTime": "2012-08-08T23:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "64-46"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "60-51"
+  },
+  "finalScore": "12-8",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319392",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319392/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.571243Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.571245Z"
+}

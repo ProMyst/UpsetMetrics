@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-07-11-white-sox-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2003-07-11",
+  "startTime": "2003-07-11T23:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "40-51"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "43-48"
+  },
+  "finalScore": "12-5",
+  "factors": {
+    "pregameOddsFactor": 0.382,
+    "rankGapFactor": 0.066,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15372",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15372/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.656592Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.656597Z"
+}

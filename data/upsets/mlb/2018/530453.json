@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-06-16-rockies-at-rangers",
+  "sport": "mlb",
+  "date": "2018-06-16",
+  "startTime": "2018-06-16T20:05:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "28-44"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "34-36"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.542,
+    "rankGapFactor": 0.194,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530453",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530453/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.800247Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.800248Z"
+}

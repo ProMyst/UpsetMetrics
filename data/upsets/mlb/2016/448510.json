@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-08-06-marlins-at-rockies",
+  "sport": "mlb",
+  "date": "2016-08-06",
+  "startTime": "2016-08-07T00:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "55-55"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "58-52"
+  },
+  "finalScore": "12-6",
+  "factors": {
+    "pregameOddsFactor": 0.368,
+    "rankGapFactor": 0.055,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448510",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448510/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.301758Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.301760Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-03-21-reds-at-twins",
+  "sport": "mlb",
+  "date": "2007-03-21",
+  "startTime": "2007-03-21T17:05:00Z",
+  "season": "2007",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "11-10"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "13-6"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.701,
+    "rankGapFactor": 0.321,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "218233",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/218233/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.080104Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.080108Z"
+}

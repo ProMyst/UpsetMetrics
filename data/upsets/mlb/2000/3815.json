@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-08-19-mariners-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2000-08-19",
+  "startTime": "2000-08-19T17:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "63-56"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "69-54"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.379,
+    "rankGapFactor": 0.063,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "3815",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/3815/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.792999Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.793004Z"
+}

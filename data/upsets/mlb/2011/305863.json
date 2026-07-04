@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-03-24-royals-at-mariners",
+  "sport": "mlb",
+  "date": "2011-03-24",
+  "startTime": "2011-03-24T20:05:00Z",
+  "season": "2011",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "15-10"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "13-9"
+  },
+  "finalScore": "9-8",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "305863",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/305863/feed/live",
+    "retrievedAt": "2026-07-04T06:23:02.954147Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:02.954150Z"
+}

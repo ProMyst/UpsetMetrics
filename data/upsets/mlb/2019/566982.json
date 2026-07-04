@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-13-angels-at-twins",
+  "sport": "mlb",
+  "date": "2019-05-13",
+  "startTime": "2019-05-13T23:40:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "20-21"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "25-15"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.643,
+    "rankGapFactor": 0.274,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566982",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566982/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.232103Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.232105Z"
+}

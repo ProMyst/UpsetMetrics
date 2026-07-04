@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-08-17-tigers-at-rays",
+  "sport": "mlb",
+  "date": "2019-08-17",
+  "startTime": "2019-08-17T22:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "72-52"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "37-84"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566724",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566724/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.394349Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.394350Z"
+}

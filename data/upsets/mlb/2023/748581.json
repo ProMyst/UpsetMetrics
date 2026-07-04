@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-10-03-rangers-at-rays",
+  "sport": "mlb",
+  "date": "2023-10-03",
+  "startTime": "2023-10-03T19:08:00Z",
+  "season": "2023",
+  "event": "AL Wild Card Series",
+  "stakes": "Wild Card",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.75,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "748581",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/748581/feed/live",
+    "retrievedAt": "2026-07-04T06:02:57.048678Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:57.048680Z"
+}

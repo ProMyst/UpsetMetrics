@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-04-29-angels-at-mariners",
+  "sport": "mlb",
+  "date": "2025-04-29",
+  "startTime": "2025-04-30T01:40:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "17-12"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "12-16"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "778121",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/778121/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.782533Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.782535Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-08-26-cubs-at-brewers",
+  "sport": "mlb",
+  "date": "2022-08-26",
+  "startTime": "2022-08-27T00:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "55-71"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "65-59"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.519,
+    "rankGapFactor": 0.175,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661189",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661189/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.179960Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.179962Z"
+}

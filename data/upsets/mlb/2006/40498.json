@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-05-14-tigers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2006-05-14",
+  "startTime": "2006-05-14T17:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "24-13"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "17-21"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40498",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40498/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.331140Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.331145Z"
+}

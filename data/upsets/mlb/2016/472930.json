@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-03-29-rays-at-blue-jays",
+  "sport": "mlb",
+  "date": "2016-03-29",
+  "startTime": "2016-03-29T17:07:00Z",
+  "season": "2016",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "11-11"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "17-5"
+  },
+  "finalScore": "0-0",
+  "factors": {
+    "pregameOddsFactor": 0.982,
+    "rankGapFactor": 0.545,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "472930",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/472930/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.065748Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.065750Z"
+}

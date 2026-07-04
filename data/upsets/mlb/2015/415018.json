@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-07-18-rangers-at-astros",
+  "sport": "mlb",
+  "date": "2015-07-18",
+  "startTime": "2015-07-18T23:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "43-47"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "50-43"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.45,
+    "rankGapFactor": 0.12,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415018",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415018/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.944697Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.944698Z"
+}

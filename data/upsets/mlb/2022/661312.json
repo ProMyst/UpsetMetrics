@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-04-14-blue-jays-at-yankees",
+  "sport": "mlb",
+  "date": "2022-04-14",
+  "startTime": "2022-04-14T23:05:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "4-3"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "4-3"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661312",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661312/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.814327Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.814329Z"
+}

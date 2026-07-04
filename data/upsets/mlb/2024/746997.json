@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-08-17-red-sox-at-orioles",
+  "sport": "mlb",
+  "date": "2024-08-17",
+  "startTime": "2024-08-17T23:05:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "65-58"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "72-52"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.43,
+    "rankGapFactor": 0.104,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746997",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746997/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.058510Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.058512Z"
+}

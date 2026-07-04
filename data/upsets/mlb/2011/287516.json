@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-05-16-rangers-at-white-sox",
+  "sport": "mlb",
+  "date": "2011-05-16",
+  "startTime": "2011-05-17T00:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "22-19"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "17-25"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287516",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287516/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.104954Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.104956Z"
+}

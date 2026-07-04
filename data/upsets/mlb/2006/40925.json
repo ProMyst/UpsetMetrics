@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-06-14-orioles-at-blue-jays",
+  "sport": "mlb",
+  "date": "2006-06-14",
+  "startTime": "2006-06-14T23:07:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "36-29"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "30-37"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40925",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40925/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.416592Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.416594Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-08-13-rangers-at-twins",
+  "sport": "mlb",
+  "date": "2015-08-13",
+  "startTime": "2015-08-13T17:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "56-57"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "57-57"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.311,
+    "rankGapFactor": 0.009,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415366",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415366/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.990652Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.990653Z"
+}

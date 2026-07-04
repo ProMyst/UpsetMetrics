@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-09-04-rangers-at-royals",
+  "sport": "mlb",
+  "date": "2012-09-04",
+  "startTime": "2012-09-05T00:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "61-74"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "80-55"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.652,
+    "rankGapFactor": 0.281,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319770",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319770/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.646206Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.646209Z"
+}

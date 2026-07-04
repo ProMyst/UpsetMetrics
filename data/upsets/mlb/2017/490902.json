@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-05-31-rays-at-rangers",
+  "sport": "mlb",
+  "date": "2017-05-31",
+  "startTime": "2017-06-01T00:05:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "29-27"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "26-28"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490902",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490902/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.156355Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.156356Z"
+}

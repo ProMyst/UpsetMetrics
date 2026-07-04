@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-06-12-phillies-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2002-06-12",
+  "startTime": "2002-06-12T23:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "28-35"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "31-34"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.381,
+    "rankGapFactor": 0.065,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "11097",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/11097/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.830632Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.830637Z"
+}

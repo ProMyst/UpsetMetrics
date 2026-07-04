@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-09-09-blue-jays-at-tampa-bay-devil-rays",
+  "sport": "mlb",
+  "date": "2005-09-09",
+  "startTime": "2005-09-09T23:15:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "70-70"
+  },
+  "loser": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "59-83"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24747",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24747/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.797331Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-tampa-bay-devil-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.797337Z"
+}

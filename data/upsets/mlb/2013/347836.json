@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-06-20-mets-at-braves",
+  "sport": "mlb",
+  "date": "2013-06-20",
+  "startTime": "2013-06-20T23:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "28-41"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "43-31"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.738,
+    "rankGapFactor": 0.351,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347836",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347836/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.333301Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.333303Z"
+}

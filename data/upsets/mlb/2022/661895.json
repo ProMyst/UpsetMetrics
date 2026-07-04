@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-06-05-white-sox-at-rays",
+  "sport": "mlb",
+  "date": "2022-06-05",
+  "startTime": "2022-06-05T17:40:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "25-27"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "31-23"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.533,
+    "rankGapFactor": 0.187,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661895",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661895/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.959702Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.959704Z"
+}

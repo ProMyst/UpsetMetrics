@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-03-30-twins-at-pirates",
+  "sport": "mlb",
+  "date": "2007-03-30",
+  "startTime": "2007-03-30T17:05:00Z",
+  "season": "2007",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "12-16"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "13-17"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.312,
+    "rankGapFactor": 0.01,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "218380",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/218380/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.118639Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.118641Z"
+}

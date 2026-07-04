@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-07-21-yankees-at-mariners",
+  "sport": "mlb",
+  "date": "2017-07-21",
+  "startTime": "2017-07-22T02:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "50-45"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "48-50"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491539",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491539/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.242978Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.242979Z"
+}

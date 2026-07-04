@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-04-27-reds-at-mets",
+  "sport": "mlb",
+  "date": "2000-04-27",
+  "startTime": "2000-04-27T17:10:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "10-11"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "14-9"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.631,
+    "rankGapFactor": 0.265,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5164",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5164/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.482053Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.482055Z"
+}

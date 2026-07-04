@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-03-27-braves-at-nationals",
+  "sport": "mlb",
+  "date": "2016-03-27",
+  "startTime": "2016-03-27T17:05:00Z",
+  "season": "2016",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "17-4"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "6-17"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "470038",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/470038/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.055994Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.055997Z"
+}

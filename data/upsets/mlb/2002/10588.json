@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-05-02-reds-at-dodgers",
+  "sport": "mlb",
+  "date": "2002-05-02",
+  "startTime": "2002-05-03T02:10:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "17-11"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "17-10"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.356,
+    "rankGapFactor": 0.045,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10588",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10588/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.715991Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.715993Z"
+}

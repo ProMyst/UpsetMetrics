@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-09-04-astros-at-padres",
+  "sport": "mlb",
+  "date": "2002-09-04",
+  "startTime": "2002-09-05T02:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "60-79"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "73-66"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.534,
+    "rankGapFactor": 0.187,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9862",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9862/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.061370Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.061373Z"
+}

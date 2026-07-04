@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-07-12-pirates-at-phillies",
+  "sport": "mlb",
+  "date": "2009-07-12",
+  "startTime": "2009-07-12T17:35:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "48-38"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "38-50"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245518",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245518/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.801922Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.801924Z"
+}

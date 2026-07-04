@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-04-23-tigers-at-angels",
+  "sport": "mlb",
+  "date": "2009-04-23",
+  "startTime": "2009-04-24T02:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "6-9"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "8-7"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.633,
+    "rankGapFactor": 0.267,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244419",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244419/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.578959Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.578961Z"
+}

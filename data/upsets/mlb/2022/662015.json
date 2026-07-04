@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-09-17-rangers-at-rays",
+  "sport": "mlb",
+  "date": "2022-09-17",
+  "startTime": "2022-09-17T22:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "81-64"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "63-82"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662015",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662015/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.237063Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.237065Z"
+}

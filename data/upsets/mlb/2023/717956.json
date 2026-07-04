@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-05-30-twins-at-astros",
+  "sport": "mlb",
+  "date": "2023-05-30",
+  "startTime": "2023-05-31T00:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "32-22"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "28-27"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717956",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717956/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.723148Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.723150Z"
+}

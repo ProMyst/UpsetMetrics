@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-04-02-florida-marlins-at-jacksonville-suns",
+  "sport": "mlb",
+  "date": "2010-04-02",
+  "startTime": "2010-04-02T23:05:00Z",
+  "season": "2010",
+  "event": "Exhibition Game",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "jacksonville-suns",
+    "name": "Jacksonville Suns",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "1-1"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "274909",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/274909/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.758710Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-jacksonville-suns",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.758718Z"
+}

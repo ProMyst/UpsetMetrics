@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-05-06-dodgers-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2004-05-06",
+  "startTime": "2004-05-06T23:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "17-10"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "16-12"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20433",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20433/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.488812Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.488816Z"
+}

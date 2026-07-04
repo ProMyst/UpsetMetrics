@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-03-27-white-sox-at-dodgers",
+  "sport": "mlb",
+  "date": "2017-03-27",
+  "startTime": "2017-03-27T20:05:00Z",
+  "season": "2017",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "16-14"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "16-15"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "509745",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/509745/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.032959Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.032961Z"
+}

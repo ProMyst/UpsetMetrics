@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-09-06-cleveland-indians-at-royals",
+  "sport": "mlb",
+  "date": "2008-09-06",
+  "startTime": "2008-09-06T23:10:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "61-80"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "68-72"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.433,
+    "rankGapFactor": 0.106,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235876",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235876/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.131326Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.131331Z"
+}

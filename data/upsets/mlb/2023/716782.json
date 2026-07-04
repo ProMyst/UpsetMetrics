@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-08-30-padres-at-cardinals",
+  "sport": "mlb",
+  "date": "2023-08-30",
+  "startTime": "2023-08-30T18:15:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "58-76"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "62-72"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.375,
+    "rankGapFactor": 0.06,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716782",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716782/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.962355Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.962357Z"
+}

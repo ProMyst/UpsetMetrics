@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-08-07-marlins-at-reds",
+  "sport": "mlb",
+  "date": "2023-08-07",
+  "startTime": "2023-08-07T22:40:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "60-55"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "58-56"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717097",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717097/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.899900Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.899902Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-03-20-brewers-at-padres",
+  "sport": "mlb",
+  "date": "2019-03-20",
+  "startTime": "2019-03-20T20:10:00Z",
+  "season": "2019",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "14-12"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "15-9"
+  },
+  "finalScore": "10-7",
+  "factors": {
+    "pregameOddsFactor": 0.516,
+    "rankGapFactor": 0.173,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566272",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566272/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.104058Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.104062Z"
+}

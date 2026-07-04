@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-08-03-royals-at-rays",
+  "sport": "mlb",
+  "date": "2016-08-03",
+  "startTime": "2016-08-03T23:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "43-63"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "51-56"
+  },
+  "finalScore": "12-0",
+  "factors": {
+    "pregameOddsFactor": 0.477,
+    "rankGapFactor": 0.142,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448463",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448463/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.295560Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.295561Z"
+}

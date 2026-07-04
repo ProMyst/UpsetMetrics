@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-05-19-marlins-at-phillies",
+  "sport": "mlb",
+  "date": "2021-05-19",
+  "startTime": "2021-05-19T23:05:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "19-24"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "22-21"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.474,
+    "rankGapFactor": 0.14,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "634044",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/634044/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.938490Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.938493Z"
+}

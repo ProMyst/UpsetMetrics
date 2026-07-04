@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-07-10-cubs-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2005-07-10",
+  "startTime": "2005-07-10T17:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "43-44"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "44-42"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.343,
+    "rankGapFactor": 0.035,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23943",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23943/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.630237Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.630242Z"
+}

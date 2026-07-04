@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-08-07-diamondbacks-at-pirates",
+  "sport": "mlb",
+  "date": "2012-08-07",
+  "startTime": "2012-08-07T23:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "56-54"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "62-47"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.449,
+    "rankGapFactor": 0.119,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319369",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319369/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.566872Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.566874Z"
+}

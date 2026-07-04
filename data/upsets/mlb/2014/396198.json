@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-03-25-angels-at-cubs",
+  "sport": "mlb",
+  "date": "2014-03-25",
+  "startTime": "2014-03-25T20:05:00Z",
+  "season": "2014",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "16-10"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "12-17"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "396198",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/396198/feed/live",
+    "retrievedAt": "2026-07-04T06:27:17.935138Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:17.935141Z"
+}

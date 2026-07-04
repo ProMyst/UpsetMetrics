@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-09-01-cardinals-at-cubs",
+  "sport": "mlb",
+  "date": "2002-09-01",
+  "startTime": "2002-09-01T18:20:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "57-79"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "76-60"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.649,
+    "rankGapFactor": 0.279,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "11184",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/11184/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.050702Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.050705Z"
+}

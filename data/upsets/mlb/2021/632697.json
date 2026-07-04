@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-08-28-padres-at-angels",
+  "sport": "mlb",
+  "date": "2021-08-28",
+  "startTime": "2021-08-29T01:07:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "64-67"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "70-62"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.404,
+    "rankGapFactor": 0.084,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "632697",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/632697/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.212092Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.212094Z"
+}

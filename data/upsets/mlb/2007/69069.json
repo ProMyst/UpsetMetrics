@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-06-10-brewers-at-rangers",
+  "sport": "mlb",
+  "date": "2007-06-10",
+  "startTime": "2007-06-11T00:35:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "34-29"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "23-40"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69069",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69069/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.315314Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.315316Z"
+}

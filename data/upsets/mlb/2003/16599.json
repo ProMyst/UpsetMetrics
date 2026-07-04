@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-08-03-cleveland-indians-at-rangers",
+  "sport": "mlb",
+  "date": "2003-08-03",
+  "startTime": "2003-08-04T00:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "48-63"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "45-66"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16599",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16599/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.718065Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.718070Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-07-23-reds-at-nationals",
+  "sport": "mlb",
+  "date": "2025-07-23",
+  "startTime": "2025-07-23T16:05:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "53-50"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "41-61"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777026",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777026/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.004987Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.004989Z"
+}

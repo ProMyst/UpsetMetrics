@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-09-25-astros-at-cubs",
+  "sport": "mlb",
+  "date": "2005-09-25",
+  "startTime": "2005-09-25T18:20:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "77-79"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "85-71"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.428,
+    "rankGapFactor": 0.103,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24960",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24960/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.843250Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.843252Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-06-07-diamondbacks-at-cubs",
+  "sport": "mlb",
+  "date": "2000-06-07",
+  "startTime": "2000-06-07T18:20:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "25-35"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "35-24"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.741,
+    "rankGapFactor": 0.353,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5390",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5390/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.593310Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.593312Z"
+}

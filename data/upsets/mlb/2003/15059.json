@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-08-05-twins-at-orioles",
+  "sport": "mlb",
+  "date": "2003-08-05",
+  "startTime": "2003-08-05T23:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "53-57"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "56-56"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.345,
+    "rankGapFactor": 0.036,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15059",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15059/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.719458Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.719460Z"
+}

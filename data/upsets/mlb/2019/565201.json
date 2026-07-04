@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-09-19-cardinals-at-cubs",
+  "sport": "mlb",
+  "date": "2019-09-19",
+  "startTime": "2019-09-19T23:15:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "86-67"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "82-71"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565201",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565201/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.450991Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.450993Z"
+}

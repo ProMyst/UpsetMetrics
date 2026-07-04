@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-05-04-pirates-at-tigers",
+  "sport": "mlb",
+  "date": "2022-05-04",
+  "startTime": "2022-05-04T17:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "8-14"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "9-14"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.369,
+    "rankGapFactor": 0.055,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662838",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662838/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.868282Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.868284Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-05-26-red-sox-at-twins",
+  "sport": "mlb",
+  "date": "2015-05-26",
+  "startTime": "2015-05-27T00:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "27-18"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "21-25"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414331",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414331/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.854209Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.854210Z"
+}

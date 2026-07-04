@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-06-16-rangers-at-astros",
+  "sport": "mlb",
+  "date": "2002-06-16",
+  "startTime": "2002-06-16T18:35:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "30-37"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "27-40"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10771",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10771/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.839473Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.839475Z"
+}

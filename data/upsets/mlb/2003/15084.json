@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-08-08-orioles-at-red-sox",
+  "sport": "mlb",
+  "date": "2003-08-08",
+  "startTime": "2003-08-08T17:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "55-58"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "67-47"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.552,
+    "rankGapFactor": 0.202,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15084",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15084/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.727519Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.727521Z"
+}

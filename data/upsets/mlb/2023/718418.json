@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-04-26-royals-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2023-04-26",
+  "startTime": "2023-04-26T19:40:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "14-12"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "6-19"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718418",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718418/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.633069Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.633071Z"
+}

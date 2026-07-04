@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-07-25-royals-at-mariners",
+  "sport": "mlb",
+  "date": "2001-07-25",
+  "startTime": "2001-07-26T02:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "40-61"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "72-29"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.634,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "6247",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/6247/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.279623Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.279625Z"
+}

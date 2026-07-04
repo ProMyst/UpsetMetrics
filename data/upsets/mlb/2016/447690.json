@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-06-03-mariners-at-rangers",
+  "sport": "mlb",
+  "date": "2016-06-03",
+  "startTime": "2016-06-04T00:05:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "32-22"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "31-23"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447690",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447690/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.188704Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.188705Z"
+}

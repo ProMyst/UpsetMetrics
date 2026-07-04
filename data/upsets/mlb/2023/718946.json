@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-03-26-cardinals-at-astros",
+  "sport": "mlb",
+  "date": "2023-03-26",
+  "startTime": "2023-03-26T15:05:00Z",
+  "season": "2023",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "14-10"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "16-7"
+  },
+  "finalScore": "24-1",
+  "factors": {
+    "pregameOddsFactor": 0.581,
+    "rankGapFactor": 0.225,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718946",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718946/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.549068Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.549070Z"
+}

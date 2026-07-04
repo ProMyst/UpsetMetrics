@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-07-21-white-sox-at-mariners",
+  "sport": "mlb",
+  "date": "2010-07-21",
+  "startTime": "2010-07-22T02:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "37-58"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "52-42"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.709,
+    "rankGapFactor": 0.327,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265219",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265219/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.051737Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.051739Z"
+}

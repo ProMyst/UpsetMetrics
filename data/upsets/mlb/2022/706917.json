@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-03-31-cardinals-at-marlins",
+  "sport": "mlb",
+  "date": "2022-03-31",
+  "startTime": "2022-03-31T22:40:00Z",
+  "season": "2022",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "7-4"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "6-5"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "706917",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/706917/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.779365Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.779368Z"
+}

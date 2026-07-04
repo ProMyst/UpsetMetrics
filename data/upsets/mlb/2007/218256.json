@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-03-23-orioles-at-red-sox",
+  "sport": "mlb",
+  "date": "2007-03-23",
+  "startTime": "2007-03-23T17:05:00Z",
+  "season": "2007",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "11-10"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "11-10"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "218256",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/218256/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.089163Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.089166Z"
+}

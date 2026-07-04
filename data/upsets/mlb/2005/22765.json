@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-04-14-yankees-at-red-sox",
+  "sport": "mlb",
+  "date": "2005-04-14",
+  "startTime": "2005-04-14T23:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "4-5"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "4-5"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "22765",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/22765/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.388971Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.388974Z"
+}

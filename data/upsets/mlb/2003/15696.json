@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-07-05-tigers-at-royals",
+  "sport": "mlb",
+  "date": "2003-07-05",
+  "startTime": "2003-07-05T23:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "21-64"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "46-39"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.588,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15696",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15696/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.635448Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.635450Z"
+}

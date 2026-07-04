@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-08-02-angels-at-braves",
+  "sport": "mlb",
+  "date": "2023-08-02",
+  "startTime": "2023-08-02T16:20:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "69-37"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "56-53"
+  },
+  "finalScore": "12-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717165",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717165/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.886187Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.886189Z"
+}

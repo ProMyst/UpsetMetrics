@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-05-18-dodgers-at-angels",
+  "sport": "mlb",
+  "date": "2007-05-18",
+  "startTime": "2007-05-19T02:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "25-18"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "25-17"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.335,
+    "rankGapFactor": 0.028,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68755",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68755/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.251523Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.251525Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-05-29-royals-at-blue-jays",
+  "sport": "mlb",
+  "date": "2014-05-29",
+  "startTime": "2014-05-29T23:07:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "25-28"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "32-23"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.575,
+    "rankGapFactor": 0.22,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381342",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381342/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.058288Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.058289Z"
+}

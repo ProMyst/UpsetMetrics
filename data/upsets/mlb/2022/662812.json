@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-08-04-rays-at-tigers",
+  "sport": "mlb",
+  "date": "2022-08-04",
+  "startTime": "2022-08-04T23:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "56-49"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "42-65"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662812",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662812/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.120871Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.120873Z"
+}

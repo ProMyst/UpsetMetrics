@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-05-23-nationals-at-phillies",
+  "sport": "mlb",
+  "date": "2012-05-23",
+  "startTime": "2012-05-23T23:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "22-23"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "26-18"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.555,
+    "rankGapFactor": 0.204,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318399",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318399/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.368714Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.368716Z"
+}

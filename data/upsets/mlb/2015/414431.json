@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-06-02-mets-at-padres",
+  "sport": "mlb",
+  "date": "2015-06-02",
+  "startTime": "2015-06-03T02:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "26-28"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "29-24"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.464,
+    "rankGapFactor": 0.131,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414431",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414431/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.867122Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.867123Z"
+}

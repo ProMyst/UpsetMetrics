@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-09-26-cardinals-at-astros",
+  "sport": "mlb",
+  "date": "2011-09-26",
+  "startTime": "2011-09-27T00:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "56-104"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "88-72"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.8,
+    "rankGapFactor": 0.4,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "289291",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/289291/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.469538Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.469540Z"
+}

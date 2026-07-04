@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-05-20-astros-at-rays",
+  "sport": "mlb",
+  "date": "2025-05-20",
+  "startTime": "2025-05-20T23:05:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "22-26"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "25-23"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.456,
+    "rankGapFactor": 0.125,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777848",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777848/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.837783Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.837785Z"
+}

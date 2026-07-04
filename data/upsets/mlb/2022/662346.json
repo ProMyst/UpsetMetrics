@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-07-26-astros-at-athletics",
+  "sport": "mlb",
+  "date": "2022-07-26",
+  "startTime": "2022-07-27T01:40:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "37-63"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "64-34"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.566,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662346",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662346/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.097506Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.097508Z"
+}

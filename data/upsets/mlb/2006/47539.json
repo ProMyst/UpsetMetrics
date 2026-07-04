@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-03-30-rangers-at-royals",
+  "sport": "mlb",
+  "date": "2006-03-30",
+  "startTime": "2006-03-30T19:05:00Z",
+  "season": "2006",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "16-9"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "10-16"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "47539",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/47539/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.210364Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.210366Z"
+}

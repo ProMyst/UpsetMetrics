@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-06-05-pirates-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2001-06-05",
+  "startTime": "2001-06-05T23:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "18-37"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "26-30"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.643,
+    "rankGapFactor": 0.274,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7558",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7558/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.138689Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.138693Z"
+}

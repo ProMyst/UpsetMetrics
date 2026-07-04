@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-08-11-orioles-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "2004-08-11",
+  "startTime": "2004-08-12T02:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "63-51"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "54-58"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21706",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21706/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.756925Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.756929Z"
+}

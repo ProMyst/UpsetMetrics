@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-07-11-athletics-at-mariners",
+  "sport": "mlb",
+  "date": "2014-07-11",
+  "startTime": "2014-07-12T02:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "50-43"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "58-35"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.515,
+    "rankGapFactor": 0.172,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381935",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381935/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.139359Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.139361Z"
+}

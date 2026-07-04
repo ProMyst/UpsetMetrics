@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-07-03-rangers-at-twins",
+  "sport": "mlb",
+  "date": "2016-07-03",
+  "startTime": "2016-07-03T18:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "27-54"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "52-31"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.586,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448101",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448101/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.245967Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.245968Z"
+}

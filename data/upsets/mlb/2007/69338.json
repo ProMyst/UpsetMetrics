@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-06-30-blue-jays-at-mariners",
+  "sport": "mlb",
+  "date": "2007-06-30",
+  "startTime": "2007-07-01T02:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "44-33"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "39-41"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69338",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69338/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.372898Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.372900Z"
+}

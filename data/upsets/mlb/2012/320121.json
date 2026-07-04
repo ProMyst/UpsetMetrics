@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-10-01-orioles-at-rays",
+  "sport": "mlb",
+  "date": "2012-10-01",
+  "startTime": "2012-10-01T23:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "89-71"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "92-68"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.347,
+    "rankGapFactor": 0.037,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "320121",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/320121/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.720063Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.720065Z"
+}

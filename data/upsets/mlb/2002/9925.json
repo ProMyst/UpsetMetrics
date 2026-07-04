@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-09-24-braves-at-phillies",
+  "sport": "mlb",
+  "date": "2002-09-24",
+  "startTime": "2002-09-24T23:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "79-78"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "97-58"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.607,
+    "rankGapFactor": 0.245,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9925",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9925/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.113962Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.113963Z"
+}

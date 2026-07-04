@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-05-15-white-sox-at-twins",
+  "sport": "mlb",
+  "date": "2006-05-15",
+  "startTime": "2006-05-15T17:10:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "25-12"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "17-21"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40514",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40514/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.334149Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.334151Z"
+}

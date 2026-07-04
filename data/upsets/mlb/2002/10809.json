@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-07-05-mets-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2002-07-05",
+  "startTime": "2002-07-05T23:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "42-43"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "44-42"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.344,
+    "rankGapFactor": 0.035,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10809",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10809/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.890845Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.890850Z"
+}

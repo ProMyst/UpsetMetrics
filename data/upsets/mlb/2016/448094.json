@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-07-03-royals-at-phillies",
+  "sport": "mlb",
+  "date": "2016-07-03",
+  "startTime": "2016-07-03T17:35:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "37-46"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "43-38"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.513,
+    "rankGapFactor": 0.17,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448094",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448094/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.245843Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.245845Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-07-04-pirates-at-reds",
+  "sport": "mlb",
+  "date": "2001-07-04",
+  "startTime": "2001-07-04T17:15:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "32-50"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "32-51"
+  },
+  "finalScore": "14-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7897",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7897/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.217994Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.217996Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-07-21-blue-jays-at-red-sox",
+  "sport": "mlb",
+  "date": "2020-07-21",
+  "startTime": "2020-07-21T23:30:00Z",
+  "season": "2020",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "13-6"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "9-11"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "634679",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/634679/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.500261Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.500264Z"
+}

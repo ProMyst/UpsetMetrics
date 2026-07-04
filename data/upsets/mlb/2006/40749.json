@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-06-02-rangers-at-white-sox",
+  "sport": "mlb",
+  "date": "2006-06-02",
+  "startTime": "2006-06-03T00:35:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "29-25"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "33-21"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.485,
+    "rankGapFactor": 0.148,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40749",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40749/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.383470Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.383472Z"
+}

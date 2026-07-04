@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-09-27-dodgers-at-padres",
+  "sport": "mlb",
+  "date": "2016-09-27",
+  "startTime": "2016-09-28T02:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "67-90"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "90-67"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.666,
+    "rankGapFactor": 0.293,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "449218",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/449218/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.392404Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.392406Z"
+}

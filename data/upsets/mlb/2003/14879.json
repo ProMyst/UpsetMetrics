@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-06-29-dodgers-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "2003-06-29",
+  "startTime": "2003-06-29T20:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "40-39"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "45-35"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.44,
+    "rankGapFactor": 0.112,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "14879",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/14879/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.619945Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.619949Z"
+}

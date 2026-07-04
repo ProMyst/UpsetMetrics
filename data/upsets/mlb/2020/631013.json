@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-09-25-padres-at-giants",
+  "sport": "mlb",
+  "date": "2020-09-25",
+  "startTime": "2020-09-25T23:10:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "29-28"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "34-23"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.519,
+    "rankGapFactor": 0.175,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "631013",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/631013/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.694755Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.694757Z"
+}

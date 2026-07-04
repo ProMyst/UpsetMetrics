@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-08-26-angels-at-orioles",
+  "sport": "mlb",
+  "date": "2021-08-26",
+  "startTime": "2021-08-26T17:05:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "40-86"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "63-66"
+  },
+  "finalScore": "13-1",
+  "factors": {
+    "pregameOddsFactor": 0.727,
+    "rankGapFactor": 0.342,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "632743",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/632743/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.202681Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.202686Z"
+}

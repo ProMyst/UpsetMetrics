@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-09-19-giants-at-padres",
+  "sport": "mlb",
+  "date": "2014-09-19",
+  "startTime": "2014-09-20T02:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "72-81"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "84-69"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.496,
+    "rankGapFactor": 0.157,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382838",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382838/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.256705Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.256706Z"
+}

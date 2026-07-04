@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-08-16-brewers-at-dodgers",
+  "sport": "mlb",
+  "date": "2014-08-16",
+  "startTime": "2014-08-17T01:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "69-55"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "70-55"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.309,
+    "rankGapFactor": 0.007,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382378",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382378/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.197173Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.197174Z"
+}

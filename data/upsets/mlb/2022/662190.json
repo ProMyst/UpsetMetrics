@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-10-02-white-sox-at-padres",
+  "sport": "mlb",
+  "date": "2022-10-02",
+  "startTime": "2022-10-02T20:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "79-80"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "87-72"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.426,
+    "rankGapFactor": 0.101,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662190",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662190/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.278520Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.278522Z"
+}

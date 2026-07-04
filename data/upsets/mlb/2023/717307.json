@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-07-22-giants-at-nationals",
+  "sport": "mlb",
+  "date": "2023-07-22",
+  "startTime": "2023-07-22T23:05:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "40-58"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "54-45"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.643,
+    "rankGapFactor": 0.275,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717307",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717307/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.859840Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.859842Z"
+}

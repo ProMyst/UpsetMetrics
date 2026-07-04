@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-08-27-dodgers-at-reds",
+  "sport": "mlb",
+  "date": "2015-08-27",
+  "startTime": "2015-08-27T16:35:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "70-56"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "52-74"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415550",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415550/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.014474Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.014475Z"
+}

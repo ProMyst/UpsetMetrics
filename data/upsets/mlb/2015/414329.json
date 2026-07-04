@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-05-26-diamondbacks-at-cardinals",
+  "sport": "mlb",
+  "date": "2015-05-26",
+  "startTime": "2015-05-27T00:15:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "30-16"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "21-24"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414329",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414329/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.854500Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.854501Z"
+}

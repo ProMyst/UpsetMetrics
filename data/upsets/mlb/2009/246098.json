@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-08-27-royals-at-mariners",
+  "sport": "mlb",
+  "date": "2009-08-27",
+  "startTime": "2009-08-28T02:10:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "49-78"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "66-62"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.624,
+    "rankGapFactor": 0.26,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246098",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246098/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.918722Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.918724Z"
+}

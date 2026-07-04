@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-09-07-rangers-at-twins",
+  "sport": "mlb",
+  "date": "2003-09-07",
+  "startTime": "2003-09-07T18:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "76-66"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "64-79"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16776",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16776/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.813270Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.813272Z"
+}

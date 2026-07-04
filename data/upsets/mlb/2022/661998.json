@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-05-24-blue-jays-at-cardinals",
+  "sport": "mlb",
+  "date": "2022-05-24",
+  "startTime": "2022-05-24T23:45:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "23-20"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "24-19"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.358,
+    "rankGapFactor": 0.047,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661998",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661998/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.925634Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.925636Z"
+}

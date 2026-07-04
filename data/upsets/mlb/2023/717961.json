@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-05-30-rays-at-cubs",
+  "sport": "mlb",
+  "date": "2023-05-30",
+  "startTime": "2023-05-31T00:05:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "24-30"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "39-18"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.899,
+    "rankGapFactor": 0.48,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717961",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717961/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.722878Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.722881Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-05-08-royals-at-rays",
+  "sport": "mlb",
+  "date": "2017-05-08",
+  "startTime": "2017-05-08T23:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "11-20"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "16-18"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.589,
+    "rankGapFactor": 0.231,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490576",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490576/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.113838Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.113839Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-05-09-giants-at-dodgers",
+  "sport": "mlb",
+  "date": "2012-05-09",
+  "startTime": "2012-05-10T02:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "20-11"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "15-16"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318195",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318195/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.330826Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.330829Z"
+}

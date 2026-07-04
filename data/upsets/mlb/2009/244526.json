@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-05-01-red-sox-at-rays",
+  "sport": "mlb",
+  "date": "2009-05-01",
+  "startTime": "2009-05-01T23:38:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "10-14"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "14-9"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.78,
+    "rankGapFactor": 0.384,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244526",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244526/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.601199Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.601201Z"
+}

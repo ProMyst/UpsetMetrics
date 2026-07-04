@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-05-13-dodgers-at-rockies",
+  "sport": "mlb",
+  "date": "2017-05-13",
+  "startTime": "2017-05-14T00:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "22-15"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "23-15"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.327,
+    "rankGapFactor": 0.021,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490645",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490645/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.123924Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.123925Z"
+}

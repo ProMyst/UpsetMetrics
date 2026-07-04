@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-07-23-yankees-at-royals",
+  "sport": "mlb",
+  "date": "2007-07-23",
+  "startTime": "2007-07-24T00:10:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "53-46"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "43-55"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69615",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69615/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.427983Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.427985Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-07-31-royals-at-yankees",
+  "sport": "mlb",
+  "date": "2022-07-31",
+  "startTime": "2022-07-31T17:35:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "40-62"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "69-34"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.994,
+    "rankGapFactor": 0.555,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661254",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661254/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.109292Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.109294Z"
+}

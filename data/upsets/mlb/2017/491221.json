@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-06-24-twins-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2017-06-24",
+  "startTime": "2017-06-24T20:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "38-34"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "39-34"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.316,
+    "rankGapFactor": 0.013,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491221",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491221/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.197130Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.197133Z"
+}

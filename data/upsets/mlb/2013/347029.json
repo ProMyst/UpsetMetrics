@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-04-22-athletics-at-red-sox",
+  "sport": "mlb",
+  "date": "2013-04-22",
+  "startTime": "2013-04-22T22:35:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "13-6"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "12-8"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347029",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347029/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.167605Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.167607Z"
+}

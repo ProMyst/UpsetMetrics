@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-03-24-mets-at-rays",
+  "sport": "mlb",
+  "date": "2023-03-24",
+  "startTime": "2023-03-24T17:05:00Z",
+  "season": "2023",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "10-14"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "14-12"
+  },
+  "finalScore": "11-2",
+  "factors": {
+    "pregameOddsFactor": 0.604,
+    "rankGapFactor": 0.244,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718977",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718977/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.541744Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.541746Z"
+}

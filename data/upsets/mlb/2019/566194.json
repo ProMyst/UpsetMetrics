@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-04-athletics-at-pirates",
+  "sport": "mlb",
+  "date": "2019-05-04",
+  "startTime": "2019-05-04T23:05:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "15-15"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "15-20"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566194",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566194/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.215985Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.215986Z"
+}

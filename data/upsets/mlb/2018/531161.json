@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-08-11-brewers-at-braves",
+  "sport": "mlb",
+  "date": "2018-08-11",
+  "startTime": "2018-08-11T23:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "67-53"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "63-51"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531161",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531161/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.895735Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.895736Z"
+}

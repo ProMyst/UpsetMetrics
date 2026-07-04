@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-05-28-mets-at-cardinals",
+  "sport": "mlb",
+  "date": "2000-05-28",
+  "startTime": "2000-05-28T18:10:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "28-22"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "28-21"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.329,
+    "rankGapFactor": 0.023,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5375",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5375/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.567063Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.567065Z"
+}

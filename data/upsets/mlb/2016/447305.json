@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-05-06-pirates-at-cardinals",
+  "sport": "mlb",
+  "date": "2016-05-06",
+  "startTime": "2016-05-07T00:15:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "16-13"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "15-15"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447305",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447305/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.138526Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.138528Z"
+}

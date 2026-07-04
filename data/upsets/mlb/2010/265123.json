@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-07-11-braves-at-mets",
+  "sport": "mlb",
+  "date": "2010-07-11",
+  "startTime": "2010-07-11T17:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "48-40"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "52-36"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.414,
+    "rankGapFactor": 0.091,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265123",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265123/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.030239Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.030241Z"
+}

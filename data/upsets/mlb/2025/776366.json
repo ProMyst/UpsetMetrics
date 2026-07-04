@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-09-12-tigers-at-marlins",
+  "sport": "mlb",
+  "date": "2025-09-12",
+  "startTime": "2025-09-12T23:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "69-79"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "84-64"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.553,
+    "rankGapFactor": 0.203,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776366",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776366/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.141520Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.141522Z"
+}

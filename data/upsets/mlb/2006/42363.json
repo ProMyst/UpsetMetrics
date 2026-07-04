@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-10-01-white-sox-at-twins",
+  "sport": "mlb",
+  "date": "2006-10-01",
+  "startTime": "2006-10-01T18:10:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "96-66"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "90-72"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42363",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42363/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.712504Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.712506Z"
+}

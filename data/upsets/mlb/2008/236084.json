@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-09-21-astros-at-pirates",
+  "sport": "mlb",
+  "date": "2008-09-21",
+  "startTime": "2008-09-21T17:35:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "82-73"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "65-91"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "236084",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/236084/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.174139Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.174142Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-08-26-rockies-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2020-08-26",
+  "startTime": "2020-08-27T01:40:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "16-15"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "13-19"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "630099",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/630099/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.607264Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.607266Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-05-12-blue-jays-at-tampa-bay-devil-rays",
+  "sport": "mlb",
+  "date": "2006-05-12",
+  "startTime": "2006-05-12T23:15:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "15-21"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "19-16"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.615,
+    "rankGapFactor": 0.252,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40477",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40477/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.326373Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-tampa-bay-devil-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.326379Z"
+}

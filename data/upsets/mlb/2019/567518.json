@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-08-12-orioles-at-yankees",
+  "sport": "mlb",
+  "date": "2019-08-12",
+  "startTime": "2019-08-12T23:05:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "79-41"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "39-80"
+  },
+  "finalScore": "11-8",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567518",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567518/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.386092Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.386093Z"
+}

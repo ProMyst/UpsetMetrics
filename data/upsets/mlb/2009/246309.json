@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-09-12-orioles-at-yankees",
+  "sport": "mlb",
+  "date": "2009-09-12",
+  "startTime": "2009-09-12T17:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "58-83"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "91-52"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.863,
+    "rankGapFactor": 0.45,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246309",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246309/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.960532Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.960534Z"
+}

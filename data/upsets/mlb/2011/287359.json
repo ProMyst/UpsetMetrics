@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-05-05-rockies-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2011-05-05",
+  "startTime": "2011-05-06T01:40:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "14-16"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "18-11"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.685,
+    "rankGapFactor": 0.308,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287359",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287359/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.075952Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.075954Z"
+}

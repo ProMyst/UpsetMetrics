@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-09-22-nationals-at-marlins",
+  "sport": "mlb",
+  "date": "2019-09-22",
+  "startTime": "2019-09-22T17:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "54-101"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "85-69"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.809,
+    "rankGapFactor": 0.407,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567439",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567439/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.455528Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.455529Z"
+}

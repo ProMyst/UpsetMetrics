@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-09-21-marlins-at-mets",
+  "sport": "mlb",
+  "date": "2012-09-21",
+  "startTime": "2012-09-21T23:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "67-83"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "66-85"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319984",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319984/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.690761Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.690763Z"
+}

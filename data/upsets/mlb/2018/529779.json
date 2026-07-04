@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-04-26-tigers-at-pirates",
+  "sport": "mlb",
+  "date": "2018-04-26",
+  "startTime": "2018-04-26T16:35:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "14-11"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "10-13"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "529779",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/529779/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.711323Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.711324Z"
+}

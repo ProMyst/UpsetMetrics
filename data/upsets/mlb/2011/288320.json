@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-07-17-dodgers-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2011-07-17",
+  "startTime": "2011-07-17T20:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "51-44"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "42-53"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288320",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288320/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.272734Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.272736Z"
+}

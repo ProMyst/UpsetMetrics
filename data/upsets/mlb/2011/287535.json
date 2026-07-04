@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-05-18-cubs-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2011-05-18",
+  "startTime": "2011-05-18T23:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "18-23"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "24-17"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.666,
+    "rankGapFactor": 0.293,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287535",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287535/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.110132Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.110137Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-09-06-cubs-at-reds",
+  "sport": "mlb",
+  "date": "2008-09-06",
+  "startTime": "2008-09-06T23:10:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "86-56"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "63-79"
+  },
+  "finalScore": "14-9",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235875",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235875/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.131072Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.131074Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-05-27-pirates-at-reds",
+  "sport": "mlb",
+  "date": "2008-05-27",
+  "startTime": "2008-05-27T23:10:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "24-28"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "24-27"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.323,
+    "rankGapFactor": 0.018,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234545",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234545/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.857681Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.857683Z"
+}

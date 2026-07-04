@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-08-28-tigers-at-rockies",
+  "sport": "mlb",
+  "date": "2017-08-28",
+  "startTime": "2017-08-29T00:40:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "57-73"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "71-60"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.559,
+    "rankGapFactor": 0.207,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "492056",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/492056/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.310153Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.310155Z"
+}

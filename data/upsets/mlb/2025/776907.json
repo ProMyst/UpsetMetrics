@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-08-02-braves-at-reds",
+  "sport": "mlb",
+  "date": "2025-08-02",
+  "startTime": "2025-08-03T17:05:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "47-63"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "58-54"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.526,
+    "rankGapFactor": 0.181,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776907",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776907/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.034675Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.034677Z"
+}

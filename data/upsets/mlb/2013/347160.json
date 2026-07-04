@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-05-01-red-sox-at-blue-jays",
+  "sport": "mlb",
+  "date": "2013-05-01",
+  "startTime": "2013-05-01T23:07:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "19-8"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "10-18"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347160",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347160/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.194751Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.194753Z"
+}

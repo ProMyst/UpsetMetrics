@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-08-24-orioles-at-nationals",
+  "sport": "mlb",
+  "date": "2016-08-24",
+  "startTime": "2016-08-24T23:05:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "70-56"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "73-53"
+  },
+  "finalScore": "10-8",
+  "factors": {
+    "pregameOddsFactor": 0.36,
+    "rankGapFactor": 0.048,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448747",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448747/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.331838Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.331839Z"
+}

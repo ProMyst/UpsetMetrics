@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-09-04-orioles-at-blue-jays",
+  "sport": "mlb",
+  "date": "2015-09-04",
+  "startTime": "2015-09-04T23:07:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "65-69"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "76-58"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.505,
+    "rankGapFactor": 0.164,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415653",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415653/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.027827Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.027828Z"
+}

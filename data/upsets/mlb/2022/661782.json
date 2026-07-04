@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-04-08-rangers-at-blue-jays",
+  "sport": "mlb",
+  "date": "2022-04-08",
+  "startTime": "2022-04-08T23:07:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "10-8",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661782",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661782/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.798679Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.798681Z"
+}

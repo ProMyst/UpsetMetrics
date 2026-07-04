@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-06-10-rangers-at-athletics",
+  "sport": "mlb",
+  "date": "2015-06-10",
+  "startTime": "2015-06-11T02:05:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "24-37"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "31-28"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.63,
+    "rankGapFactor": 0.264,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414542",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414542/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.880764Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.880765Z"
+}

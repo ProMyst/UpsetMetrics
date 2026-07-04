@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-07-08-padres-at-dodgers",
+  "sport": "mlb",
+  "date": "2011-07-08",
+  "startTime": "2011-07-09T02:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "39-51"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "40-50"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.328,
+    "rankGapFactor": 0.022,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288241",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288241/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.256323Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.256325Z"
+}

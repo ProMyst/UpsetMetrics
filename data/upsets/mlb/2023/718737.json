@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-04-02-blue-jays-at-cardinals",
+  "sport": "mlb",
+  "date": "2023-04-02",
+  "startTime": "2023-04-02T18:15:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "2-1"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "1-2"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718737",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718737/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.565734Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.565736Z"
+}

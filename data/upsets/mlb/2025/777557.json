@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-06-10-rangers-at-twins",
+  "sport": "mlb",
+  "date": "2025-06-10",
+  "startTime": "2025-06-10T23:40:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "32-35"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "35-31"
+  },
+  "finalScore": "16-4",
+  "factors": {
+    "pregameOddsFactor": 0.432,
+    "rankGapFactor": 0.105,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777557",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777557/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.894184Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.894186Z"
+}

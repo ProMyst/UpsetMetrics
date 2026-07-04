@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-03-28-pirates-at-orioles",
+  "sport": "mlb",
+  "date": "2021-03-28",
+  "startTime": "2021-03-28T17:05:00Z",
+  "season": "2021",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "13-13"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "10-16"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "642147",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/642147/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.799631Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.799633Z"
+}

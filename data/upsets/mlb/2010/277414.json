@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-03-31-nationals-at-cardinals",
+  "sport": "mlb",
+  "date": "2010-03-31",
+  "startTime": "2010-03-31T17:05:00Z",
+  "season": "2010",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "9-18"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "14-12"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.813,
+    "rankGapFactor": 0.41,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "277414",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/277414/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.750911Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.750913Z"
+}

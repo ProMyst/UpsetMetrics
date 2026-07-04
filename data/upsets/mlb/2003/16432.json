@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-07-28-pirates-at-cardinals",
+  "sport": "mlb",
+  "date": "2003-07-28",
+  "startTime": "2003-07-28T17:40:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "48-55"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "54-51"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.421,
+    "rankGapFactor": 0.097,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16432",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16432/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.698836Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.698838Z"
+}

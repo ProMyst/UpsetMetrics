@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-03-24-athletics-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2011-03-24",
+  "startTime": "2011-03-24T20:10:00Z",
+  "season": "2011",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "12-15"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "10-21"
+  },
+  "finalScore": "15-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "305866",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/305866/feed/live",
+    "retrievedAt": "2026-07-04T06:23:02.954915Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:02.954917Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-03-30-pirates-at-marlins",
+  "sport": "mlb",
+  "date": "2024-03-30",
+  "startTime": "2024-03-30T20:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "3-0"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "0-3"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746087",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746087/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.692344Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.692346Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-10-06-rangers-at-mariners",
+  "sport": "mlb",
+  "date": "2001-10-06",
+  "startTime": "2001-10-07T01:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "116-45"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "72-89"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9014",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9014/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.481558Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.481560Z"
+}

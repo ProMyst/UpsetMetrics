@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-08-23-dodgers-at-pirates",
+  "sport": "mlb",
+  "date": "2017-08-23",
+  "startTime": "2017-08-23T23:05:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "61-66"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "89-36"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.879,
+    "rankGapFactor": 0.463,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491985",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491985/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.299978Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.299979Z"
+}

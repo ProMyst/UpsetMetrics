@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-08-05-cleveland-indians-at-blue-jays",
+  "sport": "mlb",
+  "date": "2021-08-05",
+  "startTime": "2021-08-05T23:07:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "57-49"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "52-54"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633003",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633003/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.147117Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.147122Z"
+}

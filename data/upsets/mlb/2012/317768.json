@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-04-08-rockies-at-astros",
+  "sport": "mlb",
+  "date": "2012-04-08",
+  "startTime": "2012-04-08T18:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "2-1"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "1-2"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "317768",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/317768/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.245524Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.245526Z"
+}

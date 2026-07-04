@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-05-17-mets-at-cardinals",
+  "sport": "mlb",
+  "date": "2006-05-17",
+  "startTime": "2006-05-18T00:10:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "25-15"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "24-15"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40544",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40544/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.340814Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.340816Z"
+}

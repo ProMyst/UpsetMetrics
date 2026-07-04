@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-07-18-dodgers-at-phillies",
+  "sport": "mlb",
+  "date": "2019-07-18",
+  "startTime": "2019-07-18T16:35:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "50-47"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "64-35"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.628,
+    "rankGapFactor": 0.262,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567109",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567109/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.343801Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.343803Z"
+}

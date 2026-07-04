@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-09-10-brewers-at-pirates",
+  "sport": "mlb",
+  "date": "2007-09-10",
+  "startTime": "2007-09-10T23:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "64-80"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "73-70"
+  },
+  "finalScore": "9-0",
+  "factors": {
+    "pregameOddsFactor": 0.465,
+    "rankGapFactor": 0.132,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "70279",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/70279/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.564015Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.564017Z"
+}

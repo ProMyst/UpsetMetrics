@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-06-17-pirates-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2011-06-17",
+  "startTime": "2011-06-17T23:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "37-31"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "35-34"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287957",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287957/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.192881Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.192886Z"
+}

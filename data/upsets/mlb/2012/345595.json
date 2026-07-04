@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-10-05-cardinals-at-braves",
+  "sport": "mlb",
+  "date": "2012-10-05",
+  "startTime": "2012-10-05T21:00:00Z",
+  "season": "2012",
+  "event": "NL Wild Card Game",
+  "stakes": "Wild Card",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.75,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "345595",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/345595/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.728545Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.728547Z"
+}

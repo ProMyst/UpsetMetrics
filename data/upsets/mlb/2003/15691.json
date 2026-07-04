@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-06-30-cleveland-indians-at-royals",
+  "sport": "mlb",
+  "date": "2003-06-30",
+  "startTime": "2003-06-30T21:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "33-47"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "42-37"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.598,
+    "rankGapFactor": 0.238,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15691",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15691/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.620775Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.620780Z"
+}

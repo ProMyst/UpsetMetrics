@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-06-20-red-sox-at-royals",
+  "sport": "mlb",
+  "date": "2017-06-20",
+  "startTime": "2017-06-21T00:15:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "40-31"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "34-36"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491157",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491157/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.190694Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.190695Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-05-24-reds-at-dodgers",
+  "sport": "mlb",
+  "date": "2000-05-24",
+  "startTime": "2000-05-25T02:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "26-20"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "25-19"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.307,
+    "rankGapFactor": 0.006,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5359",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5359/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.556022Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.556024Z"
+}

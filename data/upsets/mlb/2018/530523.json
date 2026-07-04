@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-06-22-athletics-at-white-sox",
+  "sport": "mlb",
+  "date": "2018-06-22",
+  "startTime": "2018-06-22T20:15:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "25-50"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "39-37"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.75,
+    "rankGapFactor": 0.36,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530523",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530523/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.809646Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.809647Z"
+}

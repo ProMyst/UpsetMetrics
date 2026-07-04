@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-09-07-rockies-at-padres",
+  "sport": "mlb",
+  "date": "2005-09-07",
+  "startTime": "2005-09-08T02:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "69-69"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "56-82"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24720",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24720/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.793349Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.793351Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-09-25-cardinals-at-dodgers",
+  "sport": "mlb",
+  "date": "2022-09-25",
+  "startTime": "2022-09-25T20:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "106-47"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "89-65"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662598",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662598/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.260275Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.260277Z"
+}

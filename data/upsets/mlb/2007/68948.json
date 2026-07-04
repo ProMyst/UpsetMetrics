@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-06-01-padres-at-nationals",
+  "sport": "mlb",
+  "date": "2007-06-01",
+  "startTime": "2007-06-01T23:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "23-32"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "31-23"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.69,
+    "rankGapFactor": 0.312,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68948",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68948/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.287991Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.287993Z"
+}

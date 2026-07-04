@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-07-06-mariners-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "2000-07-06",
+  "startTime": "2000-07-07T02:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "44-41"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "49-34"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.482,
+    "rankGapFactor": 0.145,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5448",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5448/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.673597Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.673602Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-08-14-astros-at-cubs",
+  "sport": "mlb",
+  "date": "2012-08-14",
+  "startTime": "2012-08-15T00:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "39-79"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "45-70"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.452,
+    "rankGapFactor": 0.122,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319468",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319468/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.586437Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.586439Z"
+}

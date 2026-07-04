@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-06-23-athletics-at-rangers",
+  "sport": "mlb",
+  "date": "2021-06-23",
+  "startTime": "2021-06-24T00:05:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "27-47"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "45-31"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.868,
+    "rankGapFactor": 0.454,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633553",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633553/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.034217Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.034219Z"
+}

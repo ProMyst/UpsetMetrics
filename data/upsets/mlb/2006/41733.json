@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-08-16-cleveland-indians-at-twins",
+  "sport": "mlb",
+  "date": "2006-08-16",
+  "startTime": "2006-08-17T00:10:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "70-49"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "53-66"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41733",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41733/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.585890Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.585895Z"
+}

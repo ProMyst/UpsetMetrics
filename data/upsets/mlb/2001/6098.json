@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-09-06-royals-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "2001-09-06",
+  "startTime": "2001-09-07T02:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "72-68"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "56-84"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "6098",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/6098/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.398490Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.398495Z"
+}

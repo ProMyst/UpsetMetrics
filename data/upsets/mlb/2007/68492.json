@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-04-29-angels-at-white-sox",
+  "sport": "mlb",
+  "date": "2007-04-29",
+  "startTime": "2007-04-29T18:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "14-11"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "12-11"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68492",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68492/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.199723Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.199725Z"
+}

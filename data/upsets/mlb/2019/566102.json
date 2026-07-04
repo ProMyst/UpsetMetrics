@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-07-reds-at-athletics",
+  "sport": "mlb",
+  "date": "2019-05-07",
+  "startTime": "2019-05-08T02:07:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "16-21"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "15-21"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566102",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566102/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.222148Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.222149Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-05-03-brewers-at-reds",
+  "sport": "mlb",
+  "date": "2014-05-03",
+  "startTime": "2014-05-03T23:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "14-16"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "21-10"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.827,
+    "rankGapFactor": 0.422,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "380983",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/380983/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.013074Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.013075Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-08-01-mets-at-astros",
+  "sport": "mlb",
+  "date": "2008-08-01",
+  "startTime": "2008-08-02T00:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "51-57"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "58-51"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.45,
+    "rankGapFactor": 0.12,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235396",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235396/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.034200Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.034202Z"
+}

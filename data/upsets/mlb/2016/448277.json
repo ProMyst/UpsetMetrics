@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-07-20-cleveland-indians-at-royals",
+  "sport": "mlb",
+  "date": "2016-07-20",
+  "startTime": "2016-07-20T18:15:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "56-38"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "47-47"
+  },
+  "finalScore": "11-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448277",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448277/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.269332Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.269335Z"
+}

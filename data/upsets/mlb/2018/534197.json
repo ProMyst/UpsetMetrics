@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-03-22-reds-at-rangers",
+  "sport": "mlb",
+  "date": "2018-03-22",
+  "startTime": "2018-03-23T01:05:00Z",
+  "season": "2018",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "10-15"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "7-19"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "534197",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/534197/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.624408Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.624412Z"
+}

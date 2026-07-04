@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-08-27-padres-at-marlins",
+  "sport": "mlb",
+  "date": "2017-08-27",
+  "startTime": "2017-08-27T17:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "66-63"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "57-73"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "492048",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/492048/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.307799Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.307801Z"
+}

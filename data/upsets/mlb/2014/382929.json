@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-09-26-astros-at-mets",
+  "sport": "mlb",
+  "date": "2014-09-26",
+  "startTime": "2014-09-26T23:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "70-90"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "77-83"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.409,
+    "rankGapFactor": 0.088,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382929",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382929/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.267704Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.267705Z"
+}

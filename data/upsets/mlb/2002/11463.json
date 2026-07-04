@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-08-24-blue-jays-at-orioles",
+  "sport": "mlb",
+  "date": "2002-08-24",
+  "startTime": "2002-08-24T17:35:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "54-73"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "63-64"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.477,
+    "rankGapFactor": 0.142,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "11463",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/11463/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.027880Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.027882Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-03-22-dodgers-at-royals",
+  "sport": "mlb",
+  "date": "2016-03-22",
+  "startTime": "2016-03-23T01:05:00Z",
+  "season": "2016",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "11-13"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "10-10"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.404,
+    "rankGapFactor": 0.083,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "469817",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/469817/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.038762Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.038765Z"
+}

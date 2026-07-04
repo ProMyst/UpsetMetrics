@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-08-24-giants-at-mets",
+  "sport": "mlb",
+  "date": "2021-08-24",
+  "startTime": "2021-08-24T23:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "81-44"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "62-64"
+  },
+  "finalScore": "8-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "632802",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/632802/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.198024Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.198026Z"
+}

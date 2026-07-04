@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-06-02-red-sox-at-yankees",
+  "sport": "mlb",
+  "date": "2013-06-02",
+  "startTime": "2013-06-03T00:00:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "35-23"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "31-25"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347585",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347585/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.284711Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.284713Z"
+}

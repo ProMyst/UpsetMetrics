@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-07-13-astros-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2006-07-13",
+  "startTime": "2006-07-13T23:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "44-46"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "38-49"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41274",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41274/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.493216Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.493221Z"
+}

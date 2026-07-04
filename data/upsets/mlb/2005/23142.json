@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-05-11-pirates-at-giants",
+  "sport": "mlb",
+  "date": "2005-05-11",
+  "startTime": "2005-05-11T19:35:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "15-18"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "16-17"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.376,
+    "rankGapFactor": 0.061,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23142",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23142/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.468556Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.468558Z"
+}

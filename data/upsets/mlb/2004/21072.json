@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-06-23-pirates-at-astros",
+  "sport": "mlb",
+  "date": "2004-06-23",
+  "startTime": "2004-06-24T00:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "27-41"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "37-34"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.61,
+    "rankGapFactor": 0.248,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21072",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21072/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.618300Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.618302Z"
+}

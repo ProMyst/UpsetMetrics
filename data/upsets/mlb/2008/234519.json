@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-05-25-phillies-at-astros",
+  "sport": "mlb",
+  "date": "2008-05-25",
+  "startTime": "2008-05-25T18:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "28-24"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "29-23"
+  },
+  "finalScore": "15-6",
+  "factors": {
+    "pregameOddsFactor": 0.348,
+    "rankGapFactor": 0.038,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234519",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234519/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.853449Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.853451Z"
+}

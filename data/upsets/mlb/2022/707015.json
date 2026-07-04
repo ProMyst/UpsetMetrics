@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-04-02-pirates-at-red-sox",
+  "sport": "mlb",
+  "date": "2022-04-02",
+  "startTime": "2022-04-02T17:05:00Z",
+  "season": "2022",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "6-5"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "9-7"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "707015",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/707015/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.783189Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.783191Z"
+}

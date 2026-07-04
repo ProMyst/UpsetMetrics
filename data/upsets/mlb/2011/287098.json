@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-04-16-cubs-at-rockies",
+  "sport": "mlb",
+  "date": "2011-04-16",
+  "startTime": "2011-04-17T00:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "7-7"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "11-3"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287098",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287098/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.023324Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.023326Z"
+}

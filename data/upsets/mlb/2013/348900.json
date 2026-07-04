@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-09-10-athletics-at-twins",
+  "sport": "mlb",
+  "date": "2013-09-10",
+  "startTime": "2013-09-11T00:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "63-80"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "83-61"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.64,
+    "rankGapFactor": 0.272,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "348900",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/348900/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.552005Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.552007Z"
+}

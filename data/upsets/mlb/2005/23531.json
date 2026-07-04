@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-06-10-brewers-at-phillies",
+  "sport": "mlb",
+  "date": "2005-06-10",
+  "startTime": "2005-06-10T23:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "34-28"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "28-32"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23531",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23531/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.547009Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.547011Z"
+}

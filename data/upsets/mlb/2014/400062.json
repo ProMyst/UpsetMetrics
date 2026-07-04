@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-03-29-orioles-at-norfolk-tides",
+  "sport": "mlb",
+  "date": "2014-03-29",
+  "startTime": "2014-03-29T19:05:00Z",
+  "season": "2014",
+  "event": "Exhibition Game",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "norfolk-tides",
+    "name": "Norfolk Tides",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "400062",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/400062/feed/live",
+    "retrievedAt": "2026-07-04T06:27:17.946821Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-norfolk-tides",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:17.946826Z"
+}

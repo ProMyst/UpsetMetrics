@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-08-23-orioles-at-yankees",
+  "sport": "mlb",
+  "date": "2003-08-23",
+  "startTime": "2003-08-23T20:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "61-67"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "78-49"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.644,
+    "rankGapFactor": 0.275,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "17172",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/17172/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.771730Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.771732Z"
+}

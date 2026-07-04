@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-08-09-reds-at-mets",
+  "sport": "mlb",
+  "date": "2022-08-09",
+  "startTime": "2022-08-09T23:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "72-39"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "44-65"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662444",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662444/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.133772Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.133774Z"
+}

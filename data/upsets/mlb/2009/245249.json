@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-06-23-royals-at-astros",
+  "sport": "mlb",
+  "date": "2009-06-23",
+  "startTime": "2009-06-24T00:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "30-39"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "32-37"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.372,
+    "rankGapFactor": 0.058,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245249",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245249/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.744969Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.744971Z"
+}

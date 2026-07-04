@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-09-22-athletics-at-rangers",
+  "sport": "mlb",
+  "date": "2008-09-22",
+  "startTime": "2008-09-23T00:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "75-81"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "75-82"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "236099",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/236099/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.177393Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.177395Z"
+}

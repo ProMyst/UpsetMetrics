@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-08-06-giants-at-nationals",
+  "sport": "mlb",
+  "date": "2024-08-06",
+  "startTime": "2024-08-06T22:45:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "52-62"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "57-58"
+  },
+  "finalScore": "11-5",
+  "factors": {
+    "pregameOddsFactor": 0.399,
+    "rankGapFactor": 0.079,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "744817",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/744817/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.028256Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.028258Z"
+}

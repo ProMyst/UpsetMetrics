@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-03-26-cubs-at-red-sox",
+  "sport": "mlb",
+  "date": "2018-03-26",
+  "startTime": "2018-03-26T22:05:00Z",
+  "season": "2018",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "21-9"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "19-13"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "547729",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/547729/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.640071Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.640074Z"
+}

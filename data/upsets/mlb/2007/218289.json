@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-03-25-nationals-at-braves",
+  "sport": "mlb",
+  "date": "2007-03-25",
+  "startTime": "2007-03-25T17:05:00Z",
+  "season": "2007",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "15-9"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "10-13"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "218289",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/218289/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.100195Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.100198Z"
+}

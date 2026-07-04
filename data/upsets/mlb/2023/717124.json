@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-08-05-marlins-at-rangers",
+  "sport": "mlb",
+  "date": "2023-08-05",
+  "startTime": "2023-08-05T20:05:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "65-46"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "58-54"
+  },
+  "finalScore": "9-8",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717124",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717124/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.894429Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.894431Z"
+}

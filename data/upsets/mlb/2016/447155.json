@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-04-25-marlins-at-dodgers",
+  "sport": "mlb",
+  "date": "2016-04-25",
+  "startTime": "2016-04-26T02:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "7-11"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "12-8"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.828,
+    "rankGapFactor": 0.422,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447155",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447155/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.119718Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.119719Z"
+}

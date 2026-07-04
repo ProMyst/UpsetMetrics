@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-05-25-mets-at-rockies",
+  "sport": "mlb",
+  "date": "2008-05-25",
+  "startTime": "2008-05-25T19:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "20-30"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "23-25"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.498,
+    "rankGapFactor": 0.158,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234518",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234518/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.853643Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.853644Z"
+}

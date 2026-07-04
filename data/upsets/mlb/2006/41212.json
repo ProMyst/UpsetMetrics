@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-07-06-reds-at-braves",
+  "sport": "mlb",
+  "date": "2006-07-06",
+  "startTime": "2006-07-06T23:35:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "38-48"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "44-42"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.474,
+    "rankGapFactor": 0.14,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41212",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41212/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.482249Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.482251Z"
+}

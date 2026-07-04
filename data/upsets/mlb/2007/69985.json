@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-08-19-giants-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2007-08-19",
+  "startTime": "2007-08-19T17:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "54-70"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "56-68"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.34,
+    "rankGapFactor": 0.032,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69985",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69985/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.501223Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.501228Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-05-22-rangers-at-astros",
+  "sport": "mlb",
+  "date": "2009-05-22",
+  "startTime": "2009-05-23T00:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "24-17"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "18-23"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244829",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244829/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.659305Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.659307Z"
+}

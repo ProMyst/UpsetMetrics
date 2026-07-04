@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-08-02-florida-marlins-at-brewers",
+  "sport": "mlb",
+  "date": "2001-08-02",
+  "startTime": "2001-08-02T18:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "46-60"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "54-53"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.477,
+    "rankGapFactor": 0.141,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8217",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8217/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.298904Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.298908Z"
+}

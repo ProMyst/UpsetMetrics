@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-09-15-rays-at-twins",
+  "sport": "mlb",
+  "date": "2013-09-15",
+  "startTime": "2013-09-15T18:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "64-84"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "81-67"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.587,
+    "rankGapFactor": 0.23,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "348976",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/348976/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.565876Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.565878Z"
+}

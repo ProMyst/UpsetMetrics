@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-08-15-white-sox-at-rangers",
+  "sport": "mlb",
+  "date": "2003-08-15",
+  "startTime": "2003-08-16T00:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "55-67"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "63-59"
+  },
+  "finalScore": "11-5",
+  "factors": {
+    "pregameOddsFactor": 0.464,
+    "rankGapFactor": 0.131,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16604",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16604/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.749600Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.749602Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-03-23-rockies-at-brewers",
+  "sport": "mlb",
+  "date": "2025-03-23",
+  "startTime": "2025-03-23T20:10:00Z",
+  "season": "2025",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "15-14"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "17-13"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.424,
+    "rankGapFactor": 0.099,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "779086",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/779086/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.682113Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.682116Z"
+}

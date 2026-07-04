@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-08-09-pirates-at-rockies",
+  "sport": "mlb",
+  "date": "2000-08-09",
+  "startTime": "2000-08-09T19:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "55-57"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "48-65"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4358",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4358/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.766145Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.766147Z"
+}

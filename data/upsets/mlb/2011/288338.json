@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-07-21-rangers-at-angels",
+  "sport": "mlb",
+  "date": "2011-07-21",
+  "startTime": "2011-07-21T19:35:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "53-46"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "56-43"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.376,
+    "rankGapFactor": 0.061,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288338",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288338/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.282932Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.282934Z"
+}

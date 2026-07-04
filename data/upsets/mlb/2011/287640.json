@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-05-25-dodgers-at-astros",
+  "sport": "mlb",
+  "date": "2011-05-25",
+  "startTime": "2011-05-25T18:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "19-31"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "22-29"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.428,
+    "rankGapFactor": 0.103,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287640",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287640/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.130011Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.130013Z"
+}

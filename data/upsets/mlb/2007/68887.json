@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-05-28-orioles-at-royals",
+  "sport": "mlb",
+  "date": "2007-05-28",
+  "startTime": "2007-05-28T23:10:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "24-27"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "19-33"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68887",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68887/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.278573Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.278575Z"
+}

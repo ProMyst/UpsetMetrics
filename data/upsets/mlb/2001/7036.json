@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-04-21-cardinals-at-astros",
+  "sport": "mlb",
+  "date": "2001-04-21",
+  "startTime": "2001-04-21T18:35:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "8-9"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "9-7"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.53,
+    "rankGapFactor": 0.184,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7036",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7036/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.017915Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.017917Z"
+}

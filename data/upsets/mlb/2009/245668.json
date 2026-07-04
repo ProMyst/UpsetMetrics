@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-07-26-cardinals-at-phillies",
+  "sport": "mlb",
+  "date": "2009-07-26",
+  "startTime": "2009-07-26T17:35:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "56-40"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "53-48"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245668",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245668/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.831797Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.831799Z"
+}

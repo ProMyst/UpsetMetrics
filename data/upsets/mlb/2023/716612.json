@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-09-12-yankees-at-red-sox",
+  "sport": "mlb",
+  "date": "2023-09-12",
+  "startTime": "2023-09-12T23:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "73-72"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "73-72"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716612",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716612/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.994977Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.994979Z"
+}

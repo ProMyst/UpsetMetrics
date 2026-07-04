@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-05-25-rockies-at-pirates",
+  "sport": "mlb",
+  "date": "2022-05-25",
+  "startTime": "2022-05-25T16:35:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "18-25"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "20-23"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.416,
+    "rankGapFactor": 0.093,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662453",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662453/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.927170Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.927172Z"
+}

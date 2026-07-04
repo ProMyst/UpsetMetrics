@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-05-11-marlins-at-padres",
+  "sport": "mlb",
+  "date": "2014-05-11",
+  "startTime": "2014-05-11T20:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "18-21"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "20-18"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.462,
+    "rankGapFactor": 0.13,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381098",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381098/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.027482Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.027484Z"
+}

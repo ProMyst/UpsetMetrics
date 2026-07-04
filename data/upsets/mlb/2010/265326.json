@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-07-28-cubs-at-astros",
+  "sport": "mlb",
+  "date": "2010-07-28",
+  "startTime": "2010-07-28T18:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "42-59"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "46-56"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.388,
+    "rankGapFactor": 0.07,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265326",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265326/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.068365Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.068368Z"
+}

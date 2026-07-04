@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-05-05-reds-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2006-05-05",
+  "startTime": "2006-05-06T01:40:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "17-13"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "20-10"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.55,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40371",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40371/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.307810Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.307812Z"
+}

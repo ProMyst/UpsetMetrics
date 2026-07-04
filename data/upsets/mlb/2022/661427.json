@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-10-05-twins-at-white-sox",
+  "sport": "mlb",
+  "date": "2022-10-05",
+  "startTime": "2022-10-05T20:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "78-84"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "81-81"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.346,
+    "rankGapFactor": 0.037,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661427",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661427/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.287501Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.287503Z"
+}

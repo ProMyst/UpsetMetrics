@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-05-24-dodgers-at-phillies",
+  "sport": "mlb",
+  "date": "2014-05-24",
+  "startTime": "2014-05-24T19:05:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "21-25"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "26-24"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.459,
+    "rankGapFactor": 0.127,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381269",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381269/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.048427Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.048428Z"
+}

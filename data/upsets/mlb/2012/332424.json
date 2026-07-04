@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-03-24-yankees-at-tigers",
+  "sport": "mlb",
+  "date": "2012-03-24",
+  "startTime": "2012-03-24T17:05:00Z",
+  "season": "2012",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "13-9"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "14-4"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.767,
+    "rankGapFactor": 0.374,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "332424",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/332424/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.195407Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.195410Z"
+}

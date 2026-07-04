@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-08-04-twins-at-rays",
+  "sport": "mlb",
+  "date": "2010-08-04",
+  "startTime": "2010-08-04T23:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "60-48"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "67-40"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.477,
+    "rankGapFactor": 0.141,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265416",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265416/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.088708Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.088711Z"
+}

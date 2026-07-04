@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-03-22-cardinals-at-astros",
+  "sport": "mlb",
+  "date": "2013-03-22",
+  "startTime": "2013-03-22T17:05:00Z",
+  "season": "2013",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "11-13"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "12-12"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.404,
+    "rankGapFactor": 0.083,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "363377",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/363377/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.078255Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.078258Z"
+}

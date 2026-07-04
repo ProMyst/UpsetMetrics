@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-08-27-cubs-at-phillies",
+  "sport": "mlb",
+  "date": "2017-08-27",
+  "startTime": "2017-08-27T17:35:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "48-81"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "69-60"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.707,
+    "rankGapFactor": 0.326,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "492039",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/492039/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.308248Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.308249Z"
+}

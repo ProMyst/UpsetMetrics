@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-06-29-phillies-at-orioles",
+  "sport": "mlb",
+  "date": "2006-06-29",
+  "startTime": "2006-06-29T23:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "36-42"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "37-43"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.302,
+    "rankGapFactor": 0.002,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41116",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41116/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.462108Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.462110Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-05-21-rangers-at-red-sox",
+  "sport": "mlb",
+  "date": "2015-05-21",
+  "startTime": "2015-05-21T23:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "18-23"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "19-22"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.361,
+    "rankGapFactor": 0.049,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414268",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414268/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.844679Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.844680Z"
+}

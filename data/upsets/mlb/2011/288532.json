@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-08-02-braves-at-nationals",
+  "sport": "mlb",
+  "date": "2011-08-02",
+  "startTime": "2011-08-02T23:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "53-56"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "63-48"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.503,
+    "rankGapFactor": 0.163,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288532",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288532/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.314103Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.314105Z"
+}

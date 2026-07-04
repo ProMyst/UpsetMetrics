@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-03-24-nationals-at-tigers",
+  "sport": "mlb",
+  "date": "2011-03-24",
+  "startTime": "2011-03-24T22:05:00Z",
+  "season": "2011",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "13-12"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "18-11"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.552,
+    "rankGapFactor": 0.201,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "305867",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/305867/feed/live",
+    "retrievedAt": "2026-07-04T06:23:02.955418Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:02.955421Z"
+}

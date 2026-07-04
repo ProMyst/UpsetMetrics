@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-05-29-padres-at-pirates",
+  "sport": "mlb",
+  "date": "2007-05-29",
+  "startTime": "2007-05-29T23:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "23-28"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "29-22"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.594,
+    "rankGapFactor": 0.235,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68907",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68907/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.279924Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.279926Z"
+}

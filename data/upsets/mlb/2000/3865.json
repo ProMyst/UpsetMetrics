@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-08-15-anaheim-angels-at-blue-jays",
+  "sport": "mlb",
+  "date": "2000-08-15",
+  "startTime": "2000-08-15T23:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "62-57"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "61-60"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "3865",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/3865/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.783290Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.783295Z"
+}

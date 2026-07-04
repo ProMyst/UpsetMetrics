@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-21-diamondbacks-at-padres",
+  "sport": "mlb",
+  "date": "2019-05-21",
+  "startTime": "2019-05-22T02:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "25-24"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "25-24"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566301",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566301/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.248506Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.248507Z"
+}

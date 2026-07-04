@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-07-20-cubs-at-astros",
+  "sport": "mlb",
+  "date": "2001-07-20",
+  "startTime": "2001-07-21T00:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "53-42"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "55-40"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.353,
+    "rankGapFactor": 0.042,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8068",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8068/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.263886Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.263888Z"
+}

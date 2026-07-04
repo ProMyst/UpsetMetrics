@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-07-26-phillies-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2004-07-26",
+  "startTime": "2004-07-26T23:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "49-50"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "52-47"
+  },
+  "finalScore": "11-3",
+  "factors": {
+    "pregameOddsFactor": 0.376,
+    "rankGapFactor": 0.061,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21500",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21500/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.711745Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.711750Z"
+}

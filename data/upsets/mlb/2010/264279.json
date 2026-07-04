@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-05-09-orioles-at-twins",
+  "sport": "mlb",
+  "date": "2010-05-09",
+  "startTime": "2010-05-09T18:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "21-11"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "9-23"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264279",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264279/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.857207Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.857209Z"
+}

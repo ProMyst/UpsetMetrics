@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-04-21-phillies-at-pirates",
+  "sport": "mlb",
+  "date": "2002-04-21",
+  "startTime": "2002-04-21T17:35:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "12-5"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "7-12"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9936",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9936/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.685265Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.685267Z"
+}

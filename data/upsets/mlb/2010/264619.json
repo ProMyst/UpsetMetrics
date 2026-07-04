@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-06-03-nationals-at-astros",
+  "sport": "mlb",
+  "date": "2010-06-03",
+  "startTime": "2010-06-03T18:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "20-34"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "26-29"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.556,
+    "rankGapFactor": 0.205,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264619",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264619/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.925480Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.925482Z"
+}

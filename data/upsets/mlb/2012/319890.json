@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-09-14-reds-at-marlins",
+  "sport": "mlb",
+  "date": "2012-09-14",
+  "startTime": "2012-09-14T23:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "64-81"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "87-58"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.697,
+    "rankGapFactor": 0.317,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319890",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319890/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.671261Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.671263Z"
+}

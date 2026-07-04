@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-07-17-giants-at-dodgers",
+  "sport": "mlb",
+  "date": "2005-07-17",
+  "startTime": "2005-07-17T20:10:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "40-51"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "41-51"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.315,
+    "rankGapFactor": 0.012,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24014",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24014/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.644544Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.644546Z"
+}

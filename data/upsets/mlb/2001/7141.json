@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-05-01-dodgers-at-reds",
+  "sport": "mlb",
+  "date": "2001-05-01",
+  "startTime": "2001-05-01T23:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "15-10"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "15-11"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7141",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7141/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.042303Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.042305Z"
+}

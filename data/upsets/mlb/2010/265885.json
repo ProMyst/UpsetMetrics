@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-09-07-rangers-at-blue-jays",
+  "sport": "mlb",
+  "date": "2010-09-07",
+  "startTime": "2010-09-07T23:07:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "72-66"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "75-63"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.354,
+    "rankGapFactor": 0.043,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265885",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265885/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.181942Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.181944Z"
+}

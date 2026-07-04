@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-07-24-yankees-at-red-sox",
+  "sport": "mlb",
+  "date": "2004-07-24",
+  "startTime": "2004-07-24T19:15:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "53-44"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "61-35"
+  },
+  "finalScore": "11-10",
+  "factors": {
+    "pregameOddsFactor": 0.523,
+    "rankGapFactor": 0.178,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21471",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21471/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.705537Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.705539Z"
+}

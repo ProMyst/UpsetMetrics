@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-08-17-giants-at-mets",
+  "sport": "mlb",
+  "date": "2009-08-17",
+  "startTime": "2009-08-17T23:10:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "64-54"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "55-63"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245965",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245965/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.890756Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.890758Z"
+}

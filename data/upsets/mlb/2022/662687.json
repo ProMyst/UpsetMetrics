@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-06-04-mets-at-dodgers",
+  "sport": "mlb",
+  "date": "2022-06-04",
+  "startTime": "2022-06-05T02:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "36-19"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "35-18"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.315,
+    "rankGapFactor": 0.012,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662687",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662687/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.958364Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.958366Z"
+}

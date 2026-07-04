@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-07-04-mariners-at-tigers",
+  "sport": "mlb",
+  "date": "2010-07-04",
+  "startTime": "2010-07-04T17:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "34-47"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "43-37"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.594,
+    "rankGapFactor": 0.235,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265034",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265034/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.011352Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.011354Z"
+}

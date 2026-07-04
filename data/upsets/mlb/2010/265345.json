@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-07-30-florida-marlins-at-padres",
+  "sport": "mlb",
+  "date": "2010-07-30",
+  "startTime": "2010-07-31T02:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "52-51"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "60-41"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.523,
+    "rankGapFactor": 0.178,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265345",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265345/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.076080Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.076085Z"
+}

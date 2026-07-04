@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-05-18-brewers-at-astros",
+  "sport": "mlb",
+  "date": "2024-05-18",
+  "startTime": "2024-05-18T23:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "27-18"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "20-26"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746389",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746389/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.824197Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.824199Z"
+}

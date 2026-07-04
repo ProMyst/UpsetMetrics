@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-10-01-reds-at-braves",
+  "sport": "mlb",
+  "date": "2020-10-01",
+  "startTime": "2020-10-01T16:08:00Z",
+  "season": "2020",
+  "event": "NL Wild Card Series",
+  "stakes": "Wild Card",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "2-0"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "0-2"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.75,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "635894",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/635894/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.706076Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.706078Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-08-26-rangers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2021-08-26",
+  "startTime": "2021-08-26T23:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "63-62"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "44-83"
+  },
+  "finalScore": "10-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "632788",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/632788/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.204163Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.204169Z"
+}

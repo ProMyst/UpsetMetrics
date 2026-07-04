@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-07-23-marlins-at-padres",
+  "sport": "mlb",
+  "date": "2015-07-23",
+  "startTime": "2015-07-24T02:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "41-55"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "44-52"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.378,
+    "rankGapFactor": 0.062,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415078",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415078/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.954763Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.954764Z"
+}

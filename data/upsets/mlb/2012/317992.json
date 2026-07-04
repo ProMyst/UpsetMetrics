@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-04-24-cardinals-at-cubs",
+  "sport": "mlb",
+  "date": "2012-04-24",
+  "startTime": "2012-04-25T00:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "6-12"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "11-7"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.994,
+    "rankGapFactor": 0.556,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "317992",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/317992/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.288690Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.288692Z"
+}

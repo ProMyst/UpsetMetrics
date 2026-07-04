@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-09-01-white-sox-at-tigers",
+  "sport": "mlb",
+  "date": "2002-09-01",
+  "startTime": "2002-09-01T18:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "66-70"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "50-86"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10859",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10859/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.050511Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.050513Z"
+}

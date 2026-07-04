@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-08-20-athletics-at-white-sox",
+  "sport": "mlb",
+  "date": "2016-08-20",
+  "startTime": "2016-08-20T23:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "58-64"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "53-70"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448702",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448702/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.325429Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.325430Z"
+}

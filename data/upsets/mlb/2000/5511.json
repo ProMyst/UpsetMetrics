@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-07-08-yankees-at-mets",
+  "sport": "mlb",
+  "date": "2000-07-08",
+  "startTime": "2000-07-08T17:15:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "44-37"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "47-37"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.341,
+    "rankGapFactor": 0.033,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5511",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5511/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.677213Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.677215Z"
+}

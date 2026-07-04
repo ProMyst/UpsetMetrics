@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-05-20-rays-at-tigers",
+  "sport": "mlb",
+  "date": "2016-05-20",
+  "startTime": "2016-05-20T23:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "20-19"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "19-22"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447497",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447497/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.162885Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.162886Z"
+}

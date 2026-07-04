@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-08-20-cleveland-indians-at-yankees",
+  "sport": "mlb",
+  "date": "2015-08-20",
+  "startTime": "2015-08-20T23:05:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "56-64"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "67-53"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.529,
+    "rankGapFactor": 0.183,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415456",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415456/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.002356Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.002359Z"
+}

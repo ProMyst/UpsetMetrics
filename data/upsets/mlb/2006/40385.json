@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-05-05-pirates-at-nationals",
+  "sport": "mlb",
+  "date": "2006-05-05",
+  "startTime": "2006-05-05T23:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "10-20"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "8-23"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40385",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40385/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.306001Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.306003Z"
+}

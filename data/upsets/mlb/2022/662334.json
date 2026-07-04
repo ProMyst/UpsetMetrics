@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-09-08-white-sox-at-athletics",
+  "sport": "mlb",
+  "date": "2022-09-08",
+  "startTime": "2022-09-09T01:40:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "70-68"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "50-88"
+  },
+  "finalScore": "14-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662334",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662334/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.213877Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.213879Z"
+}

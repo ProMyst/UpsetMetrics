@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-05-13-anaheim-angels-at-yankees",
+  "sport": "mlb",
+  "date": "2003-05-13",
+  "startTime": "2003-05-13T23:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "18-19"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "26-12"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.794,
+    "rankGapFactor": 0.395,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "17125",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/17125/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.490425Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.490430Z"
+}

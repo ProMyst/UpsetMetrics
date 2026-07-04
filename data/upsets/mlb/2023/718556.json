@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-04-16-rays-at-blue-jays",
+  "sport": "mlb",
+  "date": "2023-04-16",
+  "startTime": "2023-04-16T17:37:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "14-2"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "10-6"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718556",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718556/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.604755Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.604757Z"
+}

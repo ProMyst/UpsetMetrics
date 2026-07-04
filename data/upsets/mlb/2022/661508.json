@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-07-09-nationals-at-braves",
+  "sport": "mlb",
+  "date": "2022-07-09",
+  "startTime": "2022-07-09T20:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "51-35"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "30-57"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661508",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661508/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.058196Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.058198Z"
+}

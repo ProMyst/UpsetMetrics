@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-07-12-yankees-at-orioles",
+  "sport": "mlb",
+  "date": "2014-07-12",
+  "startTime": "2014-07-12T20:05:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "47-46"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "51-42"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.408,
+    "rankGapFactor": 0.086,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381949",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381949/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.139966Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.139967Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-03-23-astros-at-yankees",
+  "sport": "mlb",
+  "date": "2006-03-23",
+  "startTime": "2006-03-24T00:15:00Z",
+  "season": "2006",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "11-12"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "7-14"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "47424",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/47424/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.188940Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.188942Z"
+}

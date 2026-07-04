@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-04-15-rockies-at-padres",
+  "sport": "mlb",
+  "date": "2019-04-15",
+  "startTime": "2019-04-16T02:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "5-12"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "11-7"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.634,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566282",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566282/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.177518Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.177519Z"
+}

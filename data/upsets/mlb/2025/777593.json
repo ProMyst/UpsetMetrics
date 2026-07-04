@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-06-08-red-sox-at-yankees",
+  "sport": "mlb",
+  "date": "2025-06-08",
+  "startTime": "2025-06-08T23:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "32-35"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "39-25"
+  },
+  "finalScore": "11-7",
+  "factors": {
+    "pregameOddsFactor": 0.629,
+    "rankGapFactor": 0.264,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777593",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777593/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.891111Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.891113Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-07-17-cardinals-at-reds",
+  "sport": "mlb",
+  "date": "2004-07-17",
+  "startTime": "2004-07-17T17:20:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "48-43"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "56-34"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.537,
+    "rankGapFactor": 0.189,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21369",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21369/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.677274Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.677276Z"
+}

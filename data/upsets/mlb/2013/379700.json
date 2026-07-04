@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-10-04-pirates-at-cardinals",
+  "sport": "mlb",
+  "date": "2013-10-04",
+  "startTime": "2013-10-04T17:00:00Z",
+  "season": "2013",
+  "event": "NL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "1-1"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "1-1"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "379700",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/379700/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.607773Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.607776Z"
+}

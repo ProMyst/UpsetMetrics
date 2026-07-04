@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-06-22-rockies-at-brewers",
+  "sport": "mlb",
+  "date": "2004-06-22",
+  "startTime": "2004-06-23T00:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "36-31"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "25-44"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21050",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21050/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.615750Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.615752Z"
+}

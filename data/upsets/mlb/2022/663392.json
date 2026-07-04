@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-06-28-white-sox-at-angels",
+  "sport": "mlb",
+  "date": "2022-06-28",
+  "startTime": "2022-06-29T01:38:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "35-38"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "36-41"
+  },
+  "finalScore": "11-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "663392",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/663392/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.027873Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.027875Z"
+}

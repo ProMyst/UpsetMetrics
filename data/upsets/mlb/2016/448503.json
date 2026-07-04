@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-08-06-braves-at-cardinals",
+  "sport": "mlb",
+  "date": "2016-08-06",
+  "startTime": "2016-08-06T23:15:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "40-70"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "58-52"
+  },
+  "finalScore": "13-5",
+  "factors": {
+    "pregameOddsFactor": 0.709,
+    "rankGapFactor": 0.327,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448503",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448503/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.301610Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.301611Z"
+}

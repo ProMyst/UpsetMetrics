@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-07-22-orioles-at-athletics",
+  "sport": "mlb",
+  "date": "2007-07-22",
+  "startTime": "2007-07-22T20:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "44-54"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "46-52"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.351,
+    "rankGapFactor": 0.041,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69595",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69595/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.426252Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.426254Z"
+}

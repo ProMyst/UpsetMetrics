@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-04-01-florida-marlins-at-rangers",
+  "sport": "mlb",
+  "date": "2006-04-01",
+  "startTime": "2006-04-02T01:05:00Z",
+  "season": "2006",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "12-16"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "19-9"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.925,
+    "rankGapFactor": 0.5,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "47561",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/47561/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.216782Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.216787Z"
+}

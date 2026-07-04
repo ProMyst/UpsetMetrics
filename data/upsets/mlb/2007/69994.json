@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-08-20-pirates-at-rockies",
+  "sport": "mlb",
+  "date": "2007-08-20",
+  "startTime": "2007-08-21T01:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "53-70"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "63-61"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.493,
+    "rankGapFactor": 0.154,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69994",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69994/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.505544Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.505546Z"
+}

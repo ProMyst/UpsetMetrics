@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-06-29-phillies-at-marlins",
+  "sport": "mlb",
+  "date": "2019-06-29",
+  "startTime": "2019-06-29T20:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "32-49"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "43-40"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.608,
+    "rankGapFactor": 0.246,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567401",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567401/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.318318Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.318319Z"
+}

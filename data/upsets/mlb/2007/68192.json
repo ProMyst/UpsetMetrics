@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-04-07-rockies-at-padres",
+  "sport": "mlb",
+  "date": "2007-04-07",
+  "startTime": "2007-04-08T02:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "3-2"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "3-2"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68192",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68192/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.139556Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.139558Z"
+}

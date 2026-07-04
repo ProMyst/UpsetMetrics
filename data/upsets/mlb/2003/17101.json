@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-09-13-braves-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2003-09-13",
+  "startTime": "2003-09-13T22:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "83-65"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "92-57"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.442,
+    "rankGapFactor": 0.113,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "17101",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/17101/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.829763Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.829768Z"
+}

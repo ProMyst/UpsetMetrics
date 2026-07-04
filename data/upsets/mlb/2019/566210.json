@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-06-06-braves-at-pirates",
+  "sport": "mlb",
+  "date": "2019-06-06",
+  "startTime": "2019-06-06T16:35:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "30-31"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "33-29"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.401,
+    "rankGapFactor": 0.081,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566210",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566210/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.274844Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.274845Z"
+}

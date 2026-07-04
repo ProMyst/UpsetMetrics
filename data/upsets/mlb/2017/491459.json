@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-07-15-mariners-at-white-sox",
+  "sport": "mlb",
+  "date": "2017-07-15",
+  "startTime": "2017-07-15T23:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "45-47"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "38-51"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491459",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491459/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.232041Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.232042Z"
+}

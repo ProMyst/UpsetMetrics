@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-07-13-diamondbacks-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "2001-07-13",
+  "startTime": "2001-07-14T02:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "52-37"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "43-46"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7981",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7981/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.237761Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.237766Z"
+}

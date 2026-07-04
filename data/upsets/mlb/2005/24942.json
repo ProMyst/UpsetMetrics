@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-09-23-pirates-at-dodgers",
+  "sport": "mlb",
+  "date": "2005-09-23",
+  "startTime": "2005-09-24T02:40:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "68-85"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "62-92"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24942",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24942/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.837953Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.837955Z"
+}

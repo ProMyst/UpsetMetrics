@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-07-07-reds-at-phillies",
+  "sport": "mlb",
+  "date": "2009-07-07",
+  "startTime": "2009-07-07T23:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "41-41"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "43-38"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.377,
+    "rankGapFactor": 0.062,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245439",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245439/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.787069Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.787071Z"
+}

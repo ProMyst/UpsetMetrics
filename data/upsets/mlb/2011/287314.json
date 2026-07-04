@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-05-01-rangers-at-athletics",
+  "sport": "mlb",
+  "date": "2011-05-01",
+  "startTime": "2011-05-01T20:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "14-14"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "16-12"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.479,
+    "rankGapFactor": 0.143,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287314",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287314/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.065172Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.065174Z"
+}

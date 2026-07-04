@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-05-28-padres-at-nationals",
+  "sport": "mlb",
+  "date": "2011-05-28",
+  "startTime": "2011-05-28T17:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "21-31"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "22-29"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.369,
+    "rankGapFactor": 0.055,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287683",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287683/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.136809Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.136811Z"
+}

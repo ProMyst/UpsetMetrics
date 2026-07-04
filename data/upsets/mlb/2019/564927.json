@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-03-20-red-sox-at-orioles",
+  "sport": "mlb",
+  "date": "2019-03-20",
+  "startTime": "2019-03-20T22:05:00Z",
+  "season": "2019",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "9-15"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "12-12"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.613,
+    "rankGapFactor": 0.25,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "564927",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/564927/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.104427Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.104431Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-03-21-giants-at-angels",
+  "sport": "mlb",
+  "date": "2015-03-21",
+  "startTime": "2015-03-21T20:10:00Z",
+  "season": "2015",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "9-7"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "5-14"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "429726",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/429726/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.701080Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.701083Z"
+}

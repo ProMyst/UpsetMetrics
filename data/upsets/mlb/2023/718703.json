@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-04-04-rockies-at-dodgers",
+  "sport": "mlb",
+  "date": "2023-04-04",
+  "startTime": "2023-04-05T02:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "4-2"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "2-4"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718703",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718703/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.573127Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.573129Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-06-26-braves-at-cardinals",
+  "sport": "mlb",
+  "date": "2024-06-26",
+  "startTime": "2024-06-26T23:15:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "41-38"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "44-34"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.413,
+    "rankGapFactor": 0.09,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745158",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745158/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.924944Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.924946Z"
+}

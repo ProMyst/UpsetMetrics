@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-09-08-rangers-at-orioles",
+  "sport": "mlb",
+  "date": "2019-09-08",
+  "startTime": "2019-09-08T17:05:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "72-73"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "46-97"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565001",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565001/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.431074Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.431076Z"
+}

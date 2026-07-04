@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-04-21-rangers-at-mariners",
+  "sport": "mlb",
+  "date": "2002-04-21",
+  "startTime": "2002-04-21T20:35:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "15-4"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "5-13"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9774",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9774/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.687149Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.687151Z"
+}

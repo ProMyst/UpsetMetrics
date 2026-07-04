@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-09-27-twins-at-phillies",
+  "sport": "mlb",
+  "date": "2025-09-27",
+  "startTime": "2025-09-27T22:05:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "70-91"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "95-66"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.688,
+    "rankGapFactor": 0.311,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776163",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776163/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.180950Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.180952Z"
+}

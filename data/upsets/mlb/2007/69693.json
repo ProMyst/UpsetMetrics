@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-07-29-red-sox-at-tampa-bay-devil-rays",
+  "sport": "mlb",
+  "date": "2007-07-29",
+  "startTime": "2007-07-29T17:40:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "39-65"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "64-41"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.886,
+    "rankGapFactor": 0.469,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69693",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69693/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.445602Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-tampa-bay-devil-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.445607Z"
+}

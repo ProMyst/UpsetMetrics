@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-06-17-giants-at-mariners",
+  "sport": "mlb",
+  "date": "2006-06-17",
+  "startTime": "2006-06-17T20:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "33-37"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "34-34"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.371,
+    "rankGapFactor": 0.057,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40967",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40967/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.424491Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.424493Z"
+}

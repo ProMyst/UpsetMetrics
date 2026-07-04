@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-06-05-mets-at-nationals",
+  "sport": "mlb",
+  "date": "2024-06-05",
+  "startTime": "2024-06-05T20:05:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "27-35"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "27-34"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.318,
+    "rankGapFactor": 0.014,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "744852",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/744852/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.870320Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.870321Z"
+}

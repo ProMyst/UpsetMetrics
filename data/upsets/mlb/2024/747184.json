@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-06-26-twins-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2024-06-26",
+  "startTime": "2024-06-27T01:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "44-36"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "39-41"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "747184",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/747184/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.926903Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.926905Z"
+}

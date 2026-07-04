@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-08-02-mariners-at-rays",
+  "sport": "mlb",
+  "date": "2021-08-02",
+  "startTime": "2021-08-02T23:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "57-50"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "64-43"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.464,
+    "rankGapFactor": 0.131,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633070",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633070/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.139103Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.139106Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-06-02-twins-at-athletics",
+  "sport": "mlb",
+  "date": "2006-06-02",
+  "startTime": "2006-06-03T02:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "25-29"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "25-30"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40757",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40757/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.384052Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.384054Z"
+}

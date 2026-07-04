@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-06-26-phillies-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2017-06-26",
+  "startTime": "2017-06-26T19:40:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "49-28"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "24-51"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491248",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491248/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.204116Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.204118Z"
+}

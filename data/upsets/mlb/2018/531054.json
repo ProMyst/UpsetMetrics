@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-08-03-tigers-at-athletics",
+  "sport": "mlb",
+  "date": "2018-08-03",
+  "startTime": "2018-08-04T02:05:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "65-46"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "47-63"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531054",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531054/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.881643Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.881645Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-07-26-athletics-at-angels",
+  "sport": "mlb",
+  "date": "2024-07-26",
+  "startTime": "2024-07-27T01:38:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "43-63"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "45-59"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.368,
+    "rankGapFactor": 0.054,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746200",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746200/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.001904Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.001906Z"
+}

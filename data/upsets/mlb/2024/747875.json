@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-03-21-mets-at-tigers",
+  "sport": "mlb",
+  "date": "2024-03-21",
+  "startTime": "2024-03-21T17:05:00Z",
+  "season": "2024",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "14-10"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "16-9"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.442,
+    "rankGapFactor": 0.113,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "747875",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/747875/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.657324Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.657328Z"
+}

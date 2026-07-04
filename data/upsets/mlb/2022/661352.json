@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-08-29-dodgers-at-marlins",
+  "sport": "mlb",
+  "date": "2022-08-29",
+  "startTime": "2022-08-29T22:40:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "89-38"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "55-73"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661352",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661352/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.186731Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.186733Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-07-05-cubs-at-astros",
+  "sport": "mlb",
+  "date": "2006-07-05",
+  "startTime": "2006-07-06T00:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "31-53"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "42-43"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.613,
+    "rankGapFactor": 0.25,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41201",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41201/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.479700Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.479702Z"
+}

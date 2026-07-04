@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-04-11-cardinals-at-astros",
+  "sport": "mlb",
+  "date": "2003-04-11",
+  "startTime": "2003-04-12T00:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "7-2"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "4-5"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15576",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15576/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.400542Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.400544Z"
+}

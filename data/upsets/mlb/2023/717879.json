@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-06-05-cardinals-at-rangers",
+  "sport": "mlb",
+  "date": "2023-06-05",
+  "startTime": "2023-06-06T00:05:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "39-20"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "25-36"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717879",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717879/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.739711Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.739713Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-05-28-red-sox-at-blue-jays",
+  "sport": "mlb",
+  "date": "2002-05-28",
+  "startTime": "2002-05-28T23:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "34-15"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "17-32"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9337",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9337/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.786799Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.786801Z"
+}

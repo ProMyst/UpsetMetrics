@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-06-06-reds-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2008-06-06",
+  "startTime": "2008-06-06T23:10:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "30-32"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "32-28"
+  },
+  "finalScore": "11-3",
+  "factors": {
+    "pregameOddsFactor": 0.424,
+    "rankGapFactor": 0.099,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234677",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234677/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.885632Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.885637Z"
+}

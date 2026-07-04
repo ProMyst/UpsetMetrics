@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-06-06-cubs-at-brewers",
+  "sport": "mlb",
+  "date": "2007-06-06",
+  "startTime": "2007-06-06T18:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "25-32"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "33-27"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.579,
+    "rankGapFactor": 0.223,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69008",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69008/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.301011Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.301013Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-10-09-guardians-at-tigers",
+  "sport": "mlb",
+  "date": "2024-10-09",
+  "startTime": "2024-10-09T19:08:00Z",
+  "season": "2024",
+  "event": "AL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "2-1"
+  },
+  "loser": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "1-2"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "775328",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/775328/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.178486Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "guardians-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.178488Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-08-11-red-sox-at-blue-jays",
+  "sport": "mlb",
+  "date": "2010-08-11",
+  "startTime": "2010-08-11T23:07:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "66-49"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "59-54"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265517",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265517/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.107842Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.107844Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-05-22-cardinals-at-giants",
+  "sport": "mlb",
+  "date": "2006-05-22",
+  "startTime": "2006-05-23T02:15:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "24-21"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "29-16"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.578,
+    "rankGapFactor": 0.222,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40610",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40610/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.354783Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.354785Z"
+}

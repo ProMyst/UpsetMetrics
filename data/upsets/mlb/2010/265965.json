@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-09-14-diamondbacks-at-reds",
+  "sport": "mlb",
+  "date": "2010-09-14",
+  "startTime": "2010-09-14T23:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "58-87"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "82-63"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.714,
+    "rankGapFactor": 0.331,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265965",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265965/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.199777Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.199779Z"
+}

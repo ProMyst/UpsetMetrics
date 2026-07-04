@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-07-25-cubs-at-white-sox",
+  "sport": "mlb",
+  "date": "2025-07-25",
+  "startTime": "2025-07-25T23:40:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "38-66"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "60-43"
+  },
+  "finalScore": "12-5",
+  "factors": {
+    "pregameOddsFactor": 0.843,
+    "rankGapFactor": 0.434,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777017",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777017/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.010902Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.010904Z"
+}

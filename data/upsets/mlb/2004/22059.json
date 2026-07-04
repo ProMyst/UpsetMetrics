@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-09-05-athletics-at-blue-jays",
+  "sport": "mlb",
+  "date": "2004-09-05",
+  "startTime": "2004-09-05T17:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "57-80"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "81-55"
+  },
+  "finalScore": "13-5",
+  "factors": {
+    "pregameOddsFactor": 0.749,
+    "rankGapFactor": 0.359,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "22059",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/22059/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.823927Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.823929Z"
+}

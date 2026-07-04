@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-05-18-cardinals-at-phillies",
+  "sport": "mlb",
+  "date": "2005-05-18",
+  "startTime": "2005-05-18T23:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "25-14"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "18-23"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23231",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23231/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.486520Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.486522Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-06-16-tigers-at-astros",
+  "sport": "mlb",
+  "date": "2024-06-16",
+  "startTime": "2024-06-16T18:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "33-39"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "34-37"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.351,
+    "rankGapFactor": 0.041,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746377",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746377/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.899215Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.899217Z"
+}

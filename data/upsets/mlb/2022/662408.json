@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-07-21-tigers-at-athletics",
+  "sport": "mlb",
+  "date": "2022-07-21",
+  "startTime": "2022-07-21T19:42:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "33-62"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "38-56"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.442,
+    "rankGapFactor": 0.114,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662408",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662408/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.083974Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.083976Z"
+}

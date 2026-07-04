@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-08-31-brewers-at-giants",
+  "sport": "mlb",
+  "date": "2021-08-31",
+  "startTime": "2021-09-01T01:45:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "81-52"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "84-48"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.368,
+    "rankGapFactor": 0.055,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "632682",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/632682/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.219537Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.219539Z"
+}

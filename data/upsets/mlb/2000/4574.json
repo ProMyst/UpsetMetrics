@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-08-20-pirates-at-reds",
+  "sport": "mlb",
+  "date": "2000-08-20",
+  "startTime": "2000-08-20T17:15:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "51-71"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "60-62"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.484,
+    "rankGapFactor": 0.148,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4574",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4574/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.797064Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.797066Z"
+}

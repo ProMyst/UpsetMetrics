@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-05-astros-at-angels",
+  "sport": "mlb",
+  "date": "2019-05-05",
+  "startTime": "2019-05-05T20:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "20-14"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "15-19"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "564753",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/564753/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.218564Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.218565Z"
+}

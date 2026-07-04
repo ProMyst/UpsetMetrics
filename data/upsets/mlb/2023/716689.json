@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-09-06-cardinals-at-braves",
+  "sport": "mlb",
+  "date": "2023-09-06",
+  "startTime": "2023-09-06T23:20:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "61-78"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "90-48"
+  },
+  "finalScore": "11-6",
+  "factors": {
+    "pregameOddsFactor": 0.833,
+    "rankGapFactor": 0.427,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716689",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716689/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.981271Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.981273Z"
+}

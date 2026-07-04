@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-08-17-rangers-at-rays",
+  "sport": "mlb",
+  "date": "2010-08-17",
+  "startTime": "2010-08-17T23:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "73-46"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "67-51"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265591",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265591/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.122414Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.122416Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-06-29-dodgers-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "2002-06-29",
+  "startTime": "2002-06-30T02:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "46-33"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "50-30"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.407,
+    "rankGapFactor": 0.085,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9302",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9302/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.875775Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.875780Z"
+}

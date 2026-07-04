@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-03-27-cardinals-at-blue-jays",
+  "sport": "mlb",
+  "date": "2018-03-27",
+  "startTime": "2018-03-27T23:07:00Z",
+  "season": "2018",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "14-18"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "17-13"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.623,
+    "rankGapFactor": 0.258,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "536857",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/536857/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.644590Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.644592Z"
+}

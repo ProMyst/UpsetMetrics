@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-08-25-cubs-at-marlins",
+  "sport": "mlb",
+  "date": "2024-08-25",
+  "startTime": "2024-08-25T17:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "47-83"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "65-66"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.637,
+    "rankGapFactor": 0.269,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746023",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746023/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.079093Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.079095Z"
+}

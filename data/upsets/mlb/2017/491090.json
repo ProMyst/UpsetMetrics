@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-06-15-orioles-at-white-sox",
+  "sport": "mlb",
+  "date": "2017-06-15",
+  "startTime": "2017-06-15T18:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "29-36"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "32-33"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.415,
+    "rankGapFactor": 0.092,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491090",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491090/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.180851Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.180852Z"
+}

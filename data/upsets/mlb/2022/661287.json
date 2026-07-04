@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-05-23-orioles-at-yankees",
+  "sport": "mlb",
+  "date": "2022-05-23",
+  "startTime": "2022-05-23T23:05:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "18-25"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "29-13"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.98,
+    "rankGapFactor": 0.544,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661287",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661287/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.922280Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.922283Z"
+}

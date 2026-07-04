@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-07-16-mets-at-cubs",
+  "sport": "mlb",
+  "date": "2022-07-16",
+  "startTime": "2022-07-17T00:05:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "58-34"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "34-57"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661115",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661115/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.077091Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.077093Z"
+}

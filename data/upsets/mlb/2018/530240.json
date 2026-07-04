@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-05-30-rays-at-athletics",
+  "sport": "mlb",
+  "date": "2018-05-30",
+  "startTime": "2018-05-31T02:05:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "28-26"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "28-28"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530240",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530240/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.772655Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.772656Z"
+}

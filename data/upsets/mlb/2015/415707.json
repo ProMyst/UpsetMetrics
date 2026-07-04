@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-09-07-giants-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2015-09-07",
+  "startTime": "2015-09-07T20:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "66-72"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "71-67"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.391,
+    "rankGapFactor": 0.072,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415707",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415707/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.034342Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.034344Z"
+}

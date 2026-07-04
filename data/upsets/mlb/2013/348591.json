@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-08-18-mets-at-padres",
+  "sport": "mlb",
+  "date": "2013-08-18",
+  "startTime": "2013-08-18T20:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "56-68"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "56-66"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.319,
+    "rankGapFactor": 0.015,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "348591",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/348591/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.491176Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.491178Z"
+}

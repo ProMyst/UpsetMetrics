@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-09-22-yankees-at-rays",
+  "sport": "mlb",
+  "date": "2016-09-22",
+  "startTime": "2016-09-22T23:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "65-87"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "79-73"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.53,
+    "rankGapFactor": 0.184,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "449152",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/449152/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.382763Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.382765Z"
+}

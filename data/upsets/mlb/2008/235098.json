@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-07-07-royals-at-rays",
+  "sport": "mlb",
+  "date": "2008-07-07",
+  "startTime": "2008-07-07T16:40:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "40-50"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "55-33"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.751,
+    "rankGapFactor": 0.361,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235098",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235098/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.974612Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.974614Z"
+}

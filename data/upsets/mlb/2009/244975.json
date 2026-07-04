@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-06-02-mets-at-pirates",
+  "sport": "mlb",
+  "date": "2009-06-02",
+  "startTime": "2009-06-02T23:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "24-28"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "28-23"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.519,
+    "rankGapFactor": 0.175,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244975",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244975/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.687851Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.687853Z"
+}

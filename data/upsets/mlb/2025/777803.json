@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-05-24-padres-at-braves",
+  "sport": "mlb",
+  "date": "2025-05-24",
+  "startTime": "2025-05-24T20:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "25-26"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "28-22"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.475,
+    "rankGapFactor": 0.14,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777803",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777803/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.849780Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.849782Z"
+}

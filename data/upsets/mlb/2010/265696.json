@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-08-25-braves-at-rockies",
+  "sport": "mlb",
+  "date": "2010-08-25",
+  "startTime": "2010-08-25T19:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "66-60"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "73-54"
+  },
+  "finalScore": "12-10",
+  "factors": {
+    "pregameOddsFactor": 0.427,
+    "rankGapFactor": 0.102,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265696",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265696/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.145558Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.145560Z"
+}

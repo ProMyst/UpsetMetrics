@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-05-31-blue-jays-at-angels",
+  "sport": "mlb",
+  "date": "2008-05-31",
+  "startTime": "2008-06-01T01:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "33-24"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "31-27"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234603",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234603/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.870837Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.870839Z"
+}

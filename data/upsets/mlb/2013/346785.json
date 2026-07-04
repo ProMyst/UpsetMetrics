@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-04-04-padres-at-mets",
+  "sport": "mlb",
+  "date": "2013-04-04",
+  "startTime": "2013-04-04T17:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "1-2"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "2-1"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "346785",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/346785/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.119670Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.119672Z"
+}

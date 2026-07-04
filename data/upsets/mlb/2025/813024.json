@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-11-01-dodgers-at-blue-jays",
+  "sport": "mlb",
+  "date": "2025-11-01",
+  "startTime": "2025-11-02T00:00:00Z",
+  "season": "2025",
+  "event": "World Series",
+  "stakes": "World Series",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "4-3"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "3-4"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 1.0,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "813024",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/813024/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.194465Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.194467Z"
+}

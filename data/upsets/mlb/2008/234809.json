@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-06-15-pirates-at-orioles",
+  "sport": "mlb",
+  "date": "2008-06-15",
+  "startTime": "2008-06-15T17:35:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "34-36"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "35-34"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.354,
+    "rankGapFactor": 0.043,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234809",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234809/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.911561Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.911563Z"
+}

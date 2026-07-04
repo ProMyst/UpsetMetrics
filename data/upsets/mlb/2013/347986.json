@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-07-02-marlins-at-braves",
+  "sport": "mlb",
+  "date": "2013-07-02",
+  "startTime": "2013-07-02T23:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "49-34"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "30-52"
+  },
+  "finalScore": "11-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347986",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347986/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.368539Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.368541Z"
+}

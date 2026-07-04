@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-10-12-yankees-at-astros",
+  "sport": "mlb",
+  "date": "2019-10-12",
+  "startTime": "2019-10-13T00:08:00Z",
+  "season": "2019",
+  "event": "AL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "599357",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/599357/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.471266Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.471268Z"
+}

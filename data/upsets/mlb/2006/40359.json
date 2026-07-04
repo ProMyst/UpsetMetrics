@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-05-04-reds-at-rockies",
+  "sport": "mlb",
+  "date": "2006-05-04",
+  "startTime": "2006-05-05T00:35:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "20-9"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "16-13"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40359",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40359/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.305213Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.305215Z"
+}

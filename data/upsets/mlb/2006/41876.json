@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-08-26-reds-at-giants",
+  "sport": "mlb",
+  "date": "2006-08-26",
+  "startTime": "2006-08-26T20:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "64-66"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "67-63"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.358,
+    "rankGapFactor": 0.046,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41876",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41876/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.611969Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.611971Z"
+}

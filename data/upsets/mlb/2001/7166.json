@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-05-03-red-sox-at-mariners",
+  "sport": "mlb",
+  "date": "2001-05-03",
+  "startTime": "2001-05-04T02:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "22-6"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "17-11"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7166",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7166/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.050219Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.050221Z"
+}

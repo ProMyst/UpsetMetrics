@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-04-16-rangers-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "2002-04-16",
+  "startTime": "2002-04-17T02:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "5-8"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "3-11"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9273",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9273/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.671895Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.671900Z"
+}

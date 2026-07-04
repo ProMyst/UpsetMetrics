@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-06-23-reds-at-pirates",
+  "sport": "mlb",
+  "date": "2015-06-23",
+  "startTime": "2015-06-23T23:05:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "40-30"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "32-37"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414714",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414714/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.906066Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.906067Z"
+}

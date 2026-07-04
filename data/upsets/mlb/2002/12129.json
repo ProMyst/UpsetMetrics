@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-10-02-twins-at-athletics",
+  "sport": "mlb",
+  "date": "2002-10-02",
+  "startTime": "2002-10-02T20:00:00Z",
+  "season": "2002",
+  "event": "AL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "1-1"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "1-1"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "12129",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/12129/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.132006Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.132008Z"
+}

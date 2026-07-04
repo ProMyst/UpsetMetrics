@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-04-03-mets-at-marlins",
+  "sport": "mlb",
+  "date": "2019-04-03",
+  "startTime": "2019-04-03T22:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "5-1"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "2-5"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567365",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567365/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.152731Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.152733Z"
+}

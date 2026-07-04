@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-08-30-pirates-at-brewers",
+  "sport": "mlb",
+  "date": "2005-08-30",
+  "startTime": "2005-08-31T00:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "55-77"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "64-68"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.47,
+    "rankGapFactor": 0.136,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24609",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24609/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.770364Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.770366Z"
+}

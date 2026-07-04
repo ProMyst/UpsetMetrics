@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-07-28-red-sox-at-yankees",
+  "sport": "mlb",
+  "date": "2012-07-28",
+  "startTime": "2012-07-28T20:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "50-51"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "60-40"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.562,
+    "rankGapFactor": 0.21,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319229",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319229/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.540030Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.540032Z"
+}

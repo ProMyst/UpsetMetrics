@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-04-17-white-sox-at-orioles",
+  "sport": "mlb",
+  "date": "2008-04-17",
+  "startTime": "2008-04-17T23:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "9-7"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "9-6"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.394,
+    "rankGapFactor": 0.075,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "233987",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/233987/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.746667Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.746669Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-04-17-red-sox-at-angels",
+  "sport": "mlb",
+  "date": "2018-04-17",
+  "startTime": "2018-04-18T02:07:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "14-2"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "13-4"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "529655",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/529655/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.695497Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.695498Z"
+}

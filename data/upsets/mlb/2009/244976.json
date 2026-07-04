@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-06-02-athletics-at-white-sox",
+  "sport": "mlb",
+  "date": "2009-06-02",
+  "startTime": "2009-06-03T00:11:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "20-30"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "25-26"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.525,
+    "rankGapFactor": 0.18,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244976",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244976/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.689457Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.689459Z"
+}

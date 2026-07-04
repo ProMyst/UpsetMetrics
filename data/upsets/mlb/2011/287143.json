@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-04-19-tigers-at-mariners",
+  "sport": "mlb",
+  "date": "2011-04-19",
+  "startTime": "2011-04-20T02:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "6-12"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "8-10"
+  },
+  "finalScore": "13-3",
+  "factors": {
+    "pregameOddsFactor": 0.578,
+    "rankGapFactor": 0.222,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287143",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287143/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.031940Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.031942Z"
+}

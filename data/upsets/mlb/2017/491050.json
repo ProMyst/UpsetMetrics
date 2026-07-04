@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-06-11-blue-jays-at-mariners",
+  "sport": "mlb",
+  "date": "2017-06-11",
+  "startTime": "2017-06-11T20:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "31-32"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "31-33"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491050",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491050/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.174881Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.174882Z"
+}

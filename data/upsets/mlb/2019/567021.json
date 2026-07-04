@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-08-09-cleveland-indians-at-twins",
+  "sport": "mlb",
+  "date": "2019-08-09",
+  "startTime": "2019-08-10T00:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "70-46"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "70-46"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567021",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567021/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.381080Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.381083Z"
+}

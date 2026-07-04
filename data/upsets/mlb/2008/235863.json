@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-09-05-florida-marlins-at-cardinals",
+  "sport": "mlb",
+  "date": "2008-09-05",
+  "startTime": "2008-09-06T00:15:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "72-69"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "75-66"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.353,
+    "rankGapFactor": 0.043,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235863",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235863/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.128828Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.128832Z"
+}

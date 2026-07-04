@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-08-12-braves-at-cardinals",
+  "sport": "mlb",
+  "date": "2017-08-12",
+  "startTime": "2017-08-12T23:15:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "61-56"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "51-63"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491833",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491833/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.281713Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.281714Z"
+}

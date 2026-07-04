@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-10-05-padres-at-dodgers",
+  "sport": "mlb",
+  "date": "2024-10-05",
+  "startTime": "2024-10-06T00:38:00Z",
+  "season": "2024",
+  "event": "NL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "775323",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/775323/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.176781Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.176783Z"
+}

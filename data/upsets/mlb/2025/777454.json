@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-06-18-guardians-at-giants",
+  "sport": "mlb",
+  "date": "2025-06-18",
+  "startTime": "2025-06-19T01:45:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "37-35"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "41-33"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.4,
+    "rankGapFactor": 0.08,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777454",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777454/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.915752Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "guardians-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.915754Z"
+}

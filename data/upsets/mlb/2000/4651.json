@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-06-03-dodgers-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "2000-06-03",
+  "startTime": "2000-06-03T20:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "29-23"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "28-27"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4651",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4651/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.582022Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.582027Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-06-16-mariners-at-athletics",
+  "sport": "mlb",
+  "date": "2013-06-16",
+  "startTime": "2013-06-16T20:05:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "42-29"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "31-39"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347783",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347783/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.322527Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.322529Z"
+}

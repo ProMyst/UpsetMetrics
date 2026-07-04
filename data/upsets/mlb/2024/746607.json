@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-08-01-orioles-at-guardians",
+  "sport": "mlb",
+  "date": "2024-08-01",
+  "startTime": "2024-08-01T22:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "66-42"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "65-45"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746607",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746607/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.016482Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-guardians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.016484Z"
+}

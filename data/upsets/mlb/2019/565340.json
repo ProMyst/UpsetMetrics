@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-22-athletics-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2019-05-22",
+  "startTime": "2019-05-22T17:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "26-25"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "25-23"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.328,
+    "rankGapFactor": 0.022,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565340",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565340/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.248761Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.248764Z"
+}

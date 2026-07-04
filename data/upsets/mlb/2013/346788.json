@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-04-04-cleveland-indians-at-blue-jays",
+  "sport": "mlb",
+  "date": "2013-04-04",
+  "startTime": "2013-04-04T23:07:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "1-2"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "2-1"
+  },
+  "finalScore": "10-8",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "346788",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/346788/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.121010Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.121015Z"
+}

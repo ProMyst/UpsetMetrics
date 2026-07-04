@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-04-10-dodgers-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2001-04-10",
+  "startTime": "2001-04-11T01:35:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "3-4"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "4-4"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "6901",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/6901/feed/live",
+    "retrievedAt": "2026-07-04T06:08:53.987905Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:53.987907Z"
+}

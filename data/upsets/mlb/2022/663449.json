@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-05-20-athletics-at-angels",
+  "sport": "mlb",
+  "date": "2022-05-20",
+  "startTime": "2022-05-21T01:38:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "17-24"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "24-17"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.727,
+    "rankGapFactor": 0.341,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "663449",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/663449/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.914513Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.914515Z"
+}

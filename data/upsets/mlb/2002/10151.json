@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-06-22-royals-at-mets",
+  "sport": "mlb",
+  "date": "2002-06-22",
+  "startTime": "2002-06-22T23:10:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "26-45"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "37-36"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.652,
+    "rankGapFactor": 0.281,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10151",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10151/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.854841Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.854843Z"
+}

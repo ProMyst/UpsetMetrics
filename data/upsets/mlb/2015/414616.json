@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-06-16-reds-at-tigers",
+  "sport": "mlb",
+  "date": "2015-06-16",
+  "startTime": "2015-06-16T23:08:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "29-35"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "34-31"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.475,
+    "rankGapFactor": 0.14,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414616",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414616/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.891254Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.891255Z"
+}

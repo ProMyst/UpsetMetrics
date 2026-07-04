@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-03-22-mariners-at-athletics",
+  "sport": "mlb",
+  "date": "2014-03-22",
+  "startTime": "2014-03-22T20:05:00Z",
+  "season": "2014",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "12-9"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "15-9"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.434,
+    "rankGapFactor": 0.107,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "396421",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/396421/feed/live",
+    "retrievedAt": "2026-07-04T06:27:17.924990Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:17.924993Z"
+}

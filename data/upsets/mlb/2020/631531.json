@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-09-12-angels-at-rockies",
+  "sport": "mlb",
+  "date": "2020-09-12",
+  "startTime": "2020-09-13T00:10:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "19-28"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "21-24"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.456,
+    "rankGapFactor": 0.125,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "631531",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/631531/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.657326Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.657328Z"
+}

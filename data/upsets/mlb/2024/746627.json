@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-06-18-mariners-at-guardians",
+  "sport": "mlb",
+  "date": "2024-06-18",
+  "startTime": "2024-06-18T22:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "44-31"
+  },
+  "loser": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "44-26"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.405,
+    "rankGapFactor": 0.084,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746627",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746627/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.903531Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-guardians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.903533Z"
+}

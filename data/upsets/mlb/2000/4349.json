@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-06-19-padres-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2000-06-19",
+  "startTime": "2000-06-20T02:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "40-29"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "30-38"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4349",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4349/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.625738Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.625739Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-03-20-brewers-at-mariners",
+  "sport": "mlb",
+  "date": "2009-03-20",
+  "startTime": "2009-03-20T20:05:00Z",
+  "season": "2009",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "11-8"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "10-11"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "257552",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/257552/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.479858Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.479862Z"
+}

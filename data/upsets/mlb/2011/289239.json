@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-09-23-reds-at-pirates",
+  "sport": "mlb",
+  "date": "2011-09-23",
+  "startTime": "2011-09-23T23:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "70-87"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "76-81"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.396,
+    "rankGapFactor": 0.076,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "289239",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/289239/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.458437Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.458438Z"
+}

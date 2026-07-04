@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-06-22-blue-jays-at-angels",
+  "sport": "mlb",
+  "date": "2018-06-22",
+  "startTime": "2018-06-23T02:07:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "41-35"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "34-41"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530542",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530542/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.811285Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.811286Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-07-07-rays-at-yankees",
+  "sport": "mlb",
+  "date": "2011-07-07",
+  "startTime": "2011-07-07T23:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "49-39"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "51-35"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.391,
+    "rankGapFactor": 0.072,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288228",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288228/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.251889Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.251891Z"
+}

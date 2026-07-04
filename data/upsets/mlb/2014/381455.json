@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-06-07-red-sox-at-tigers",
+  "sport": "mlb",
+  "date": "2014-06-07",
+  "startTime": "2014-06-07T23:15:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "33-25"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "27-34"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381455",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381455/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.074383Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.074384Z"
+}

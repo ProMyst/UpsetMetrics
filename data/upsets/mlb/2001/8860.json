@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-09-25-reds-at-phillies",
+  "sport": "mlb",
+  "date": "2001-09-25",
+  "startTime": "2001-09-25T23:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "62-89"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "80-71"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.598,
+    "rankGapFactor": 0.238,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8860",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8860/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.449145Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.449147Z"
+}

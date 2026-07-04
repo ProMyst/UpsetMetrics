@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-05-01-rays-at-red-sox",
+  "sport": "mlb",
+  "date": "2014-05-01",
+  "startTime": "2014-05-01T23:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "13-16"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "13-16"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "380961",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/380961/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.008708Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.008709Z"
+}

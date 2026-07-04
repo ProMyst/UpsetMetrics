@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-05-22-brewers-at-braves",
+  "sport": "mlb",
+  "date": "2014-05-22",
+  "startTime": "2014-05-22T23:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "26-20"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "28-20"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.345,
+    "rankGapFactor": 0.036,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381239",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381239/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.045651Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.045652Z"
+}

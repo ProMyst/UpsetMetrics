@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-08-24-reds-at-pirates",
+  "sport": "mlb",
+  "date": "2019-08-24",
+  "startTime": "2019-08-24T23:05:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "54-75"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "60-68"
+  },
+  "finalScore": "14-0",
+  "factors": {
+    "pregameOddsFactor": 0.425,
+    "rankGapFactor": 0.1,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566244",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566244/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.405908Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.405909Z"
+}

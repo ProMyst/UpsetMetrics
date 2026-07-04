@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-04-13-mariners-at-dodgers",
+  "sport": "mlb",
+  "date": "2015-04-13",
+  "startTime": "2015-04-14T02:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "4-3"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "3-4"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "413752",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/413752/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.761847Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.761848Z"
+}

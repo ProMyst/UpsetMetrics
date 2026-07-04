@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-08-18-dodgers-at-braves",
+  "sport": "mlb",
+  "date": "2019-08-18",
+  "startTime": "2019-08-18T17:20:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "74-52"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "82-44"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.459,
+    "rankGapFactor": 0.127,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567229",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567229/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.396572Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.396573Z"
+}

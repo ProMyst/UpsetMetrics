@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-06-11-athletics-at-rays",
+  "sport": "mlb",
+  "date": "2019-06-11",
+  "startTime": "2019-06-11T23:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "35-34"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "41-25"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.585,
+    "rankGapFactor": 0.228,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566696",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566696/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.283617Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.283618Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-08-18-blue-jays-at-phillies",
+  "sport": "mlb",
+  "date": "2015-08-18",
+  "startTime": "2015-08-18T23:05:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "66-54"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "46-73"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415436",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415436/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.998494Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.998495Z"
+}

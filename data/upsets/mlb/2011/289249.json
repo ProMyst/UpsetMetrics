@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-09-23-blue-jays-at-rays",
+  "sport": "mlb",
+  "date": "2011-09-23",
+  "startTime": "2011-09-23T23:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "80-77"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "86-71"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.396,
+    "rankGapFactor": 0.076,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "289249",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/289249/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.459017Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.459019Z"
+}

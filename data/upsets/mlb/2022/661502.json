@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-07-24-angels-at-braves",
+  "sport": "mlb",
+  "date": "2022-07-24",
+  "startTime": "2022-07-24T17:35:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "40-55"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "58-39"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.742,
+    "rankGapFactor": 0.354,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661502",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661502/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.090561Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.090563Z"
+}

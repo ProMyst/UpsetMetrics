@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-08-30-rockies-at-giants",
+  "sport": "mlb",
+  "date": "2005-08-30",
+  "startTime": "2005-08-31T02:15:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "58-73"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "52-80"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24613",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24613/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.771326Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.771328Z"
+}

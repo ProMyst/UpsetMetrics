@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-11-phillies-at-royals",
+  "sport": "mlb",
+  "date": "2019-05-11",
+  "startTime": "2019-05-11T23:15:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "22-16"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "14-26"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565722",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565722/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.228716Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.228717Z"
+}

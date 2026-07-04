@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-05-28-rangers-at-orioles",
+  "sport": "mlb",
+  "date": "2001-05-28",
+  "startTime": "2001-05-28T17:35:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "18-31"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "24-25"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.606,
+    "rankGapFactor": 0.245,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7469",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7469/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.118035Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.118037Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-05-29-dodgers-at-rockies",
+  "sport": "mlb",
+  "date": "2010-05-29",
+  "startTime": "2010-05-30T00:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "26-23"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "27-22"
+  },
+  "finalScore": "11-3",
+  "factors": {
+    "pregameOddsFactor": 0.351,
+    "rankGapFactor": 0.041,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264543",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264543/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.913214Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.913216Z"
+}

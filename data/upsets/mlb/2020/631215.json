@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-09-20-braves-at-mets",
+  "sport": "mlb",
+  "date": "2020-09-20",
+  "startTime": "2020-09-20T17:10:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "31-22"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "24-29"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "631215",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/631215/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.679073Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.679075Z"
+}

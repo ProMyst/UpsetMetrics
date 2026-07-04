@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-07-07-angels-at-yankees",
+  "sport": "mlb",
+  "date": "2007-07-07",
+  "startTime": "2007-07-07T19:55:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "53-34"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "42-43"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69426",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69426/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.390963Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.390965Z"
+}

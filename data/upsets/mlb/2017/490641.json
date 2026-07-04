@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-05-13-cubs-at-cardinals",
+  "sport": "mlb",
+  "date": "2017-05-13",
+  "startTime": "2017-05-13T20:05:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "20-15"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "18-18"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490641",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490641/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.122860Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.122862Z"
+}

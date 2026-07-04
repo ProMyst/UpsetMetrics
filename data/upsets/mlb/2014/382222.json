@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-08-05-reds-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2014-08-05",
+  "startTime": "2014-08-05T23:05:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "57-56"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "57-56"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382222",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382222/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.175495Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.175498Z"
+}

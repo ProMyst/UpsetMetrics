@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-04-28-diamondbacks-at-rockies",
+  "sport": "mlb",
+  "date": "2010-04-28",
+  "startTime": "2010-04-28T19:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "10-11"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "11-11"
+  },
+  "finalScore": "12-11",
+  "factors": {
+    "pregameOddsFactor": 0.36,
+    "rankGapFactor": 0.048,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264114",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264114/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.826341Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.826343Z"
+}

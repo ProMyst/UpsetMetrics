@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-04-28-rangers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2001-04-28",
+  "startTime": "2001-04-28T23:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "13-9"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "11-13"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7118",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7118/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.037271Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.037276Z"
+}

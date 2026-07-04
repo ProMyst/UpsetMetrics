@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-06-12-athletics-at-braves",
+  "sport": "mlb",
+  "date": "2005-06-12",
+  "startTime": "2005-06-12T17:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "25-37"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "32-30"
+  },
+  "finalScore": "11-5",
+  "factors": {
+    "pregameOddsFactor": 0.582,
+    "rankGapFactor": 0.226,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23568",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23568/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.552251Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.552253Z"
+}

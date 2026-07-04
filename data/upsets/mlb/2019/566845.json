@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-09-26-red-sox-at-rangers",
+  "sport": "mlb",
+  "date": "2019-09-26",
+  "startTime": "2019-09-26T18:05:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "76-83"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "83-76"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.41,
+    "rankGapFactor": 0.088,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566845",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566845/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.461289Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.461291Z"
+}

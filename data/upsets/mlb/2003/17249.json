@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-08-10-florida-marlins-at-brewers",
+  "sport": "mlb",
+  "date": "2003-08-10",
+  "startTime": "2003-08-10T18:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "46-71"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "64-53"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.685,
+    "rankGapFactor": 0.308,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "17249",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/17249/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.735636Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.735641Z"
+}

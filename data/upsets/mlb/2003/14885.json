@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-07-09-royals-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "2003-07-09",
+  "startTime": "2003-07-10T02:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "45-43"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "48-40"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.385,
+    "rankGapFactor": 0.068,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "14885",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/14885/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.647576Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.647581Z"
+}

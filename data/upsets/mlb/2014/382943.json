@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-09-27-rockies-at-dodgers",
+  "sport": "mlb",
+  "date": "2014-09-27",
+  "startTime": "2014-09-28T01:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "93-68"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "66-95"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382943",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382943/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.271118Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.271119Z"
+}

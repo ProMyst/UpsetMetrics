@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-04-22-braves-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2012-04-22",
+  "startTime": "2012-04-22T20:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "8-8"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "10-6"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.613,
+    "rankGapFactor": 0.25,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "317955",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/317955/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.283444Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.283449Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-09-25-anaheim-angels-at-athletics",
+  "sport": "mlb",
+  "date": "2001-09-25",
+  "startTime": "2001-09-26T02:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "93-58"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "74-77"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8856",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8856/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.450912Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.450917Z"
+}

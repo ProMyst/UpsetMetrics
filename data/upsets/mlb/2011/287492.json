@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-05-15-white-sox-at-athletics",
+  "sport": "mlb",
+  "date": "2011-05-15",
+  "startTime": "2011-05-15T20:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "17-24"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "20-20"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.513,
+    "rankGapFactor": 0.171,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287492",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287492/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.102061Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.102063Z"
+}

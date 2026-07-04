@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-15-mets-at-nationals",
+  "sport": "mlb",
+  "date": "2019-05-15",
+  "startTime": "2019-05-15T23:05:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "17-25"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "20-21"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.508,
+    "rankGapFactor": 0.166,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565914",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565914/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.235204Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.235205Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-07-02-angels-at-white-sox",
+  "sport": "mlb",
+  "date": "2014-07-02",
+  "startTime": "2014-07-03T00:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "40-46"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "47-36"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.553,
+    "rankGapFactor": 0.202,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381801",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381801/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.123959Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.123961Z"
+}

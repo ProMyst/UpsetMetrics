@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-05-29-rockies-at-giants",
+  "sport": "mlb",
+  "date": "2004-05-29",
+  "startTime": "2004-05-30T02:15:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "24-24"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "18-30"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20738",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20738/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.552350Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.552352Z"
+}

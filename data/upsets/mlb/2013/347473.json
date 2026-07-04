@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-05-25-phillies-at-nationals",
+  "sport": "mlb",
+  "date": "2013-05-25",
+  "startTime": "2013-05-25T23:15:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "24-25"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "25-24"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.351,
+    "rankGapFactor": 0.041,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347473",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347473/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.259614Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.259616Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-08-07-red-sox-at-angels",
+  "sport": "mlb",
+  "date": "2007-08-07",
+  "startTime": "2007-08-08T02:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "66-46"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "68-45"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.331,
+    "rankGapFactor": 0.025,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69810",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69810/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.470943Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.470945Z"
+}

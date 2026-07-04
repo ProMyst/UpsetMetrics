@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-09-25-brewers-at-astros",
+  "sport": "mlb",
+  "date": "2003-09-25",
+  "startTime": "2003-09-26T00:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "86-73"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "66-93"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15647",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15647/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.864466Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.864468Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-05-11-reds-at-giants",
+  "sport": "mlb",
+  "date": "2024-05-11",
+  "startTime": "2024-05-11T23:15:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "18-23"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "17-22"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745344",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745344/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.805858Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.805860Z"
+}

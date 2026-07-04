@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-07-01-mets-at-braves",
+  "sport": "mlb",
+  "date": "2001-07-01",
+  "startTime": "2001-07-02T00:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "36-47"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "45-36"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.605,
+    "rankGapFactor": 0.244,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7866",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7866/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.212521Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.212523Z"
+}

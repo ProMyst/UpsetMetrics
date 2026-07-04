@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-04-30-rockies-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2006-04-30",
+  "startTime": "2006-04-30T17:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "15-10"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "6-16"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40302",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40302/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.291420Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.291426Z"
+}

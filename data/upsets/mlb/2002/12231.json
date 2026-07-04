@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-10-23-anaheim-angels-at-giants",
+  "sport": "mlb",
+  "date": "2002-10-23",
+  "startTime": "2002-10-24T00:00:00Z",
+  "season": "2002",
+  "event": "World Series",
+  "stakes": "World Series",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "2-2"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "2-2"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 1.0,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "12231",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/12231/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.137183Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.137187Z"
+}

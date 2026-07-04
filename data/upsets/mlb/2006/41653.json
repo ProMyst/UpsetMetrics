@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-08-10-blue-jays-at-twins",
+  "sport": "mlb",
+  "date": "2006-08-10",
+  "startTime": "2006-08-11T00:10:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "61-54"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "67-47"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.443,
+    "rankGapFactor": 0.115,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41653",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41653/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.569282Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.569284Z"
+}

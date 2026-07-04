@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-08-23-florida-marlins-at-giants",
+  "sport": "mlb",
+  "date": "2003-08-23",
+  "startTime": "2003-08-23T20:10:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "78-50"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "69-60"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16363",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16363/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.771932Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.771936Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-08-20-mariners-at-rays",
+  "sport": "mlb",
+  "date": "2019-08-20",
+  "startTime": "2019-08-20T23:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "54-73"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "73-54"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.674,
+    "rankGapFactor": 0.299,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566727",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566727/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.399535Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.399537Z"
+}

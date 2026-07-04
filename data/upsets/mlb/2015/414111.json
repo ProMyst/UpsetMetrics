@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-05-10-red-sox-at-blue-jays",
+  "sport": "mlb",
+  "date": "2015-05-10",
+  "startTime": "2015-05-10T17:07:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "14-17"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "16-16"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.421,
+    "rankGapFactor": 0.097,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414111",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414111/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.823285Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.823287Z"
+}

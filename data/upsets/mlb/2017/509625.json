@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-03-22-cubs-at-reds",
+  "sport": "mlb",
+  "date": "2017-03-22",
+  "startTime": "2017-03-23T01:05:00Z",
+  "season": "2017",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "13-13"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "9-12"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "509625",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/509625/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.016585Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.016587Z"
+}

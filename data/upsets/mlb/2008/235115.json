@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-07-08-cardinals-at-phillies",
+  "sport": "mlb",
+  "date": "2008-07-08",
+  "startTime": "2008-07-08T23:35:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "51-40"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "48-43"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235115",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235115/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.977714Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.977716Z"
+}

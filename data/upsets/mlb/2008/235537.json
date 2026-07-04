@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-08-12-orioles-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2008-08-12",
+  "startTime": "2008-08-12T23:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "54-64"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "57-62"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.353,
+    "rankGapFactor": 0.043,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235537",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235537/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.062624Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.062628Z"
+}

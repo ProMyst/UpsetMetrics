@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-03-21-astros-at-tigers",
+  "sport": "mlb",
+  "date": "2019-03-21",
+  "startTime": "2019-03-21T17:05:00Z",
+  "season": "2019",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "13-13"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "14-11"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.45,
+    "rankGapFactor": 0.12,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565507",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565507/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.107248Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.107252Z"
+}

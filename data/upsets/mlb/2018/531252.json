@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-08-18-rockies-at-braves",
+  "sport": "mlb",
+  "date": "2018-08-18",
+  "startTime": "2018-08-18T23:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "67-56"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "68-54"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.332,
+    "rankGapFactor": 0.025,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531252",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531252/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.908550Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.908551Z"
+}

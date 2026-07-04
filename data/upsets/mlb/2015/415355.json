@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-08-12-phillies-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2015-08-12",
+  "startTime": "2015-08-12T19:40:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "46-69"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "56-57"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.539,
+    "rankGapFactor": 0.191,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415355",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415355/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.988782Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.988783Z"
+}

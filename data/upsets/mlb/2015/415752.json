@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-09-11-astros-at-angels",
+  "sport": "mlb",
+  "date": "2015-09-11",
+  "startTime": "2015-09-12T02:05:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "71-69"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "76-65"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.38,
+    "rankGapFactor": 0.064,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415752",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415752/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.041934Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.041936Z"
+}

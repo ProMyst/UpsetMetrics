@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-07-06-white-sox-at-rockies",
+  "sport": "mlb",
+  "date": "2025-07-06",
+  "startTime": "2025-07-06T19:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "21-69"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "30-60"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.55,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777215",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777215/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.969596Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.969597Z"
+}

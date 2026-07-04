@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-08-26-reds-at-montreal-expos",
+  "sport": "mlb",
+  "date": "2001-08-26",
+  "startTime": "2001-08-26T17:35:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "53-77"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "55-75"
+  },
+  "finalScore": "17-4",
+  "factors": {
+    "pregameOddsFactor": 0.338,
+    "rankGapFactor": 0.031,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8516",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8516/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.366366Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.366370Z"
+}

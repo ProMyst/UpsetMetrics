@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-08-10-nationals-at-dodgers",
+  "sport": "mlb",
+  "date": "2015-08-10",
+  "startTime": "2015-08-11T02:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "58-53"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "62-50"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.378,
+    "rankGapFactor": 0.062,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415328",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415328/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.986166Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.986168Z"
+}

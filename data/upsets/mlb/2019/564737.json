@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-04-07-rangers-at-angels",
+  "sport": "mlb",
+  "date": "2019-04-07",
+  "startTime": "2019-04-07T20:07:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "4-6"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "5-5"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "564737",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/564737/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.162283Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.162284Z"
+}

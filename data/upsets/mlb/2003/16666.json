@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-07-10-red-sox-at-blue-jays",
+  "sport": "mlb",
+  "date": "2003-07-10",
+  "startTime": "2003-07-10T23:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "53-37"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "48-44"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16666",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16666/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.654551Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.654553Z"
+}

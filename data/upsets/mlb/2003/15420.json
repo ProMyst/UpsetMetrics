@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-04-29-reds-at-rockies",
+  "sport": "mlb",
+  "date": "2003-04-29",
+  "startTime": "2003-04-30T01:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "15-11"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "10-16"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15420",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15420/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.451756Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.451758Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-09-19-mariners-at-tigers",
+  "sport": "mlb",
+  "date": "2013-09-19",
+  "startTime": "2013-09-19T17:08:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "89-64"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "67-86"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "349028",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/349028/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.576052Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.576054Z"
+}

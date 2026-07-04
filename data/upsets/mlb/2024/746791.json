@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-05-28-blue-jays-at-white-sox",
+  "sport": "mlb",
+  "date": "2024-05-28",
+  "startTime": "2024-05-28T23:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "25-29"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "15-41"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746791",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746791/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.849800Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.849802Z"
+}

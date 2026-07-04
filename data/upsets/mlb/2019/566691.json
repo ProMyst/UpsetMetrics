@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-30-twins-at-rays",
+  "sport": "mlb",
+  "date": "2019-05-30",
+  "startTime": "2019-05-30T23:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "35-19"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "37-18"
+  },
+  "finalScore": "14-3",
+  "factors": {
+    "pregameOddsFactor": 0.361,
+    "rankGapFactor": 0.049,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566691",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566691/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.263803Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.263804Z"
+}

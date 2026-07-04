@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-07-07-mets-at-dodgers",
+  "sport": "mlb",
+  "date": "2011-07-07",
+  "startTime": "2011-07-08T02:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "38-51"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "45-43"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.511,
+    "rankGapFactor": 0.169,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288225",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288225/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.253651Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.253653Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-07-30-tigers-at-athletics",
+  "sport": "mlb",
+  "date": "2005-07-30",
+  "startTime": "2005-07-30T20:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "57-46"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "50-53"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24183",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24183/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.684595Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.684597Z"
+}

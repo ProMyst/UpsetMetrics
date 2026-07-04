@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-06-09-blue-jays-at-rangers",
+  "sport": "mlb",
+  "date": "2009-06-09",
+  "startTime": "2009-06-10T00:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "34-27"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "33-25"
+  },
+  "finalScore": "9-0",
+  "factors": {
+    "pregameOddsFactor": 0.329,
+    "rankGapFactor": 0.023,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245075",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245075/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.708499Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.708501Z"
+}

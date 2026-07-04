@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-07-21-yankees-at-astros",
+  "sport": "mlb",
+  "date": "2022-07-21",
+  "startTime": "2022-07-21T17:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "60-32"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "64-29"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.39,
+    "rankGapFactor": 0.072,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662776",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662776/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.083304Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.083306Z"
+}

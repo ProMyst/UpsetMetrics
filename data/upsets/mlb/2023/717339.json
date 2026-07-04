@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-07-19-yankees-at-angels",
+  "sport": "mlb",
+  "date": "2023-07-19",
+  "startTime": "2023-07-19T23:07:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "49-48"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "50-47"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.326,
+    "rankGapFactor": 0.021,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717339",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717339/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.852122Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.852124Z"
+}

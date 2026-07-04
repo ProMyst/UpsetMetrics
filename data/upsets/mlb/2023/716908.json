@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-08-21-red-sox-at-astros",
+  "sport": "mlb",
+  "date": "2023-08-21",
+  "startTime": "2023-08-22T00:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "71-55"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "66-59"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716908",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716908/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.938124Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.938126Z"
+}

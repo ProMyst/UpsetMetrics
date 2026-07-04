@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-10-01-tigers-at-orioles",
+  "sport": "mlb",
+  "date": "2010-10-01",
+  "startTime": "2010-10-01T20:35:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "64-95"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "80-79"
+  },
+  "finalScore": "10-6",
+  "factors": {
+    "pregameOddsFactor": 0.552,
+    "rankGapFactor": 0.201,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "266197",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/266197/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.245761Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.245764Z"
+}

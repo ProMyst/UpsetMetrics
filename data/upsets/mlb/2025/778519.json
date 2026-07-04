@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-03-30-pirates-at-marlins",
+  "sport": "mlb",
+  "date": "2025-03-30",
+  "startTime": "2025-03-30T17:40:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "3-1"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "1-3"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "778519",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/778519/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.701253Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.701255Z"
+}

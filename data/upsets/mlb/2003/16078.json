@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-09-19-cubs-at-pirates",
+  "sport": "mlb",
+  "date": "2003-09-19",
+  "startTime": "2003-09-19T21:10:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "72-82"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "83-71"
+  },
+  "finalScore": "10-6",
+  "factors": {
+    "pregameOddsFactor": 0.479,
+    "rankGapFactor": 0.143,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16078",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16078/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.845721Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.845723Z"
+}

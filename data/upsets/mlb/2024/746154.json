@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-04-21-mets-at-dodgers",
+  "sport": "mlb",
+  "date": "2024-04-21",
+  "startTime": "2024-04-21T20:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "13-11"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "12-9"
+  },
+  "finalScore": "10-0",
+  "factors": {
+    "pregameOddsFactor": 0.374,
+    "rankGapFactor": 0.06,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746154",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746154/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.753780Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.753782Z"
+}

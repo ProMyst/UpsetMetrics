@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-05-12-phillies-at-rockies",
+  "sport": "mlb",
+  "date": "2010-05-12",
+  "startTime": "2010-05-12T19:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "16-17"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "20-13"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.603,
+    "rankGapFactor": 0.242,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264311",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264311/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.865686Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.865688Z"
+}

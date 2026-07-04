@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-03-24-marlins-at-cardinals",
+  "sport": "mlb",
+  "date": "2019-03-24",
+  "startTime": "2019-03-24T17:05:00Z",
+  "season": "2019",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "12-15"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "15-13"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.528,
+    "rankGapFactor": 0.183,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566566",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566566/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.124881Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.124883Z"
+}

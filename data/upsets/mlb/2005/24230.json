@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-08-02-tampa-bay-devil-rays-at-rangers",
+  "sport": "mlb",
+  "date": "2005-08-02",
+  "startTime": "2005-08-03T00:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "41-66"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "53-52"
+  },
+  "finalScore": "10-8",
+  "factors": {
+    "pregameOddsFactor": 0.604,
+    "rankGapFactor": 0.243,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24230",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24230/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.691971Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tampa-bay-devil-rays-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.691976Z"
+}

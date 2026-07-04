@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-09-01-mets-at-tigers",
+  "sport": "mlb",
+  "date": "2025-09-01",
+  "startTime": "2025-09-01T17:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "74-64"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "80-59"
+  },
+  "finalScore": "10-8",
+  "factors": {
+    "pregameOddsFactor": 0.398,
+    "rankGapFactor": 0.079,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776501",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776501/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.112574Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.112576Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-07-22-rangers-at-rockies",
+  "sport": "mlb",
+  "date": "2015-07-22",
+  "startTime": "2015-07-22T19:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "45-49"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "40-53"
+  },
+  "finalScore": "10-8",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415072",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415072/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.952353Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.952355Z"
+}

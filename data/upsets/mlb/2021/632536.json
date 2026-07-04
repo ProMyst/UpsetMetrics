@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-09-09-mets-at-marlins",
+  "sport": "mlb",
+  "date": "2021-09-09",
+  "startTime": "2021-09-09T22:40:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "59-81"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "70-71"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.488,
+    "rankGapFactor": 0.15,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "632536",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/632536/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.242529Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.242531Z"
+}

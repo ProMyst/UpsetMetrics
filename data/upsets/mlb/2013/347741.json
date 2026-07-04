@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-06-13-blue-jays-at-rangers",
+  "sport": "mlb",
+  "date": "2013-06-13",
+  "startTime": "2013-06-14T00:05:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "29-36"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "38-28"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.624,
+    "rankGapFactor": 0.259,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347741",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347741/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.313296Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.313298Z"
+}

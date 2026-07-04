@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-05-11-guardians-at-white-sox",
+  "sport": "mlb",
+  "date": "2024-05-11",
+  "startTime": "2024-05-11T23:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "12-28"
+  },
+  "loser": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "24-16"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.6,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746797",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746797/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.805642Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "guardians-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.805644Z"
+}

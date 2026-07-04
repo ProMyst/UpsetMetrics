@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-09-17-mariners-at-angels",
+  "sport": "mlb",
+  "date": "2022-09-17",
+  "startTime": "2022-09-18T01:07:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "63-82"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "80-64"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.603,
+    "rankGapFactor": 0.242,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "663426",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/663426/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.238590Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.238592Z"
+}

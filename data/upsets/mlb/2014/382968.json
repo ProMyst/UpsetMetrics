@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-09-28-rays-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2014-09-28",
+  "startTime": "2014-09-28T17:05:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "85-77"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "77-85"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382968",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382968/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.271446Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.271449Z"
+}

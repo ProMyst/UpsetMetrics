@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-06-22-red-sox-at-tigers",
+  "sport": "mlb",
+  "date": "2013-06-22",
+  "startTime": "2013-06-22T23:15:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "41-32"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "45-32"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.357,
+    "rankGapFactor": 0.046,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347858",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347858/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.338821Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.338823Z"
+}

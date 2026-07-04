@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-07-01-diamondbacks-at-brewers",
+  "sport": "mlb",
+  "date": "2012-07-01",
+  "startTime": "2012-07-01T18:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "36-42"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "39-39"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.396,
+    "rankGapFactor": 0.077,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318903",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318903/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.476877Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.476879Z"
+}

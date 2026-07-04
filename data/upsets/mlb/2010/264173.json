@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-05-02-astros-at-braves",
+  "sport": "mlb",
+  "date": "2010-05-02",
+  "startTime": "2010-05-02T17:35:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "11-14"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "8-16"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264173",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264173/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.837289Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.837291Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-05-03-red-sox-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2004-05-03",
+  "startTime": "2004-05-03T23:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "11-13"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "15-10"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.654,
+    "rankGapFactor": 0.283,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20393",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20393/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.480436Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.480441Z"
+}

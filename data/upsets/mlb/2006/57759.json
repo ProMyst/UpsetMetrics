@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-10-08-padres-at-cardinals",
+  "sport": "mlb",
+  "date": "2006-10-08",
+  "startTime": "2006-10-09T00:05:00Z",
+  "season": "2006",
+  "event": "NL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "3-1"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "1-3"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "57759",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/57759/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.716509Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.716511Z"
+}

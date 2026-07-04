@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-08-14-mariners-at-rangers",
+  "sport": "mlb",
+  "date": "2022-08-14",
+  "startTime": "2022-08-14T18:35:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "51-63"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "62-54"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.518,
+    "rankGapFactor": 0.174,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661789",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661789/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.147788Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.147790Z"
+}

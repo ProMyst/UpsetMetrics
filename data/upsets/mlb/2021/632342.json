@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-09-25-astros-at-athletics",
+  "sport": "mlb",
+  "date": "2021-09-25",
+  "startTime": "2021-09-25T20:07:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "84-71"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "91-64"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.413,
+    "rankGapFactor": 0.09,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "632342",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/632342/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.285822Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.285824Z"
+}

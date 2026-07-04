@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-07-27-pirates-at-mets",
+  "sport": "mlb",
+  "date": "2019-07-27",
+  "startTime": "2019-07-27T23:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "49-55"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "46-58"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566037",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566037/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.359997Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.359998Z"
+}

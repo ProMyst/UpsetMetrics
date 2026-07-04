@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-07-03-cubs-at-pirates",
+  "sport": "mlb",
+  "date": "2019-07-03",
+  "startTime": "2019-07-03T23:05:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "42-43"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "45-42"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.358,
+    "rankGapFactor": 0.046,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566218",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566218/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.324306Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.324307Z"
+}

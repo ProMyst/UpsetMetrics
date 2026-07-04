@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-09-13-brewers-at-reds",
+  "sport": "mlb",
+  "date": "2016-09-13",
+  "startTime": "2016-09-13T23:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "62-82"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "64-81"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.327,
+    "rankGapFactor": 0.022,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "449027",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/449027/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.367470Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.367471Z"
+}

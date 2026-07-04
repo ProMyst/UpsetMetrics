@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-09-01-reds-at-pirates",
+  "sport": "mlb",
+  "date": "2017-09-01",
+  "startTime": "2017-09-01T23:05:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "58-77"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "63-72"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.393,
+    "rankGapFactor": 0.074,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "492106",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/492106/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.316064Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.316065Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-03-25-rockies-at-twins",
+  "sport": "mlb",
+  "date": "2025-03-25",
+  "startTime": "2025-03-25T17:05:00Z",
+  "season": "2025",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "13-15"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "17-15"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.467,
+    "rankGapFactor": 0.134,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "787943",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/787943/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.688280Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.688282Z"
+}

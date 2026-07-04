@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-10-08-yankees-at-twins",
+  "sport": "mlb",
+  "date": "2004-10-08",
+  "startTime": "2004-10-09T00:00:00Z",
+  "season": "2004",
+  "event": "AL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "2-1"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "1-2"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "22562",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/22562/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.910703Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.910705Z"
+}

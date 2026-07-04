@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-05-27-angels-at-twins",
+  "sport": "mlb",
+  "date": "2011-05-27",
+  "startTime": "2011-05-28T00:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "27-26"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "16-33"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287656",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287656/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.135236Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.135238Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-07-22-padres-at-cubs",
+  "sport": "mlb",
+  "date": "2014-07-22",
+  "startTime": "2014-07-23T00:05:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "41-57"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "43-56"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.34,
+    "rankGapFactor": 0.032,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382039",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382039/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.151870Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.151872Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-05-12-athletics-at-tigers",
+  "sport": "mlb",
+  "date": "2022-05-12",
+  "startTime": "2022-05-12T17:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "14-19"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "9-23"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662872",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662872/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.891913Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.891915Z"
+}

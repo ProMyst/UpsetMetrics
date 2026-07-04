@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-07-25-orioles-at-marlins",
+  "sport": "mlb",
+  "date": "2024-07-25",
+  "startTime": "2024-07-25T16:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "61-41"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "37-66"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746037",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746037/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.998336Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.998338Z"
+}

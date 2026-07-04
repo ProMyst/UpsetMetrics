@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-07-31-rangers-at-blue-jays",
+  "sport": "mlb",
+  "date": "2011-07-31",
+  "startTime": "2011-07-31T17:07:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "55-53"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "61-48"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.426,
+    "rankGapFactor": 0.101,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288519",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288519/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.309209Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.309211Z"
+}

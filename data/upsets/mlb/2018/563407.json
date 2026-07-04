@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-10-23-dodgers-at-red-sox",
+  "sport": "mlb",
+  "date": "2018-10-23",
+  "startTime": "2018-10-24T00:09:00Z",
+  "season": "2018",
+  "event": "World Series",
+  "stakes": "World Series",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 1.0,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "563407",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/563407/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.990606Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.990607Z"
+}

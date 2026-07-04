@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-05-25-rockies-at-giants",
+  "sport": "mlb",
+  "date": "2013-05-25",
+  "startTime": "2013-05-25T20:05:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "27-22"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "27-22"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347468",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347468/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.258026Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.258029Z"
+}

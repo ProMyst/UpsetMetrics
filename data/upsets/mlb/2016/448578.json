@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-08-11-yankees-at-red-sox",
+  "sport": "mlb",
+  "date": "2016-08-11",
+  "startTime": "2016-08-11T23:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "58-56"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "61-52"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.378,
+    "rankGapFactor": 0.062,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448578",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448578/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.310540Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.310541Z"
+}

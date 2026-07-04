@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-06-03-orioles-at-athletics",
+  "sport": "mlb",
+  "date": "2001-06-03",
+  "startTime": "2001-06-03T20:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "27-28"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "26-29"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7534",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7534/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.135716Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.135718Z"
+}

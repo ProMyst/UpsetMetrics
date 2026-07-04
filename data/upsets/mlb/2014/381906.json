@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-07-09-twins-at-mariners",
+  "sport": "mlb",
+  "date": "2014-07-09",
+  "startTime": "2014-07-10T02:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "41-49"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "49-42"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.507,
+    "rankGapFactor": 0.166,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381906",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381906/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.136100Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.136102Z"
+}

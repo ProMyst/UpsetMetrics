@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-04-08-astros-at-angels",
+  "sport": "mlb",
+  "date": "2022-04-08",
+  "startTime": "2022-04-09T01:38:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "2-0"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "0-2"
+  },
+  "finalScore": "13-6",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661041",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661041/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.799064Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.799066Z"
+}

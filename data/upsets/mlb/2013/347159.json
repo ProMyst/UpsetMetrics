@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-05-01-reds-at-cardinals",
+  "sport": "mlb",
+  "date": "2013-05-01",
+  "startTime": "2013-05-01T17:45:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "16-11"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "15-14"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347159",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347159/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.193964Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.193966Z"
+}

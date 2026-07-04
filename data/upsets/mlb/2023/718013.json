@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-05-26-blue-jays-at-twins",
+  "sport": "mlb",
+  "date": "2023-05-26",
+  "startTime": "2023-05-27T00:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "27-25"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "26-25"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718013",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718013/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.711674Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.711676Z"
+}

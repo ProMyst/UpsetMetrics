@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-07-02-orioles-at-braves",
+  "sport": "mlb",
+  "date": "2006-07-02",
+  "startTime": "2006-07-02T17:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "35-47"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "38-45"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.378,
+    "rankGapFactor": 0.062,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41153",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41153/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.469736Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.469738Z"
+}

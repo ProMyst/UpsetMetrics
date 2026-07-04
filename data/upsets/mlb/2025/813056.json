@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-10-07-mariners-at-tigers",
+  "sport": "mlb",
+  "date": "2025-10-07",
+  "startTime": "2025-10-07T20:08:00Z",
+  "season": "2025",
+  "event": "AL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "2-1"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "1-2"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "813056",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/813056/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.188942Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.188944Z"
+}

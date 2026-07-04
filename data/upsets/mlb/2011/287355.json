@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-05-04-nationals-at-phillies",
+  "sport": "mlb",
+  "date": "2011-05-04",
+  "startTime": "2011-05-04T23:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "20-9"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "14-16"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287355",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287355/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.072319Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.072321Z"
+}

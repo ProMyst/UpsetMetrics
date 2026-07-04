@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-03-21-astros-at-tigers",
+  "sport": "mlb",
+  "date": "2006-03-21",
+  "startTime": "2006-03-21T23:05:00Z",
+  "season": "2006",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "14-9"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "7-12"
+  },
+  "finalScore": "10-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "47395",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/47395/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.182472Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.182474Z"
+}

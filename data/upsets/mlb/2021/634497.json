@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-04-21-orioles-at-marlins",
+  "sport": "mlb",
+  "date": "2021-04-21",
+  "startTime": "2021-04-21T17:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "8-10"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "8-10"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "634497",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/634497/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.860638Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.860640Z"
+}

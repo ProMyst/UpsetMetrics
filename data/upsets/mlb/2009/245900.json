@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-08-12-padres-at-brewers",
+  "sport": "mlb",
+  "date": "2009-08-12",
+  "startTime": "2009-08-13T00:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "49-66"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "55-58"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.452,
+    "rankGapFactor": 0.121,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245900",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245900/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.878902Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.878904Z"
+}

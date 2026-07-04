@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-09-28-giants-at-padres",
+  "sport": "mlb",
+  "date": "2012-09-28",
+  "startTime": "2012-09-29T02:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "92-65"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "74-83"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "320086",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/320086/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.712277Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.712279Z"
+}

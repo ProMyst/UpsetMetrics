@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-07-23-mets-at-mariners",
+  "sport": "mlb",
+  "date": "2014-07-23",
+  "startTime": "2014-07-23T19:40:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "48-53"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "53-48"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.424,
+    "rankGapFactor": 0.099,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382053",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382053/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.154089Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.154090Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-04-06-yankees-at-tampa-bay-devil-rays",
+  "sport": "mlb",
+  "date": "2003-04-06",
+  "startTime": "2003-04-06T17:15:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "5-1"
+  },
+  "loser": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "2-5"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16467",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16467/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.385907Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-tampa-bay-devil-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.385914Z"
+}

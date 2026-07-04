@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-08-11-reds-at-phillies",
+  "sport": "mlb",
+  "date": "2006-08-11",
+  "startTime": "2006-08-11T23:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "56-58"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "59-57"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.343,
+    "rankGapFactor": 0.035,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41668",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41668/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.570504Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.570506Z"
+}

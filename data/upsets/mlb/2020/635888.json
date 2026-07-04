@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-10-18-braves-at-dodgers",
+  "sport": "mlb",
+  "date": "2020-10-18",
+  "startTime": "2020-10-19T00:15:00Z",
+  "season": "2020",
+  "event": "NL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "4-3"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "3-4"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "635888",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/635888/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.712731Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.712733Z"
+}

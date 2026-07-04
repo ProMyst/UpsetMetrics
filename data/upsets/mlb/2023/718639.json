@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-04-09-dodgers-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2023-04-09",
+  "startTime": "2023-04-09T20:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "6-4"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "5-5"
+  },
+  "finalScore": "11-6",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718639",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718639/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.587162Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.587164Z"
+}

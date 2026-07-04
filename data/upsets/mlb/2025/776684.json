@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-08-19-orioles-at-red-sox",
+  "sport": "mlb",
+  "date": "2025-08-19",
+  "startTime": "2025-08-19T23:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "59-67"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "68-59"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.468,
+    "rankGapFactor": 0.134,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776684",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776684/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.078311Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.078313Z"
+}

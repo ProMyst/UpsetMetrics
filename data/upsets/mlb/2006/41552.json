@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-08-03-cleveland-indians-at-red-sox",
+  "sport": "mlb",
+  "date": "2006-08-03",
+  "startTime": "2006-08-03T23:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "47-60"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "64-43"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.697,
+    "rankGapFactor": 0.318,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41552",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41552/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.549266Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.549271Z"
+}

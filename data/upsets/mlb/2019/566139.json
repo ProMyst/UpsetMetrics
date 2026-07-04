@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-07-30-brewers-at-athletics",
+  "sport": "mlb",
+  "date": "2019-07-30",
+  "startTime": "2019-07-31T02:07:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "62-47"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "56-52"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566139",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566139/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.365314Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.365315Z"
+}

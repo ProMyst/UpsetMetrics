@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-05-10-red-sox-at-blue-jays",
+  "sport": "mlb",
+  "date": "2011-05-10",
+  "startTime": "2011-05-10T23:07:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "16-20"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "17-19"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.369,
+    "rankGapFactor": 0.056,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287422",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287422/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.087522Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.087524Z"
+}

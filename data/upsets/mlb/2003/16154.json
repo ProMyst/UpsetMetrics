@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-05-13-florida-marlins-at-padres",
+  "sport": "mlb",
+  "date": "2003-05-13",
+  "startTime": "2003-05-14T02:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "13-26"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "18-23"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.564,
+    "rankGapFactor": 0.211,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16154",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16154/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.491669Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.491674Z"
+}

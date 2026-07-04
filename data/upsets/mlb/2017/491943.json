@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-08-20-diamondbacks-at-twins",
+  "sport": "mlb",
+  "date": "2017-08-20",
+  "startTime": "2017-08-20T18:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "63-59"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "67-57"
+  },
+  "finalScore": "12-5",
+  "factors": {
+    "pregameOddsFactor": 0.36,
+    "rankGapFactor": 0.048,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491943",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491943/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.295821Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.295822Z"
+}

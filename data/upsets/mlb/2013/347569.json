@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-06-01-diamondbacks-at-cubs",
+  "sport": "mlb",
+  "date": "2013-06-01",
+  "startTime": "2013-06-01T23:15:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "31-24"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "23-31"
+  },
+  "finalScore": "12-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347569",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347569/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.280927Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.280929Z"
+}

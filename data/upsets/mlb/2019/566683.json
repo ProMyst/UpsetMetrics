@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-10-yankees-at-rays",
+  "sport": "mlb",
+  "date": "2019-05-10",
+  "startTime": "2019-05-10T23:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "23-15"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "23-14"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.341,
+    "rankGapFactor": 0.033,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566683",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566683/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.226151Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.226152Z"
+}

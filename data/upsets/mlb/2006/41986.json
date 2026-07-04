@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-03-cleveland-indians-at-rangers",
+  "sport": "mlb",
+  "date": "2006-09-03",
+  "startTime": "2006-09-03T18:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "70-68"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "65-70"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41986",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41986/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.634388Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.634393Z"
+}

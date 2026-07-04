@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-06-21-diamondbacks-at-blue-jays",
+  "sport": "mlb",
+  "date": "2016-06-21",
+  "startTime": "2016-06-21T23:07:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "34-39"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "39-34"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.471,
+    "rankGapFactor": 0.137,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447921",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447921/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.219407Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.219408Z"
+}

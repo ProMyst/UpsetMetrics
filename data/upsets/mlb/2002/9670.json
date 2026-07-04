@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-06-22-orioles-at-giants",
+  "sport": "mlb",
+  "date": "2002-06-22",
+  "startTime": "2002-06-22T20:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "34-38"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "41-31"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.543,
+    "rankGapFactor": 0.194,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9670",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9670/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.853483Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.853485Z"
+}

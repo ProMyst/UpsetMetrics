@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-10-10-braves-at-astros",
+  "sport": "mlb",
+  "date": "2004-10-10",
+  "startTime": "2004-10-10T17:00:00Z",
+  "season": "2004",
+  "event": "NL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "2-2"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "2-2"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "22579",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/22579/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.911456Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.911458Z"
+}

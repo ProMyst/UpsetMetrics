@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-05-29-giants-at-dodgers",
+  "sport": "mlb",
+  "date": "2021-05-29",
+  "startTime": "2021-05-29T23:15:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "32-20"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "31-21"
+  },
+  "finalScore": "11-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633938",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633938/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.966613Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.966615Z"
+}

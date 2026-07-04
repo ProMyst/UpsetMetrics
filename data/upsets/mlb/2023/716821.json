@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-08-27-reds-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2023-08-27",
+  "startTime": "2023-08-27T20:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "69-62"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "68-64"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716821",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716821/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.954943Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.954946Z"
+}

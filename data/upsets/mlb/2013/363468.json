@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-03-28-mariners-at-cubs",
+  "sport": "mlb",
+  "date": "2013-03-28",
+  "startTime": "2013-03-28T19:05:00Z",
+  "season": "2013",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "21-11"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "16-18"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "363468",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/363468/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.103400Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.103403Z"
+}

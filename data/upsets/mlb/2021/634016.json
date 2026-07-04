@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-05-21-diamondbacks-at-rockies",
+  "sport": "mlb",
+  "date": "2021-05-21",
+  "startTime": "2021-05-22T00:40:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "16-29"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "18-28"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.389,
+    "rankGapFactor": 0.071,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "634016",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/634016/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.944711Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.944713Z"
+}

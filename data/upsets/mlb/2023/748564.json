@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-10-11-braves-at-phillies",
+  "sport": "mlb",
+  "date": "2023-10-11",
+  "startTime": "2023-10-11T21:07:00Z",
+  "season": "2023",
+  "event": "NL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "2-1"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "1-2"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "748564",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/748564/feed/live",
+    "retrievedAt": "2026-07-04T06:02:57.052645Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:57.052647Z"
+}

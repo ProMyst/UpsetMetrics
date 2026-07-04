@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-08-03-red-sox-at-astros",
+  "sport": "mlb",
+  "date": "2022-08-03",
+  "startTime": "2022-08-03T18:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "68-38"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "53-53"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662725",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662725/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.117588Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.117590Z"
+}

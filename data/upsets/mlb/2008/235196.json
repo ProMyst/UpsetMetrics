@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-07-18-cleveland-indians-at-mariners",
+  "sport": "mlb",
+  "date": "2008-07-18",
+  "startTime": "2008-07-19T02:10:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "38-58"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "41-54"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.389,
+    "rankGapFactor": 0.071,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235196",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235196/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.996503Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.996508Z"
+}

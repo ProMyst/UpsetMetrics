@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-06-19-dodgers-at-cubs",
+  "sport": "mlb",
+  "date": "2018-06-19",
+  "startTime": "2018-06-20T00:05:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "41-29"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "38-34"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530495",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530495/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.804782Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.804783Z"
+}

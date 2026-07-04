@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-06-02-rockies-at-dodgers",
+  "sport": "mlb",
+  "date": "2008-06-02",
+  "startTime": "2008-06-03T02:10:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "28-29"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "20-38"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234626",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234626/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.875779Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.875784Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-07-04-twins-at-royals",
+  "sport": "mlb",
+  "date": "2006-07-04",
+  "startTime": "2006-07-05T00:10:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "28-54"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "46-36"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.849,
+    "rankGapFactor": 0.439,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41187",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41187/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.477932Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.477934Z"
+}

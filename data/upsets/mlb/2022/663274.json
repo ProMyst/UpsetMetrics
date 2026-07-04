@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-08-11-orioles-at-red-sox",
+  "sport": "mlb",
+  "date": "2022-08-11",
+  "startTime": "2022-08-11T23:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "55-58"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "58-53"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.389,
+    "rankGapFactor": 0.072,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "663274",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/663274/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.139842Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.139844Z"
+}

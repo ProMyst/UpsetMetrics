@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-04-03-dodgers-at-angels",
+  "sport": "mlb",
+  "date": "2022-04-03",
+  "startTime": "2022-04-04T01:05:00Z",
+  "season": "2022",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "10-5"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "4-8"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "706937",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/706937/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.788252Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.788254Z"
+}

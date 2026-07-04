@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-10-03-angels-at-mariners",
+  "sport": "mlb",
+  "date": "2021-10-03",
+  "startTime": "2021-10-03T19:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "77-85"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "90-72"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.501,
+    "rankGapFactor": 0.16,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "632237",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/632237/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.308706Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.308708Z"
+}

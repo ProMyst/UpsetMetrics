@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-09-05-mets-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2011-09-05",
+  "startTime": "2011-09-05T23:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "63-77"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "68-71"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.398,
+    "rankGapFactor": 0.078,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "289009",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/289009/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.411380Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.411388Z"
+}

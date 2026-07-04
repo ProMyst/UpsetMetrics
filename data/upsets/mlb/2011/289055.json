@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-09-09-florida-marlins-at-pirates",
+  "sport": "mlb",
+  "date": "2011-09-09",
+  "startTime": "2011-09-09T23:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "64-79"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "66-78"
+  },
+  "finalScore": "13-4",
+  "factors": {
+    "pregameOddsFactor": 0.327,
+    "rankGapFactor": 0.022,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "289055",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/289055/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.420575Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.420581Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-09-21-braves-at-tigers",
+  "sport": "mlb",
+  "date": "2025-09-21",
+  "startTime": "2025-09-21T17:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "73-83"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "85-71"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.492,
+    "rankGapFactor": 0.154,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776238",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776238/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.165251Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.165254Z"
+}

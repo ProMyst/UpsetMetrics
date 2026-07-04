@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-03-24-giants-at-athletics",
+  "sport": "mlb",
+  "date": "2019-03-24",
+  "startTime": "2019-03-24T20:05:00Z",
+  "season": "2019",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "12-8"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "13-14"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566085",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566085/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.126954Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.126957Z"
+}

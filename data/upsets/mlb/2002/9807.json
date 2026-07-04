@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-07-02-royals-at-mariners",
+  "sport": "mlb",
+  "date": "2002-07-02",
+  "startTime": "2002-07-03T02:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "32-48"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "52-31"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.866,
+    "rankGapFactor": 0.453,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9807",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9807/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.883790Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.883791Z"
+}

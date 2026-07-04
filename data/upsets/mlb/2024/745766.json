@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-04-06-blue-jays-at-yankees",
+  "sport": "mlb",
+  "date": "2024-04-06",
+  "startTime": "2024-04-06T23:05:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "7-2"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "4-5"
+  },
+  "finalScore": "9-8",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745766",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745766/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.711887Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.711889Z"
+}

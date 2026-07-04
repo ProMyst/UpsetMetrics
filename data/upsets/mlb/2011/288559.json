@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-08-03-rangers-at-tigers",
+  "sport": "mlb",
+  "date": "2011-08-03",
+  "startTime": "2011-08-03T23:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "59-51"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "61-50"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.333,
+    "rankGapFactor": 0.026,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288559",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288559/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.317831Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.317833Z"
+}

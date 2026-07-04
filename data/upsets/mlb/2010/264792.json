@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-06-16-rockies-at-twins",
+  "sport": "mlb",
+  "date": "2010-06-16",
+  "startTime": "2010-06-17T00:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "38-27"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "33-32"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264792",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264792/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.961059Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.961061Z"
+}

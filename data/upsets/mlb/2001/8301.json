@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-08-09-diamondbacks-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2001-08-09",
+  "startTime": "2001-08-09T17:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "58-56"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "63-51"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.41,
+    "rankGapFactor": 0.088,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8301",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8301/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.319054Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.319059Z"
+}

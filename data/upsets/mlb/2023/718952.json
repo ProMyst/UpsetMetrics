@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-03-26-pirates-at-braves",
+  "sport": "mlb",
+  "date": "2023-03-26",
+  "startTime": "2023-03-26T17:05:00Z",
+  "season": "2023",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "16-10"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "9-16"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718952",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718952/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.549839Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.549841Z"
+}

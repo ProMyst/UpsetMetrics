@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-09-27-diamondbacks-at-nationals",
+  "sport": "mlb",
+  "date": "2016-09-27",
+  "startTime": "2016-09-27T23:05:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "92-65"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "65-92"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "449211",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/449211/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.390582Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.390583Z"
+}

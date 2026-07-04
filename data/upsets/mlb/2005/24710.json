@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-09-06-cubs-at-cardinals",
+  "sport": "mlb",
+  "date": "2005-09-06",
+  "startTime": "2005-09-07T00:10:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "67-71"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "88-51"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.669,
+    "rankGapFactor": 0.295,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24710",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24710/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.789528Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.789530Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-09-22-rockies-at-dodgers",
+  "sport": "mlb",
+  "date": "2016-09-22",
+  "startTime": "2016-09-23T02:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "87-66"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "73-80"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "449148",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/449148/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.383205Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.383206Z"
+}

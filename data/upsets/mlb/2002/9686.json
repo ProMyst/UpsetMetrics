@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-07-26-dodgers-at-giants",
+  "sport": "mlb",
+  "date": "2002-07-26",
+  "startTime": "2002-07-27T02:35:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "58-45"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "57-46"
+  },
+  "finalScore": "11-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9686",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9686/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.949915Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.949917Z"
+}

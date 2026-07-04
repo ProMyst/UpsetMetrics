@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-08-15-rays-at-blue-jays",
+  "sport": "mlb",
+  "date": "2020-08-15",
+  "startTime": "2020-08-16T17:07:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "13-9"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "7-10"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "630905",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/630905/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.575612Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.575614Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-05-11-braves-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2006-05-11",
+  "startTime": "2006-05-11T23:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "15-19"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "9-23"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40455",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40455/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.323617Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.323622Z"
+}

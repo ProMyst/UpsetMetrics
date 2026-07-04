@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-07-31-dodgers-at-padres",
+  "sport": "mlb",
+  "date": "2024-07-31",
+  "startTime": "2024-08-01T00:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "59-51"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "63-46"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.404,
+    "rankGapFactor": 0.083,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745386",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745386/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.015902Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.015904Z"
+}

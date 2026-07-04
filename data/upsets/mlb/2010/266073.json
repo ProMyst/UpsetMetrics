@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-09-22-rockies-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2010-09-22",
+  "startTime": "2010-09-23T01:40:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "61-91"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "82-69"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.654,
+    "rankGapFactor": 0.283,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "266073",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/266073/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.222417Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.222419Z"
+}

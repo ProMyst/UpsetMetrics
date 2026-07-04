@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-07-06-mariners-at-athletics",
+  "sport": "mlb",
+  "date": "2012-07-06",
+  "startTime": "2012-07-07T02:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "42-42"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "35-50"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318984",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318984/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.491994Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.491996Z"
+}

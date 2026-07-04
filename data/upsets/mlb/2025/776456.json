@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-09-05-phillies-at-marlins",
+  "sport": "mlb",
+  "date": "2025-09-05",
+  "startTime": "2025-09-05T23:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "82-59"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "65-76"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776456",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776456/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.123013Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.123014Z"
+}

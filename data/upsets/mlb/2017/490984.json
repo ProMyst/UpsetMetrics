@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-06-07-marlins-at-cubs",
+  "sport": "mlb",
+  "date": "2017-06-07",
+  "startTime": "2017-06-08T00:05:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "25-33"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "30-28"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.516,
+    "rankGapFactor": 0.172,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490984",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490984/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.167529Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.167530Z"
+}

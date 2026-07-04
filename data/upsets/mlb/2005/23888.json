@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-07-06-phillies-at-pirates",
+  "sport": "mlb",
+  "date": "2005-07-06",
+  "startTime": "2005-07-06T23:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "43-42"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "36-47"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23888",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23888/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.619135Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.619136Z"
+}

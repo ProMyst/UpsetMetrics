@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-03-25-tigers-at-blue-jays",
+  "sport": "mlb",
+  "date": "2023-03-25",
+  "startTime": "2023-03-25T22:07:00Z",
+  "season": "2023",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "13-16"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "17-12"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.645,
+    "rankGapFactor": 0.276,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718961",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718961/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.548272Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.548274Z"
+}

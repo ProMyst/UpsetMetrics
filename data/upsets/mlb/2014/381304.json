@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-05-26-padres-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2014-05-26",
+  "startTime": "2014-05-27T00:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "21-32"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "23-29"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.415,
+    "rankGapFactor": 0.092,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381304",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381304/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.053666Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.053667Z"
+}

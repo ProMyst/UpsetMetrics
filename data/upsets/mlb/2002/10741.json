@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-04-05-cardinals-at-astros",
+  "sport": "mlb",
+  "date": "2002-04-05",
+  "startTime": "2002-04-06T01:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "2-2"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "2-2"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10741",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10741/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.636073Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.636076Z"
+}

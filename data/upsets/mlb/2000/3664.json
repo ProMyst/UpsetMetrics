@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-08-05-mariners-at-yankees",
+  "sport": "mlb",
+  "date": "2000-08-05",
+  "startTime": "2000-08-05T20:35:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "63-46"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "59-46"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "3664",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/3664/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.755928Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.755930Z"
+}

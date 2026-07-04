@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-03-24-cubs-at-padres",
+  "sport": "mlb",
+  "date": "2019-03-24",
+  "startTime": "2019-03-24T19:10:00Z",
+  "season": "2019",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "17-13"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "16-11"
+  },
+  "finalScore": "24-6",
+  "factors": {
+    "pregameOddsFactor": 0.365,
+    "rankGapFactor": 0.052,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566274",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566274/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.126439Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.126442Z"
+}

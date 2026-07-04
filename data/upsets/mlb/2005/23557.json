@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-06-11-yankees-at-cardinals",
+  "sport": "mlb",
+  "date": "2005-06-11",
+  "startTime": "2005-06-11T19:15:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "30-31"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "39-22"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.669,
+    "rankGapFactor": 0.295,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23557",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23557/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.549479Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.549481Z"
+}

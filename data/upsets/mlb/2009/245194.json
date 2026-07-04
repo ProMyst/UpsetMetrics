@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-06-18-nationals-at-yankees",
+  "sport": "mlb",
+  "date": "2009-06-18",
+  "startTime": "2009-06-18T17:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "19-46"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "37-29"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.971,
+    "rankGapFactor": 0.537,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245194",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245194/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.731349Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.731351Z"
+}

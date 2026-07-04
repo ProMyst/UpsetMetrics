@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-06-16-brewers-at-dodgers",
+  "sport": "mlb",
+  "date": "2016-06-16",
+  "startTime": "2016-06-17T02:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "31-36"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "35-33"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.43,
+    "rankGapFactor": 0.104,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447860",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447860/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.212036Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.212037Z"
+}

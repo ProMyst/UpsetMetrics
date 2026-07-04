@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-09-15-cubs-at-reds",
+  "sport": "mlb",
+  "date": "2002-09-15",
+  "startTime": "2002-09-15T17:15:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "64-86"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "73-76"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.458,
+    "rankGapFactor": 0.127,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "11058",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/11058/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.091113Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.091115Z"
+}

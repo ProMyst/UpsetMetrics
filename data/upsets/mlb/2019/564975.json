@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-07-14-rays-at-orioles",
+  "sport": "mlb",
+  "date": "2019-07-14",
+  "startTime": "2019-07-14T17:05:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "55-40"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "28-65"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "564975",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/564975/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.336878Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.336880Z"
+}

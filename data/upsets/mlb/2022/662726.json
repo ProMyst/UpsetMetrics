@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-05-18-white-sox-at-royals",
+  "sport": "mlb",
+  "date": "2022-05-18",
+  "startTime": "2022-05-19T00:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "14-22"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "18-19"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.544,
+    "rankGapFactor": 0.195,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662726",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662726/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.910489Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.910491Z"
+}

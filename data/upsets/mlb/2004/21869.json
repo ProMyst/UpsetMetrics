@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-08-22-mariners-at-tigers",
+  "sport": "mlb",
+  "date": "2004-08-22",
+  "startTime": "2004-08-22T17:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "46-76"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "58-65"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.536,
+    "rankGapFactor": 0.189,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21869",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21869/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.785028Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.785030Z"
+}

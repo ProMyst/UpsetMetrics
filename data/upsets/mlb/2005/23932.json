@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-07-09-reds-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2005-07-09",
+  "startTime": "2005-07-10T01:40:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "35-52"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "42-47"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.474,
+    "rankGapFactor": 0.139,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23932",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23932/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.629841Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.629843Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-05-24-cardinals-at-pirates",
+  "sport": "mlb",
+  "date": "2002-05-24",
+  "startTime": "2002-05-24T23:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "22-25"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "26-22"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.484,
+    "rankGapFactor": 0.147,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9949",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9949/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.774959Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.774961Z"
+}

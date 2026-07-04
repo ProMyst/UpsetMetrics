@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-05-22-twins-at-orioles",
+  "sport": "mlb",
+  "date": "2017-05-22",
+  "startTime": "2017-05-22T23:05:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "23-18"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "25-18"
+  },
+  "finalScore": "14-7",
+  "factors": {
+    "pregameOddsFactor": 0.351,
+    "rankGapFactor": 0.041,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490769",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490769/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.138796Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.138798Z"
+}

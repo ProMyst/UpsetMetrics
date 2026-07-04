@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-05-14-phillies-at-mets",
+  "sport": "mlb",
+  "date": "2024-05-14",
+  "startTime": "2024-05-14T17:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "30-13"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "19-22"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745821",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745821/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.812762Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.812764Z"
+}

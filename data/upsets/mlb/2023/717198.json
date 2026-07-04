@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-07-30-twins-at-royals",
+  "sport": "mlb",
+  "date": "2023-07-30",
+  "startTime": "2023-07-30T18:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "32-75"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "54-53"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.814,
+    "rankGapFactor": 0.411,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717198",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717198/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.879943Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.879945Z"
+}

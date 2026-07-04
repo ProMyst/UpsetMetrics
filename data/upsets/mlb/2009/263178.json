@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-10-21-dodgers-at-phillies",
+  "sport": "mlb",
+  "date": "2009-10-21",
+  "startTime": "2009-10-22T00:07:00Z",
+  "season": "2009",
+  "event": "NL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "4-1"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "1-4"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "263178",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/263178/feed/live",
+    "retrievedAt": "2026-07-04T06:20:14.028717Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:14.028719Z"
+}

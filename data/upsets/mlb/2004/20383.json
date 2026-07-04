@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-05-02-cubs-at-cardinals",
+  "sport": "mlb",
+  "date": "2004-05-02",
+  "startTime": "2004-05-02T18:15:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "13-12"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "14-10"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.458,
+    "rankGapFactor": 0.127,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20383",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20383/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.478574Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.478576Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-08-22-orioles-at-tampa-bay-devil-rays",
+  "sport": "mlb",
+  "date": "2001-08-22",
+  "startTime": "2001-08-22T23:15:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "46-81"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "53-73"
+  },
+  "finalScore": "11-10",
+  "factors": {
+    "pregameOddsFactor": 0.446,
+    "rankGapFactor": 0.117,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8464",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8464/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.355507Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-tampa-bay-devil-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.355512Z"
+}

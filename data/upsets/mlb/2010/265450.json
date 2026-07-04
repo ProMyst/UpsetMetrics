@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-08-07-angels-at-tigers",
+  "sport": "mlb",
+  "date": "2010-08-07",
+  "startTime": "2010-08-07T23:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "56-56"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "53-57"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265450",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265450/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.096367Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.096369Z"
+}

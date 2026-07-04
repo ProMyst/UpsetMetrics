@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-09-13-cardinals-at-reds",
+  "sport": "mlb",
+  "date": "2007-09-13",
+  "startTime": "2007-09-13T16:35:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "67-79"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "69-75"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.351,
+    "rankGapFactor": 0.041,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "70319",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/70319/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.571168Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.571170Z"
+}

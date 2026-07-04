@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-05-20-rangers-at-astros",
+  "sport": "mlb",
+  "date": "2022-05-20",
+  "startTime": "2022-05-21T00:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "18-20"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "25-15"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.678,
+    "rankGapFactor": 0.303,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662764",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662764/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.913869Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.913871Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-06-09-mariners-at-angels",
+  "sport": "mlb",
+  "date": "2019-06-09",
+  "startTime": "2019-06-09T20:07:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "28-41"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "31-35"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.46,
+    "rankGapFactor": 0.128,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "564768",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/564768/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.281526Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.281527Z"
+}

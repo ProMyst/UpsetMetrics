@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-05-01-royals-at-rangers",
+  "sport": "mlb",
+  "date": "2008-05-01",
+  "startTime": "2008-05-01T18:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "11-18"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "12-16"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.423,
+    "rankGapFactor": 0.099,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234181",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234181/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.786338Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.786340Z"
+}

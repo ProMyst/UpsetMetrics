@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-08-25-athletics-at-mariners",
+  "sport": "mlb",
+  "date": "2015-08-25",
+  "startTime": "2015-08-26T02:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "58-68"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "55-72"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415527",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415527/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.012481Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.012482Z"
+}

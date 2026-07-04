@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-09-06-padres-at-athletics",
+  "sport": "mlb",
+  "date": "2020-09-06",
+  "startTime": "2020-09-06T20:10:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "25-17"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "23-14"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.366,
+    "rankGapFactor": 0.053,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "631158",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/631158/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.639009Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.639011Z"
+}

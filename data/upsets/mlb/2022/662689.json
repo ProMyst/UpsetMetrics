@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-06-04-astros-at-royals",
+  "sport": "mlb",
+  "date": "2022-06-04",
+  "startTime": "2022-06-04T20:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "17-34"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "34-19"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.616,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662689",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662689/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.956957Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.956959Z"
+}

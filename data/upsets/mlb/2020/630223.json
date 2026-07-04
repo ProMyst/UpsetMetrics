@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-09-10-dodgers-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2020-09-10",
+  "startTime": "2020-09-11T01:40:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "16-29"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "32-13"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.711,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "630223",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/630223/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.651275Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.651277Z"
+}

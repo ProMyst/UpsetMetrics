@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-05-27-phillies-at-dodgers",
+  "sport": "mlb",
+  "date": "2000-05-27",
+  "startTime": "2000-05-28T02:10:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "17-30"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "26-20"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.809,
+    "rankGapFactor": 0.407,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4143",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4143/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.565658Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.565660Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-06-05-royals-at-angels",
+  "sport": "mlb",
+  "date": "2018-06-05",
+  "startTime": "2018-06-06T02:07:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "34-28"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "21-40"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530309",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530309/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.782417Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.782418Z"
+}

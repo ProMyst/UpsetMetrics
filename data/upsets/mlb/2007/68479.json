@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-04-28-orioles-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2007-04-28",
+  "startTime": "2007-04-28T23:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "12-12"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "13-8"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.598,
+    "rankGapFactor": 0.238,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68479",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68479/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.196411Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.196416Z"
+}

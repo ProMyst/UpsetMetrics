@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-04-14-pirates-at-giants",
+  "sport": "mlb",
+  "date": "2012-04-14",
+  "startTime": "2012-04-15T01:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "4-4"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "2-6"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "317854",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/317854/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.261564Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.261566Z"
+}

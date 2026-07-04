@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-05-19-padres-at-dodgers",
+  "sport": "mlb",
+  "date": "2010-05-19",
+  "startTime": "2010-05-20T02:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "24-16"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "22-18"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264411",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264411/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.886053Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.886055Z"
+}

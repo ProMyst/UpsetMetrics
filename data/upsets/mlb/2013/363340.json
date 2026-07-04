@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-03-20-red-sox-at-yankees",
+  "sport": "mlb",
+  "date": "2013-03-20",
+  "startTime": "2013-03-20T17:05:00Z",
+  "season": "2013",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "10-15"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "13-12"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.6,
+    "rankGapFactor": 0.24,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "363340",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/363340/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.069930Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.069934Z"
+}

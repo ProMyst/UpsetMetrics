@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-03-23-rockies-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2017-03-23",
+  "startTime": "2017-03-23T20:05:00Z",
+  "season": "2017",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "12-13"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "13-12"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.4,
+    "rankGapFactor": 0.08,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "509643",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/509643/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.018103Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.018109Z"
+}

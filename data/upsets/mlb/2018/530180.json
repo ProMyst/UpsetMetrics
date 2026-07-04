@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-05-26-giants-at-cubs",
+  "sport": "mlb",
+  "date": "2018-05-26",
+  "startTime": "2018-05-26T23:15:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "25-27"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "26-22"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.452,
+    "rankGapFactor": 0.122,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530180",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530180/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.763890Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.763891Z"
+}

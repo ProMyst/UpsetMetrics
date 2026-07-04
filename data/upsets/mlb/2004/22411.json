@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-10-01-brewers-at-cardinals",
+  "sport": "mlb",
+  "date": "2004-10-01",
+  "startTime": "2004-10-02T00:10:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "104-56"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "66-93"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "22411",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/22411/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.901753Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.901755Z"
+}

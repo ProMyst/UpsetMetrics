@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-08-25-pirates-at-brewers",
+  "sport": "mlb",
+  "date": "2018-08-25",
+  "startTime": "2018-08-25T23:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "64-66"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "72-59"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.443,
+    "rankGapFactor": 0.115,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531351",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531351/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.921319Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.921320Z"
+}

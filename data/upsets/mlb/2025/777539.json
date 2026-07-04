@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-06-13-angels-at-orioles",
+  "sport": "mlb",
+  "date": "2025-06-13",
+  "startTime": "2025-06-13T23:08:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "28-40"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "33-35"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.484,
+    "rankGapFactor": 0.147,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777539",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777539/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.900965Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.900967Z"
+}

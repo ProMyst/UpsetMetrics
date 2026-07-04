@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-06-15-royals-at-dodgers",
+  "sport": "mlb",
+  "date": "2024-06-15",
+  "startTime": "2024-06-16T01:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "41-31"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "43-29"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.369,
+    "rankGapFactor": 0.056,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746135",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746135/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.896685Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.896687Z"
+}

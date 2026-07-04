@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-09-11-blue-jays-at-orioles",
+  "sport": "mlb",
+  "date": "2021-09-11",
+  "startTime": "2021-09-11T20:40:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "79-63"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "46-96"
+  },
+  "finalScore": "11-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633331",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633331/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.247013Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.247015Z"
+}

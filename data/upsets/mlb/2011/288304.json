@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-07-16-royals-at-twins",
+  "sport": "mlb",
+  "date": "2011-07-16",
+  "startTime": "2011-07-16T23:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "43-49"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "38-56"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288304",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288304/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.269074Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.269076Z"
+}

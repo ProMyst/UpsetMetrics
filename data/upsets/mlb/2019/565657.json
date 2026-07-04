@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-07-23-athletics-at-astros",
+  "sport": "mlb",
+  "date": "2019-07-23",
+  "startTime": "2019-07-24T00:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "59-44"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "65-38"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.446,
+    "rankGapFactor": 0.117,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565657",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565657/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.353033Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.353034Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-06-15-reds-at-red-sox",
+  "sport": "mlb",
+  "date": "2005-06-15",
+  "startTime": "2005-06-15T23:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "36-29"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "26-39"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23599",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23599/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.560350Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.560352Z"
+}

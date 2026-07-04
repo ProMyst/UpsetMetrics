@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-04-24-mariners-at-white-sox",
+  "sport": "mlb",
+  "date": "2018-04-24",
+  "startTime": "2018-04-24T21:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "12-10"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "5-15"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "529757",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/529757/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.706637Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.706638Z"
+}

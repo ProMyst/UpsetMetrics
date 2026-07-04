@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-06-15-cardinals-at-cubs",
+  "sport": "mlb",
+  "date": "2024-06-15",
+  "startTime": "2024-06-15T18:20:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "34-37"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "34-35"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.335,
+    "rankGapFactor": 0.028,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746865",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746865/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.894335Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.894337Z"
+}

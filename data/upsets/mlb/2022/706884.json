@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-04-04-phillies-at-yankees",
+  "sport": "mlb",
+  "date": "2022-04-04",
+  "startTime": "2022-04-04T17:05:00Z",
+  "season": "2022",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "8-9"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "8-7"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.457,
+    "rankGapFactor": 0.125,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "706884",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/706884/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.789604Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.789606Z"
+}

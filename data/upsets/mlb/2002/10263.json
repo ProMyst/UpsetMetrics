@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-05-02-athletics-at-yankees",
+  "sport": "mlb",
+  "date": "2002-05-02",
+  "startTime": "2002-05-02T23:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "18-11"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "16-12"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10263",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10263/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.715404Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.715406Z"
+}

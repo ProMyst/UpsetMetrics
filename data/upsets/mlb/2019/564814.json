@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-09-29-astros-at-angels",
+  "sport": "mlb",
+  "date": "2019-09-29",
+  "startTime": "2019-09-29T19:07:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "107-55"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "72-90"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "564814",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/564814/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.466918Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.466919Z"
+}

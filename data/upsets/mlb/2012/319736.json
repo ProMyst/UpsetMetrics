@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-09-02-padres-at-rockies",
+  "sport": "mlb",
+  "date": "2012-09-02",
+  "startTime": "2012-09-02T19:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "55-77"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "62-73"
+  },
+  "finalScore": "11-10",
+  "factors": {
+    "pregameOddsFactor": 0.406,
+    "rankGapFactor": 0.085,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319736",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319736/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.640430Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.640432Z"
+}

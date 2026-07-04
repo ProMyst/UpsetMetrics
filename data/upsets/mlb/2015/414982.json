@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-07-12-athletics-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2015-07-12",
+  "startTime": "2015-07-12T17:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "41-50"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "42-46"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.367,
+    "rankGapFactor": 0.053,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414982",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414982/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.939952Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.939955Z"
+}

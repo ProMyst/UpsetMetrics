@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-09-03-pirates-at-braves",
+  "sport": "mlb",
+  "date": "2002-09-03",
+  "startTime": "2002-09-03T23:35:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "61-78"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "87-50"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.79,
+    "rankGapFactor": 0.392,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "11505",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/11505/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.056897Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.056899Z"
+}

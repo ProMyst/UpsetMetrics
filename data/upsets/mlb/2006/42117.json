@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-13-white-sox-at-angels",
+  "sport": "mlb",
+  "date": "2006-09-13",
+  "startTime": "2006-09-13T19:35:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "84-62"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "78-68"
+  },
+  "finalScore": "9-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42117",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42117/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.661732Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.661734Z"
+}

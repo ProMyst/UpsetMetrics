@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-07-05-astros-at-pirates",
+  "sport": "mlb",
+  "date": "2012-07-05",
+  "startTime": "2012-07-05T23:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "46-36"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "32-51"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318964",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318964/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.487257Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.487259Z"
+}

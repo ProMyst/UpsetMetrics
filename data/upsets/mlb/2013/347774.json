@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-06-16-red-sox-at-orioles",
+  "sport": "mlb",
+  "date": "2013-06-16",
+  "startTime": "2013-06-16T17:35:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "40-30"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "42-29"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.04,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347774",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347774/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.321154Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.321156Z"
+}

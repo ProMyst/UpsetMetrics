@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-05-07-tigers-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "2002-05-07",
+  "startTime": "2002-05-08T02:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "11-20"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "15-16"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.623,
+    "rankGapFactor": 0.258,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9278",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9278/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.729664Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.729669Z"
+}

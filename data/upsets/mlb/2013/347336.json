@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-05-15-astros-at-tigers",
+  "sport": "mlb",
+  "date": "2013-05-15",
+  "startTime": "2013-05-15T17:08:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "11-30"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "22-16"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.621,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347336",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347336/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.231008Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.231010Z"
+}

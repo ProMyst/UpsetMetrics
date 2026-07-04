@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-05-30-nationals-at-giants",
+  "sport": "mlb",
+  "date": "2017-05-30",
+  "startTime": "2017-05-31T02:15:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "32-19"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "22-32"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490888",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490888/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.155290Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.155292Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-05-06-yankees-at-royals",
+  "sport": "mlb",
+  "date": "2012-05-06",
+  "startTime": "2012-05-06T18:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "15-13"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "9-18"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318153",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318153/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.320848Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.320850Z"
+}

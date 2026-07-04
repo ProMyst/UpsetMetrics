@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-07-01-athletics-at-mariners",
+  "sport": "mlb",
+  "date": "2022-07-01",
+  "startTime": "2022-07-02T02:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "26-53"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "37-42"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.648,
+    "rankGapFactor": 0.278,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662149",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662149/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.036015Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.036017Z"
+}

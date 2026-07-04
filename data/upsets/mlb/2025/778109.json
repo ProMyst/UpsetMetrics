@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-04-30-marlins-at-dodgers",
+  "sport": "mlb",
+  "date": "2025-04-30",
+  "startTime": "2025-04-30T19:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "21-10"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "12-18"
+  },
+  "finalScore": "12-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "778109",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/778109/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.784104Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.784106Z"
+}

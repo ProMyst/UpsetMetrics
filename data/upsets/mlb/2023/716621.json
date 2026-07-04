@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-09-12-cardinals-at-orioles",
+  "sport": "mlb",
+  "date": "2023-09-12",
+  "startTime": "2023-09-12T22:35:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "64-81"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "91-53"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.776,
+    "rankGapFactor": 0.381,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716621",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716621/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.995661Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.995663Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-04-16-rockies-at-dodgers",
+  "sport": "mlb",
+  "date": "2025-04-16",
+  "startTime": "2025-04-17T02:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "14-6"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "3-15"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "778287",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/778287/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.747880Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.747882Z"
+}

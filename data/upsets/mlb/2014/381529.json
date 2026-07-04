@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-06-12-cleveland-indians-at-red-sox",
+  "sport": "mlb",
+  "date": "2014-06-12",
+  "startTime": "2014-06-12T23:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "30-36"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "33-34"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.395,
+    "rankGapFactor": 0.076,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381529",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381529/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.083059Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.083063Z"
+}

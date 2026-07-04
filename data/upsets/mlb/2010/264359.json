@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-05-16-white-sox-at-royals",
+  "sport": "mlb",
+  "date": "2010-05-16",
+  "startTime": "2010-05-16T18:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "14-24"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "15-22"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.392,
+    "rankGapFactor": 0.074,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264359",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264359/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.876435Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.876437Z"
+}

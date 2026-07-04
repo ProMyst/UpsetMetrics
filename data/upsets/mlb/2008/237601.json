@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-03-26-florida-marlins-at-mets",
+  "sport": "mlb",
+  "date": "2008-03-26",
+  "startTime": "2008-03-26T17:10:00Z",
+  "season": "2008",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "18-9"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "18-10"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "237601",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/237601/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.687398Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.687405Z"
+}

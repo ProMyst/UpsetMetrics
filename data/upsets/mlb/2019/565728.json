@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-25-yankees-at-royals",
+  "sport": "mlb",
+  "date": "2019-05-25",
+  "startTime": "2019-05-25T18:15:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "33-17"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "17-33"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565728",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565728/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.254122Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.254124Z"
+}

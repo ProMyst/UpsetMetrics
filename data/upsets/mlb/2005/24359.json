@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-08-12-blue-jays-at-orioles",
+  "sport": "mlb",
+  "date": "2005-08-12",
+  "startTime": "2005-08-12T23:35:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "60-55"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "56-59"
+  },
+  "finalScore": "12-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24359",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24359/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.720055Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.720057Z"
+}

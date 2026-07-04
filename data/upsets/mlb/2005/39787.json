@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-10-06-astros-at-braves",
+  "sport": "mlb",
+  "date": "2005-10-06",
+  "startTime": "2005-10-07T00:00:00Z",
+  "season": "2005",
+  "event": "NL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "1-1"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "1-1"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "39787",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/39787/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.865220Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.865222Z"
+}

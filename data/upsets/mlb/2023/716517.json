@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-09-19-guardians-at-royals",
+  "sport": "mlb",
+  "date": "2023-09-19",
+  "startTime": "2023-09-19T23:40:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "50-102"
+  },
+  "loser": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "72-80"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.662,
+    "rankGapFactor": 0.289,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716517",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716517/feed/live",
+    "retrievedAt": "2026-07-04T06:02:57.015205Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "guardians-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:57.015207Z"
+}

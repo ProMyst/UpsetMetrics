@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-09-20-brewers-at-reds",
+  "sport": "mlb",
+  "date": "2008-09-20",
+  "startTime": "2008-09-20T19:55:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "72-82"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "84-71"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.486,
+    "rankGapFactor": 0.149,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "236070",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/236070/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.171290Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.171292Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-05-07-mets-at-dodgers",
+  "sport": "mlb",
+  "date": "2008-05-07",
+  "startTime": "2008-05-07T19:10:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "17-15"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "19-15"
+  },
+  "finalScore": "12-1",
+  "factors": {
+    "pregameOddsFactor": 0.369,
+    "rankGapFactor": 0.055,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234266",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234266/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.801709Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.801711Z"
+}

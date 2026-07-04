@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-08-24-montreal-expos-at-giants",
+  "sport": "mlb",
+  "date": "2002-08-24",
+  "startTime": "2002-08-24T20:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "65-64"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "70-58"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.407,
+    "rankGapFactor": 0.086,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9699",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9699/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.028609Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.028614Z"
+}

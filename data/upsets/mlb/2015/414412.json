@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-06-01-cubs-at-marlins",
+  "sport": "mlb",
+  "date": "2015-06-01",
+  "startTime": "2015-06-01T23:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "27-22"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "20-32"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414412",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414412/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.864164Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.864165Z"
+}

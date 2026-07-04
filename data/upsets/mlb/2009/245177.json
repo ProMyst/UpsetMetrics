@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-06-17-pirates-at-twins",
+  "sport": "mlb",
+  "date": "2009-06-17",
+  "startTime": "2009-06-18T00:10:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "31-34"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "33-34"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.339,
+    "rankGapFactor": 0.031,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245177",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245177/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.730072Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.730074Z"
+}

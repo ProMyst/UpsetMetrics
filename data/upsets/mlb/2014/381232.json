@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-05-21-giants-at-rockies",
+  "sport": "mlb",
+  "date": "2014-05-21",
+  "startTime": "2014-05-22T00:40:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "29-18"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "26-21"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381232",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381232/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.044199Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.044200Z"
+}

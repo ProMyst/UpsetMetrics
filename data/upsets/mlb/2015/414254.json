@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-05-20-cardinals-at-mets",
+  "sport": "mlb",
+  "date": "2015-05-20",
+  "startTime": "2015-05-20T23:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "27-13"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "23-18"
+  },
+  "finalScore": "9-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414254",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414254/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.842509Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.842510Z"
+}

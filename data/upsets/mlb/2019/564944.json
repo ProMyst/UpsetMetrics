@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-04-rays-at-orioles",
+  "sport": "mlb",
+  "date": "2019-05-04",
+  "startTime": "2019-05-04T23:05:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "12-22"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "21-12"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.567,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "564944",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/564944/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.216106Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.216107Z"
+}

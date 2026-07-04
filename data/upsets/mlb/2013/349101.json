@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-09-24-blue-jays-at-orioles",
+  "sport": "mlb",
+  "date": "2013-09-24",
+  "startTime": "2013-09-24T23:05:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "72-85"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "81-76"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.443,
+    "rankGapFactor": 0.115,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "349101",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/349101/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.589616Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.589618Z"
+}

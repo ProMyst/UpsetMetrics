@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-04-24-tigers-at-rays",
+  "sport": "mlb",
+  "date": "2024-04-24",
+  "startTime": "2024-04-24T22:50:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "13-13"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "14-11"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.45,
+    "rankGapFactor": 0.12,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745099",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745099/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.760952Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.760954Z"
+}

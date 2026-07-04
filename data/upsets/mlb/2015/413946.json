@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-04-28-rockies-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2015-04-28",
+  "startTime": "2015-04-29T01:40:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "9-11"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "11-9"
+  },
+  "finalScore": "12-5",
+  "factors": {
+    "pregameOddsFactor": 0.55,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "413946",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/413946/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.788474Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.788475Z"
+}

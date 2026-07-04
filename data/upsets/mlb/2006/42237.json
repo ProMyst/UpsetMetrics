@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-22-angels-at-athletics",
+  "sport": "mlb",
+  "date": "2006-09-22",
+  "startTime": "2006-09-23T02:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "90-63"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "82-71"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42237",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42237/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.688028Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.688031Z"
+}

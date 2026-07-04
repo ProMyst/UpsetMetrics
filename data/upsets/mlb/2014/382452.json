@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-08-22-astros-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2014-08-22",
+  "startTime": "2014-08-22T23:05:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "55-74"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "64-63"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.494,
+    "rankGapFactor": 0.155,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382452",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382452/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.205273Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.205276Z"
+}

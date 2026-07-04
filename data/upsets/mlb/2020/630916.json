@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-07-29-nationals-at-blue-jays",
+  "sport": "mlb",
+  "date": "2020-07-29",
+  "startTime": "2020-07-29T22:05:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "2-4"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "3-3"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "630916",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/630916/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.523065Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.523067Z"
+}

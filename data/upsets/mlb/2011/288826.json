@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-08-23-dodgers-at-cardinals",
+  "sport": "mlb",
+  "date": "2011-08-23",
+  "startTime": "2011-08-24T00:15:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "59-69"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "67-62"
+  },
+  "finalScore": "13-2",
+  "factors": {
+    "pregameOddsFactor": 0.446,
+    "rankGapFactor": 0.117,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288826",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288826/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.374327Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.374329Z"
+}

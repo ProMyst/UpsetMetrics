@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-06-16-anaheim-angels-at-pirates",
+  "sport": "mlb",
+  "date": "2004-06-16",
+  "startTime": "2004-06-16T23:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "25-36"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "36-28"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.682,
+    "rankGapFactor": 0.305,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20965",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20965/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.597997Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.598002Z"
+}

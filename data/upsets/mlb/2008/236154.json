@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-09-26-rays-at-tigers",
+  "sport": "mlb",
+  "date": "2008-09-26",
+  "startTime": "2008-09-26T23:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "73-86"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "96-64"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.652,
+    "rankGapFactor": 0.282,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "236154",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/236154/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.186153Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.186155Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-05-29-pirates-at-tigers",
+  "sport": "mlb",
+  "date": "2024-05-29",
+  "startTime": "2024-05-29T16:45:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "26-30"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "27-28"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.367,
+    "rankGapFactor": 0.053,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746468",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746468/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.851979Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.851981Z"
+}

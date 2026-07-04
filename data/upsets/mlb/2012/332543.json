@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-04-01-phillies-at-braves",
+  "sport": "mlb",
+  "date": "2012-04-01",
+  "startTime": "2012-04-01T17:05:00Z",
+  "season": "2012",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "12-16"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "10-17"
+  },
+  "finalScore": "7-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "332543",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/332543/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.226544Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.226546Z"
+}

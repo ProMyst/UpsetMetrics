@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-06-15-pirates-at-mets",
+  "sport": "mlb",
+  "date": "2016-06-15",
+  "startTime": "2016-06-15T23:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "35-29"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "33-32"
+  },
+  "finalScore": "11-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447853",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447853/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.209337Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.209339Z"
+}

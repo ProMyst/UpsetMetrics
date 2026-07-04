@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-06-27-yankees-at-dodgers",
+  "sport": "mlb",
+  "date": "2010-06-27",
+  "startTime": "2010-06-28T00:00:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "47-28"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "40-35"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264934",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264934/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.994273Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.994275Z"
+}

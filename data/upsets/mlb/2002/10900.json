@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-04-05-cleveland-indians-at-tigers",
+  "sport": "mlb",
+  "date": "2002-04-05",
+  "startTime": "2002-04-05T19:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "3-1"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "0-4"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10900",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10900/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.632870Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.632879Z"
+}

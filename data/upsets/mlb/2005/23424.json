@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-06-01-rangers-at-tigers",
+  "sport": "mlb",
+  "date": "2005-06-01",
+  "startTime": "2005-06-01T23:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "24-26"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "30-21"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.571,
+    "rankGapFactor": 0.216,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23424",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23424/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.522742Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.522744Z"
+}

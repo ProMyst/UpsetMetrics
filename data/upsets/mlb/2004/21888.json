@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-08-24-rockies-at-braves",
+  "sport": "mlb",
+  "date": "2004-08-24",
+  "startTime": "2004-08-24T23:35:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "71-53"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "55-70"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21888",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21888/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.792564Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.792566Z"
+}

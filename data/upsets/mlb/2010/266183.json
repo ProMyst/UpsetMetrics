@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-09-30-red-sox-at-white-sox",
+  "sport": "mlb",
+  "date": "2010-09-30",
+  "startTime": "2010-10-01T00:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "86-73"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "87-72"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.316,
+    "rankGapFactor": 0.013,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "266183",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/266183/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.244967Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.244969Z"
+}

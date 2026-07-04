@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-03-20-pirates-at-blue-jays",
+  "sport": "mlb",
+  "date": "2022-03-20",
+  "startTime": "2022-03-20T17:07:00Z",
+  "season": "2022",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "2-1"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "2-1"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "706801",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/706801/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.733325Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.733330Z"
+}

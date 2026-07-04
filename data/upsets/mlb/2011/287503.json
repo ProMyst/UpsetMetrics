@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-05-16-angels-at-athletics",
+  "sport": "mlb",
+  "date": "2011-05-16",
+  "startTime": "2011-05-17T02:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "21-20"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "22-20"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.329,
+    "rankGapFactor": 0.023,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287503",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287503/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.105532Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.105534Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-08-05-mets-at-astros",
+  "sport": "mlb",
+  "date": "2003-08-05",
+  "startTime": "2003-08-06T00:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "46-66"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "60-52"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.613,
+    "rankGapFactor": 0.25,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15623",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15623/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.720051Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.720053Z"
+}

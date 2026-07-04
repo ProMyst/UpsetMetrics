@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-06-27-cubs-at-dodgers",
+  "sport": "mlb",
+  "date": "2021-06-27",
+  "startTime": "2021-06-27T23:08:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "47-31"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "42-36"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633472",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633472/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.050541Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.050544Z"
+}

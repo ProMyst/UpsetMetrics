@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-04-25-mets-at-cubs",
+  "sport": "mlb",
+  "date": "2004-04-25",
+  "startTime": "2004-04-25T18:20:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "12-6"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "7-12"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20292",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20292/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.458793Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.458795Z"
+}

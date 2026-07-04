@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-08-22-mariners-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2009-08-22",
+  "startTime": "2009-08-22T23:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "53-69"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "63-60"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.494,
+    "rankGapFactor": 0.156,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246035",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246035/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.903860Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.903865Z"
+}

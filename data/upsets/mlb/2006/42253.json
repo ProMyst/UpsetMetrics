@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-23-florida-marlins-at-phillies",
+  "sport": "mlb",
+  "date": "2006-09-23",
+  "startTime": "2006-09-23T17:20:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "81-73"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "76-79"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42253",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42253/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.688676Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.688681Z"
+}

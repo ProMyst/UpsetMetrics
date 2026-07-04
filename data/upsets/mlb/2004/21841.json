@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-08-20-blue-jays-at-orioles",
+  "sport": "mlb",
+  "date": "2004-08-20",
+  "startTime": "2004-08-20T23:35:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "50-72"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "57-63"
+  },
+  "finalScore": "14-4",
+  "factors": {
+    "pregameOddsFactor": 0.463,
+    "rankGapFactor": 0.13,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21841",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21841/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.779753Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.779755Z"
+}

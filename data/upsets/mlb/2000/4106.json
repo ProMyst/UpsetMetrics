@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-05-07-rockies-at-giants",
+  "sport": "mlb",
+  "date": "2000-05-07",
+  "startTime": "2000-05-07T20:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "14-16"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "16-13"
+  },
+  "finalScore": "0-0",
+  "factors": {
+    "pregameOddsFactor": 0.513,
+    "rankGapFactor": 0.17,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4106",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4106/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.510849Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.510851Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-06-28-rangers-at-rays",
+  "sport": "mlb",
+  "date": "2019-06-28",
+  "startTime": "2019-06-28T23:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "46-36"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "46-36"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566702",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566702/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.312152Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.312153Z"
+}

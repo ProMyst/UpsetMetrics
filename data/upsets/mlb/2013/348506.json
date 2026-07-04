@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-08-12-cleveland-indians-at-twins",
+  "sport": "mlb",
+  "date": "2013-08-12",
+  "startTime": "2013-08-13T00:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "53-63"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "63-56"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.481,
+    "rankGapFactor": 0.145,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "348506",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/348506/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.473820Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.473825Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-09-23-tigers-at-twins",
+  "sport": "mlb",
+  "date": "2020-09-23",
+  "startTime": "2020-09-23T23:40:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "35-22"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "22-32"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "631250",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/631250/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.690038Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.690040Z"
+}

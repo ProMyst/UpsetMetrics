@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-10-02-rockies-at-cubs",
+  "sport": "mlb",
+  "date": "2018-10-02",
+  "startTime": "2018-10-03T00:08:00Z",
+  "season": "2018",
+  "event": "NL Wild Card Game",
+  "stakes": "Wild Card",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.75,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "563347",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/563347/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.987147Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.987149Z"
+}

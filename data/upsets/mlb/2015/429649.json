@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-03-24-giants-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2015-03-24",
+  "startTime": "2015-03-25T02:05:00Z",
+  "season": "2015",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "10-11"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "6-17"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "429649",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/429649/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.712471Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.712477Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-08-06-braves-at-mets",
+  "sport": "mlb",
+  "date": "2011-08-06",
+  "startTime": "2011-08-06T23:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "56-56"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "65-49"
+  },
+  "finalScore": "11-7",
+  "factors": {
+    "pregameOddsFactor": 0.475,
+    "rankGapFactor": 0.14,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288586",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288586/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.326888Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.326890Z"
+}

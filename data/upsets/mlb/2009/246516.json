@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-09-27-reds-at-astros",
+  "sport": "mlb",
+  "date": "2009-09-27",
+  "startTime": "2009-09-27T18:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "72-83"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "74-82"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.325,
+    "rankGapFactor": 0.02,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246516",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246516/feed/live",
+    "retrievedAt": "2026-07-04T06:20:14.003098Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:14.003100Z"
+}

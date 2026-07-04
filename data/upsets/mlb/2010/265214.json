@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-07-20-nationals-at-reds",
+  "sport": "mlb",
+  "date": "2010-07-20",
+  "startTime": "2010-07-20T23:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "53-42"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "40-54"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265214",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265214/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.046832Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.046834Z"
+}

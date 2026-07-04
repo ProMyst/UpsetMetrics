@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-08-01-white-sox-at-angels",
+  "sport": "mlb",
+  "date": "2025-08-01",
+  "startTime": "2025-08-02T01:38:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "41-69"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "53-57"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.573,
+    "rankGapFactor": 0.218,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776916",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776916/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.030574Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.030576Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-04-23-astros-at-brewers",
+  "sport": "mlb",
+  "date": "2011-04-23",
+  "startTime": "2011-04-23T23:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "8-13"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "10-10"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.598,
+    "rankGapFactor": 0.238,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287200",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287200/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.043208Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.043210Z"
+}

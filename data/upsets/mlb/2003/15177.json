@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-04-24-padres-at-cubs",
+  "sport": "mlb",
+  "date": "2003-04-24",
+  "startTime": "2003-04-24T18:20:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "9-13"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "13-9"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.755,
+    "rankGapFactor": 0.364,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15177",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15177/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.437606Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.437608Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-08-30-cubs-at-pirates",
+  "sport": "mlb",
+  "date": "2006-08-30",
+  "startTime": "2006-08-30T16:35:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "53-81"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "54-79"
+  },
+  "finalScore": "10-9",
+  "factors": {
+    "pregameOddsFactor": 0.326,
+    "rankGapFactor": 0.021,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41928",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41928/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.622030Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.622032Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-04-24-braves-at-giants",
+  "sport": "mlb",
+  "date": "2011-04-24",
+  "startTime": "2011-04-24T20:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "11-12"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "10-11"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287209",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287209/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.047017Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.047019Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-03-25-orioles-at-phillies",
+  "sport": "mlb",
+  "date": "2012-03-25",
+  "startTime": "2012-03-25T17:05:00Z",
+  "season": "2012",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "9-9"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "10-12"
+  },
+  "finalScore": "3-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "332432",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/332432/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.201211Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.201214Z"
+}

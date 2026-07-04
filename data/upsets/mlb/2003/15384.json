@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-08-09-anaheim-angels-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2003-08-09",
+  "startTime": "2003-08-09T17:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "48-68"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "54-61"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.439,
+    "rankGapFactor": 0.112,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15384",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15384/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.730674Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.730681Z"
+}

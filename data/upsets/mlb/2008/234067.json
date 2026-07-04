@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-04-22-nationals-at-braves",
+  "sport": "mlb",
+  "date": "2008-04-22",
+  "startTime": "2008-04-22T23:00:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "6-15"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "10-10"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.836,
+    "rankGapFactor": 0.429,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234067",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234067/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.759657Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.759659Z"
+}

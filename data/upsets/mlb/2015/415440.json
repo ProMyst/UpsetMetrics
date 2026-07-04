@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-08-19-white-sox-at-angels",
+  "sport": "mlb",
+  "date": "2015-08-19",
+  "startTime": "2015-08-20T02:05:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "63-57"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "55-63"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415440",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415440/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.001992Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.001993Z"
+}

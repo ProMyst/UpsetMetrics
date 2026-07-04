@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-07-04-phillies-at-mets",
+  "sport": "mlb",
+  "date": "2012-07-04",
+  "startTime": "2012-07-04T17:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "37-46"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "44-38"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.527,
+    "rankGapFactor": 0.182,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318955",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318955/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.483947Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.483949Z"
+}

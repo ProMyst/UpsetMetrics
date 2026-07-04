@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-03-24-cubs-at-angels",
+  "sport": "mlb",
+  "date": "2022-03-24",
+  "startTime": "2022-03-24T20:10:00Z",
+  "season": "2022",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "4-3"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "4-3"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "706940",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/706940/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.753461Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.753465Z"
+}

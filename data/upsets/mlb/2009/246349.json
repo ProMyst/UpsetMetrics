@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-09-15-diamondbacks-at-padres",
+  "sport": "mlb",
+  "date": "2009-09-15",
+  "startTime": "2009-09-16T02:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "64-82"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "65-81"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.317,
+    "rankGapFactor": 0.014,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246349",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246349/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.970947Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.970949Z"
+}

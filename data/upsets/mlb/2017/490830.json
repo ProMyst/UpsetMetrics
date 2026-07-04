@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-05-27-braves-at-giants",
+  "sport": "mlb",
+  "date": "2017-05-27",
+  "startTime": "2017-05-28T02:05:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "21-30"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "21-26"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.388,
+    "rankGapFactor": 0.07,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490830",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490830/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.149158Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.149159Z"
+}

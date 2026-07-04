@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-05-28-royals-at-red-sox",
+  "sport": "mlb",
+  "date": "2010-05-28",
+  "startTime": "2010-05-28T23:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "21-28"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "27-23"
+  },
+  "finalScore": "12-5",
+  "factors": {
+    "pregameOddsFactor": 0.579,
+    "rankGapFactor": 0.223,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264526",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264526/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.908723Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.908724Z"
+}

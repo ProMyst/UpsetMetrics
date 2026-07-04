@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-06-05-brewers-at-reds",
+  "sport": "mlb",
+  "date": "2023-06-05",
+  "startTime": "2023-06-05T23:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "27-33"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "32-28"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.508,
+    "rankGapFactor": 0.167,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717883",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717883/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.739517Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.739519Z"
+}

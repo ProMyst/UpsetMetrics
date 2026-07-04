@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-04-29-padres-at-braves",
+  "sport": "mlb",
+  "date": "2019-04-29",
+  "startTime": "2019-04-29T23:20:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "14-14"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "16-13"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.429,
+    "rankGapFactor": 0.103,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567173",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567173/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.203435Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.203436Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-07-16-cubs-at-royals",
+  "sport": "mlb",
+  "date": "2000-07-16",
+  "startTime": "2000-07-17T00:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "38-52"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "40-49"
+  },
+  "finalScore": "10-7",
+  "factors": {
+    "pregameOddsFactor": 0.368,
+    "rankGapFactor": 0.054,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4808",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4808/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.694983Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.694985Z"
+}

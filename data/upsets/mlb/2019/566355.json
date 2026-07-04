@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-09-26-dodgers-at-padres",
+  "sport": "mlb",
+  "date": "2019-09-26",
+  "startTime": "2019-09-26T19:40:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "103-56"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "70-89"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566355",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566355/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.461408Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.461410Z"
+}

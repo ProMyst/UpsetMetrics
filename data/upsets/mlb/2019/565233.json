@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-04-25-braves-at-reds",
+  "sport": "mlb",
+  "date": "2019-04-25",
+  "startTime": "2019-04-25T22:40:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "10-14"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "12-12"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.508,
+    "rankGapFactor": 0.167,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565233",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565233/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.195952Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.195953Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-05-29-astros-at-mariners",
+  "sport": "mlb",
+  "date": "2022-05-29",
+  "startTime": "2022-05-29T20:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "30-18"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "20-28"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662130",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662130/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.941113Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.941115Z"
+}

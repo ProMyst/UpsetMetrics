@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-04-21-blue-jays-at-red-sox",
+  "sport": "mlb",
+  "date": "2003-04-21",
+  "startTime": "2003-04-21T15:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "7-13"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "13-6"
+  },
+  "finalScore": "11-6",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.668,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15093",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15093/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.429551Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.429553Z"
+}

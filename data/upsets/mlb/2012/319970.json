@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-09-20-rockies-at-giants",
+  "sport": "mlb",
+  "date": "2012-09-20",
+  "startTime": "2012-09-20T19:45:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "87-63"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "58-91"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319970",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319970/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.687885Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.687887Z"
+}

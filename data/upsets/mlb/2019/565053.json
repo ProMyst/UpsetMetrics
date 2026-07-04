@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-29-cleveland-indians-at-red-sox",
+  "sport": "mlb",
+  "date": "2019-05-29",
+  "startTime": "2019-05-29T22:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "28-27"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "29-27"
+  },
+  "finalScore": "14-9",
+  "factors": {
+    "pregameOddsFactor": 0.322,
+    "rankGapFactor": 0.018,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565053",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565053/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.261800Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.261803Z"
+}

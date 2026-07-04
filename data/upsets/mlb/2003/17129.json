@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-05-17-rangers-at-yankees",
+  "sport": "mlb",
+  "date": "2003-05-17",
+  "startTime": "2003-05-17T17:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "18-24"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "27-15"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.836,
+    "rankGapFactor": 0.429,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "17129",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/17129/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.501153Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.501155Z"
+}

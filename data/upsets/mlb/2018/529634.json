@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-06-04-yankees-at-tigers",
+  "sport": "mlb",
+  "date": "2018-06-04",
+  "startTime": "2018-06-04T23:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "29-32"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "38-19"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.778,
+    "rankGapFactor": 0.383,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "529634",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/529634/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.780315Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.780316Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-05-25-padres-at-giants",
+  "sport": "mlb",
+  "date": "2016-05-25",
+  "startTime": "2016-05-25T19:45:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "30-19"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "19-29"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447568",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447568/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.172105Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.172107Z"
+}

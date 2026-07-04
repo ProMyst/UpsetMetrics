@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-09-18-marlins-at-nationals",
+  "sport": "mlb",
+  "date": "2022-09-18",
+  "startTime": "2022-09-18T17:35:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "60-87"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "51-95"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662461",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662461/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.239512Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.239514Z"
+}

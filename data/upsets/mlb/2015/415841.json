@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-09-17-athletics-at-white-sox",
+  "sport": "mlb",
+  "date": "2015-09-17",
+  "startTime": "2015-09-17T18:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "63-84"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "69-76"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.418,
+    "rankGapFactor": 0.095,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415841",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415841/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.052111Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.052113Z"
+}

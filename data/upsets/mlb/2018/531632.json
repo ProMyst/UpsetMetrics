@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-09-15-blue-jays-at-yankees",
+  "sport": "mlb",
+  "date": "2018-09-15",
+  "startTime": "2018-09-15T20:05:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "66-82"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "91-57"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.722,
+    "rankGapFactor": 0.338,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531632",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531632/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.958500Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.958501Z"
+}

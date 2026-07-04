@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-09-12-tigers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2017-09-12",
+  "startTime": "2017-09-12T23:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "89-56"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "60-84"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "492259",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/492259/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.336150Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.336153Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-04-04-tigers-at-mets",
+  "sport": "mlb",
+  "date": "2024-04-04",
+  "startTime": "2024-04-04T16:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "5-0"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "0-5"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745844",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745844/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.706182Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.706184Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-06-03-cleveland-indians-at-rangers",
+  "sport": "mlb",
+  "date": "2008-06-03",
+  "startTime": "2008-06-04T00:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "30-30"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "26-32"
+  },
+  "finalScore": "12-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234637",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234637/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.877723Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.877728Z"
+}

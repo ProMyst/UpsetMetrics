@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-05-02-phillies-at-dodgers",
+  "sport": "mlb",
+  "date": "2023-05-02",
+  "startTime": "2023-05-03T02:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "18-13"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "15-16"
+  },
+  "finalScore": "13-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718331",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718331/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.649664Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.649666Z"
+}

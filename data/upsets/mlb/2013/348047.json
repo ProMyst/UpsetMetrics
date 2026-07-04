@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-07-06-dodgers-at-giants",
+  "sport": "mlb",
+  "date": "2013-07-06",
+  "startTime": "2013-07-06T23:15:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "40-46"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "41-45"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.329,
+    "rankGapFactor": 0.023,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "348047",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/348047/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.380978Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.380980Z"
+}

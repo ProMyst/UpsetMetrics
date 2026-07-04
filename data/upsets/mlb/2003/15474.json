@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-08-26-giants-at-rockies",
+  "sport": "mlb",
+  "date": "2003-08-26",
+  "startTime": "2003-08-27T01:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "79-51"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "64-70"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15474",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15474/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.779782Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.779784Z"
+}

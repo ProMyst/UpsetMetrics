@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-05-16-brewers-at-astros",
+  "sport": "mlb",
+  "date": "2012-05-16",
+  "startTime": "2012-05-17T00:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "16-21"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "16-21"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318289",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318289/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.349217Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.349219Z"
+}

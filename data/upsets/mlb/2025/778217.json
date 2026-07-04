@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-04-22-blue-jays-at-astros",
+  "sport": "mlb",
+  "date": "2025-04-22",
+  "startTime": "2025-04-23T00:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "12-11"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "12-12"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "778217",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/778217/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.762622Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.762623Z"
+}

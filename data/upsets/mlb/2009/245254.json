@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-06-23-padres-at-mariners",
+  "sport": "mlb",
+  "date": "2009-06-23",
+  "startTime": "2009-06-24T02:10:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "31-38"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "35-35"
+  },
+  "finalScore": "9-7",
+  "factors": {
+    "pregameOddsFactor": 0.427,
+    "rankGapFactor": 0.101,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245254",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245254/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.746093Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.746095Z"
+}

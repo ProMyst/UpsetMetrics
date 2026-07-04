@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-06-30-rays-at-blue-jays",
+  "sport": "mlb",
+  "date": "2009-06-30",
+  "startTime": "2009-06-30T23:07:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "44-35"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "41-38"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245356",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245356/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.768917Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.768919Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-07-30-twins-at-mets",
+  "sport": "mlb",
+  "date": "2024-07-30",
+  "startTime": "2024-07-30T23:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "57-50"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "58-48"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.336,
+    "rankGapFactor": 0.029,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745787",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745787/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.012023Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.012025Z"
+}

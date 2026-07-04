@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-07-26-white-sox-at-rockies",
+  "sport": "mlb",
+  "date": "2022-07-26",
+  "startTime": "2022-07-27T00:40:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "49-48"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "44-54"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661079",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661079/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.097308Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.097310Z"
+}

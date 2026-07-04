@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-07-18-astros-at-mariners",
+  "sport": "mlb",
+  "date": "2025-07-18",
+  "startTime": "2025-07-19T02:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "52-45"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "56-41"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.403,
+    "rankGapFactor": 0.082,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777099",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777099/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.992690Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.992692Z"
+}

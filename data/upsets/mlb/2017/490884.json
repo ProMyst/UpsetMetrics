@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-05-30-athletics-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2017-05-30",
+  "startTime": "2017-05-30T22:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "27-23"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "22-29"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490884",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490884/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.153623Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.153626Z"
+}

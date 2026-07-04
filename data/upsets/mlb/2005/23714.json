@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-06-23-florida-marlins-at-braves",
+  "sport": "mlb",
+  "date": "2005-06-23",
+  "startTime": "2005-06-23T23:35:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "35-34"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "38-34"
+  },
+  "finalScore": "8-0",
+  "factors": {
+    "pregameOddsFactor": 0.351,
+    "rankGapFactor": 0.041,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23714",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23714/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.584018Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.584023Z"
+}

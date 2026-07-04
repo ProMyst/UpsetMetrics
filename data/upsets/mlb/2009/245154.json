@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-06-16-braves-at-reds",
+  "sport": "mlb",
+  "date": "2009-06-16",
+  "startTime": "2009-06-16T23:10:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "32-31"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "30-33"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245154",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245154/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.726127Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.726129Z"
+}

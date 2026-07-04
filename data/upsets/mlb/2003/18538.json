@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-10-11-yankees-at-red-sox",
+  "sport": "mlb",
+  "date": "2003-10-11",
+  "startTime": "2003-10-11T20:00:00Z",
+  "season": "2003",
+  "event": "AL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "2-1"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "1-2"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "18538",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/18538/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.878851Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.878853Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-05-01-diamondbacks-at-nationals",
+  "sport": "mlb",
+  "date": "2012-05-01",
+  "startTime": "2012-05-01T23:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "13-11"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "14-9"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.468,
+    "rankGapFactor": 0.134,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318075",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318075/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.306325Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.306326Z"
+}

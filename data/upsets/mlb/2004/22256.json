@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-09-19-rangers-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "2004-09-19",
+  "startTime": "2004-09-19T20:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "82-67"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "84-65"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.334,
+    "rankGapFactor": 0.027,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "22256",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/22256/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.867199Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.867203Z"
+}

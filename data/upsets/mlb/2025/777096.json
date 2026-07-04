@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-07-19-red-sox-at-cubs",
+  "sport": "mlb",
+  "date": "2025-07-19",
+  "startTime": "2025-07-19T23:15:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "59-39"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "53-47"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777096",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777096/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.995067Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.995069Z"
+}

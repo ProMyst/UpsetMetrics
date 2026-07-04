@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-06-29-rockies-at-mariners",
+  "sport": "mlb",
+  "date": "2002-06-29",
+  "startTime": "2002-06-30T01:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "51-29"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "38-43"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9804",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9804/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.875568Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.875570Z"
+}

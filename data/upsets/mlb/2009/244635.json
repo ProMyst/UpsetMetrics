@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-05-08-padres-at-astros",
+  "sport": "mlb",
+  "date": "2009-05-08",
+  "startTime": "2009-05-09T00:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "12-18"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "13-17"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.383,
+    "rankGapFactor": 0.067,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244635",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244635/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.621207Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.621209Z"
+}

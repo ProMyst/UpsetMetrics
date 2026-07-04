@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-04-22-giants-at-rockies",
+  "sport": "mlb",
+  "date": "2017-04-22",
+  "startTime": "2017-04-23T00:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "12-6"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "6-12"
+  },
+  "finalScore": "12-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490361",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490361/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.086366Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.086367Z"
+}

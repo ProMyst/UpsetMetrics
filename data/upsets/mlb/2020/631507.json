@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-08-15-cardinals-at-white-sox",
+  "sport": "mlb",
+  "date": "2020-08-15",
+  "startTime": "2020-08-15T17:15:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "4-3"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "10-11"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "631507",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/631507/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.572031Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.572033Z"
+}

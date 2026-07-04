@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-05-26-anaheim-angels-at-blue-jays",
+  "sport": "mlb",
+  "date": "2004-05-26",
+  "startTime": "2004-05-26T23:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "19-27"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "29-17"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.843,
+    "rankGapFactor": 0.435,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20689",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20689/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.540383Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.540388Z"
+}

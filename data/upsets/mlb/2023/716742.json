@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-09-03-mariners-at-mets",
+  "sport": "mlb",
+  "date": "2023-09-03",
+  "startTime": "2023-09-03T17:40:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "63-74"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "77-59"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.566,
+    "rankGapFactor": 0.213,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716742",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716742/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.971760Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.971762Z"
+}

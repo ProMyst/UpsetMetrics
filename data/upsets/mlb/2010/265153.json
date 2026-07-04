@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-07-16-rangers-at-red-sox",
+  "sport": "mlb",
+  "date": "2010-07-16",
+  "startTime": "2010-07-16T23:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "52-38"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "51-39"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265153",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265153/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.035402Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.035404Z"
+}

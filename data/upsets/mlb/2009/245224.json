@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-06-20-blue-jays-at-nationals",
+  "sport": "mlb",
+  "date": "2009-06-20",
+  "startTime": "2009-06-20T23:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "21-46"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "37-33"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.838,
+    "rankGapFactor": 0.43,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245224",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245224/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.737587Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.737589Z"
+}

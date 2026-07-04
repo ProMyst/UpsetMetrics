@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-03-31-reds-at-giants",
+  "sport": "mlb",
+  "date": "2012-03-31",
+  "startTime": "2012-03-31T22:05:00Z",
+  "season": "2012",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "14-16"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "16-13"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.513,
+    "rankGapFactor": 0.17,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "332523",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/332523/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.224920Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.224922Z"
+}

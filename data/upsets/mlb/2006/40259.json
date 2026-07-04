@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-04-26-reds-at-nationals",
+  "sport": "mlb",
+  "date": "2006-04-26",
+  "startTime": "2006-04-26T17:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "15-7"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "7-14"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "40259",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/40259/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.280472Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.280474Z"
+}

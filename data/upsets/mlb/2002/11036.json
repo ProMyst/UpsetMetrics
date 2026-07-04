@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-04-09-astros-at-rockies",
+  "sport": "mlb",
+  "date": "2002-04-09",
+  "startTime": "2002-04-10T01:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "3-5"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "4-4"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "11036",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/11036/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.650257Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.650260Z"
+}

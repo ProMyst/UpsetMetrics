@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-05-11-braves-at-cardinals",
+  "sport": "mlb",
+  "date": "2012-05-11",
+  "startTime": "2012-05-12T00:15:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "20-13"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "20-12"
+  },
+  "finalScore": "9-7",
+  "factors": {
+    "pregameOddsFactor": 0.347,
+    "rankGapFactor": 0.038,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318208",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318208/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.334714Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.334716Z"
+}

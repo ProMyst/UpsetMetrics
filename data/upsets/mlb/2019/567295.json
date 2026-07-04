@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-06-10-nationals-at-white-sox",
+  "sport": "mlb",
+  "date": "2019-06-10",
+  "startTime": "2019-06-11T00:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "31-35"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "31-34"
+  },
+  "finalScore": "12-1",
+  "factors": {
+    "pregameOddsFactor": 0.318,
+    "rankGapFactor": 0.014,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567295",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567295/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.282470Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.282471Z"
+}

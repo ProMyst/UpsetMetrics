@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-08-01-royals-at-blue-jays",
+  "sport": "mlb",
+  "date": "2025-08-01",
+  "startTime": "2025-08-01T23:07:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "55-55"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "64-47"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.491,
+    "rankGapFactor": 0.153,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776920",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776920/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.029233Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.029235Z"
+}

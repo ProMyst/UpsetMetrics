@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-09-10-royals-at-yankees",
+  "sport": "mlb",
+  "date": "2024-09-10",
+  "startTime": "2024-09-10T23:05:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "80-66"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "83-62"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.361,
+    "rankGapFactor": 0.049,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745694",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745694/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.121086Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.121088Z"
+}

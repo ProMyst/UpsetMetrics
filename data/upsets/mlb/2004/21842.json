@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-08-21-anaheim-angels-at-yankees",
+  "sport": "mlb",
+  "date": "2004-08-21",
+  "startTime": "2004-08-21T17:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "69-54"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "76-46"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.455,
+    "rankGapFactor": 0.124,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21842",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21842/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.782066Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.782071Z"
+}

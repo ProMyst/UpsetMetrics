@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-09-01-cubs-at-reds",
+  "sport": "mlb",
+  "date": "2023-09-01",
+  "startTime": "2023-09-01T17:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "72-62"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "69-67"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718700",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718700/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.965361Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.965363Z"
+}

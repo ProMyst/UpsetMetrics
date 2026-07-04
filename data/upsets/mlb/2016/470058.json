@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-03-27-diamondbacks-at-rangers",
+  "sport": "mlb",
+  "date": "2016-03-27",
+  "startTime": "2016-03-27T20:05:00Z",
+  "season": "2016",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "16-11"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "20-6"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.742,
+    "rankGapFactor": 0.353,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "470058",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/470058/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.057732Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.057734Z"
+}

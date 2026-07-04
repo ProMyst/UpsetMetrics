@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-07-08-pirates-at-cardinals",
+  "sport": "mlb",
+  "date": "2014-07-08",
+  "startTime": "2014-07-09T00:15:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "49-42"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "47-43"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381895",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381895/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.133649Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.133650Z"
+}

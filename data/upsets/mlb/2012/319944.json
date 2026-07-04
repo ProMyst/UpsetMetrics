@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-09-19-dodgers-at-nationals",
+  "sport": "mlb",
+  "date": "2012-09-19",
+  "startTime": "2012-09-19T20:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "77-72"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "90-58"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.528,
+    "rankGapFactor": 0.183,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319944",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319944/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.684182Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.684184Z"
+}

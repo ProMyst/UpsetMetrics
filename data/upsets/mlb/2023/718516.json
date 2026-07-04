@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-04-18-mets-at-dodgers",
+  "sport": "mlb",
+  "date": "2023-04-18",
+  "startTime": "2023-04-19T02:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "9-9"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "11-7"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.578,
+    "rankGapFactor": 0.222,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718516",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718516/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.612764Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.612766Z"
+}

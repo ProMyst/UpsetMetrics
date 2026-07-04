@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-06-30-red-sox-at-mariners",
+  "sport": "mlb",
+  "date": "2012-06-30",
+  "startTime": "2012-07-01T02:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "34-46"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "41-37"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.552,
+    "rankGapFactor": 0.201,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318889",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318889/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.475574Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.475576Z"
+}

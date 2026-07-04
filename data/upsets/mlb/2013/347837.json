@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-06-20-athletics-at-rangers",
+  "sport": "mlb",
+  "date": "2013-06-20",
+  "startTime": "2013-06-20T18:05:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "41-32"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "43-32"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.329,
+    "rankGapFactor": 0.023,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347837",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347837/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.332347Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.332349Z"
+}

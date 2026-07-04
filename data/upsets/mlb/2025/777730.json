@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-05-28-nationals-at-mariners",
+  "sport": "mlb",
+  "date": "2025-05-28",
+  "startTime": "2025-05-29T01:40:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "25-30"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "30-24"
+  },
+  "finalScore": "9-0",
+  "factors": {
+    "pregameOddsFactor": 0.553,
+    "rankGapFactor": 0.202,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777730",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777730/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.861816Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.861818Z"
+}

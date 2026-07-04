@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-06-26-dodgers-at-giants",
+  "sport": "mlb",
+  "date": "2012-06-26",
+  "startTime": "2012-06-27T02:15:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "42-33"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "43-32"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.333,
+    "rankGapFactor": 0.027,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318835",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318835/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.463726Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.463728Z"
+}

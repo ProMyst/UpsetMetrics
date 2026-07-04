@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-08-08-dodgers-at-cardinals",
+  "sport": "mlb",
+  "date": "2013-08-08",
+  "startTime": "2013-08-09T00:15:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "64-50"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "66-48"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.344,
+    "rankGapFactor": 0.035,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "348457",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/348457/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.463587Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.463589Z"
+}

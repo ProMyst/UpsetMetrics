@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-07-03-white-sox-at-astros",
+  "sport": "mlb",
+  "date": "2016-07-03",
+  "startTime": "2016-07-03T18:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "42-40"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "43-39"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.33,
+    "rankGapFactor": 0.024,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448089",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448089/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.246090Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.246091Z"
+}

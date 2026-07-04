@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-05-16-giants-at-reds",
+  "sport": "mlb",
+  "date": "2015-05-16",
+  "startTime": "2015-05-16T23:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "19-18"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "18-19"
+  },
+  "finalScore": "11-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414201",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414201/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.835790Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.835791Z"
+}

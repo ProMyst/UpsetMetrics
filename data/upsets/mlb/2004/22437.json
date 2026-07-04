@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-10-03-white-sox-at-royals",
+  "sport": "mlb",
+  "date": "2004-10-03",
+  "startTime": "2004-10-03T18:10:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "83-79"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "58-104"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "22437",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/22437/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.907555Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.907557Z"
+}

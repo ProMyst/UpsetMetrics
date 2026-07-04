@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-08-29-orioles-at-rangers",
+  "sport": "mlb",
+  "date": "2004-08-29",
+  "startTime": "2004-08-29T18:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "58-71"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "73-56"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.591,
+    "rankGapFactor": 0.233,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21957",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21957/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.807163Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.807165Z"
+}

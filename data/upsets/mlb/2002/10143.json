@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-05-29-phillies-at-mets",
+  "sport": "mlb",
+  "date": "2002-05-29",
+  "startTime": "2002-05-29T23:10:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "28-25"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "21-31"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10143",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10143/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.790760Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.790762Z"
+}

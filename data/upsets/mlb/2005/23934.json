@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-07-09-brewers-at-braves",
+  "sport": "mlb",
+  "date": "2005-07-09",
+  "startTime": "2005-07-09T23:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "41-46"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "50-38"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.542,
+    "rankGapFactor": 0.194,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23934",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23934/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.629059Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.629061Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-03-21-white-sox-at-reds",
+  "sport": "mlb",
+  "date": "2025-03-21",
+  "startTime": "2025-03-21T20:05:00Z",
+  "season": "2025",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "10-16"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "11-16"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.357,
+    "rankGapFactor": 0.046,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "778811",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/778811/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.669747Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.669751Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-09-13-mets-at-phillies",
+  "sport": "mlb",
+  "date": "2024-09-13",
+  "startTime": "2024-09-13T22:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "81-66"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "88-59"
+  },
+  "finalScore": "11-3",
+  "factors": {
+    "pregameOddsFactor": 0.419,
+    "rankGapFactor": 0.095,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745529",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745529/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.128039Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.128041Z"
+}

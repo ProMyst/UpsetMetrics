@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-04-17-brewers-at-cardinals",
+  "sport": "mlb",
+  "date": "2008-04-17",
+  "startTime": "2008-04-17T17:15:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "9-6"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "11-5"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.519,
+    "rankGapFactor": 0.175,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "233993",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/233993/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.746065Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.746067Z"
+}

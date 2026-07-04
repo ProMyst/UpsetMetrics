@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-06-26-rockies-at-giants",
+  "sport": "mlb",
+  "date": "2015-06-26",
+  "startTime": "2015-06-27T02:15:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "33-40"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "40-35"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.503,
+    "rankGapFactor": 0.163,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414758",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414758/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.912930Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.912931Z"
+}

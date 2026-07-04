@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-06-02-tampa-bay-devil-rays-at-mets",
+  "sport": "mlb",
+  "date": "2000-06-02",
+  "startTime": "2000-06-02T23:10:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "30-24"
+  },
+  "loser": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "18-35"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4711",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4711/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.579040Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tampa-bay-devil-rays-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.579046Z"
+}

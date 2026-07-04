@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-06-30-rangers-at-orioles",
+  "sport": "mlb",
+  "date": "2024-06-30",
+  "startTime": "2024-06-30T23:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "38-46"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "53-31"
+  },
+  "finalScore": "11-2",
+  "factors": {
+    "pregameOddsFactor": 0.746,
+    "rankGapFactor": 0.357,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "747016",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/747016/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.942266Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.942268Z"
+}

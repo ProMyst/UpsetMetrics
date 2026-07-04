@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-03-29-dodgers-at-giants",
+  "sport": "mlb",
+  "date": "2015-03-29",
+  "startTime": "2015-03-29T20:05:00Z",
+  "season": "2015",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "9-19"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "15-8"
+  },
+  "finalScore": "11-9",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.661,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "429906",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/429906/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.728811Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.728813Z"
+}

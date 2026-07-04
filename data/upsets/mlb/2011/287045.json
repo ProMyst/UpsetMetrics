@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-04-14-rockies-at-mets",
+  "sport": "mlb",
+  "date": "2011-04-14",
+  "startTime": "2011-04-14T16:15:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "10-2"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "4-9"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287045",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287045/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.016401Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.016402Z"
+}

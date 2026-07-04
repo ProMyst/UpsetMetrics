@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-06-16-orioles-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2021-06-16",
+  "startTime": "2021-06-16T23:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "37-28"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "22-45"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633659",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633659/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.014833Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.014838Z"
+}

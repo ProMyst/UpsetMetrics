@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-04-25-astros-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2017-04-25",
+  "startTime": "2017-04-25T22:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "14-6"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "10-9"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490393",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490393/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.090266Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.090269Z"
+}

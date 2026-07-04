@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-05-06-padres-at-reds",
+  "sport": "mlb",
+  "date": "2001-05-06",
+  "startTime": "2001-05-06T17:15:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "15-16"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "15-15"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.34,
+    "rankGapFactor": 0.032,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7208",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7208/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.057207Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.057209Z"
+}

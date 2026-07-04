@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-09-13-braves-at-nationals",
+  "sport": "mlb",
+  "date": "2017-09-13",
+  "startTime": "2017-09-13T23:05:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "66-78"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "88-57"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.671,
+    "rankGapFactor": 0.297,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "492269",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/492269/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.337869Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.337870Z"
+}

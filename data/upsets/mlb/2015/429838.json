@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-03-21-reds-at-athletics",
+  "sport": "mlb",
+  "date": "2015-03-21",
+  "startTime": "2015-03-21T20:05:00Z",
+  "season": "2015",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "13-7"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "8-9"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "429838",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/429838/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.699275Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.699279Z"
+}

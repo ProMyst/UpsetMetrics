@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-08-23-yankees-at-tigers",
+  "sport": "mlb",
+  "date": "2017-08-23",
+  "startTime": "2017-08-23T23:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "68-57"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "54-71"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491989",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491989/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.300734Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.300735Z"
+}

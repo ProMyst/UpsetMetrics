@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-06-19-cardinals-at-royals",
+  "sport": "mlb",
+  "date": "2009-06-19",
+  "startTime": "2009-06-20T00:10:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "37-31"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "29-37"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245206",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245206/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.735395Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.735398Z"
+}

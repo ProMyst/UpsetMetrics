@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-05-10-mets-at-reds",
+  "sport": "mlb",
+  "date": "2023-05-10",
+  "startTime": "2023-05-10T22:40:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "18-19"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "15-21"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718225",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718225/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.670753Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.670755Z"
+}

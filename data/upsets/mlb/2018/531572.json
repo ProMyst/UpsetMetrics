@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-09-11-dodgers-at-reds",
+  "sport": "mlb",
+  "date": "2018-09-11",
+  "startTime": "2018-09-11T22:40:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "63-83"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "78-67"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.566,
+    "rankGapFactor": 0.213,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531572",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531572/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.950737Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.950738Z"
+}

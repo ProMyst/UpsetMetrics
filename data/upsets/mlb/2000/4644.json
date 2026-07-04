@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-08-30-padres-at-cubs",
+  "sport": "mlb",
+  "date": "2000-08-30",
+  "startTime": "2000-08-30T18:20:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "58-74"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "64-69"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.405,
+    "rankGapFactor": 0.084,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4644",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4644/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.824629Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.824631Z"
+}

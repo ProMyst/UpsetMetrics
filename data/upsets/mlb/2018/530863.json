@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-07-20-rockies-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2018-07-20",
+  "startTime": "2018-07-21T01:40:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "52-45"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "53-45"
+  },
+  "finalScore": "11-10",
+  "factors": {
+    "pregameOddsFactor": 0.312,
+    "rankGapFactor": 0.009,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530863",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530863/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.857358Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.857359Z"
+}

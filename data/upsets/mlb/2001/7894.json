@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-07-03-phillies-at-braves",
+  "sport": "mlb",
+  "date": "2001-07-03",
+  "startTime": "2001-07-03T23:35:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "46-36"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "47-35"
+  },
+  "finalScore": "14-7",
+  "factors": {
+    "pregameOddsFactor": 0.33,
+    "rankGapFactor": 0.024,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7894",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7894/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.215999Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.216002Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-10-05-angels-at-royals",
+  "sport": "mlb",
+  "date": "2014-10-05",
+  "startTime": "2014-10-05T23:30:00Z",
+  "season": "2014",
+  "event": "AL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "3-0"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "0-3"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "416355",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/416355/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.274769Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.274770Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-03-28-rockies-at-cubs",
+  "sport": "mlb",
+  "date": "2015-03-28",
+  "startTime": "2015-03-28T20:05:00Z",
+  "season": "2015",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "11-15"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "13-12"
+  },
+  "finalScore": "18-4",
+  "factors": {
+    "pregameOddsFactor": 0.542,
+    "rankGapFactor": 0.194,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "429605",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/429605/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.724635Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.724638Z"
+}

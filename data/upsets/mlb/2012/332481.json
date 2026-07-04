@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-03-28-marlins-at-astros",
+  "sport": "mlb",
+  "date": "2012-03-28",
+  "startTime": "2012-03-28T17:05:00Z",
+  "season": "2012",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "13-12"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "9-11"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "332481",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/332481/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.212595Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.212598Z"
+}

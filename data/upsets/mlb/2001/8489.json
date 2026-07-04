@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-08-24-giants-at-mets",
+  "sport": "mlb",
+  "date": "2001-08-24",
+  "startTime": "2001-08-24T23:10:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "59-69"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "72-56"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.554,
+    "rankGapFactor": 0.203,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8489",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8489/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.361192Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.361195Z"
+}

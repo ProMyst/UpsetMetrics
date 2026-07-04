@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-04-23-dodgers-at-cubs",
+  "sport": "mlb",
+  "date": "2023-04-23",
+  "startTime": "2023-04-23T18:20:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "12-11"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "12-9"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.424,
+    "rankGapFactor": 0.099,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718451",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718451/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.624947Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.624949Z"
+}

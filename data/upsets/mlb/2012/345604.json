@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-10-11-orioles-at-yankees",
+  "sport": "mlb",
+  "date": "2012-10-11",
+  "startTime": "2012-10-11T23:30:00Z",
+  "season": "2012",
+  "event": "AL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "2-2"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "2-2"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "345604",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/345604/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.731986Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.731988Z"
+}

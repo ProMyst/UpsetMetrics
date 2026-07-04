@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-04-02-guardians-at-rangers",
+  "sport": "mlb",
+  "date": "2022-04-02",
+  "startTime": "2022-04-03T01:05:00Z",
+  "season": "2022",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "8-5"
+  },
+  "loser": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "7-8"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "706804",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/706804/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.784736Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "guardians-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.784738Z"
+}

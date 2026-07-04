@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-05-30-dodgers-at-cubs",
+  "sport": "mlb",
+  "date": "2016-05-30",
+  "startTime": "2016-05-30T21:05:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "35-14"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "27-25"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447629",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447629/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.181784Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.181785Z"
+}

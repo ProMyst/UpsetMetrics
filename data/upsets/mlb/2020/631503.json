@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-08-08-cleveland-indians-at-white-sox",
+  "sport": "mlb",
+  "date": "2020-08-08",
+  "startTime": "2020-08-08T18:10:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "9-7"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "8-7"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "631503",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/631503/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.552259Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.552264Z"
+}

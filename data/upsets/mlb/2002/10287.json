@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-06-11-diamondbacks-at-yankees",
+  "sport": "mlb",
+  "date": "2002-06-11",
+  "startTime": "2002-06-11T23:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "42-23"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "39-25"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10287",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10287/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.827196Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.827198Z"
+}

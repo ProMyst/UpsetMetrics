@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-03-30-phillies-at-astros",
+  "sport": "mlb",
+  "date": "2010-03-30",
+  "startTime": "2010-03-30T17:05:00Z",
+  "season": "2010",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "13-12"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "12-11"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.304,
+    "rankGapFactor": 0.003,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "277398",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/277398/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.748131Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.748134Z"
+}

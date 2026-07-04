@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-06-12-white-sox-at-tigers",
+  "sport": "mlb",
+  "date": "2008-06-12",
+  "startTime": "2008-06-12T17:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "29-37"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "37-30"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.582,
+    "rankGapFactor": 0.226,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234758",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234758/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.901526Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.901528Z"
+}

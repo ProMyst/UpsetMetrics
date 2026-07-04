@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-08-28-cleveland-indians-at-cardinals",
+  "sport": "mlb",
+  "date": "2020-08-28",
+  "startTime": "2020-08-29T00:15:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "20-12"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "11-12"
+  },
+  "finalScore": "14-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "630980",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/630980/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.612848Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.612854Z"
+}

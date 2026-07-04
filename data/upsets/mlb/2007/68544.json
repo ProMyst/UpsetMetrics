@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-05-02-cardinals-at-brewers",
+  "sport": "mlb",
+  "date": "2007-05-02",
+  "startTime": "2007-05-02T17:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "18-9"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "10-16"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68544",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68544/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.206632Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.206634Z"
+}

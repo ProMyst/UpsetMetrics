@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-04-06-orioles-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2001-04-06",
+  "startTime": "2001-04-06T23:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "2-1"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "2-2"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "6861",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/6861/feed/live",
+    "retrievedAt": "2026-07-04T06:08:53.974108Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:53.974114Z"
+}

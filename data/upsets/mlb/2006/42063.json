@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-09-blue-jays-at-angels",
+  "sport": "mlb",
+  "date": "2006-09-09",
+  "startTime": "2006-09-10T02:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "74-68"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "76-66"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.335,
+    "rankGapFactor": 0.028,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42063",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42063/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.653100Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.653102Z"
+}

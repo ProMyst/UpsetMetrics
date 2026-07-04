@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-05-20-giants-at-cubs",
+  "sport": "mlb",
+  "date": "2004-05-20",
+  "startTime": "2004-05-20T18:20:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "17-24"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "23-17"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.701,
+    "rankGapFactor": 0.321,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20624",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20624/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.525046Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.525048Z"
+}

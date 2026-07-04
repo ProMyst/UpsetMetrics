@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-09-16-mariners-at-rangers",
+  "sport": "mlb",
+  "date": "2012-09-16",
+  "startTime": "2012-09-16T19:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "87-59"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "70-77"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319926",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319926/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.678194Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.678196Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-08-07-cubs-at-mets",
+  "sport": "mlb",
+  "date": "2005-08-07",
+  "startTime": "2005-08-08T00:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "57-54"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "54-57"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24293",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24293/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.709128Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.709130Z"
+}

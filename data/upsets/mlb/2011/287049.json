@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-08-22-brewers-at-pirates",
+  "sport": "mlb",
+  "date": "2011-08-22",
+  "startTime": "2011-08-22T21:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "60-67"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "77-53"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.6,
+    "rankGapFactor": 0.24,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287049",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287049/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.369402Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.369404Z"
+}

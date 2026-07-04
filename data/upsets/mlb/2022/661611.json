@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-05-22-dodgers-at-phillies",
+  "sport": "mlb",
+  "date": "2022-05-22",
+  "startTime": "2022-05-22T17:35:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "19-22"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "27-13"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.829,
+    "rankGapFactor": 0.423,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661611",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661611/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.918986Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.918988Z"
+}

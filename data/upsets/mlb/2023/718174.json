@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-05-14-phillies-at-rockies",
+  "sport": "mlb",
+  "date": "2023-05-14",
+  "startTime": "2023-05-14T19:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "17-24"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "20-20"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.513,
+    "rankGapFactor": 0.171,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718174",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718174/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.681028Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.681030Z"
+}

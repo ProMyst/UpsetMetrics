@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-07-07-padres-at-astros",
+  "sport": "mlb",
+  "date": "2005-07-07",
+  "startTime": "2005-07-08T00:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "46-40"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "41-43"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23905",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23905/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.623169Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.623171Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-08-30-tigers-at-yankees",
+  "sport": "mlb",
+  "date": "2006-08-30",
+  "startTime": "2006-08-30T23:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "83-50"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "78-53"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41926",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41926/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.622391Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.622393Z"
+}

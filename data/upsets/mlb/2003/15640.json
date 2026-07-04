@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-08-31-padres-at-astros",
+  "sport": "mlb",
+  "date": "2003-08-31",
+  "startTime": "2003-08-31T18:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "55-82"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "71-65"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.601,
+    "rankGapFactor": 0.241,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15640",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15640/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.793443Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.793445Z"
+}

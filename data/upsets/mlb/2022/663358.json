@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-05-11-marlins-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2022-05-11",
+  "startTime": "2022-05-11T19:40:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "14-17"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "17-15"
+  },
+  "finalScore": "11-3",
+  "factors": {
+    "pregameOddsFactor": 0.499,
+    "rankGapFactor": 0.159,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "663358",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/663358/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.889248Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.889251Z"
+}

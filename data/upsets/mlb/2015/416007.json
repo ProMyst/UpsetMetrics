@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-09-29-nationals-at-braves",
+  "sport": "mlb",
+  "date": "2015-09-29",
+  "startTime": "2015-09-29T23:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "63-94"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "80-77"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.571,
+    "rankGapFactor": 0.217,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "416007",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/416007/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.073066Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.073067Z"
+}

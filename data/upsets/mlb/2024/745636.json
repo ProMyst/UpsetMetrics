@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-08-03-dodgers-at-athletics",
+  "sport": "mlb",
+  "date": "2024-08-03",
+  "startTime": "2024-08-04T01:07:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "64-47"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "46-66"
+  },
+  "finalScore": "10-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745636",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745636/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.022640Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.022642Z"
+}

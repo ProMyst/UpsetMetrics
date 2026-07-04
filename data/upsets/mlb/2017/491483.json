@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-07-17-brewers-at-pirates",
+  "sport": "mlb",
+  "date": "2017-07-17",
+  "startTime": "2017-07-17T23:05:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "45-48"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "52-43"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.459,
+    "rankGapFactor": 0.127,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491483",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491483/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.235049Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.235050Z"
+}

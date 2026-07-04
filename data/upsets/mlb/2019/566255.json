@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-09-24-cubs-at-pirates",
+  "sport": "mlb",
+  "date": "2019-09-24",
+  "startTime": "2019-09-24T23:05:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "66-91"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "82-75"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.555,
+    "rankGapFactor": 0.204,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566255",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566255/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.457780Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.457781Z"
+}

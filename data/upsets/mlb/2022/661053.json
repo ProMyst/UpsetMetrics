@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-07-27-rays-at-orioles",
+  "sport": "mlb",
+  "date": "2022-07-27",
+  "startTime": "2022-07-27T23:05:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "53-45"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "49-49"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661053",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661053/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.100143Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.100145Z"
+}

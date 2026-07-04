@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-03-28-giants-at-rockies",
+  "sport": "mlb",
+  "date": "2006-03-28",
+  "startTime": "2006-03-28T20:05:00Z",
+  "season": "2006",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "11-14"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "14-12"
+  },
+  "finalScore": "6-6",
+  "factors": {
+    "pregameOddsFactor": 0.546,
+    "rankGapFactor": 0.197,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "47505",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/47505/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.203324Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.203327Z"
+}

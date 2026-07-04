@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-06-12-tigers-at-cubs",
+  "sport": "mlb",
+  "date": "2012-06-12",
+  "startTime": "2012-06-13T00:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "21-40"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "28-33"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.587,
+    "rankGapFactor": 0.23,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318647",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318647/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.419770Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.419772Z"
+}

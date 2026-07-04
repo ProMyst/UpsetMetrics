@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-07-06-padres-at-nationals",
+  "sport": "mlb",
+  "date": "2010-07-06",
+  "startTime": "2010-07-06T23:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "37-47"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "49-34"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.675,
+    "rankGapFactor": 0.3,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265060",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265060/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.016235Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.016237Z"
+}

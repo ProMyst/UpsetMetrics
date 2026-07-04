@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-08-13-pirates-at-reds",
+  "sport": "mlb",
+  "date": "2020-08-13",
+  "startTime": "2020-08-13T21:10:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "4-13"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "8-11"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.764,
+    "rankGapFactor": 0.372,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "631600",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/631600/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.567663Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.567665Z"
+}

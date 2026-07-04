@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-04-08-yankees-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2013-04-08",
+  "startTime": "2013-04-08T20:05:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "3-4"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "3-4"
+  },
+  "finalScore": "11-6",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "346838",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/346838/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.131220Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.131225Z"
+}

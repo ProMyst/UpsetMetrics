@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-09-07-rays-at-nationals",
+  "sport": "mlb",
+  "date": "2020-09-07",
+  "startTime": "2020-09-07T22:05:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "15-25"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "28-14"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.583,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "630857",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/630857/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.640793Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.640795Z"
+}

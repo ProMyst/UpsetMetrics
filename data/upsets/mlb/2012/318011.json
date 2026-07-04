@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-04-26-red-sox-at-white-sox",
+  "sport": "mlb",
+  "date": "2012-04-26",
+  "startTime": "2012-04-27T00:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "8-10"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "10-9"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.505,
+    "rankGapFactor": 0.164,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318011",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318011/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.294455Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.294457Z"
+}

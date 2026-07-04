@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-19-cleveland-indians-at-athletics",
+  "sport": "mlb",
+  "date": "2006-09-19",
+  "startTime": "2006-09-20T02:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "87-63"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "70-80"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42197",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42197/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.680367Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.680372Z"
+}

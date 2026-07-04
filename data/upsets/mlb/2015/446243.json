@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-10-09-cubs-at-cardinals",
+  "sport": "mlb",
+  "date": "2015-10-09",
+  "startTime": "2015-10-09T22:30:00Z",
+  "season": "2015",
+  "event": "NL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "446243",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/446243/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.084878Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.084879Z"
+}

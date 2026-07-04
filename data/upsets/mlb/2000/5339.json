@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-06-19-brewers-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2000-06-19",
+  "startTime": "2000-06-19T23:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "29-40"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "33-37"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.428,
+    "rankGapFactor": 0.102,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5339",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5339/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.624968Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.624973Z"
+}

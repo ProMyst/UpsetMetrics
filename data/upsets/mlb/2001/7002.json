@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-04-18-white-sox-at-tigers",
+  "sport": "mlb",
+  "date": "2001-04-18",
+  "startTime": "2001-04-18T23:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "5-8"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "5-8"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7002",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7002/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.009606Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.009608Z"
+}

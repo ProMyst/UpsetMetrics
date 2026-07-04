@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-07-16-white-sox-at-royals",
+  "sport": "mlb",
+  "date": "2019-07-16",
+  "startTime": "2019-07-17T00:15:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "34-62"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "42-49"
+  },
+  "finalScore": "11-0",
+  "factors": {
+    "pregameOddsFactor": 0.568,
+    "rankGapFactor": 0.215,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565750",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565750/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.341326Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.341327Z"
+}

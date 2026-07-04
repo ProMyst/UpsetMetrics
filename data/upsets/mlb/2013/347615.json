@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-06-04-rays-at-tigers",
+  "sport": "mlb",
+  "date": "2013-06-04",
+  "startTime": "2013-06-04T23:08:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "31-25"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "31-26"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347615",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347615/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.287456Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.287458Z"
+}

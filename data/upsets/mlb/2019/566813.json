@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-07-14-astros-at-rangers",
+  "sport": "mlb",
+  "date": "2019-07-14",
+  "startTime": "2019-07-14T19:05:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "59-35"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "50-44"
+  },
+  "finalScore": "12-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566813",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566813/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.338009Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.338010Z"
+}

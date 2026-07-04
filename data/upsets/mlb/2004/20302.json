@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-04-26-reds-at-pirates",
+  "sport": "mlb",
+  "date": "2004-04-26",
+  "startTime": "2004-04-26T23:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "12-7"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "8-10"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20302",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20302/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.460249Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.460251Z"
+}

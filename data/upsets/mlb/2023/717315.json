@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-07-21-phillies-at-guardians",
+  "sport": "mlb",
+  "date": "2023-07-21",
+  "startTime": "2023-07-21T23:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "48-49"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "52-45"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.403,
+    "rankGapFactor": 0.082,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717315",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717315/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.856831Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-guardians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.856833Z"
+}

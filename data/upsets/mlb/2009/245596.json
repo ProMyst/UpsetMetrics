@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-07-21-cleveland-indians-at-blue-jays",
+  "sport": "mlb",
+  "date": "2009-07-21",
+  "startTime": "2009-07-21T23:07:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "37-57"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "46-48"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.539,
+    "rankGapFactor": 0.191,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245596",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245596/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.818937Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.818942Z"
+}

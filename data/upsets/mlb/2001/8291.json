@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-08-08-red-sox-at-athletics",
+  "sport": "mlb",
+  "date": "2001-08-08",
+  "startTime": "2001-08-09T02:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "64-50"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "64-49"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.312,
+    "rankGapFactor": 0.01,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8291",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8291/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.317847Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.317849Z"
+}

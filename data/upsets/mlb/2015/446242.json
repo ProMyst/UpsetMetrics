@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-10-09-astros-at-royals",
+  "sport": "mlb",
+  "date": "2015-10-09",
+  "startTime": "2015-10-09T19:30:00Z",
+  "season": "2015",
+  "event": "AL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "1-1"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "1-1"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "446242",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/446242/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.084758Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.084759Z"
+}

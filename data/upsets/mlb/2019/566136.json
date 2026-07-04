@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-07-26-rangers-at-athletics",
+  "sport": "mlb",
+  "date": "2019-07-26",
+  "startTime": "2019-07-27T02:07:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "53-51"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "59-47"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.417,
+    "rankGapFactor": 0.094,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566136",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566136/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.358844Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.358845Z"
+}

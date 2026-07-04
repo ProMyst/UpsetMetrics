@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-06-25-royals-at-angels",
+  "sport": "mlb",
+  "date": "2007-06-25",
+  "startTime": "2007-06-26T02:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "31-46"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "49-28"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.884,
+    "rankGapFactor": 0.468,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69262",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69262/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.358584Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.358586Z"
+}

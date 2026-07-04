@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-07-14-rangers-at-astros",
+  "sport": "mlb",
+  "date": "2024-07-14",
+  "startTime": "2024-07-14T18:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "46-50"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "50-46"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.404,
+    "rankGapFactor": 0.083,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746370",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746370/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.978533Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.978535Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-07-07-florida-marlins-at-padres",
+  "sport": "mlb",
+  "date": "2008-07-07",
+  "startTime": "2008-07-08T02:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "46-43"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "35-55"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235096",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235096/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.976003Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.976008Z"
+}

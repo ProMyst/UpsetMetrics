@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-06-16-white-sox-at-twins",
+  "sport": "mlb",
+  "date": "2011-06-16",
+  "startTime": "2011-06-16T17:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "28-39"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "33-37"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.434,
+    "rankGapFactor": 0.107,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287937",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287937/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.190926Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.190928Z"
+}

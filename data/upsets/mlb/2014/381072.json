@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-05-09-giants-at-dodgers",
+  "sport": "mlb",
+  "date": "2014-05-09",
+  "startTime": "2014-05-10T02:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "23-13"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "19-18"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381072",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381072/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.023492Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.023493Z"
+}

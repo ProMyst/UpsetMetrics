@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-09-21-yankees-at-blue-jays",
+  "sport": "mlb",
+  "date": "2020-09-21",
+  "startTime": "2020-09-21T22:37:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "28-26"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "31-23"
+  },
+  "finalScore": "11-5",
+  "factors": {
+    "pregameOddsFactor": 0.439,
+    "rankGapFactor": 0.111,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "630876",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/630876/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.683035Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.683037Z"
+}

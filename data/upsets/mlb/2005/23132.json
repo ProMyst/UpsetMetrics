@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-05-10-padres-at-reds",
+  "sport": "mlb",
+  "date": "2005-05-10",
+  "startTime": "2005-05-10T23:10:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "12-20"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "18-16"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.686,
+    "rankGapFactor": 0.309,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23132",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23132/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.464177Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.464180Z"
+}

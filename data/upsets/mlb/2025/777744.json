@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-05-27-pirates-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2025-05-27",
+  "startTime": "2025-05-28T01:40:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "20-36"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "27-28"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.634,
+    "rankGapFactor": 0.268,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777744",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777744/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.858830Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.858832Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-04-17-mariners-at-royals",
+  "sport": "mlb",
+  "date": "2011-04-17",
+  "startTime": "2011-04-17T18:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "5-11"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "10-5"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.708,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287121",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287121/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.026264Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.026266Z"
+}

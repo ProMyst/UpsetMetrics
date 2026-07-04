@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-06-25-phillies-at-padres",
+  "sport": "mlb",
+  "date": "2022-06-25",
+  "startTime": "2022-06-26T02:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "38-35"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "45-29"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.519,
+    "rankGapFactor": 0.175,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662247",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662247/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.020379Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.020381Z"
+}

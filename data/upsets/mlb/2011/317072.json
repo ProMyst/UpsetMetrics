@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-10-27-rangers-at-cardinals",
+  "sport": "mlb",
+  "date": "2011-10-27",
+  "startTime": "2011-10-28T00:05:00Z",
+  "season": "2011",
+  "event": "World Series",
+  "stakes": "World Series",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "3-3"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "3-3"
+  },
+  "finalScore": "10-9",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 1.0,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "317072",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/317072/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.484087Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.484089Z"
+}

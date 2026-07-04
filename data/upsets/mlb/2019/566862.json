@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-03-20-braves-at-blue-jays",
+  "sport": "mlb",
+  "date": "2019-03-20",
+  "startTime": "2019-03-20T17:07:00Z",
+  "season": "2019",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "12-14"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "11-12"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.342,
+    "rankGapFactor": 0.033,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566862",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566862/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.102836Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.102841Z"
+}

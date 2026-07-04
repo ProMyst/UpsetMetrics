@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-09-29-pirates-at-cubs",
+  "sport": "mlb",
+  "date": "2009-09-29",
+  "startTime": "2009-09-30T00:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "82-74"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "59-97"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246548",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246548/feed/live",
+    "retrievedAt": "2026-07-04T06:20:14.008399Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:14.008401Z"
+}

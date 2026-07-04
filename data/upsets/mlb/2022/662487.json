@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-06-27-pirates-at-nationals",
+  "sport": "mlb",
+  "date": "2022-06-27",
+  "startTime": "2022-06-27T23:05:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "28-48"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "29-44"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.372,
+    "rankGapFactor": 0.058,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662487",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662487/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.023668Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.023671Z"
+}

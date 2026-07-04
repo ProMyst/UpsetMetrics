@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-06-17-rays-at-rockies",
+  "sport": "mlb",
+  "date": "2009-06-17",
+  "startTime": "2009-06-18T00:40:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "32-33"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "35-32"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.375,
+    "rankGapFactor": 0.06,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "245179",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/245179/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.730430Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.730432Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-08-06-cubs-at-athletics",
+  "sport": "mlb",
+  "date": "2016-08-06",
+  "startTime": "2016-08-06T20:05:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "68-41"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "48-62"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448506",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448506/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.300445Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.300446Z"
+}

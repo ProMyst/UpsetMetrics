@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-07-07-angels-at-rangers",
+  "sport": "mlb",
+  "date": "2017-07-07",
+  "startTime": "2017-07-08T00:05:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "42-44"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "44-46"
+  },
+  "finalScore": "10-0",
+  "factors": {
+    "pregameOddsFactor": 0.301,
+    "rankGapFactor": 0.001,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491397",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491397/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.224648Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.224649Z"
+}

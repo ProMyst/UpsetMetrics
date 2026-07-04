@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-05-09-rangers-at-tigers",
+  "sport": "mlb",
+  "date": "2025-05-09",
+  "startTime": "2025-05-09T22:40:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "26-13"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "18-21"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777996",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777996/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.807020Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.807022Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-06-29-cubs-at-white-sox",
+  "sport": "mlb",
+  "date": "2002-06-29",
+  "startTime": "2002-06-29T17:15:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "40-41"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "32-46"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "11290",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/11290/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.873116Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.873117Z"
+}

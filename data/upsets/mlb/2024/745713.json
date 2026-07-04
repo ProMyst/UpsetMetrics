@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-08-07-angels-at-yankees",
+  "sport": "mlb",
+  "date": "2024-08-07",
+  "startTime": "2024-08-07T20:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "50-64"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "68-47"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.682,
+    "rankGapFactor": 0.305,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745713",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745713/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.031923Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.031925Z"
+}

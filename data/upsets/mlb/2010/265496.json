@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-08-10-yankees-at-rangers",
+  "sport": "mlb",
+  "date": "2010-08-10",
+  "startTime": "2010-08-11T00:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "65-47"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "69-43"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.389,
+    "rankGapFactor": 0.071,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "265496",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/265496/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.104895Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.104897Z"
+}

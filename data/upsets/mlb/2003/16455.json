@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-09-16-brewers-at-cardinals",
+  "sport": "mlb",
+  "date": "2003-09-16",
+  "startTime": "2003-09-17T00:10:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "78-74"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "64-87"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16455",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16455/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.839054Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.839056Z"
+}

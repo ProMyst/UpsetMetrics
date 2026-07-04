@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-05-14-rockies-at-cubs",
+  "sport": "mlb",
+  "date": "2013-05-14",
+  "startTime": "2013-05-15T00:05:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "21-18"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "16-23"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347320",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347320/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.229250Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.229252Z"
+}

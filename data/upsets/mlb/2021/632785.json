@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-08-22-white-sox-at-rays",
+  "sport": "mlb",
+  "date": "2021-08-22",
+  "startTime": "2021-08-22T17:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "77-48"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "72-53"
+  },
+  "finalScore": "9-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "632785",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/632785/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.193186Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.193188Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-04-22-angels-at-nationals",
+  "sport": "mlb",
+  "date": "2014-04-22",
+  "startTime": "2014-04-22T23:05:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "10-10"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "11-10"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.36,
+    "rankGapFactor": 0.048,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "380833",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/380833/feed/live",
+    "retrievedAt": "2026-07-04T06:27:17.992767Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:17.992768Z"
+}

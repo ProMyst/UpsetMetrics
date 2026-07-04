@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-07-27-orioles-at-red-sox",
+  "sport": "mlb",
+  "date": "2002-07-27",
+  "startTime": "2002-07-27T21:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "60-42"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "48-52"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "11329",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/11329/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.951322Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.951324Z"
+}

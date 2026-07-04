@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-09-07-rockies-at-padres",
+  "sport": "mlb",
+  "date": "2019-09-07",
+  "startTime": "2019-09-08T00:40:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "65-76"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "60-83"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566344",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566344/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.430698Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.430699Z"
+}

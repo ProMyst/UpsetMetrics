@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-08-27-red-sox-at-yankees",
+  "sport": "mlb",
+  "date": "2008-08-27",
+  "startTime": "2008-08-27T23:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "77-55"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "70-62"
+  },
+  "finalScore": "11-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235743",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235743/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.105188Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.105190Z"
+}

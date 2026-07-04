@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-09-26-athletics-at-angels",
+  "sport": "mlb",
+  "date": "2009-09-26",
+  "startTime": "2009-09-27T01:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "75-80"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "90-64"
+  },
+  "finalScore": "15-10",
+  "factors": {
+    "pregameOddsFactor": 0.551,
+    "rankGapFactor": 0.201,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246506",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246506/feed/live",
+    "retrievedAt": "2026-07-04T06:20:14.001608Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:14.001610Z"
+}

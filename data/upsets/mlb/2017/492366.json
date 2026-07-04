@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-09-20-white-sox-at-astros",
+  "sport": "mlb",
+  "date": "2017-09-20",
+  "startTime": "2017-09-21T00:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "93-58"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "60-91"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "492366",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/492366/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.350384Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.350385Z"
+}

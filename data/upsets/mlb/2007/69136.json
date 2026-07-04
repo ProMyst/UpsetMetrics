@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-06-15-rangers-at-reds",
+  "sport": "mlb",
+  "date": "2007-06-15",
+  "startTime": "2007-06-15T23:10:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "25-42"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "26-42"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.323,
+    "rankGapFactor": 0.018,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69136",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69136/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.326830Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.326832Z"
+}

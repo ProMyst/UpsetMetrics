@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-08-30-rockies-at-rangers",
+  "sport": "mlb",
+  "date": "2021-08-30",
+  "startTime": "2021-08-31T00:05:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "46-85"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "60-71"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.567,
+    "rankGapFactor": 0.214,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "632678",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/632678/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.216019Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.216021Z"
+}

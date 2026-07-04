@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-03-24-cleveland-indians-at-white-sox",
+  "sport": "mlb",
+  "date": "2019-03-24",
+  "startTime": "2019-03-24T19:05:00Z",
+  "season": "2019",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "10-17"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "16-13"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.753,
+    "rankGapFactor": 0.363,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567262",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567262/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.126187Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.126193Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-08-05-anaheim-angels-at-yankees",
+  "sport": "mlb",
+  "date": "2001-08-05",
+  "startTime": "2001-08-05T17:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "57-54"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "67-44"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.525,
+    "rankGapFactor": 0.18,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8263",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8263/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.308884Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.308889Z"
+}

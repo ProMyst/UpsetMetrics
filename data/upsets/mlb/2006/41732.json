@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-08-16-florida-marlins-at-dodgers",
+  "sport": "mlb",
+  "date": "2006-08-16",
+  "startTime": "2006-08-16T19:10:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "56-64"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "64-57"
+  },
+  "finalScore": "15-4",
+  "factors": {
+    "pregameOddsFactor": 0.456,
+    "rankGapFactor": 0.125,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41732",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41732/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.584169Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.584173Z"
+}

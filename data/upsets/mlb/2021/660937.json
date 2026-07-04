@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-10-06-cardinals-at-dodgers",
+  "sport": "mlb",
+  "date": "2021-10-06",
+  "startTime": "2021-10-07T00:10:00Z",
+  "season": "2021",
+  "event": "NL Wild Card Game",
+  "stakes": "Wild Card",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.75,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "660937",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/660937/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.310207Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.310209Z"
+}

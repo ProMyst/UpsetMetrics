@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-07-24-rockies-at-brewers",
+  "sport": "mlb",
+  "date": "2022-07-24",
+  "startTime": "2022-07-24T18:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "53-43"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "43-53"
+  },
+  "finalScore": "10-9",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661184",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661184/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.091945Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.091947Z"
+}

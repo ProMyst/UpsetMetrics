@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-06-02-giants-at-braves",
+  "sport": "mlb",
+  "date": "2016-06-02",
+  "startTime": "2016-06-02T16:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "34-22"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "16-37"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447676",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447676/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.186275Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.186276Z"
+}

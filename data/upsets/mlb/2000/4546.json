@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-09-23-padres-at-dodgers",
+  "sport": "mlb",
+  "date": "2000-09-23",
+  "startTime": "2000-09-24T02:10:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "82-73"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "75-80"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4546",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4546/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.895051Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.895054Z"
+}

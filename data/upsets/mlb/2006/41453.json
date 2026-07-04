@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-07-26-red-sox-at-athletics",
+  "sport": "mlb",
+  "date": "2006-07-26",
+  "startTime": "2006-07-26T19:35:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "52-49"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "61-39"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.538,
+    "rankGapFactor": 0.19,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41453",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41453/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.528813Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.528815Z"
+}

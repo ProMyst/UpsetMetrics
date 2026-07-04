@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-06-30-rockies-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2017-06-30",
+  "startTime": "2017-07-01T01:40:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "48-34"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "50-31"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.38,
+    "rankGapFactor": 0.064,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491297",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491297/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.211784Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.211786Z"
+}

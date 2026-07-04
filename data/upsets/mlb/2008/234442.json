@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-05-20-reds-at-dodgers",
+  "sport": "mlb",
+  "date": "2008-05-20",
+  "startTime": "2008-05-21T02:10:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "24-21"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "21-25"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234442",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234442/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.840468Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.840469Z"
+}

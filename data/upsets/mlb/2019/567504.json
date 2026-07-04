@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-07-13-blue-jays-at-yankees",
+  "sport": "mlb",
+  "date": "2019-07-13",
+  "startTime": "2019-07-13T17:05:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "35-58"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "58-32"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.97,
+    "rankGapFactor": 0.536,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567504",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567504/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.335242Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.335243Z"
+}

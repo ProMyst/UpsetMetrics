@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-07-03-royals-at-mariners",
+  "sport": "mlb",
+  "date": "2017-07-03",
+  "startTime": "2017-07-04T02:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "42-40"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "41-43"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491342",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491342/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.218593Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.218594Z"
+}

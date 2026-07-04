@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-08-22-blue-jays-at-angels",
+  "sport": "mlb",
+  "date": "2015-08-22",
+  "startTime": "2015-08-23T01:05:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "68-55"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "63-60"
+  },
+  "finalScore": "15-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415493",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415493/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.007164Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.007165Z"
+}

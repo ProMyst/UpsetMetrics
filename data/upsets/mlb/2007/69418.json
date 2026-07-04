@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-07-06-florida-marlins-at-dodgers",
+  "sport": "mlb",
+  "date": "2007-07-06",
+  "startTime": "2007-07-07T02:40:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "41-46"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "48-39"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.501,
+    "rankGapFactor": 0.161,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69418",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69418/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.390209Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.390213Z"
+}

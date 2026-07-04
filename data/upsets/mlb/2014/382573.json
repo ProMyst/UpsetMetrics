@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-08-31-cleveland-indians-at-royals",
+  "sport": "mlb",
+  "date": "2014-08-31",
+  "startTime": "2014-09-22T22:05:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "71-64"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "74-62"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.345,
+    "rankGapFactor": 0.036,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382573",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382573/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.260462Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.260465Z"
+}

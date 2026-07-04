@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-06-27-nationals-at-marlins",
+  "sport": "mlb",
+  "date": "2021-06-27",
+  "startTime": "2021-06-27T17:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "37-38"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "33-45"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633489",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633489/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.048572Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.048574Z"
+}

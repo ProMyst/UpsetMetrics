@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-06-20-tigers-at-reds",
+  "sport": "mlb",
+  "date": "2018-06-20",
+  "startTime": "2018-06-20T16:35:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "28-45"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "36-39"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.541,
+    "rankGapFactor": 0.193,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530508",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530508/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.806599Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.806600Z"
+}

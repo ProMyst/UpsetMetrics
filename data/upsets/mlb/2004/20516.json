@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-05-13-pirates-at-rockies",
+  "sport": "mlb",
+  "date": "2004-05-13",
+  "startTime": "2004-05-13T19:10:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "14-18"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "14-19"
+  },
+  "finalScore": "11-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20516",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20516/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.508099Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.508101Z"
+}

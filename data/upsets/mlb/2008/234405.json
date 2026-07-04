@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-05-17-dodgers-at-angels",
+  "sport": "mlb",
+  "date": "2008-05-17",
+  "startTime": "2008-05-17T19:55:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "22-20"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "25-20"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.379,
+    "rankGapFactor": 0.063,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234405",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234405/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.830921Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.830923Z"
+}

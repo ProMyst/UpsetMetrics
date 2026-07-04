@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-05-14-cardinals-at-reds",
+  "sport": "mlb",
+  "date": "2010-05-14",
+  "startTime": "2010-05-14T23:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "21-15"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "19-16"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264338",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264338/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.869908Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.869910Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-08-18-angels-at-rays",
+  "sport": "mlb",
+  "date": "2008-08-18",
+  "startTime": "2008-08-18T23:10:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "76-48"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "76-47"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.312,
+    "rankGapFactor": 0.01,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235624",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235624/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.080434Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.080436Z"
+}

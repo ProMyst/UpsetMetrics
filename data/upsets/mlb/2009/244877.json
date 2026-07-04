@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-05-26-red-sox-at-twins",
+  "sport": "mlb",
+  "date": "2009-05-26",
+  "startTime": "2009-05-27T00:10:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "23-24"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "27-19"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.544,
+    "rankGapFactor": 0.195,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244877",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244877/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.671226Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.671228Z"
+}

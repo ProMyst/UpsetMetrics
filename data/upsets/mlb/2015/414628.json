@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-06-17-angels-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2015-06-17",
+  "startTime": "2015-06-18T01:40:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "32-33"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "33-33"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.319,
+    "rankGapFactor": 0.015,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414628",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414628/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.893520Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.893521Z"
+}

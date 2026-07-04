@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-06-21-rays-at-brewers",
+  "sport": "mlb",
+  "date": "2011-06-21",
+  "startTime": "2011-06-22T00:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "41-34"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "40-34"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288015",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288015/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.204971Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.204973Z"
+}

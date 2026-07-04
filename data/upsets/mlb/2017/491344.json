@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-07-03-marlins-at-cardinals",
+  "sport": "mlb",
+  "date": "2017-07-03",
+  "startTime": "2017-07-03T23:15:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "40-42"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "36-45"
+  },
+  "finalScore": "14-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491344",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491344/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.217918Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.217920Z"
+}

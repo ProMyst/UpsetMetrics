@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-08-26-cubs-at-tigers",
+  "sport": "mlb",
+  "date": "2020-08-26",
+  "startTime": "2020-08-26T23:10:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "13-16"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "18-12"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.679,
+    "rankGapFactor": 0.303,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "631455",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/631455/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.606298Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.606300Z"
+}

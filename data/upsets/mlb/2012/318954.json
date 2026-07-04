@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-07-04-yankees-at-rays",
+  "sport": "mlb",
+  "date": "2012-07-04",
+  "startTime": "2012-07-04T19:10:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "49-32"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "43-39"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318954",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318954/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.484331Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.484333Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-08-13-mariners-at-angels",
+  "sport": "mlb",
+  "date": "2008-08-13",
+  "startTime": "2008-08-14T02:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "46-74"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "75-44"
+  },
+  "finalScore": "10-7",
+  "factors": {
+    "pregameOddsFactor": 0.917,
+    "rankGapFactor": 0.494,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235560",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235560/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.067794Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.067796Z"
+}

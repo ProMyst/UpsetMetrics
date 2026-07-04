@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-05-06-cardinals-at-phillies",
+  "sport": "mlb",
+  "date": "2010-05-06",
+  "startTime": "2010-05-06T17:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "17-11"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "18-11"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.334,
+    "rankGapFactor": 0.027,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264230",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264230/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.847361Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.847363Z"
+}

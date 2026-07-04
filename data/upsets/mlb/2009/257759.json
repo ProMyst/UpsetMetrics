@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-04-04-white-sox-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2009-04-04",
+  "startTime": "2009-04-04T20:10:00Z",
+  "season": "2009",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "16-20"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "11-23"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "257759",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/257759/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.531145Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.531147Z"
+}

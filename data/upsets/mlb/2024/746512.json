@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-08-28-marlins-at-rockies",
+  "sport": "mlb",
+  "date": "2024-08-28",
+  "startTime": "2024-08-29T00:40:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "50-84"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "48-85"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746512",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746512/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.089110Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.089112Z"
+}

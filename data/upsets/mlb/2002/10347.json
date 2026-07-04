@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-09-03-phillies-at-montreal-expos",
+  "sport": "mlb",
+  "date": "2002-09-03",
+  "startTime": "2002-09-03T23:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "68-70"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "69-68"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.327,
+    "rankGapFactor": 0.022,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10347",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10347/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.055952Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.055957Z"
+}

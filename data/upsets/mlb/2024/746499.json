@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-09-28-dodgers-at-rockies",
+  "sport": "mlb",
+  "date": "2024-09-28",
+  "startTime": "2024-09-29T00:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "97-64"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "61-100"
+  },
+  "finalScore": "13-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746499",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746499/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.170082Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.170084Z"
+}

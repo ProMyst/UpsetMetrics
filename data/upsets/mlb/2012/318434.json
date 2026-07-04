@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-05-26-rays-at-red-sox",
+  "sport": "mlb",
+  "date": "2012-05-26",
+  "startTime": "2012-05-26T23:15:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "23-23"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "28-19"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.539,
+    "rankGapFactor": 0.191,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318434",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318434/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.377092Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.377094Z"
+}

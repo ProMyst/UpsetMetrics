@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-08-11-royals-at-rays",
+  "sport": "mlb",
+  "date": "2011-08-11",
+  "startTime": "2011-08-11T16:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "63-54"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "49-69"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288662",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288662/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.339453Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.339455Z"
+}

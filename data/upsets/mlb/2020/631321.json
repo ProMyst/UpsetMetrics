@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-09-14-phillies-at-marlins",
+  "sport": "mlb",
+  "date": "2020-09-14",
+  "startTime": "2020-09-14T20:10:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "24-21"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "23-23"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "631321",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/631321/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.661705Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.661707Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-06-05-tigers-at-white-sox",
+  "sport": "mlb",
+  "date": "2021-06-05",
+  "startTime": "2021-06-05T18:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "24-34"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "35-23"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.774,
+    "rankGapFactor": 0.379,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633920",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633920/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.984366Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.984368Z"
+}

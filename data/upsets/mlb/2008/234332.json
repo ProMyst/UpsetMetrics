@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-05-12-red-sox-at-twins",
+  "sport": "mlb",
+  "date": "2008-05-12",
+  "startTime": "2008-05-12T23:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "20-17"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "24-17"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.412,
+    "rankGapFactor": 0.09,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234332",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234332/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.817115Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.817118Z"
+}

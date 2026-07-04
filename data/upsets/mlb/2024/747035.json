@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-05-19-mariners-at-orioles",
+  "sport": "mlb",
+  "date": "2024-05-19",
+  "startTime": "2024-05-19T17:35:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "29-15"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "25-22"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "747035",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/747035/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.825558Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.825560Z"
+}

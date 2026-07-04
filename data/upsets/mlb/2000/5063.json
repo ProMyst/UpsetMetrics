@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-05-03-montreal-expos-at-rockies",
+  "sport": "mlb",
+  "date": "2000-05-03",
+  "startTime": "2000-05-03T19:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "14-14"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "14-12"
+  },
+  "finalScore": "16-7",
+  "factors": {
+    "pregameOddsFactor": 0.396,
+    "rankGapFactor": 0.077,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5063",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5063/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.498125Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.498130Z"
+}

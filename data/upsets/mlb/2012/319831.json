@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-09-09-brewers-at-cardinals",
+  "sport": "mlb",
+  "date": "2012-09-09",
+  "startTime": "2012-09-09T18:15:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "75-65"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "69-71"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "319831",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/319831/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.659887Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.659889Z"
+}

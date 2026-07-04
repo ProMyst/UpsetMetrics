@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-04-23-padres-at-tigers",
+  "sport": "mlb",
+  "date": "2025-04-23",
+  "startTime": "2025-04-23T17:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "15-10"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "17-8"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.5,
+    "rankGapFactor": 0.16,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "778209",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/778209/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.763735Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.763737Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-03-24-guardians-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2025-03-24",
+  "startTime": "2025-03-25T01:40:00Z",
+  "season": "2025",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "12-18"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "17-13"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.717,
+    "rankGapFactor": 0.333,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "787930",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/787930/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.687424Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "guardians-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.687427Z"
+}

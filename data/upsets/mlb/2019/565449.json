@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-06-14-padres-at-rockies",
+  "sport": "mlb",
+  "date": "2019-06-14",
+  "startTime": "2019-06-15T00:40:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "34-36"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "36-33"
+  },
+  "finalScore": "16-12",
+  "factors": {
+    "pregameOddsFactor": 0.39,
+    "rankGapFactor": 0.072,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565449",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565449/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.289084Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.289085Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-03-22-dodgers-at-brewers",
+  "sport": "mlb",
+  "date": "2010-03-22",
+  "startTime": "2010-03-22T20:05:00Z",
+  "season": "2010",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "7-10"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "11-9"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.646,
+    "rankGapFactor": 0.276,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "277287",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/277287/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.720758Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.720761Z"
+}

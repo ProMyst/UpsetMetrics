@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-06-16-tigers-at-twins",
+  "sport": "mlb",
+  "date": "2023-06-16",
+  "startTime": "2023-06-17T00:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "29-39"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "35-35"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.484,
+    "rankGapFactor": 0.147,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717738",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717738/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.768472Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.768474Z"
+}

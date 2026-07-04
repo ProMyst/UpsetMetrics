@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-04-30-royals-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2005-04-30",
+  "startTime": "2005-04-30T17:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "6-18"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "9-14"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.653,
+    "rankGapFactor": 0.283,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "22982",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/22982/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.433486Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.433490Z"
+}

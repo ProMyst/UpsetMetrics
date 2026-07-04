@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-11-01-diamondbacks-at-yankees",
+  "sport": "mlb",
+  "date": "2001-11-01",
+  "startTime": "2001-11-02T01:00:00Z",
+  "season": "2001",
+  "event": "World Series",
+  "stakes": "World Series",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "3-2"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "2-3"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 1.0,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9099",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9099/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.491617Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.491619Z"
+}

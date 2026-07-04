@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-03-25-dodgers-at-royals",
+  "sport": "mlb",
+  "date": "2013-03-25",
+  "startTime": "2013-03-26T01:10:00Z",
+  "season": "2013",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "22-6"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "11-17"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "363415",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/363415/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.094274Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.094277Z"
+}

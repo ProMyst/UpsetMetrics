@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-03-23-orioles-at-twins",
+  "sport": "mlb",
+  "date": "2011-03-23",
+  "startTime": "2011-03-23T23:05:00Z",
+  "season": "2011",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "14-11"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "11-12"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "305852",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/305852/feed/live",
+    "retrievedAt": "2026-07-04T06:23:02.951491Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:02.951494Z"
+}

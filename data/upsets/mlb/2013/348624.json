@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-08-20-cardinals-at-brewers",
+  "sport": "mlb",
+  "date": "2013-08-20",
+  "startTime": "2013-08-21T00:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "55-71"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "72-53"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.649,
+    "rankGapFactor": 0.279,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "348624",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/348624/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.495962Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.495964Z"
+}

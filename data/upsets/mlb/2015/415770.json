@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-09-12-brewers-at-pirates",
+  "sport": "mlb",
+  "date": "2015-09-12",
+  "startTime": "2015-09-12T23:05:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "85-56"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "62-80"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415770",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415770/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.043300Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.043301Z"
+}

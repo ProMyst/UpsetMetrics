@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-04-29-braves-at-cubs",
+  "sport": "mlb",
+  "date": "2016-04-29",
+  "startTime": "2016-04-29T18:20:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "17-5"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "5-18"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447199",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447199/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.124692Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.124693Z"
+}

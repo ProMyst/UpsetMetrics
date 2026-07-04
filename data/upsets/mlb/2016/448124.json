@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-07-05-marlins-at-mets",
+  "sport": "mlb",
+  "date": "2016-07-05",
+  "startTime": "2016-07-05T23:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "44-40"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "45-38"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.346,
+    "rankGapFactor": 0.037,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448124",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448124/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.249805Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.249806Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-08-20-cubs-at-rockies",
+  "sport": "mlb",
+  "date": "2005-08-20",
+  "startTime": "2005-08-21T00:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "46-77"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "60-63"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.585,
+    "rankGapFactor": 0.228,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24470",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24470/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.743548Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.743550Z"
+}

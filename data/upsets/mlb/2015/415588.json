@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-08-30-angels-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2015-08-30",
+  "startTime": "2015-08-30T17:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "63-66"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "65-65"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.329,
+    "rankGapFactor": 0.023,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415588",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415588/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.019711Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.019714Z"
+}

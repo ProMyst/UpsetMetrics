@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-04-26-mariners-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2018-04-26",
+  "startTime": "2018-04-26T22:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "14-10"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "13-10"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "529783",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/529783/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.712044Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.712048Z"
+}

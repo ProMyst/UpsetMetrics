@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-05-25-cardinals-at-dodgers",
+  "sport": "mlb",
+  "date": "2017-05-25",
+  "startTime": "2017-05-26T02:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "28-20"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "23-21"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490812",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490812/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.144870Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.144871Z"
+}

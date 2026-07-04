@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-09-23-brewers-at-reds",
+  "sport": "mlb",
+  "date": "2022-09-23",
+  "startTime": "2022-09-23T22:40:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "81-70"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "59-92"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661068",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661068/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.252476Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.252477Z"
+}

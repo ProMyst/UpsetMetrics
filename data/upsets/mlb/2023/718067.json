@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-05-22-giants-at-twins",
+  "sport": "mlb",
+  "date": "2023-05-22",
+  "startTime": "2023-05-22T23:40:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "23-24"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "25-23"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.379,
+    "rankGapFactor": 0.063,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718067",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718067/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.701461Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.701463Z"
+}

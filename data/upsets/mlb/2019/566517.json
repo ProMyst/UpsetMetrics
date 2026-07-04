@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-07-18-mets-at-giants",
+  "sport": "mlb",
+  "date": "2019-07-18",
+  "startTime": "2019-07-19T01:45:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "48-49"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "44-52"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566517",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566517/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.345061Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.345063Z"
+}

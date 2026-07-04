@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-06-01-diamondbacks-at-padres",
+  "sport": "mlb",
+  "date": "2003-06-01",
+  "startTime": "2003-06-01T21:00:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "26-30"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "16-41"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16165",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16165/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.544593Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.544595Z"
+}

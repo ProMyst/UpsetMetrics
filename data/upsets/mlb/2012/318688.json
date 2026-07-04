@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-06-15-rockies-at-tigers",
+  "sport": "mlb",
+  "date": "2012-06-15",
+  "startTime": "2012-06-15T23:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "25-38"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "30-34"
+  },
+  "finalScore": "12-4",
+  "factors": {
+    "pregameOddsFactor": 0.48,
+    "rankGapFactor": 0.144,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318688",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318688/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.427290Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.427292Z"
+}

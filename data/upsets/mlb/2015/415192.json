@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-07-31-mariners-at-twins",
+  "sport": "mlb",
+  "date": "2015-07-31",
+  "startTime": "2015-08-01T00:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "47-57"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "53-49"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.469,
+    "rankGapFactor": 0.135,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415192",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415192/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.968029Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.968030Z"
+}

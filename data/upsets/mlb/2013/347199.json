@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-05-04-nationals-at-pirates",
+  "sport": "mlb",
+  "date": "2013-05-04",
+  "startTime": "2013-05-04T20:05:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "16-15"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "17-13"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.426,
+    "rankGapFactor": 0.101,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347199",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347199/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.201960Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.201962Z"
+}

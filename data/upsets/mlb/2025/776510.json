@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-08-31-angels-at-astros",
+  "sport": "mlb",
+  "date": "2025-08-31",
+  "startTime": "2025-08-31T18:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "64-72"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "75-62"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.492,
+    "rankGapFactor": 0.154,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776510",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776510/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.110798Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.110800Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-04-30-cardinals-at-tigers",
+  "sport": "mlb",
+  "date": "2024-04-30",
+  "startTime": "2024-04-30T19:45:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "17-13"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "14-16"
+  },
+  "finalScore": "11-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746481",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746481/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.776682Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.776684Z"
+}

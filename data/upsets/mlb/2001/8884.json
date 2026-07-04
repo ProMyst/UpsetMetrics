@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-09-27-orioles-at-red-sox",
+  "sport": "mlb",
+  "date": "2001-09-27",
+  "startTime": "2001-09-27T23:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "61-91"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "76-75"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.555,
+    "rankGapFactor": 0.204,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8884",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8884/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.455093Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.455095Z"
+}

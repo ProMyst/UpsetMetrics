@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-08-30-pirates-at-red-sox",
+  "sport": "mlb",
+  "date": "2025-08-30",
+  "startTime": "2025-08-30T20:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "61-76"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "75-62"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.555,
+    "rankGapFactor": 0.204,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776539",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776539/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.106748Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.106750Z"
+}

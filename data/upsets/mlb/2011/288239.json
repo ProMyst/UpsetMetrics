@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-07-08-mets-at-giants",
+  "sport": "mlb",
+  "date": "2011-07-08",
+  "startTime": "2011-07-09T02:15:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "46-43"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "50-40"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.397,
+    "rankGapFactor": 0.077,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288239",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288239/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.256517Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.256519Z"
+}

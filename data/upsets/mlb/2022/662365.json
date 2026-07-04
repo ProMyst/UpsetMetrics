@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-06-03-red-sox-at-athletics",
+  "sport": "mlb",
+  "date": "2022-06-03",
+  "startTime": "2022-06-04T01:40:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "25-27"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "20-34"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662365",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662365/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.955018Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.955019Z"
+}

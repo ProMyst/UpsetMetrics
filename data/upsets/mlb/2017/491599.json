@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-07-25-brewers-at-nationals",
+  "sport": "mlb",
+  "date": "2017-07-25",
+  "startTime": "2017-07-25T23:05:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "54-48"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "59-39"
+  },
+  "finalScore": "8-0",
+  "factors": {
+    "pregameOddsFactor": 0.482,
+    "rankGapFactor": 0.145,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491599",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491599/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.249746Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.249747Z"
+}

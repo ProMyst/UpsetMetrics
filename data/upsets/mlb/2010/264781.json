@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-06-16-astros-at-royals",
+  "sport": "mlb",
+  "date": "2010-06-16",
+  "startTime": "2010-06-17T00:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "26-40"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "28-38"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.376,
+    "rankGapFactor": 0.061,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264781",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264781/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.960878Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.960881Z"
+}

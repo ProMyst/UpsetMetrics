@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-05-06-white-sox-at-rangers",
+  "sport": "mlb",
+  "date": "2002-05-06",
+  "startTime": "2002-05-07T00:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "14-17"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "19-13"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.655,
+    "rankGapFactor": 0.284,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9462",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9462/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.726499Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.726501Z"
+}

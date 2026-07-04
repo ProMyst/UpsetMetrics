@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-10-17-giants-at-phillies",
+  "sport": "mlb",
+  "date": "2010-10-17",
+  "startTime": "2010-10-18T00:00:00Z",
+  "season": "2010",
+  "event": "NL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "1-1"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "1-1"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "286341",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/286341/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.258407Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.258409Z"
+}

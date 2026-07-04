@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-09-09-red-sox-at-yankees",
+  "sport": "mlb",
+  "date": "2005-09-09",
+  "startTime": "2005-09-09T23:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "79-61"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "82-58"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.354,
+    "rankGapFactor": 0.043,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24736",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24736/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.796733Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.796735Z"
+}

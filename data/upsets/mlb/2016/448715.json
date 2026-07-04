@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-08-21-mets-at-giants",
+  "sport": "mlb",
+  "date": "2016-08-21",
+  "startTime": "2016-08-22T00:05:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "62-62"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "68-56"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.421,
+    "rankGapFactor": 0.097,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448715",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448715/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.327790Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.327791Z"
+}

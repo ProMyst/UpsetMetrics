@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-08-16-rays-at-giants",
+  "sport": "mlb",
+  "date": "2023-08-16",
+  "startTime": "2023-08-16T19:45:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "73-50"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "64-57"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716975",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716975/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.924843Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.924845Z"
+}

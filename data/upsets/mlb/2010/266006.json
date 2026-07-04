@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-09-17-tigers-at-white-sox",
+  "sport": "mlb",
+  "date": "2010-09-17",
+  "startTime": "2010-09-18T00:10:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "73-74"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "79-68"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.402,
+    "rankGapFactor": 0.082,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "266006",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/266006/feed/live",
+    "retrievedAt": "2026-07-04T06:21:38.208542Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:38.208544Z"
+}

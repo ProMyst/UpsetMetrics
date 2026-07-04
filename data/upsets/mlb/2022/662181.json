@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-08-19-nationals-at-padres",
+  "sport": "mlb",
+  "date": "2022-08-19",
+  "startTime": "2022-08-20T01:40:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "41-80"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "66-56"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.805,
+    "rankGapFactor": 0.404,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662181",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662181/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.161267Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.161269Z"
+}

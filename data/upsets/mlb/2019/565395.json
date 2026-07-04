@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-09-21-phillies-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2019-09-21",
+  "startTime": "2019-09-21T23:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "79-74"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "91-64"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.477,
+    "rankGapFactor": 0.142,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565395",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565395/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.454198Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.454201Z"
+}

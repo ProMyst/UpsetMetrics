@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-03-26-white-sox-at-charlotte-knights",
+  "sport": "mlb",
+  "date": "2018-03-26",
+  "startTime": "2018-03-26T22:05:00Z",
+  "season": "2018",
+  "event": "Exhibition Game",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "charlotte-knights",
+    "name": "Charlotte Knights",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "534257",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/534257/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.640341Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-charlotte-knights",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.640348Z"
+}

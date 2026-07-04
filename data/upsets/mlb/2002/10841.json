@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-07-23-royals-at-tigers",
+  "sport": "mlb",
+  "date": "2002-07-23",
+  "startTime": "2002-07-23T23:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "36-62"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "43-56"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.467,
+    "rankGapFactor": 0.134,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10841",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10841/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.939521Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.939523Z"
+}

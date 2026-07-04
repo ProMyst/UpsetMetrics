@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-03-26-giants-at-athletics",
+  "sport": "mlb",
+  "date": "2023-03-26",
+  "startTime": "2023-03-26T20:07:00Z",
+  "season": "2023",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "14-14"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "10-17"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "719463",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/719463/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.551002Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.551004Z"
+}

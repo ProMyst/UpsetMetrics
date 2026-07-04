@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-09-01-dodgers-at-mets",
+  "sport": "mlb",
+  "date": "2022-09-01",
+  "startTime": "2022-09-01T20:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "84-48"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "90-40"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.44,
+    "rankGapFactor": 0.112,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662410",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662410/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.194480Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.194482Z"
+}

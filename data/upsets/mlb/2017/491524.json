@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-07-20-braves-at-dodgers",
+  "sport": "mlb",
+  "date": "2017-07-20",
+  "startTime": "2017-07-21T02:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "46-48"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "66-30"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.795,
+    "rankGapFactor": 0.396,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491524",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491524/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.240743Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.240744Z"
+}

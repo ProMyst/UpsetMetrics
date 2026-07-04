@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-08-23-red-sox-at-blue-jays",
+  "sport": "mlb",
+  "date": "2008-08-23",
+  "startTime": "2008-08-23T17:07:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "67-62"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "74-55"
+  },
+  "finalScore": "11-0",
+  "factors": {
+    "pregameOddsFactor": 0.436,
+    "rankGapFactor": 0.109,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235688",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235688/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.092314Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.092316Z"
+}

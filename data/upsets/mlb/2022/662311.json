@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-09-24-mets-at-athletics",
+  "sport": "mlb",
+  "date": "2022-09-24",
+  "startTime": "2022-09-24T20:07:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "56-96"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "96-57"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.948,
+    "rankGapFactor": 0.518,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662311",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662311/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.255335Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.255337Z"
+}

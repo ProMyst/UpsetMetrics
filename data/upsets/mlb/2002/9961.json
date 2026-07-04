@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-06-20-athletics-at-pirates",
+  "sport": "mlb",
+  "date": "2002-06-20",
+  "startTime": "2002-06-20T23:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "40-31"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "32-39"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9961",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9961/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.848745Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.848747Z"
+}

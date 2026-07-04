@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-05-27-nationals-at-royals",
+  "sport": "mlb",
+  "date": "2023-05-27",
+  "startTime": "2023-05-27T20:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "23-29"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "15-38"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718000",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718000/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.714045Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.714047Z"
+}

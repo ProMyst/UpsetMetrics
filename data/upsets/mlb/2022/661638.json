@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-04-27-rockies-at-phillies",
+  "sport": "mlb",
+  "date": "2022-04-27",
+  "startTime": "2022-04-27T22:45:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "9-10"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "10-8"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.505,
+    "rankGapFactor": 0.164,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661638",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661638/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.849781Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.849783Z"
+}

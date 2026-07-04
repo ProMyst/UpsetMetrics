@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-06-03-rangers-at-rockies",
+  "sport": "mlb",
+  "date": "2021-06-03",
+  "startTime": "2021-06-03T19:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "23-34"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "22-36"
+  },
+  "finalScore": "11-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633860",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633860/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.979850Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.979852Z"
+}

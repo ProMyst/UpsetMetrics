@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-09-23-mariners-at-rangers",
+  "sport": "mlb",
+  "date": "2018-09-23",
+  "startTime": "2018-09-23T19:05:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "66-89"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "85-70"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.606,
+    "rankGapFactor": 0.245,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531741",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531741/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.973147Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.973149Z"
+}

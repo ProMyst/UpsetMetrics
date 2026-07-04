@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-03-26-mariners-at-royals",
+  "sport": "mlb",
+  "date": "2008-03-26",
+  "startTime": "2008-03-26T20:05:00Z",
+  "season": "2008",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "11-15"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "15-12"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.631,
+    "rankGapFactor": 0.265,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "237604",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/237604/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.688179Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.688182Z"
+}

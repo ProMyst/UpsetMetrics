@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-05-24-phillies-at-tigers",
+  "sport": "mlb",
+  "date": "2016-05-24",
+  "startTime": "2016-05-24T23:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "23-22"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "25-21"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.381,
+    "rankGapFactor": 0.065,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447551",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447551/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.170273Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.170274Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-10-01-yankees-at-orioles",
+  "sport": "mlb",
+  "date": "2000-10-01",
+  "startTime": "2000-10-01T17:35:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "74-88"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "87-74"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.509,
+    "rankGapFactor": 0.167,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5944",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5944/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.915852Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.915853Z"
+}

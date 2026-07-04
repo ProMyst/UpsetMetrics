@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-07-31-royals-at-blue-jays",
+  "sport": "mlb",
+  "date": "2015-07-31",
+  "startTime": "2015-07-31T23:07:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "53-51"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "61-41"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.521,
+    "rankGapFactor": 0.177,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415188",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415188/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.967180Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.967181Z"
+}

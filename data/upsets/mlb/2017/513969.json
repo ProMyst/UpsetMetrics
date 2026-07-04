@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-03-31-lake-elsinore-storm-at-padres",
+  "sport": "mlb",
+  "date": "2017-03-31",
+  "startTime": "2017-04-01T01:00:00Z",
+  "season": "2017",
+  "event": "Exhibition Game",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "2-0"
+  },
+  "loser": {
+    "slug": "lake-elsinore-storm",
+    "name": "Lake Elsinore Storm",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "513969",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/513969/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.045359Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "lake-elsinore-storm-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.045364Z"
+}

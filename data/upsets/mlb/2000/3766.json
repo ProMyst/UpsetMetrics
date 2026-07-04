@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-08-16-yankees-at-rangers",
+  "sport": "mlb",
+  "date": "2000-08-16",
+  "startTime": "2000-08-16T23:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "55-63"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "65-51"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.536,
+    "rankGapFactor": 0.188,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "3766",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/3766/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.787188Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.787190Z"
+}

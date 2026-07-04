@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-04-07-blue-jays-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2019-04-07",
+  "startTime": "2019-04-07T17:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "6-3"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "3-8"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565321",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565321/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.160847Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.160851Z"
+}

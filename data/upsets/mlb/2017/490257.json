@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-04-15-white-sox-at-twins",
+  "sport": "mlb",
+  "date": "2017-04-15",
+  "startTime": "2017-04-15T18:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "7-4"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "5-5"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490257",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490257/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.073001Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.073003Z"
+}

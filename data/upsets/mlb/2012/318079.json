@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-05-01-marlins-at-giants",
+  "sport": "mlb",
+  "date": "2012-05-01",
+  "startTime": "2012-05-02T02:15:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "9-14"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "12-11"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.626,
+    "rankGapFactor": 0.261,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "318079",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/318079/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.308697Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.308699Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-04-07-rays-at-yankees",
+  "sport": "mlb",
+  "date": "2008-04-07",
+  "startTime": "2008-04-07T23:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "4-3"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "3-3"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "233861",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/233861/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.720566Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.720568Z"
+}

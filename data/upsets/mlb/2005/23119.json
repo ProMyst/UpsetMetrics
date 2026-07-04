@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-05-09-white-sox-at-tampa-bay-devil-rays",
+  "sport": "mlb",
+  "date": "2005-05-09",
+  "startTime": "2005-05-09T23:15:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "12-21"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "24-8"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.773,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23119",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23119/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.460744Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-tampa-bay-devil-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.460749Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-07-22-white-sox-at-red-sox",
+  "sport": "mlb",
+  "date": "2000-07-22",
+  "startTime": "2000-07-22T17:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "50-44"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "61-36"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.542,
+    "rankGapFactor": 0.194,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5602",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5602/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.716045Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.716047Z"
+}

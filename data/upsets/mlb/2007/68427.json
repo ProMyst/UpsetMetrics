@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-04-24-brewers-at-cubs",
+  "sport": "mlb",
+  "date": "2007-04-24",
+  "startTime": "2007-04-25T00:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "13-7"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "7-13"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68427",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68427/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.185838Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.185840Z"
+}

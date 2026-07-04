@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-04-03-royals-at-padres",
+  "sport": "mlb",
+  "date": "2012-04-03",
+  "startTime": "2012-04-04T02:05:00Z",
+  "season": "2012",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "20-15"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "15-16"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "326074",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/326074/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.234484Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.234486Z"
+}

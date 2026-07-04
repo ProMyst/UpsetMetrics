@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-03-30-angels-at-athletics",
+  "sport": "mlb",
+  "date": "2023-03-30",
+  "startTime": "2023-03-31T02:07:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718769",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718769/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.559603Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.559605Z"
+}

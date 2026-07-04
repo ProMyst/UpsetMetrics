@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-07-17-red-sox-at-yankees",
+  "sport": "mlb",
+  "date": "2016-07-17",
+  "startTime": "2016-07-18T00:05:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "45-46"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "51-39"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.48,
+    "rankGapFactor": 0.144,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "448234",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/448234/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.265376Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.265377Z"
+}

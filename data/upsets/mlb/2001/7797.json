@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-06-25-montreal-expos-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2001-06-25",
+  "startTime": "2001-06-25T23:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "31-46"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "39-36"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.594,
+    "rankGapFactor": 0.235,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7797",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7797/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.192811Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.192818Z"
+}

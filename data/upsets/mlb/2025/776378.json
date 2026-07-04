@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-09-10-rays-at-white-sox",
+  "sport": "mlb",
+  "date": "2025-09-10",
+  "startTime": "2025-09-10T23:40:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "56-90"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "72-73"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.582,
+    "rankGapFactor": 0.226,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "776378",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/776378/feed/live",
+    "retrievedAt": "2026-07-04T06:05:47.137752Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:47.137754Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-06-15-yankees-at-white-sox",
+  "sport": "mlb",
+  "date": "2019-06-15",
+  "startTime": "2019-06-15T23:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "42-27"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "34-35"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567299",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567299/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.290810Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.290811Z"
+}

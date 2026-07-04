@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-08-09-white-sox-at-mariners",
+  "sport": "mlb",
+  "date": "2014-08-09",
+  "startTime": "2014-08-10T01:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "56-62"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "61-55"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.428,
+    "rankGapFactor": 0.103,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382276",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382276/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.185322Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.185323Z"
+}

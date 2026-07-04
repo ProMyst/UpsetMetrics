@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-06-20-astros-at-rangers",
+  "sport": "mlb",
+  "date": "2003-06-20",
+  "startTime": "2003-06-21T00:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "39-34"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "27-44"
+  },
+  "finalScore": "12-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "16576",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/16576/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.593808Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.593810Z"
+}

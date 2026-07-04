@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-06-30-white-sox-at-rangers",
+  "sport": "mlb",
+  "date": "2018-06-30",
+  "startTime": "2018-07-01T01:05:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "38-46"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "28-54"
+  },
+  "finalScore": "13-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530640",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530640/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.828395Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.828396Z"
+}

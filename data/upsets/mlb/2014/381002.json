@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-05-04-giants-at-braves",
+  "sport": "mlb",
+  "date": "2014-05-04",
+  "startTime": "2014-05-04T17:35:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "20-11"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "17-13"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381002",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381002/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.014159Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.014160Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-05-31-marlins-at-padres",
+  "sport": "mlb",
+  "date": "2018-05-31",
+  "startTime": "2018-06-01T01:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "25-33"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "20-36"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530248",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530248/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.774104Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.774105Z"
+}

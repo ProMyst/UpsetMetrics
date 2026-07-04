@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-07-02-diamondbacks-at-athletics",
+  "sport": "mlb",
+  "date": "2011-07-02",
+  "startTime": "2011-07-03T01:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "45-39"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "37-47"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288142",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288142/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.239541Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.239543Z"
+}

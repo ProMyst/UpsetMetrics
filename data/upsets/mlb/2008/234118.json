@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-04-26-cubs-at-nationals",
+  "sport": "mlb",
+  "date": "2008-04-26",
+  "startTime": "2008-04-26T23:10:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "16-8"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "8-17"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234118",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234118/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.773808Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.773810Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-04-07-red-sox-at-rangers",
+  "sport": "mlb",
+  "date": "2007-04-07",
+  "startTime": "2007-04-08T00:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "2-3"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "2-3"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68190",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68190/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.139126Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.139128Z"
+}

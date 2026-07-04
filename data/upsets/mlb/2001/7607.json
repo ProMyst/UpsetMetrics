@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-06-09-cardinals-at-rockies",
+  "sport": "mlb",
+  "date": "2001-06-09",
+  "startTime": "2001-06-10T00:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "33-28"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "31-30"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7607",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7607/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.151536Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.151538Z"
+}

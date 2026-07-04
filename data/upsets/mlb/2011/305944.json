@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-03-29-brewers-at-padres",
+  "sport": "mlb",
+  "date": "2011-03-29",
+  "startTime": "2011-03-29T19:05:00Z",
+  "season": "2011",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "19-11"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "13-17"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "305944",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/305944/feed/live",
+    "retrievedAt": "2026-07-04T06:23:02.973327Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:02.973330Z"
+}

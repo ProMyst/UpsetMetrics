@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-08-08-phillies-at-padres",
+  "sport": "mlb",
+  "date": "2015-08-08",
+  "startTime": "2015-08-09T00:40:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "44-67"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "52-59"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.48,
+    "rankGapFactor": 0.144,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415302",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415302/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.983628Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.983629Z"
+}

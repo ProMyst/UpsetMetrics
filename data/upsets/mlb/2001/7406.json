@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-05-23-red-sox-at-yankees",
+  "sport": "mlb",
+  "date": "2001-05-23",
+  "startTime": "2001-05-23T23:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "25-20"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "25-19"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.332,
+    "rankGapFactor": 0.025,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7406",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7406/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.104300Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.104302Z"
+}

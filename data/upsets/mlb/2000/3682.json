@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-08-09-blue-jays-at-royals",
+  "sport": "mlb",
+  "date": "2000-08-09",
+  "startTime": "2000-08-10T00:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "52-61"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "59-57"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.421,
+    "rankGapFactor": 0.097,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "3682",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/3682/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.767946Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.767948Z"
+}

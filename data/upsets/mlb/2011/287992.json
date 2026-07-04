@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-06-20-angels-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2011-06-20",
+  "startTime": "2011-06-20T23:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "36-38"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "32-41"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287992",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287992/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.201899Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.201904Z"
+}

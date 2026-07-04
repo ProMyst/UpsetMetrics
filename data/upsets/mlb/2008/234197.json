@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-05-02-brewers-at-astros",
+  "sport": "mlb",
+  "date": "2008-05-02",
+  "startTime": "2008-05-03T00:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "14-16"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "16-13"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.513,
+    "rankGapFactor": 0.17,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234197",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234197/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.789387Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.789389Z"
+}

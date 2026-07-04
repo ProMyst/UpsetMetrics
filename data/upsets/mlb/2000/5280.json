@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-04-28-athletics-at-twins",
+  "sport": "mlb",
+  "date": "2000-04-28",
+  "startTime": "2000-04-29T00:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "10-13"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "11-13"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.359,
+    "rankGapFactor": 0.047,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "5280",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/5280/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.485992Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.485994Z"
+}

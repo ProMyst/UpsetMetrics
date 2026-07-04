@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-08-26-twins-at-rangers",
+  "sport": "mlb",
+  "date": "2004-08-26",
+  "startTime": "2004-08-27T00:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "71-55"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "71-56"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21921",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21921/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.799083Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.799085Z"
+}

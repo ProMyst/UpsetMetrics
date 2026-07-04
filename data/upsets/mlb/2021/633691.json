@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-06-17-cardinals-at-braves",
+  "sport": "mlb",
+  "date": "2021-06-17",
+  "startTime": "2021-06-17T23:20:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "31-35"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "35-34"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.394,
+    "rankGapFactor": 0.075,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633691",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633691/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.017239Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.017241Z"
+}

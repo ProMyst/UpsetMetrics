@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-07-30-angels-at-red-sox",
+  "sport": "mlb",
+  "date": "2006-07-30",
+  "startTime": "2006-07-31T00:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "54-50"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "62-41"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.507,
+    "rankGapFactor": 0.165,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41499",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41499/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.540259Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.540261Z"
+}

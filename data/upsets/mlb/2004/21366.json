@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-07-17-phillies-at-mets",
+  "sport": "mlb",
+  "date": "2004-07-17",
+  "startTime": "2004-07-17T17:20:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "48-42"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "45-45"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21366",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21366/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.677660Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.677662Z"
+}

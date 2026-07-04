@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-05-25-orioles-at-red-sox",
+  "sport": "mlb",
+  "date": "2025-05-25",
+  "startTime": "2025-05-25T17:35:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "18-34"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "27-28"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.662,
+    "rankGapFactor": 0.29,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777785",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777785/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.851505Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.851507Z"
+}

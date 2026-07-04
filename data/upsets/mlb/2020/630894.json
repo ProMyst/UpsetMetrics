@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-09-26-mets-at-nationals",
+  "sport": "mlb",
+  "date": "2020-09-26",
+  "startTime": "2020-09-26T19:10:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "25-34"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "26-33"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.342,
+    "rankGapFactor": 0.034,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "630894",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/630894/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.697187Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.697189Z"
+}

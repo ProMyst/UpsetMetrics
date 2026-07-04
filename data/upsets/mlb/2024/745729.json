@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-06-21-braves-at-yankees",
+  "sport": "mlb",
+  "date": "2024-06-21",
+  "startTime": "2024-06-21T23:05:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "42-31"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "51-27"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.496,
+    "rankGapFactor": 0.157,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "745729",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/745729/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.911387Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.911389Z"
+}

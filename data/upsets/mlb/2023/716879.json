@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-08-23-giants-at-phillies",
+  "sport": "mlb",
+  "date": "2023-08-23",
+  "startTime": "2023-08-23T20:05:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "66-61"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "69-58"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.359,
+    "rankGapFactor": 0.047,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716879",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716879/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.943216Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.943218Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-06-16-rockies-at-nationals",
+  "sport": "mlb",
+  "date": "2025-06-16",
+  "startTime": "2025-06-16T22:45:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "15-57"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "30-42"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.821,
+    "rankGapFactor": 0.417,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777488",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777488/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.909525Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.909527Z"
+}

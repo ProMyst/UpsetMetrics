@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-03-23-red-sox-at-orioles",
+  "sport": "mlb",
+  "date": "2012-03-23",
+  "startTime": "2012-03-23T17:05:00Z",
+  "season": "2012",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "8-9"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "9-8"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.447,
+    "rankGapFactor": 0.118,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "332403",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/332403/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.188916Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.188920Z"
+}

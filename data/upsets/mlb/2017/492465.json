@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-09-27-angels-at-white-sox",
+  "sport": "mlb",
+  "date": "2017-09-27",
+  "startTime": "2017-09-28T00:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "65-93"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "78-80"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.506,
+    "rankGapFactor": 0.165,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "492465",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/492465/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.362741Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.362742Z"
+}

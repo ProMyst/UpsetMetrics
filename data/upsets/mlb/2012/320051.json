@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-09-26-royals-at-tigers",
+  "sport": "mlb",
+  "date": "2012-09-26",
+  "startTime": "2012-09-26T23:05:00Z",
+  "season": "2012",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "83-72"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "70-85"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "320051",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/320051/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.705019Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.705021Z"
+}

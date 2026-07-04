@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-09-28-tigers-at-blue-jays",
+  "sport": "mlb",
+  "date": "2002-09-28",
+  "startTime": "2002-09-28T20:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "77-84"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "55-105"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9325",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9325/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.126527Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.126529Z"
+}

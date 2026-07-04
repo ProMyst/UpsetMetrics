@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-06-01-braves-at-reds",
+  "sport": "mlb",
+  "date": "2002-06-01",
+  "startTime": "2002-06-01T17:15:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "31-25"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "32-23"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.371,
+    "rankGapFactor": 0.056,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "11114",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/11114/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.797034Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.797036Z"
+}

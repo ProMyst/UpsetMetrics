@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-03-21-rays-at-yankees",
+  "sport": "mlb",
+  "date": "2008-03-21",
+  "startTime": "2008-03-21T23:15:00Z",
+  "season": "2008",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "12-7"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "14-5"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.563,
+    "rankGapFactor": 0.211,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "237532",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/237532/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.666845Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.666850Z"
+}

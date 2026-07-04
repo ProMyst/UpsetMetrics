@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-06-04-cubs-at-nationals",
+  "sport": "mlb",
+  "date": "2015-06-04",
+  "startTime": "2015-06-04T23:05:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "28-24"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "29-25"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "414453",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/414453/feed/live",
+    "retrievedAt": "2026-07-04T06:28:51.869833Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:51.869834Z"
+}

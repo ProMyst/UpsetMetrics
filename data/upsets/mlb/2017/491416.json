@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-07-08-athletics-at-mariners",
+  "sport": "mlb",
+  "date": "2017-07-08",
+  "startTime": "2017-07-09T02:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "39-49"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "42-47"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.372,
+    "rankGapFactor": 0.057,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491416",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491416/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.227301Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.227302Z"
+}

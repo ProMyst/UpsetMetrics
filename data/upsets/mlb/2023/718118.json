@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-05-19-diamondbacks-at-pirates",
+  "sport": "mlb",
+  "date": "2023-05-19",
+  "startTime": "2023-05-19T22:35:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "24-20"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "25-20"
+  },
+  "finalScore": "13-3",
+  "factors": {
+    "pregameOddsFactor": 0.325,
+    "rankGapFactor": 0.02,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "718118",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/718118/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.691380Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.691382Z"
+}

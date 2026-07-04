@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-08-03-astros-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2005-08-03",
+  "startTime": "2005-08-04T02:10:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "59-48"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "52-57"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24239",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24239/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.695961Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.695963Z"
+}

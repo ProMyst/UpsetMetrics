@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-08-09-nationals-at-mets",
+  "sport": "mlb",
+  "date": "2019-08-09",
+  "startTime": "2019-08-09T23:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "60-56"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "61-54"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.333,
+    "rankGapFactor": 0.026,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566042",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566042/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.380787Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.380788Z"
+}

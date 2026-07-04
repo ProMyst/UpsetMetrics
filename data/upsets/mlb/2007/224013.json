@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-10-14-diamondbacks-at-rockies",
+  "sport": "mlb",
+  "date": "2007-10-14",
+  "startTime": "2007-10-15T00:30:00Z",
+  "season": "2007",
+  "event": "NL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "3-0"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "0-3"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "224013",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/224013/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.623835Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.623837Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-06-13-padres-at-cubs",
+  "sport": "mlb",
+  "date": "2022-06-13",
+  "startTime": "2022-06-14T00:05:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "38-24"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "23-37"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "663183",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/663183/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.980706Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.980708Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-09-20-yankees-at-red-sox",
+  "sport": "mlb",
+  "date": "2020-09-20",
+  "startTime": "2020-09-20T17:07:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "20-34"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "31-22"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.836,
+    "rankGapFactor": 0.429,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "631635",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/631635/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.678632Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.678634Z"
+}

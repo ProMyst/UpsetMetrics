@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-05-30-reds-at-montreal-expos",
+  "sport": "mlb",
+  "date": "2004-05-30",
+  "startTime": "2004-05-30T17:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "16-33"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "29-21"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.934,
+    "rankGapFactor": 0.507,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20752",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20752/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.552734Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.552738Z"
+}

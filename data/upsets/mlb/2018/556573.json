@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-03-26-las-vegas-51s-at-mets",
+  "sport": "mlb",
+  "date": "2018-03-26",
+  "startTime": "2018-03-26T17:00:00Z",
+  "season": "2018",
+  "event": "Exhibition Game",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "las-vegas-51s",
+    "name": "Las Vegas 51s",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "556573",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/556573/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.639029Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "las-vegas-51s-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.639036Z"
+}

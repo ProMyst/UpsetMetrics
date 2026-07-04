@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-03-27-diamondbacks-at-el-paso-diablos",
+  "sport": "mlb",
+  "date": "2003-03-27",
+  "startTime": "2003-03-28T01:00:00Z",
+  "season": "2003",
+  "event": "Exhibition",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "0-0"
+  },
+  "loser": {
+    "slug": "el-paso-diablos",
+    "name": "El Paso Diablos",
+    "recordEntering": "0-0"
+  },
+  "finalScore": "0-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "242882",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/242882/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.359539Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-el-paso-diablos",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.359550Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-06-27-tigers-at-astros",
+  "sport": "mlb",
+  "date": "2014-06-27",
+  "startTime": "2014-06-28T00:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "35-46"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "43-33"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.634,
+    "rankGapFactor": 0.267,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381738",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381738/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.113616Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.113617Z"
+}

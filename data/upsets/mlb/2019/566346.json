@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-09-09-cubs-at-padres",
+  "sport": "mlb",
+  "date": "2019-09-09",
+  "startTime": "2019-09-10T02:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "77-66"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "66-77"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566346",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566346/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.433869Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.433871Z"
+}

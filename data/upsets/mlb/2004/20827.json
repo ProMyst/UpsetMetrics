@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-06-05-red-sox-at-royals",
+  "sport": "mlb",
+  "date": "2004-06-05",
+  "startTime": "2004-06-05T23:10:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "32-23"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "20-33"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20827",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20827/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.569818Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.569820Z"
+}

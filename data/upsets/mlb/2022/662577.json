@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-05-04-braves-at-mets",
+  "sport": "mlb",
+  "date": "2022-05-04",
+  "startTime": "2022-05-04T17:10:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "12-15"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "18-9"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.856,
+    "rankGapFactor": 0.444,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662577",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662577/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.869178Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.869180Z"
+}

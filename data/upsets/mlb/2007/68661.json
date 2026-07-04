@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-05-11-brewers-at-mets",
+  "sport": "mlb",
+  "date": "2007-05-11",
+  "startTime": "2007-05-11T23:10:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "22-12"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "24-11"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.397,
+    "rankGapFactor": 0.077,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68661",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68661/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.231216Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.231218Z"
+}

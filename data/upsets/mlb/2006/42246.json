@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-09-23-braves-at-rockies",
+  "sport": "mlb",
+  "date": "2006-09-23",
+  "startTime": "2006-09-24T00:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "73-82"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "75-80"
+  },
+  "finalScore": "10-9",
+  "factors": {
+    "pregameOddsFactor": 0.332,
+    "rankGapFactor": 0.026,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "42246",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/42246/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.690953Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.690955Z"
+}

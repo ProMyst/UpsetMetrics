@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-03-24-mets-at-cardinals",
+  "sport": "mlb",
+  "date": "2013-03-24",
+  "startTime": "2013-03-24T17:05:00Z",
+  "season": "2013",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "12-12"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "12-14"
+  },
+  "finalScore": "10-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "363406",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/363406/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.087420Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.087423Z"
+}

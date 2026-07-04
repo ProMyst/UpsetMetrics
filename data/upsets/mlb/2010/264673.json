@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-06-08-angels-at-athletics",
+  "sport": "mlb",
+  "date": "2010-06-08",
+  "startTime": "2010-06-09T02:05:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "31-29"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "32-29"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.32,
+    "rankGapFactor": 0.016,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264673",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264673/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.939382Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.939384Z"
+}

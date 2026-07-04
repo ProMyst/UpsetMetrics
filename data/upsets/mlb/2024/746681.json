@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-08-03-giants-at-reds",
+  "sport": "mlb",
+  "date": "2024-08-03",
+  "startTime": "2024-08-03T23:15:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "53-57"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "55-57"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.323,
+    "rankGapFactor": 0.019,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746681",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746681/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.021876Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.021878Z"
+}

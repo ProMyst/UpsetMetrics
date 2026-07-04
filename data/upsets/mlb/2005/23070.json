@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-05-06-nationals-at-giants",
+  "sport": "mlb",
+  "date": "2005-05-06",
+  "startTime": "2005-05-07T02:15:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "16-13"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "14-14"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23070",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23070/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.453014Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.453016Z"
+}

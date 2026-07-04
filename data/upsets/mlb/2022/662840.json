@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-05-29-guardians-at-tigers",
+  "sport": "mlb",
+  "date": "2022-05-29",
+  "startTime": "2022-05-29T17:40:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "17-29"
+  },
+  "loser": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "19-24"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.481,
+    "rankGapFactor": 0.145,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662840",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662840/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.939425Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "guardians-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.939427Z"
+}

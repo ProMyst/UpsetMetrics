@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-09-20-mariners-at-angels",
+  "sport": "mlb",
+  "date": "2007-09-20",
+  "startTime": "2007-09-21T02:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "91-62"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "81-71"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "70420",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/70420/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.591784Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.591786Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-08-20-tigers-at-astros",
+  "sport": "mlb",
+  "date": "2019-08-20",
+  "startTime": "2019-08-21T00:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "81-46"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "37-87"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565665",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565665/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.400157Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.400158Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-06-15-mariners-at-athletics",
+  "sport": "mlb",
+  "date": "2019-06-15",
+  "startTime": "2019-06-16T01:07:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "37-35"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "30-44"
+  },
+  "finalScore": "11-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566118",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566118/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.291241Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.291242Z"
+}

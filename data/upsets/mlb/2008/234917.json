@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-06-24-phillies-at-athletics",
+  "sport": "mlb",
+  "date": "2008-06-24",
+  "startTime": "2008-06-25T02:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "42-34"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "42-36"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234917",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234917/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.934895Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.934897Z"
+}

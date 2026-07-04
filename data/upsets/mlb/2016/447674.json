@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-06-02-brewers-at-phillies",
+  "sport": "mlb",
+  "date": "2016-06-02",
+  "startTime": "2016-06-02T23:05:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "25-29"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "26-28"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.346,
+    "rankGapFactor": 0.037,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447674",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447674/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.186753Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.186755Z"
+}

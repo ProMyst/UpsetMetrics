@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-09-21-montreal-expos-at-mets",
+  "sport": "mlb",
+  "date": "2002-09-21",
+  "startTime": "2002-09-21T23:10:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "74-80"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "78-77"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.357,
+    "rankGapFactor": 0.045,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "10085",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/10085/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.109449Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.109454Z"
+}

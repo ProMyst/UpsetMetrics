@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-09-15-orioles-at-red-sox",
+  "sport": "mlb",
+  "date": "2002-09-15",
+  "startTime": "2002-09-15T17:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "66-82"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "84-64"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.604,
+    "rankGapFactor": 0.243,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "11352",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/11352/feed/live",
+    "retrievedAt": "2026-07-04T06:10:17.090035Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:17.090037Z"
+}

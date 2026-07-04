@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-08-14-giants-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2005-08-14",
+  "startTime": "2005-08-14T17:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "61-56"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "50-66"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24386",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24386/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.725538Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.725543Z"
+}

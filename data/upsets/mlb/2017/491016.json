@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-06-09-athletics-at-rays",
+  "sport": "mlb",
+  "date": "2017-06-09",
+  "startTime": "2017-06-09T23:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "32-31"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "26-34"
+  },
+  "finalScore": "13-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491016",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491016/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.170142Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.170143Z"
+}

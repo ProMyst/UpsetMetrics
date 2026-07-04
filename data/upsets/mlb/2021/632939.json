@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-08-12-rockies-at-giants",
+  "sport": "mlb",
+  "date": "2021-08-12",
+  "startTime": "2021-08-13T01:45:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "74-41"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "51-64"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "632939",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/632939/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.167591Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.167593Z"
+}

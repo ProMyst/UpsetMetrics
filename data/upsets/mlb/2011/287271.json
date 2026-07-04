@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-04-29-angels-at-rays",
+  "sport": "mlb",
+  "date": "2011-04-29",
+  "startTime": "2011-04-29T23:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "15-11"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "14-12"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287271",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287271/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.058354Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.058356Z"
+}

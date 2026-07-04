@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-09-05-rockies-at-braves",
+  "sport": "mlb",
+  "date": "2024-09-05",
+  "startTime": "2024-09-05T23:20:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "52-89"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "76-64"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.735,
+    "rankGapFactor": 0.348,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "747073",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/747073/feed/live",
+    "retrievedAt": "2026-07-04T06:04:22.109420Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:22.109422Z"
+}

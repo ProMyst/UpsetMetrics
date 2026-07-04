@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2010-06-20-giants-at-blue-jays",
+  "sport": "mlb",
+  "date": "2010-06-20",
+  "startTime": "2010-06-20T17:07:00Z",
+  "season": "2010",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "38-30"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "38-32"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "264849",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/264849/feed/live",
+    "retrievedAt": "2026-07-04T06:21:37.969650Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:21:37.969651Z"
+}

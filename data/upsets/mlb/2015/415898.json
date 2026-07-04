@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-09-21-rays-at-red-sox",
+  "sport": "mlb",
+  "date": "2015-09-21",
+  "startTime": "2015-09-21T23:10:00Z",
+  "season": "2015",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "72-77"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "72-78"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "415898",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/415898/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.059179Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rays-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.059180Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-07-28-cubs-at-cardinals",
+  "sport": "mlb",
+  "date": "2023-07-28",
+  "startTime": "2023-07-29T00:15:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "52-51"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "46-59"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717226",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717226/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.874949Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.874951Z"
+}

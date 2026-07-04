@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-08-29-royals-at-mariners",
+  "sport": "mlb",
+  "date": "2004-08-29",
+  "startTime": "2004-08-29T20:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "50-80"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "45-84"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21962",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21962/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.807738Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.807740Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-07-01-tampa-bay-devil-rays-at-yankees",
+  "sport": "mlb",
+  "date": "2001-07-01",
+  "startTime": "2001-07-01T17:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "46-33"
+  },
+  "loser": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "24-57"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "7865",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/7865/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.209956Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tampa-bay-devil-rays-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.209961Z"
+}

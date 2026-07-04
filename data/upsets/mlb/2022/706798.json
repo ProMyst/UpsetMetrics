@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-03-24-braves-at-blue-jays",
+  "sport": "mlb",
+  "date": "2022-03-24",
+  "startTime": "2022-03-24T17:07:00Z",
+  "season": "2022",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "3-1"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "4-2"
+  },
+  "finalScore": "0-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "706798",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/706798/feed/live",
+    "retrievedAt": "2026-07-04T06:01:31.755131Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:31.755134Z"
+}

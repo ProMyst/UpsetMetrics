@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-06-02-tigers-at-white-sox",
+  "sport": "mlb",
+  "date": "2023-06-02",
+  "startTime": "2023-06-03T00:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "24-35"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "26-29"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.465,
+    "rankGapFactor": 0.132,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717925",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717925/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.731157Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.731159Z"
+}

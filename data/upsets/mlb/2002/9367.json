@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2002-08-06-mariners-at-blue-jays",
+  "sport": "mlb",
+  "date": "2002-08-06",
+  "startTime": "2002-08-06T23:05:00Z",
+  "season": "2002",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "50-61"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "69-44"
+  },
+  "finalScore": "14-12",
+  "factors": {
+    "pregameOddsFactor": 0.7,
+    "rankGapFactor": 0.32,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "9367",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/9367/feed/live",
+    "retrievedAt": "2026-07-04T06:10:16.977704Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:10:16.977706Z"
+}

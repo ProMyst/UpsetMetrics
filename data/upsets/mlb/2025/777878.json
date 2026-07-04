@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-05-18-mets-at-yankees",
+  "sport": "mlb",
+  "date": "2025-05-18",
+  "startTime": "2025-05-18T23:10:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "27-19"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "29-18"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.375,
+    "rankGapFactor": 0.06,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777878",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777878/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.834322Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.834324Z"
+}

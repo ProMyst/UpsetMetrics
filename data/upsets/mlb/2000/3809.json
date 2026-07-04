@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-08-12-yankees-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "2000-08-12",
+  "startTime": "2000-08-13T02:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "61-56"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "62-50"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.381,
+    "rankGapFactor": 0.064,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "3809",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/3809/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.776067Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.776071Z"
+}

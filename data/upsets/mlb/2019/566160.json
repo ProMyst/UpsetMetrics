@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-09-17-royals-at-athletics",
+  "sport": "mlb",
+  "date": "2019-09-17",
+  "startTime": "2019-09-18T02:07:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "91-61"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "56-96"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566160",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566160/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.447902Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.447904Z"
+}

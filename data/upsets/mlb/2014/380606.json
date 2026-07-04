@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-04-05-braves-at-nationals",
+  "sport": "mlb",
+  "date": "2014-04-05",
+  "startTime": "2014-04-05T23:05:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "4-1"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "3-2"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "380606",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/380606/feed/live",
+    "retrievedAt": "2026-07-04T06:27:17.961481Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-nationals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:17.961483Z"
+}

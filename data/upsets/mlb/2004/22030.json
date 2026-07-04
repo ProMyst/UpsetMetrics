@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-09-03-pirates-at-astros",
+  "sport": "mlb",
+  "date": "2004-09-03",
+  "startTime": "2004-09-04T00:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "71-63"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "62-72"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "22030",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/22030/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.819407Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.819409Z"
+}

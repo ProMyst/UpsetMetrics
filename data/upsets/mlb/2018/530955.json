@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-07-26-nationals-at-marlins",
+  "sport": "mlb",
+  "date": "2018-07-26",
+  "startTime": "2018-07-26T23:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "51-51"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "44-60"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530955",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530955/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.868264Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.868266Z"
+}

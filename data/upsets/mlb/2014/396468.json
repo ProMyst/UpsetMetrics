@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-03-25-cubs-at-padres",
+  "sport": "mlb",
+  "date": "2014-03-25",
+  "startTime": "2014-03-26T02:05:00Z",
+  "season": "2014",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "12-17"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "9-12"
+  },
+  "finalScore": "5-5",
+  "factors": {
+    "pregameOddsFactor": 0.337,
+    "rankGapFactor": 0.03,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "396468",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/396468/feed/live",
+    "retrievedAt": "2026-07-04T06:27:17.936750Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:17.936752Z"
+}

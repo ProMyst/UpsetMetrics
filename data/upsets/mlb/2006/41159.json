@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-07-02-mets-at-yankees",
+  "sport": "mlb",
+  "date": "2006-07-02",
+  "startTime": "2006-07-03T00:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "46-33"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "48-33"
+  },
+  "finalScore": "16-7",
+  "factors": {
+    "pregameOddsFactor": 0.326,
+    "rankGapFactor": 0.021,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41159",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41159/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.472368Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.472370Z"
+}

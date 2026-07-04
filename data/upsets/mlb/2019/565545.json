@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-06-15-cleveland-indians-at-tigers",
+  "sport": "mlb",
+  "date": "2019-06-15",
+  "startTime": "2019-06-15T22:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "36-33"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "25-43"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "565545",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/565545/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.290119Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.290122Z"
+}

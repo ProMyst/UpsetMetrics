@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-03-27-athletics-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2006-03-27",
+  "startTime": "2006-03-27T20:05:00Z",
+  "season": "2006",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "17-11"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "12-15"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "47488",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/47488/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.200095Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.200097Z"
+}

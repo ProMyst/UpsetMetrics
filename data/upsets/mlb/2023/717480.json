@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-07-06-blue-jays-at-white-sox",
+  "sport": "mlb",
+  "date": "2023-07-06",
+  "startTime": "2023-07-06T21:15:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "48-40"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "37-52"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717480",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717480/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.826355Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.826357Z"
+}

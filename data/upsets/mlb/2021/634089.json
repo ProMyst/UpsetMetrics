@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-05-21-mets-at-marlins",
+  "sport": "mlb",
+  "date": "2021-05-21",
+  "startTime": "2021-05-21T23:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "22-17"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "20-25"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "634089",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/634089/feed/live",
+    "retrievedAt": "2026-07-04T06:00:07.943405Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:07.943407Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-10-12-astros-at-rays",
+  "sport": "mlb",
+  "date": "2020-10-12",
+  "startTime": "2020-10-12T20:07:00Z",
+  "season": "2020",
+  "event": "AL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "2-0"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "0-2"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "635937",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/635937/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.710410Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.710412Z"
+}

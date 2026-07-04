@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-05-03-angels-at-red-sox",
+  "sport": "mlb",
+  "date": "2011-05-03",
+  "startTime": "2011-05-03T23:10:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "14-15"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "16-14"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.426,
+    "rankGapFactor": 0.101,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287326",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287326/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.068684Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.068686Z"
+}

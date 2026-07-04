@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-04-22-diamondbacks-at-giants",
+  "sport": "mlb",
+  "date": "2013-04-22",
+  "startTime": "2013-04-23T02:15:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "13-7"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "10-9"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "347022",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/347022/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.169603Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.169605Z"
+}

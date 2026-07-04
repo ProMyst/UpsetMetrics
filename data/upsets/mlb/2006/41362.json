@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-07-19-braves-at-cardinals",
+  "sport": "mlb",
+  "date": "2006-07-19",
+  "startTime": "2006-07-20T00:10:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "53-41"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "45-50"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41362",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41362/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.510528Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.510530Z"
+}

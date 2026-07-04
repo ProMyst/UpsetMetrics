@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-06-06-mets-at-braves",
+  "sport": "mlb",
+  "date": "2023-06-06",
+  "startTime": "2023-06-06T23:20:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "36-24"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "30-31"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "717872",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/717872/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.741855Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.741857Z"
+}

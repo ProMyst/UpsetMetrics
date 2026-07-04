@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-10-02-dodgers-at-cubs",
+  "sport": "mlb",
+  "date": "2008-10-02",
+  "startTime": "2008-10-03T01:30:00Z",
+  "season": "2008",
+  "event": "NL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "2-0"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "0-2"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "243814",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/243814/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.197001Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.197003Z"
+}

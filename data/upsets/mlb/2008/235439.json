@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-08-04-yankees-at-rangers",
+  "sport": "mlb",
+  "date": "2008-08-04",
+  "startTime": "2008-08-05T00:05:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "59-54"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "61-51"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.356,
+    "rankGapFactor": 0.045,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "235439",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/235439/feed/live",
+    "retrievedAt": "2026-07-04T06:18:48.042371Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:48.042373Z"
+}

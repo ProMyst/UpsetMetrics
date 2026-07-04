@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-05-25-rangers-at-tigers",
+  "sport": "mlb",
+  "date": "2014-05-25",
+  "startTime": "2014-05-25T17:08:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "25-25"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "28-18"
+  },
+  "finalScore": "12-4",
+  "factors": {
+    "pregameOddsFactor": 0.572,
+    "rankGapFactor": 0.217,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "381290",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/381290/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.049958Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.049959Z"
+}

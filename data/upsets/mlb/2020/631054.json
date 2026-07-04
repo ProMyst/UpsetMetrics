@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-09-14-athletics-at-mariners",
+  "sport": "mlb",
+  "date": "2020-09-14",
+  "startTime": "2020-09-14T21:15:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "30-18"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "22-26"
+  },
+  "finalScore": "9-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "631054",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/631054/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.662035Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.662037Z"
+}

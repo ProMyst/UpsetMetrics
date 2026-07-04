@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-06-28-pirates-at-rockies",
+  "sport": "mlb",
+  "date": "2021-06-28",
+  "startTime": "2021-06-28T21:10:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "32-47"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "29-48"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "633465",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/633465/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.050738Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.050740Z"
+}

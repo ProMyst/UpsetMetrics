@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-07-03-pirates-at-phillies",
+  "sport": "mlb",
+  "date": "2017-07-03",
+  "startTime": "2017-07-03T23:05:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "28-53"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "37-46"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.55,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491346",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491346/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.217642Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.217644Z"
+}

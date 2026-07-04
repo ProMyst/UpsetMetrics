@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-07-09-cubs-at-pirates",
+  "sport": "mlb",
+  "date": "2011-07-09",
+  "startTime": "2011-07-09T23:05:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "37-54"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "46-43"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.576,
+    "rankGapFactor": 0.221,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "288248",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/288248/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.257889Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.257891Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-09-23-yankees-at-blue-jays",
+  "sport": "mlb",
+  "date": "2016-09-23",
+  "startTime": "2016-09-23T23:07:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "84-69"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "79-74"
+  },
+  "finalScore": "9-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "449164",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/449164/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.383873Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.383874Z"
+}

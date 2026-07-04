@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-06-17-yankees-at-athletics",
+  "sport": "mlb",
+  "date": "2017-06-17",
+  "startTime": "2017-06-17T20:05:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "30-38"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "38-28"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.636,
+    "rankGapFactor": 0.269,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491123",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491123/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.184987Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.184988Z"
+}

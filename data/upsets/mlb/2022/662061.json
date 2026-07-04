@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-06-26-reds-at-giants",
+  "sport": "mlb",
+  "date": "2022-06-26",
+  "startTime": "2022-06-26T20:05:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "25-47"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "39-33"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.786,
+    "rankGapFactor": 0.389,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "662061",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/662061/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.022481Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.022483Z"
+}

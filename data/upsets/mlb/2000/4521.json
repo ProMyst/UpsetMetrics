@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-09-12-giants-at-astros",
+  "sport": "mlb",
+  "date": "2000-09-12",
+  "startTime": "2000-09-13T00:05:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "86-58"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "63-82"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4521",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4521/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.862229Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.862231Z"
+}

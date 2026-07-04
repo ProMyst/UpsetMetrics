@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-05-08-diamondbacks-at-rays",
+  "sport": "mlb",
+  "date": "2019-05-08",
+  "startTime": "2019-05-08T17:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "21-16"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "23-13"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.478,
+    "rankGapFactor": 0.143,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566682",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566682/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.222632Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.222634Z"
+}

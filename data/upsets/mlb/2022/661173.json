@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-08-06-reds-at-brewers",
+  "sport": "mlb",
+  "date": "2022-08-06",
+  "startTime": "2022-08-06T23:15:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "43-63"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "58-49"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.641,
+    "rankGapFactor": 0.273,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661173",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661173/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.127576Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.127578Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-03-25-blue-jays-at-red-sox",
+  "sport": "mlb",
+  "date": "2006-03-25",
+  "startTime": "2006-03-25T18:05:00Z",
+  "season": "2006",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "9-16"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "6-15"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "47462",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/47462/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.193139Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.193141Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-09-13-cubs-at-rockies",
+  "sport": "mlb",
+  "date": "2023-09-13",
+  "startTime": "2023-09-13T19:10:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "53-92"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "78-69"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.713,
+    "rankGapFactor": 0.33,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716599",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716599/feed/live",
+    "retrievedAt": "2026-07-04T06:02:56.998103Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:56.998105Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2015-10-11-blue-jays-at-rangers",
+  "sport": "mlb",
+  "date": "2015-10-11",
+  "startTime": "2015-10-12T00:00:00Z",
+  "season": "2015",
+  "event": "AL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "1-2"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "2-1"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "446247",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/446247/feed/live",
+    "retrievedAt": "2026-07-04T06:28:52.085473Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:28:52.085474Z"
+}

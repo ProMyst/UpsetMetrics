@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-08-23-orioles-at-athletics",
+  "sport": "mlb",
+  "date": "2004-08-23",
+  "startTime": "2004-08-24T02:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "71-53"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "57-66"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21873",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21873/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.790591Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.790593Z"
+}

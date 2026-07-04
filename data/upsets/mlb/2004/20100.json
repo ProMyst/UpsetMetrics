@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-04-11-white-sox-at-yankees",
+  "sport": "mlb",
+  "date": "2004-04-11",
+  "startTime": "2004-04-11T17:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "4-4"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "3-3"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20100",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20100/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.417828Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.417830Z"
+}

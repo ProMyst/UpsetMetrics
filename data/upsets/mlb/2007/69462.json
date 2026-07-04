@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-07-12-blue-jays-at-red-sox",
+  "sport": "mlb",
+  "date": "2007-07-12",
+  "startTime": "2007-07-12T23:05:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "54-34"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "43-45"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69462",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69462/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.396358Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.396360Z"
+}

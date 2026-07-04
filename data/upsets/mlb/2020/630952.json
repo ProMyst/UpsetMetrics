@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-08-26-orioles-at-rays",
+  "sport": "mlb",
+  "date": "2020-08-26",
+  "startTime": "2020-08-26T22:40:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "21-11"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "14-16"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "630952",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/630952/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.606096Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.606098Z"
+}

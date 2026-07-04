@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-03-21-brewers-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2012-03-21",
+  "startTime": "2012-03-21T20:10:00Z",
+  "season": "2012",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "7-10"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "8-11"
+  },
+  "finalScore": "0-0",
+  "factors": {
+    "pregameOddsFactor": 0.323,
+    "rankGapFactor": 0.019,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "332379",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/332379/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.183272Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.183276Z"
+}

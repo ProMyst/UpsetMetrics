@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-03-29-athletics-at-cubs",
+  "sport": "mlb",
+  "date": "2016-03-29",
+  "startTime": "2016-03-29T20:05:00Z",
+  "season": "2016",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "9-17"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "11-14"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.535,
+    "rankGapFactor": 0.188,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "469660",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/469660/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.063161Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.063163Z"
+}

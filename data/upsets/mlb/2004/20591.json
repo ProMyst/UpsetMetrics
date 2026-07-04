@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-05-18-brewers-at-montreal-expos",
+  "sport": "mlb",
+  "date": "2004-05-18",
+  "startTime": "2004-05-18T23:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "14-25"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "19-19"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.653,
+    "rankGapFactor": 0.282,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "20591",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/20591/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.519634Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.519639Z"
+}

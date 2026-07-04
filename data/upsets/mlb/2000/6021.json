@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-10-12-mets-at-cardinals",
+  "sport": "mlb",
+  "date": "2000-10-12",
+  "startTime": "2000-10-13T00:00:00Z",
+  "season": "2000",
+  "event": "NL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "2-0"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "0-2"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "6021",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/6021/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.921267Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.921269Z"
+}

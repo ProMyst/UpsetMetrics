@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-08-20-yankees-at-red-sox",
+  "sport": "mlb",
+  "date": "2017-08-20",
+  "startTime": "2017-08-20T17:30:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "71-52"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "66-57"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "491951",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/491951/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.295315Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.295316Z"
+}

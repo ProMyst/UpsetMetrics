@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2013-09-25-brewers-at-braves",
+  "sport": "mlb",
+  "date": "2013-09-25",
+  "startTime": "2013-09-25T23:10:00Z",
+  "season": "2013",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "71-87"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "93-65"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.648,
+    "rankGapFactor": 0.278,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "349111",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/349111/feed/live",
+    "retrievedAt": "2026-07-04T06:25:54.594113Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:25:54.594115Z"
+}

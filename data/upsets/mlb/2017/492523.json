@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-10-01-mets-at-phillies",
+  "sport": "mlb",
+  "date": "2017-10-01",
+  "startTime": "2017-10-01T19:05:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "66-96"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "70-92"
+  },
+  "finalScore": "11-0",
+  "factors": {
+    "pregameOddsFactor": 0.362,
+    "rankGapFactor": 0.049,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "492523",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/492523/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.368846Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.368847Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-03-24-pirates-at-orioles",
+  "sport": "mlb",
+  "date": "2019-03-24",
+  "startTime": "2019-03-24T17:05:00Z",
+  "season": "2019",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "14-14"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "12-16"
+  },
+  "finalScore": "1-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "564929",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/564929/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.124112Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.124115Z"
+}

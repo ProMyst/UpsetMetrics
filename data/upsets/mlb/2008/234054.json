@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2008-04-22-orioles-at-mariners",
+  "sport": "mlb",
+  "date": "2008-04-22",
+  "startTime": "2008-04-23T02:10:00Z",
+  "season": "2008",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "11-10"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "11-9"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.365,
+    "rankGapFactor": 0.052,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "234054",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/234054/feed/live",
+    "retrievedAt": "2026-07-04T06:18:47.762055Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:18:47.762057Z"
+}

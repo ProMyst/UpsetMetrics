@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-05-26-braves-at-giants",
+  "sport": "mlb",
+  "date": "2009-05-26",
+  "startTime": "2009-05-27T02:15:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "22-23"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "23-22"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.356,
+    "rankGapFactor": 0.044,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244876",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244876/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.672254Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.672256Z"
+}

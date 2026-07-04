@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-06-30-mariners-at-athletics",
+  "sport": "mlb",
+  "date": "2005-06-30",
+  "startTime": "2005-06-30T19:35:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "38-40"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "33-44"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23802",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23802/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.601723Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.601725Z"
+}

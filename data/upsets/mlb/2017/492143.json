@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-09-03-phillies-at-marlins",
+  "sport": "mlb",
+  "date": "2017-09-03",
+  "startTime": "2017-09-03T17:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "52-84"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "67-69"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.576,
+    "rankGapFactor": 0.221,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "492143",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/492143/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.319769Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.319770Z"
+}

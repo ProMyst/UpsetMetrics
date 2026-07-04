@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2023-09-27-yankees-at-blue-jays",
+  "sport": "mlb",
+  "date": "2023-09-27",
+  "startTime": "2023-09-27T23:07:00Z",
+  "season": "2023",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "81-77"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "87-71"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.395,
+    "rankGapFactor": 0.076,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "716413",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/716413/feed/live",
+    "retrievedAt": "2026-07-04T06:02:57.035692Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:02:57.035694Z"
+}

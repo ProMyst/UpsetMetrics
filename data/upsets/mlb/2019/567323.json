@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-08-13-astros-at-white-sox",
+  "sport": "mlb",
+  "date": "2019-08-13",
+  "startTime": "2019-08-13T20:40:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "78-41"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "52-65"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "567323",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/567323/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.387043Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.387044Z"
+}

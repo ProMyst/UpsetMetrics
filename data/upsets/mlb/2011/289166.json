@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-09-17-yankees-at-blue-jays",
+  "sport": "mlb",
+  "date": "2011-09-17",
+  "startTime": "2011-09-17T17:07:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "91-59"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "76-75"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "289166",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/289166/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.442082Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.442083Z"
+}

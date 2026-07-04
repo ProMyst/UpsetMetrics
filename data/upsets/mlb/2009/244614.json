@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-05-07-braves-at-florida-marlins",
+  "sport": "mlb",
+  "date": "2009-05-07",
+  "startTime": "2009-05-07T16:10:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "13-15"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "15-14"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.432,
+    "rankGapFactor": 0.106,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "244614",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/244614/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.617150Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.617155Z"
+}

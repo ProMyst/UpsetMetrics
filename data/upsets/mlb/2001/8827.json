@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2001-09-22-rockies-at-montreal-expos",
+  "sport": "mlb",
+  "date": "2001-09-22",
+  "startTime": "2001-09-22T23:05:00Z",
+  "season": "2001",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "64-85"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "65-83"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.324,
+    "rankGapFactor": 0.019,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "8827",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/8827/feed/live",
+    "retrievedAt": "2026-07-04T06:08:54.441840Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:08:54.441845Z"
+}

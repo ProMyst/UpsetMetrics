@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-10-23-astros-at-white-sox",
+  "sport": "mlb",
+  "date": "2005-10-23",
+  "startTime": "2005-10-23T23:30:00Z",
+  "season": "2005",
+  "event": "World Series",
+  "stakes": "World Series",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "2-0"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "0-2"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 1.0,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "39815",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/39815/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.869254Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.869256Z"
+}

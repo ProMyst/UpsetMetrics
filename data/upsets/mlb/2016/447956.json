@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-06-23-phillies-at-twins",
+  "sport": "mlb",
+  "date": "2016-06-23",
+  "startTime": "2016-06-23T17:10:00Z",
+  "season": "2016",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "31-43"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "23-49"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "447956",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/447956/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.223172Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.223173Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-04-03-angels-at-marlins",
+  "sport": "mlb",
+  "date": "2024-04-03",
+  "startTime": "2024-04-03T17:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "4-2"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "0-7"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746083",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746083/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.703711Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.703713Z"
+}

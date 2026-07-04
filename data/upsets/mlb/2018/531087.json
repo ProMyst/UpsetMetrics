@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-08-05-angels-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2018-08-05",
+  "startTime": "2018-08-05T17:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "61-49"
+  },
+  "loser": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "55-58"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531087",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531087/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.884118Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.884121Z"
+}

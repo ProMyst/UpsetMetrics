@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-09-16-braves-at-montreal-expos",
+  "sport": "mlb",
+  "date": "2003-09-16",
+  "startTime": "2003-09-16T23:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "77-75"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "94-58"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.58,
+    "rankGapFactor": 0.224,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15892",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15892/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.837900Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.837905Z"
+}

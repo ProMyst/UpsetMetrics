@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-03-25-cubs-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "2012-03-25",
+  "startTime": "2012-03-25T20:05:00Z",
+  "season": "2012",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "11-13"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "6-14"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "332434",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/332434/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.202538Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.202544Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-08-20-red-sox-at-orioles",
+  "sport": "mlb",
+  "date": "2020-08-20",
+  "startTime": "2020-08-20T23:35:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "8-18"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "12-13"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.731,
+    "rankGapFactor": 0.345,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "631684",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/631684/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.589093Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.589095Z"
+}

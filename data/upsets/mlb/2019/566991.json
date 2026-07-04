@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2019-06-12-mariners-at-twins",
+  "sport": "mlb",
+  "date": "2019-06-12",
+  "startTime": "2019-06-13T00:10:00Z",
+  "season": "2019",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "29-42"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "44-22"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.946,
+    "rankGapFactor": 0.516,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "566991",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/566991/feed/live",
+    "retrievedAt": "2026-07-04T06:34:53.285848Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:34:53.285849Z"
+}

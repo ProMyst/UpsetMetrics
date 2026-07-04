@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-06-26-mariners-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "2003-06-26",
+  "startTime": "2003-06-27T02:05:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "51-26"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "37-39"
+  },
+  "finalScore": "10-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "14876",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/14876/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.611450Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.611455Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2021-09-09-rockies-at-phillies",
+  "sport": "mlb",
+  "date": "2021-09-09",
+  "startTime": "2021-09-09T23:05:00Z",
+  "season": "2021",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "64-77"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "71-69"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.433,
+    "rankGapFactor": 0.106,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "632548",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/632548/feed/live",
+    "retrievedAt": "2026-07-04T06:00:08.242904Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:00:08.242906Z"
+}

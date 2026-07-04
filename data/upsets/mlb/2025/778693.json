@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-03-23-orioles-at-braves",
+  "sport": "mlb",
+  "date": "2025-03-23",
+  "startTime": "2025-03-23T17:05:00Z",
+  "season": "2025",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "13-14"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "12-12"
+  },
+  "finalScore": "5-5",
+  "factors": {
+    "pregameOddsFactor": 0.346,
+    "rankGapFactor": 0.037,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "778693",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/778693/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.679714Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.679717Z"
+}

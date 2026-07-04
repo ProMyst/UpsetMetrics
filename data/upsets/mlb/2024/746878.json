@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-05-17-pirates-at-cubs",
+  "sport": "mlb",
+  "date": "2024-05-17",
+  "startTime": "2024-05-17T18:20:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "21-25"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "25-21"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.517,
+    "rankGapFactor": 0.174,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746878",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746878/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.819686Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.819687Z"
+}

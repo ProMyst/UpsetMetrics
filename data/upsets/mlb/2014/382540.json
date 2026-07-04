@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2014-08-29-red-sox-at-rays",
+  "sport": "mlb",
+  "date": "2014-08-29",
+  "startTime": "2014-08-29T23:10:00Z",
+  "season": "2014",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "59-75"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "65-70"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.403,
+    "rankGapFactor": 0.082,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "382540",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/382540/feed/live",
+    "retrievedAt": "2026-07-04T06:27:18.217870Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:27:18.217871Z"
+}

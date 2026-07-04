@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2009-09-18-cleveland-indians-at-athletics",
+  "sport": "mlb",
+  "date": "2009-09-18",
+  "startTime": "2009-09-19T02:05:00Z",
+  "season": "2009",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "69-78"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "61-86"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "246390",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/246390/feed/live",
+    "retrievedAt": "2026-07-04T06:20:13.978934Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:20:13.978938Z"
+}

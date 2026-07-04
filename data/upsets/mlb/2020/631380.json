@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2020-09-23-cardinals-at-royals",
+  "sport": "mlb",
+  "date": "2020-09-23",
+  "startTime": "2020-09-24T00:05:00Z",
+  "season": "2020",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "23-33"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "27-26"
+  },
+  "finalScore": "12-3",
+  "factors": {
+    "pregameOddsFactor": 0.547,
+    "rankGapFactor": 0.197,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "631380",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/631380/feed/live",
+    "retrievedAt": "2026-07-04T05:58:43.690228Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T05:58:43.690230Z"
+}

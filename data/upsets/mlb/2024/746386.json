@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2024-05-22-angels-at-astros",
+  "sport": "mlb",
+  "date": "2024-05-22",
+  "startTime": "2024-05-22T18:10:00Z",
+  "season": "2024",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "20-30"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "22-28"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.4,
+    "rankGapFactor": 0.08,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "746386",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/746386/feed/live",
+    "retrievedAt": "2026-07-04T06:04:21.833937Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:04:21.833939Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2003-07-26-reds-at-mets",
+  "sport": "mlb",
+  "date": "2003-07-26",
+  "startTime": "2003-07-26T23:10:00Z",
+  "season": "2003",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "45-58"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "43-60"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "15944",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/15944/feed/live",
+    "retrievedAt": "2026-07-04T06:11:40.694985Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:11:40.694987Z"
+}

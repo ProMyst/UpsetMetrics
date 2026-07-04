@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-08-12-mariners-at-astros",
+  "sport": "mlb",
+  "date": "2018-08-12",
+  "startTime": "2018-08-12T18:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "69-50"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "73-46"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.384,
+    "rankGapFactor": 0.067,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "531182",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/531182/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.897635Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.897636Z"
+}

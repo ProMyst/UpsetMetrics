@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-04-18-rockies-at-diamondbacks",
+  "sport": "mlb",
+  "date": "2000-04-18",
+  "startTime": "2000-04-19T01:35:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "10-4"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "8-7"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4016",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4016/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.458425Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.458427Z"
+}

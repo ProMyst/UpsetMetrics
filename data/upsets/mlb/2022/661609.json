@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2022-09-22-braves-at-phillies",
+  "sport": "mlb",
+  "date": "2022-09-22",
+  "startTime": "2022-09-22T23:15:00Z",
+  "season": "2022",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "82-67"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "93-57"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.474,
+    "rankGapFactor": 0.139,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "661609",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/661609/feed/live",
+    "retrievedAt": "2026-07-04T06:01:32.251346Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:01:32.251348Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2017-04-05-yankees-at-rays",
+  "sport": "mlb",
+  "date": "2017-04-05",
+  "startTime": "2017-04-05T23:10:00Z",
+  "season": "2017",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "2-1"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "1-2"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "490128",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/490128/feed/live",
+    "retrievedAt": "2026-07-04T06:31:42.053049Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:31:42.053051Z"
+}

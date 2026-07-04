@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2012-04-02-athletics-at-giants",
+  "sport": "mlb",
+  "date": "2012-04-02",
+  "startTime": "2012-04-03T02:35:00Z",
+  "season": "2012",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "17-14"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "14-6"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.679,
+    "rankGapFactor": 0.303,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "331123",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/331123/feed/live",
+    "retrievedAt": "2026-07-04T06:24:28.231579Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:24:28.231581Z"
+}

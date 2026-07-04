@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2011-05-27-white-sox-at-blue-jays",
+  "sport": "mlb",
+  "date": "2011-05-27",
+  "startTime": "2011-05-27T23:07:00Z",
+  "season": "2011",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "25-26"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "24-29"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "287660",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/287660/feed/live",
+    "retrievedAt": "2026-07-04T06:23:03.133985Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:23:03.133987Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2016-03-29-marlins-at-mets",
+  "sport": "mlb",
+  "date": "2016-03-29",
+  "startTime": "2016-03-29T17:10:00Z",
+  "season": "2016",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "10-12"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "7-15"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "469957",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/469957/feed/live",
+    "retrievedAt": "2026-07-04T06:30:17.062769Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:30:17.062771Z"
+}

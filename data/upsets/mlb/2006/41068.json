@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2006-06-25-rangers-at-rockies",
+  "sport": "mlb",
+  "date": "2006-06-25",
+  "startTime": "2006-06-25T19:05:00Z",
+  "season": "2006",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "38-37"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "40-36"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.349,
+    "rankGapFactor": 0.039,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "41068",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/41068/feed/live",
+    "retrievedAt": "2026-07-04T06:15:56.451881Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:15:56.451884Z"
+}

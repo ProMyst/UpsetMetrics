@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2000-06-27-blue-jays-at-tampa-bay-devil-rays",
+  "sport": "mlb",
+  "date": "2000-06-27",
+  "startTime": "2000-06-27T23:15:00Z",
+  "season": "2000",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "31-43"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "42-35"
+  },
+  "finalScore": "11-1",
+  "factors": {
+    "pregameOddsFactor": 0.616,
+    "rankGapFactor": 0.253,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "3626",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/3626/feed/live",
+    "retrievedAt": "2026-07-04T06:07:29.645922Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-tampa-bay-devil-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:07:29.645927Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2004-07-09-pirates-at-montreal-expos",
+  "sport": "mlb",
+  "date": "2004-07-09",
+  "startTime": "2004-07-09T23:05:00Z",
+  "season": "2004",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "39-45"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "29-56"
+  },
+  "finalScore": "11-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "21295",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/21295/feed/live",
+    "retrievedAt": "2026-07-04T06:13:06.662934Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:13:06.662938Z"
+}

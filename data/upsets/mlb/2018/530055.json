@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2018-05-17-tigers-at-mariners",
+  "sport": "mlb",
+  "date": "2018-05-17",
+  "startTime": "2018-05-18T02:10:00Z",
+  "season": "2018",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "20-23"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "24-19"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.533,
+    "rankGapFactor": 0.186,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "530055",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/530055/feed/live",
+    "retrievedAt": "2026-07-04T06:33:28.748103Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:33:28.748104Z"
+}

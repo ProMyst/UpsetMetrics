@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2007-08-08-dodgers-at-reds",
+  "sport": "mlb",
+  "date": "2007-08-08",
+  "startTime": "2007-08-08T23:10:00Z",
+  "season": "2007",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "49-64"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "58-55"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.499,
+    "rankGapFactor": 0.159,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "69829",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/69829/feed/live",
+    "retrievedAt": "2026-07-04T06:17:21.472315Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:17:21.472317Z"
+}

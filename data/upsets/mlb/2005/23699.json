@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-06-22-tigers-at-twins",
+  "sport": "mlb",
+  "date": "2005-06-22",
+  "startTime": "2005-06-23T00:10:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "35-33"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "38-31"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.39,
+    "rankGapFactor": 0.072,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "23699",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/23699/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.581484Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.581486Z"
+}

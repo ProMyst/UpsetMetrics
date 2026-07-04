@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2025-05-24-phillies-at-athletics",
+  "sport": "mlb",
+  "date": "2025-05-24",
+  "startTime": "2025-05-25T02:05:00Z",
+  "season": "2025",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "34-18"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Athletics",
+    "recordEntering": "22-31"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "777784",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/777784/feed/live",
+    "retrievedAt": "2026-07-04T06:05:46.850928Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:05:46.850930Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2005-08-21-blue-jays-at-tigers",
+  "sport": "mlb",
+  "date": "2005-08-21",
+  "startTime": "2005-08-21T17:05:00Z",
+  "season": "2005",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "60-62"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "63-60"
+  },
+  "finalScore": "17-6",
+  "factors": {
+    "pregameOddsFactor": 0.351,
+    "rankGapFactor": 0.041,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "24492",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/24492/feed/live",
+    "retrievedAt": "2026-07-04T06:14:30.744113Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:14:30.744115Z"
+}
