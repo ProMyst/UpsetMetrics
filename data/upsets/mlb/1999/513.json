@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-11-orioles-at-phillies",
+  "sport": "mlb",
+  "date": "1999-07-11",
+  "startTime": "1999-07-11T17:35:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "36-51"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "46-40"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.603,
+    "rankGapFactor": 0.242,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "513",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/513/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.369020Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.369022Z"
+}

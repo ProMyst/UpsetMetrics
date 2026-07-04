@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-10-01-cubs-at-cardinals",
+  "sport": "mlb",
+  "date": "1999-10-01",
+  "startTime": "1999-10-02T00:10:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "66-94"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "74-85"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.432,
+    "rankGapFactor": 0.106,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2765",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2765/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.593152Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.593154Z"
+}

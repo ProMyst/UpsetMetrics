@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-08-20-cardinals-at-astros",
+  "sport": "mlb",
+  "date": "1987-08-20",
+  "startTime": "1987-08-20T08:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "62-59"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "70-50"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.477,
+    "rankGapFactor": 0.142,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193986",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193986/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.398782Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.398784Z"
+}

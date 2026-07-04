@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-05-28-astros-at-mets",
+  "sport": "mlb",
+  "date": "1982-05-28",
+  "startTime": "1982-05-28T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "20-26"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "25-20"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.602,
+    "rankGapFactor": 0.242,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182458",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182458/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.180220Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.180222Z"
+}

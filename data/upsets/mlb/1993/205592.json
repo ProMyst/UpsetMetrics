@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-05-20-mariners-at-rangers",
+  "sport": "mlb",
+  "date": "1993-05-20",
+  "startTime": "1993-05-21T00:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "20-21"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "21-18"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.427,
+    "rankGapFactor": 0.101,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205592",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205592/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.416811Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.416813Z"
+}

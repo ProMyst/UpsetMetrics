@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-06-02-mariners-at-tigers",
+  "sport": "mlb",
+  "date": "1980-06-02",
+  "startTime": "1980-06-02T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "24-24"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "19-25"
+  },
+  "finalScore": "3-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178990",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178990/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.722508Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.722511Z"
+}

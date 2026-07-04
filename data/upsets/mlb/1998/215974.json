@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-05-09-giants-at-cubs",
+  "sport": "mlb",
+  "date": "1998-05-09",
+  "startTime": "1998-05-09T08:38:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "19-16"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "19-17"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215974",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215974/feed/live",
+    "retrievedAt": "2026-07-04T07:28:37.996005Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:37.996007Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-08-03-montreal-expos-at-cubs",
+  "sport": "mlb",
+  "date": "1999-08-03",
+  "startTime": "1999-08-04T00:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "41-62"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "48-56"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.459,
+    "rankGapFactor": 0.127,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2840",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2840/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.431424Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.431428Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-07-04-blue-jays-at-royals",
+  "sport": "mlb",
+  "date": "1987-07-04",
+  "startTime": "1987-07-05T00:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "44-35"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "45-34"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.332,
+    "rankGapFactor": 0.025,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193445",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193445/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.281126Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.281128Z"
+}

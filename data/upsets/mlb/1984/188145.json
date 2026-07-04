@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-09-25-twins-at-white-sox",
+  "sport": "mlb",
+  "date": "1984-09-25",
+  "startTime": "1984-09-26T00:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "72-85"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "81-76"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.443,
+    "rankGapFactor": 0.115,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188145",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188145/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.476824Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.476826Z"
+}

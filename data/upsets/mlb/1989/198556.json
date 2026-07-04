@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-09-17-cleveland-indians-at-blue-jays",
+  "sport": "mlb",
+  "date": "1989-09-17",
+  "startTime": "1989-09-17T07:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "83-67"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "67-82"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198556",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198556/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.492636Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.492641Z"
+}

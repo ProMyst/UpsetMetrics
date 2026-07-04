@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-05-13-cubs-at-astros",
+  "sport": "mlb",
+  "date": "1992-05-13",
+  "startTime": "1992-05-14T00:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "14-19"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "15-19"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.342,
+    "rankGapFactor": 0.034,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203357",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203357/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.855267Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.855269Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-09-03-california-angels-at-yankees",
+  "sport": "mlb",
+  "date": "1989-09-03",
+  "startTime": "1989-09-03T07:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "62-76"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "78-58"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.611,
+    "rankGapFactor": 0.249,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198384",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198384/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.458294Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.458299Z"
+}

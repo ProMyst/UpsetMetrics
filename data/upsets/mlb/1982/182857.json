@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-07-01-brewers-at-yankees",
+  "sport": "mlb",
+  "date": "1982-07-01",
+  "startTime": "1982-07-01T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "34-37"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "42-32"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.522,
+    "rankGapFactor": 0.177,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182857",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182857/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.259297Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.259299Z"
+}

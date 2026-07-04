@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-08-05-montreal-expos-at-mets",
+  "sport": "mlb",
+  "date": "1989-08-05",
+  "startTime": "1989-08-05T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "57-51"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "63-47"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.412,
+    "rankGapFactor": 0.09,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198038",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198038/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.384166Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.384171Z"
+}

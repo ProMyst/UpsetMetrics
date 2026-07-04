@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-08-17-mariners-at-tigers",
+  "sport": "mlb",
+  "date": "1982-08-17",
+  "startTime": "1982-08-17T07:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "59-59"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "60-58"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.321,
+    "rankGapFactor": 0.017,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183426",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183426/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.368326Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.368328Z"
+}

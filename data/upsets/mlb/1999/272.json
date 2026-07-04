@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-10-03-rangers-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "1999-10-03",
+  "startTime": "1999-10-03T20:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "70-92"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "95-67"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.686,
+    "rankGapFactor": 0.309,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "272",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/272/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.599245Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.599250Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-07-06-giants-at-padres",
+  "sport": "mlb",
+  "date": "1996-07-06",
+  "startTime": "1996-07-07T02:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "47-41"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "38-47"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212128",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212128/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.330697Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.330699Z"
+}

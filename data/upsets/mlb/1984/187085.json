@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-06-29-mariners-at-red-sox",
+  "sport": "mlb",
+  "date": "1984-06-29",
+  "startTime": "1984-06-29T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "36-42"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "36-39"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.346,
+    "rankGapFactor": 0.037,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187085",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187085/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.260624Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.260626Z"
+}

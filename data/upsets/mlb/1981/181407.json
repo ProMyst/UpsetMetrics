@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-08-25-padres-at-cubs",
+  "sport": "mlb",
+  "date": "1981-08-25",
+  "startTime": "1981-08-25T08:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "23-44"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "26-46"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.345,
+    "rankGapFactor": 0.036,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181407",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181407/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.140463Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.140465Z"
+}

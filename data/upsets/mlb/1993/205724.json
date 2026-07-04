@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-05-31-royals-at-red-sox",
+  "sport": "mlb",
+  "date": "1993-05-31",
+  "startTime": "1993-05-31T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "25-23"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "27-23"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.348,
+    "rankGapFactor": 0.038,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205724",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205724/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.442642Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.442644Z"
+}

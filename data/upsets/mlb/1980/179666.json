@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-07-29-astros-at-phillies",
+  "sport": "mlb",
+  "date": "1980-07-29",
+  "startTime": "1980-07-29T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "51-46"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "56-43"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.4,
+    "rankGapFactor": 0.08,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179666",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179666/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.857574Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.857576Z"
+}

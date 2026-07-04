@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-05-29-cleveland-indians-at-rangers",
+  "sport": "mlb",
+  "date": "1996-05-29",
+  "startTime": "1996-05-30T00:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "33-19"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "33-17"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.363,
+    "rankGapFactor": 0.051,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211634",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211634/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.232698Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.232703Z"
+}

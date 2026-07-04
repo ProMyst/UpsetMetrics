@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-09-02-giants-at-mets",
+  "sport": "mlb",
+  "date": "1990-09-02",
+  "startTime": "1990-09-02T07:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "76-55"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "67-66"
+  },
+  "finalScore": "10-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200451",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200451/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.252247Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.252249Z"
+}

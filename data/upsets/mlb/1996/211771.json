@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-06-09-pirates-at-padres",
+  "sport": "mlb",
+  "date": "1996-06-09",
+  "startTime": "1996-06-09T10:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "28-34"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "36-26"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.623,
+    "rankGapFactor": 0.258,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211771",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211771/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.260062Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.260063Z"
+}

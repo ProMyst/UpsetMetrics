@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-06-28-pirates-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1993-06-28",
+  "startTime": "1993-06-28T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "37-37"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "39-36"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.04,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206083",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206083/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.514748Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.514753Z"
+}

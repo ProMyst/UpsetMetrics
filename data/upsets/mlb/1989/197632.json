@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-07-01-braves-at-phillies",
+  "sport": "mlb",
+  "date": "1989-07-01",
+  "startTime": "1989-07-01T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "28-48"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "32-47"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.392,
+    "rankGapFactor": 0.073,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197632",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197632/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.305678Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.305680Z"
+}

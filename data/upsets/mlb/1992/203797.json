@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-06-20-cardinals-at-mets",
+  "sport": "mlb",
+  "date": "1992-06-20",
+  "startTime": "1992-06-20T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "33-33"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "31-36"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203797",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203797/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.939988Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.939991Z"
+}

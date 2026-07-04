@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-08-16-cleveland-indians-at-yankees",
+  "sport": "mlb",
+  "date": "1987-08-16",
+  "startTime": "1987-08-16T07:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "45-72"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "67-51"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.758,
+    "rankGapFactor": 0.366,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193934",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193934/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.383393Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.383398Z"
+}

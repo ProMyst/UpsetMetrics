@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-07-27-phillies-at-pirates",
+  "sport": "mlb",
+  "date": "1982-07-27",
+  "startTime": "1982-07-27T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "51-44"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "54-42"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.364,
+    "rankGapFactor": 0.051,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183149",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183149/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.315766Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.315768Z"
+}

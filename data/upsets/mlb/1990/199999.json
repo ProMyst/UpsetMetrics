@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-07-27-athletics-at-twins",
+  "sport": "mlb",
+  "date": "1990-07-27",
+  "startTime": "1990-07-28T00:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "47-52"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "62-37"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.679,
+    "rankGapFactor": 0.303,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199999",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199999/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.159430Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.159432Z"
+}

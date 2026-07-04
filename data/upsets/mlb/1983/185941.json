@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-09-19-pirates-at-mets",
+  "sport": "mlb",
+  "date": "1983-09-19",
+  "startTime": "1983-09-19T23:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "62-88"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "78-72"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.567,
+    "rankGapFactor": 0.213,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185941",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185941/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.802326Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.802328Z"
+}

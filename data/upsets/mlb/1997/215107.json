@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-01-blue-jays-at-mets",
+  "sport": "mlb",
+  "date": "1997-09-01",
+  "startTime": "1997-09-01T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "74-62"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "65-71"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215107",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215107/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.242630Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.242632Z"
+}

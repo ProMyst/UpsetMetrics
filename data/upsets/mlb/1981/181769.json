@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-09-25-reds-at-braves",
+  "sport": "mlb",
+  "date": "1981-09-25",
+  "startTime": "1981-09-25T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "61-38"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "46-51"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181769",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181769/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.213682Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.213684Z"
+}

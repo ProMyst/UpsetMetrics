@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-13-giants-at-mariners",
+  "sport": "mlb",
+  "date": "1999-06-13",
+  "startTime": "1999-06-13T19:35:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "35-28"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "31-30"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2114",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2114/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.292858Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.292860Z"
+}

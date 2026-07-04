@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-09-06-red-sox-at-athletics",
+  "sport": "mlb",
+  "date": "1989-09-06",
+  "startTime": "1989-09-06T10:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "85-55"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "70-70"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198421",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198421/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.466882Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.466884Z"
+}

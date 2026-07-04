@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-05-30-twins-at-royals",
+  "sport": "mlb",
+  "date": "1991-05-30",
+  "startTime": "1991-05-31T00:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "23-24"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "20-25"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201418",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201418/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.140854Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.140856Z"
+}

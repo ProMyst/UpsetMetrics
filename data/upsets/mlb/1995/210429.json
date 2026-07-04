@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-08-23-yankees-at-athletics",
+  "sport": "mlb",
+  "date": "1995-08-23",
+  "startTime": "1995-08-23T10:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "53-58"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "53-55"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.333,
+    "rankGapFactor": 0.027,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210429",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210429/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.118191Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.118193Z"
+}

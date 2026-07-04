@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-01-cardinals-at-astros",
+  "sport": "mlb",
+  "date": "1999-07-01",
+  "startTime": "1999-07-01T17:35:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "38-40"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "45-33"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.524,
+    "rankGapFactor": 0.179,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "704",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/704/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.339552Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.339554Z"
+}

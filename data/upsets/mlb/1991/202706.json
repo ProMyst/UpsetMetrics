@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-09-17-tigers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1991-09-17",
+  "startTime": "1991-09-17T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "48-95"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "75-69"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.763,
+    "rankGapFactor": 0.37,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202706",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202706/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.401468Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.401473Z"
+}

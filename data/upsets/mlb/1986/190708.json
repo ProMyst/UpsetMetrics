@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-05-13-dodgers-at-cardinals",
+  "sport": "mlb",
+  "date": "1986-05-13",
+  "startTime": "1986-05-14T00:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "15-19"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "13-16"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.318,
+    "rankGapFactor": 0.014,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190708",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190708/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.704781Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.704783Z"
+}

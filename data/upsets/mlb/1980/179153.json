@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-06-16-phillies-at-dodgers",
+  "sport": "mlb",
+  "date": "1980-06-16",
+  "startTime": "1980-06-17T02:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "31-24"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "34-26"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.308,
+    "rankGapFactor": 0.006,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179153",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179153/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.756619Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.756621Z"
+}

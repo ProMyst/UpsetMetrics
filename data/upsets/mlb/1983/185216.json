@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-07-23-padres-at-cubs",
+  "sport": "mlb",
+  "date": "1983-07-23",
+  "startTime": "1983-07-23T08:33:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "48-46"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "43-52"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185216",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185216/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.652822Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.652823Z"
+}

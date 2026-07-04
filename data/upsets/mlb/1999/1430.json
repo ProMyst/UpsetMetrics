@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-01-mets-at-florida-marlins",
+  "sport": "mlb",
+  "date": "1999-07-01",
+  "startTime": "1999-07-01T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "45-34"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "27-52"
+  },
+  "finalScore": "12-8",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1430",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1430/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.341706Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.341711Z"
+}

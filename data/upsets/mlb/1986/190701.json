@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-05-12-rangers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1986-05-12",
+  "startTime": "1986-05-12T23:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "16-13"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "17-12"
+  },
+  "finalScore": "19-2",
+  "factors": {
+    "pregameOddsFactor": 0.386,
+    "rankGapFactor": 0.069,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190701",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190701/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.701687Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.701692Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-06-27-brewers-at-red-sox",
+  "sport": "mlb",
+  "date": "1982-06-27",
+  "startTime": "1982-06-27T07:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "40-30"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "42-28"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.371,
+    "rankGapFactor": 0.057,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182812",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182812/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.250300Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.250301Z"
+}

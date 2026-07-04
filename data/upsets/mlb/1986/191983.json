@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-08-30-cleveland-indians-at-red-sox",
+  "sport": "mlb",
+  "date": "1986-08-30",
+  "startTime": "1986-08-30T07:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "75-54"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "65-65"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191983",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191983/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.966437Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.966442Z"
+}

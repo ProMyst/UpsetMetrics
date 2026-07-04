@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-06-01-yankees-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1981-06-01",
+  "startTime": "1981-06-01T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "26-20"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "23-18"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181096",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181096/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.077320Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.077325Z"
+}

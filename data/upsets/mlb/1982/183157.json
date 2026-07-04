@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-07-28-dodgers-at-giants",
+  "sport": "mlb",
+  "date": "1982-07-28",
+  "startTime": "1982-07-29T02:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "48-52"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "52-49"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.387,
+    "rankGapFactor": 0.07,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183157",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183157/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.319909Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.319911Z"
+}

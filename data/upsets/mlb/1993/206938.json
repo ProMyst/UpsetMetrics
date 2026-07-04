@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-09-04-phillies-at-reds",
+  "sport": "mlb",
+  "date": "1993-09-04",
+  "startTime": "1993-09-04T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "67-70"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "84-51"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.633,
+    "rankGapFactor": 0.266,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206938",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206938/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.699897Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.699899Z"
+}

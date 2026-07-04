@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-09-23-mariners-at-royals",
+  "sport": "mlb",
+  "date": "1989-09-23",
+  "startTime": "1989-09-24T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "69-86"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "88-67"
+  },
+  "finalScore": "8-0",
+  "factors": {
+    "pregameOddsFactor": 0.606,
+    "rankGapFactor": 0.245,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198635",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198635/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.505626Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.505628Z"
+}

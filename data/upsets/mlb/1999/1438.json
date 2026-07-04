@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-04-20-athletics-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1999-04-20",
+  "startTime": "1999-04-20T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "10-2"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "6-8"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1438",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1438/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.148821Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.148826Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-06-05-cardinals-at-reds",
+  "sport": "mlb",
+  "date": "1993-06-05",
+  "startTime": "1993-06-05T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "26-29"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "27-26"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.392,
+    "rankGapFactor": 0.073,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205794",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205794/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.455539Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.455541Z"
+}

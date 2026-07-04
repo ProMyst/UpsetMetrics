@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-10-17-padres-at-yankees",
+  "sport": "mlb",
+  "date": "1998-10-17",
+  "startTime": "1998-10-17T23:05:00Z",
+  "season": "1998",
+  "event": "World Series",
+  "stakes": "World Series",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 1.0,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68122",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68122/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.387740Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.387742Z"
+}

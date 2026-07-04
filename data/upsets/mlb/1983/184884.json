@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-06-24-padres-at-giants",
+  "sport": "mlb",
+  "date": "1983-06-24",
+  "startTime": "1983-06-25T02:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "36-33"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "35-34"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "184884",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/184884/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.587688Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.587690Z"
+}

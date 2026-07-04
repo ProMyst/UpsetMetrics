@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-09-16-mariners-at-royals",
+  "sport": "mlb",
+  "date": "1985-09-16",
+  "startTime": "1985-09-17T00:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "67-76"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "82-61"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.562,
+    "rankGapFactor": 0.21,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190067",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190067/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.749766Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.749768Z"
+}

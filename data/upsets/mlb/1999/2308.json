@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-12-tigers-at-cardinals",
+  "sport": "mlb",
+  "date": "1999-06-12",
+  "startTime": "1999-06-13T00:10:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "30-30"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "26-35"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2308",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2308/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.290397Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.290399Z"
+}

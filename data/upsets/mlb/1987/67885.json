@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-10-10-twins-at-tigers",
+  "sport": "mlb",
+  "date": "1987-10-10",
+  "startTime": "1987-10-10T07:33:00Z",
+  "season": "1987",
+  "event": "AL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "1-2"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "2-1"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "67885",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/67885/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.507711Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.507713Z"
+}

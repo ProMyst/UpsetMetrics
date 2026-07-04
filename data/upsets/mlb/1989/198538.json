@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-09-15-cardinals-at-phillies",
+  "sport": "mlb",
+  "date": "1989-09-15",
+  "startTime": "1989-09-15T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "60-86"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "77-69"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.591,
+    "rankGapFactor": 0.233,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198538",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198538/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.486275Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.486277Z"
+}

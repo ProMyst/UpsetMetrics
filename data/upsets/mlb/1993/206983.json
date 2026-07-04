@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-09-08-red-sox-at-white-sox",
+  "sport": "mlb",
+  "date": "1993-09-08",
+  "startTime": "1993-09-09T00:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "79-60"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "71-67"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206983",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206983/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.711452Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.711454Z"
+}

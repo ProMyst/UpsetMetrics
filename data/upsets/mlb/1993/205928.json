@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-06-16-dodgers-at-rockies",
+  "sport": "mlb",
+  "date": "1993-06-16",
+  "startTime": "1993-06-17T01:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "21-43"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "34-29"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.829,
+    "rankGapFactor": 0.423,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205928",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205928/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.484391Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.484393Z"
+}

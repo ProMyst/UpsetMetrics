@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-06-21-yankees-at-red-sox",
+  "sport": "mlb",
+  "date": "1987-06-21",
+  "startTime": "1987-06-21T07:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "31-37"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "42-27"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.682,
+    "rankGapFactor": 0.306,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193285",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193285/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.250360Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.250362Z"
+}

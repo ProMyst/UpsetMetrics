@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-09-10-reds-at-rockies",
+  "sport": "mlb",
+  "date": "1995-09-10",
+  "startTime": "1995-09-10T09:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "66-58"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "75-49"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.481,
+    "rankGapFactor": 0.145,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210652",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210652/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.167162Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.167164Z"
+}

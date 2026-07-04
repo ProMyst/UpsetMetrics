@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-06-19-red-sox-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1994-06-19",
+  "startTime": "1994-06-19T07:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "40-25"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "32-34"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208239",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208239/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.625580Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.625584Z"
+}

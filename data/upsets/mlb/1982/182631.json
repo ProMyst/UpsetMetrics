@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-06-12-athletics-at-blue-jays",
+  "sport": "mlb",
+  "date": "1982-06-12",
+  "startTime": "1982-06-12T07:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "27-33"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "27-31"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.339,
+    "rankGapFactor": 0.031,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182631",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182631/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.215285Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.215287Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-07-30-yankees-at-rangers",
+  "sport": "mlb",
+  "date": "1982-07-30",
+  "startTime": "1982-07-31T00:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "50-46"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "38-59"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183184",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183184/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.324344Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.324346Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-10-02-pirates-at-mets",
+  "sport": "mlb",
+  "date": "1999-10-02",
+  "startTime": "1999-10-02T23:10:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "95-66"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "78-82"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1092",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1092/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.595911Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.595913Z"
+}

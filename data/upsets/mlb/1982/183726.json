@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-09-12-orioles-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1982-09-12",
+  "startTime": "1982-09-12T07:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "68-73"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "80-61"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.513,
+    "rankGapFactor": 0.17,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183726",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183726/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.436811Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.436816Z"
+}

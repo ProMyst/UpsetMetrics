@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-05-28-giants-at-braves",
+  "sport": "mlb",
+  "date": "1993-05-28",
+  "startTime": "1993-05-28T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "28-21"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "31-18"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.453,
+    "rankGapFactor": 0.122,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205691",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205691/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.435003Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.435005Z"
+}

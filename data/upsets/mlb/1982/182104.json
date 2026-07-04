@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-04-27-astros-at-cardinals",
+  "sport": "mlb",
+  "date": "1982-04-27",
+  "startTime": "1982-04-28T00:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "8-12"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "13-6"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.568,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182104",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182104/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.109269Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.109271Z"
+}

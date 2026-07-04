@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-08-25-twins-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1980-08-25",
+  "startTime": "1980-08-25T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "64-59"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "54-72"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180002",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180002/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.927422Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.927427Z"
+}

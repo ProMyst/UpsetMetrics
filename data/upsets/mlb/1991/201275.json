@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-05-18-mets-at-dodgers",
+  "sport": "mlb",
+  "date": "1991-05-18",
+  "startTime": "1991-05-18T10:33:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "19-15"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "20-14"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.374,
+    "rankGapFactor": 0.059,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201275",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201275/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.113293Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.113295Z"
+}

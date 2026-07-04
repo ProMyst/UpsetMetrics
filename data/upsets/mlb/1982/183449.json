@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-08-19-padres-at-cardinals",
+  "sport": "mlb",
+  "date": "1982-08-19",
+  "startTime": "1982-08-20T00:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "64-57"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "69-51"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.415,
+    "rankGapFactor": 0.092,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183449",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183449/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.379925Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.379927Z"
+}

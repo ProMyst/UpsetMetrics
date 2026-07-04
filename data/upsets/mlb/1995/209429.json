@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-06-06-montreal-expos-at-dodgers",
+  "sport": "mlb",
+  "date": "1995-06-06",
+  "startTime": "1995-06-07T02:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "19-20"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "22-18"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.457,
+    "rankGapFactor": 0.126,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209429",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209429/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.920131Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.920136Z"
+}

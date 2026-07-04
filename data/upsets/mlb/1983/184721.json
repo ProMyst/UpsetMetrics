@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-06-11-giants-at-braves",
+  "sport": "mlb",
+  "date": "1983-06-11",
+  "startTime": "1983-06-11T23:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "30-28"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "36-22"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.559,
+    "rankGapFactor": 0.207,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "184721",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/184721/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.554992Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.554994Z"
+}

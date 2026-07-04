@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-05-13-cleveland-indians-at-orioles",
+  "sport": "mlb",
+  "date": "1995-05-13",
+  "startTime": "1995-05-13T07:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "6-9"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "10-5"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.967,
+    "rankGapFactor": 0.533,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209126",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209126/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.857220Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.857225Z"
+}

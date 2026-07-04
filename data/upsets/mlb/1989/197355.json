@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-06-07-brewers-at-blue-jays",
+  "sport": "mlb",
+  "date": "1989-06-07",
+  "startTime": "1989-06-07T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "24-33"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "26-31"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.388,
+    "rankGapFactor": 0.07,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197355",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197355/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.249628Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.249630Z"
+}

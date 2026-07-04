@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-09-giants-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1997-08-09",
+  "startTime": "1997-08-09T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "59-55"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "65-52"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.395,
+    "rankGapFactor": 0.076,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214807",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214807/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.182244Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.182249Z"
+}

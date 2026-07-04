@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-07-05-twins-at-white-sox",
+  "sport": "mlb",
+  "date": "1991-07-05",
+  "startTime": "1991-07-06T00:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "42-36"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "46-35"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.374,
+    "rankGapFactor": 0.059,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201849",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201849/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.228121Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.228123Z"
+}

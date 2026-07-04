@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-08-22-mariners-at-orioles",
+  "sport": "mlb",
+  "date": "1996-08-22",
+  "startTime": "1996-08-22T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "65-61"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "67-59"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.34,
+    "rankGapFactor": 0.032,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212708",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212708/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.450075Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.450077Z"
+}

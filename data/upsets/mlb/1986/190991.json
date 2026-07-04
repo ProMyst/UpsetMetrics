@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-06-06-blue-jays-at-tigers",
+  "sport": "mlb",
+  "date": "1986-06-06",
+  "startTime": "1986-06-06T23:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "26-28"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "24-26"
+  },
+  "finalScore": "12-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190991",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190991/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.759334Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.759336Z"
+}

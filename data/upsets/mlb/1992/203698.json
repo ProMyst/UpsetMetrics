@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-06-12-giants-at-astros",
+  "sport": "mlb",
+  "date": "1992-06-12",
+  "startTime": "1992-06-13T00:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "31-27"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "25-35"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203698",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203698/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.921914Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.921916Z"
+}

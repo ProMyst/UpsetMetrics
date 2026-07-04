@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-04-04-tigers-at-orioles",
+  "sport": "mlb",
+  "date": "1998-04-04",
+  "startTime": "1998-04-04T08:33:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "4-1"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "1-4"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215517",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215517/feed/live",
+    "retrievedAt": "2026-07-04T07:28:37.902594Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:37.902597Z"
+}

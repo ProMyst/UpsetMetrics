@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-07-14-brewers-at-blue-jays",
+  "sport": "mlb",
+  "date": "1980-07-14",
+  "startTime": "1980-07-14T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "48-36"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "35-47"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179476",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179476/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.819653Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.819655Z"
+}

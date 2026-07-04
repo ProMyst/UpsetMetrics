@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-04-24-florida-marlins-at-rockies",
+  "sport": "mlb",
+  "date": "1993-04-24",
+  "startTime": "1993-04-24T09:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "6-11"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "6-10"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.355,
+    "rankGapFactor": 0.044,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205267",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205267/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.352820Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.352825Z"
+}

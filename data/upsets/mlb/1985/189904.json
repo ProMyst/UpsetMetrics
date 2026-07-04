@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-09-03-athletics-at-orioles",
+  "sport": "mlb",
+  "date": "1985-09-03",
+  "startTime": "1985-09-03T23:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "68-64"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "68-61"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.33,
+    "rankGapFactor": 0.024,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "189904",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/189904/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.716170Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.716172Z"
+}

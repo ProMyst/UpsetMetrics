@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-09-14-pirates-at-cardinals",
+  "sport": "mlb",
+  "date": "1992-09-14",
+  "startTime": "1992-09-15T00:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "83-60"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "71-70"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204798",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204798/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.144848Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.144850Z"
+}

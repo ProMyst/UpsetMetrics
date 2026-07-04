@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-07-09-brewers-at-california-angels",
+  "sport": "mlb",
+  "date": "1995-07-09",
+  "startTime": "1995-07-09T10:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "32-35"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "39-30"
+  },
+  "finalScore": "9-7",
+  "factors": {
+    "pregameOddsFactor": 0.519,
+    "rankGapFactor": 0.175,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209859",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209859/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.006361Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.006366Z"
+}

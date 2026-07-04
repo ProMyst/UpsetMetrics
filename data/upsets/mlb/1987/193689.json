@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-07-26-rangers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1987-07-26",
+  "startTime": "1987-07-26T07:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "48-49"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "34-64"
+  },
+  "finalScore": "11-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193689",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193689/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.332479Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.332484Z"
+}

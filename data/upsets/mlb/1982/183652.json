@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-09-05-cardinals-at-giants",
+  "sport": "mlb",
+  "date": "1982-09-05",
+  "startTime": "1982-09-05T10:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "69-67"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "76-59"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.439,
+    "rankGapFactor": 0.111,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183652",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183652/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.422863Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.422865Z"
+}

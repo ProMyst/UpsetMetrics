@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-08-19-yankees-at-tigers",
+  "sport": "mlb",
+  "date": "1989-08-19",
+  "startTime": "1989-08-19T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "46-77"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "56-67"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.503,
+    "rankGapFactor": 0.163,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198211",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198211/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.422959Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.422961Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-09-15-rockies-at-dodgers",
+  "sport": "mlb",
+  "date": "1998-09-15",
+  "startTime": "1998-09-16T02:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "73-80"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "77-75"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.374,
+    "rankGapFactor": 0.059,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "217716",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/217716/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.349210Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.349212Z"
+}

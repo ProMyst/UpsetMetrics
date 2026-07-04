@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-05-27-braves-at-phillies",
+  "sport": "mlb",
+  "date": "1990-05-27",
+  "startTime": "1990-05-27T07:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "17-24"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "24-18"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.692,
+    "rankGapFactor": 0.314,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199276",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199276/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.016185Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.016187Z"
+}

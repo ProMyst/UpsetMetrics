@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-27-florida-marlins-at-phillies",
+  "sport": "mlb",
+  "date": "1999-07-27",
+  "startTime": "1999-07-27T23:35:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "40-61"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "54-46"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.66,
+    "rankGapFactor": 0.288,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1127",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1127/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.413404Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.413409Z"
+}

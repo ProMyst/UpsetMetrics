@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-08-19-cubs-at-reds",
+  "sport": "mlb",
+  "date": "1984-08-19",
+  "startTime": "1984-08-19T07:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "72-51"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "52-72"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187697",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187697/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.388500Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.388502Z"
+}

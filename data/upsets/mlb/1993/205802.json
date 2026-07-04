@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-06-06-brewers-at-royals",
+  "sport": "mlb",
+  "date": "1993-06-06",
+  "startTime": "1993-06-06T08:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "30-24"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "24-29"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205802",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205802/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.459811Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.459813Z"
+}

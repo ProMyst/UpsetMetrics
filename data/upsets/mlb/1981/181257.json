@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-08-13-astros-at-padres",
+  "sport": "mlb",
+  "date": "1981-08-13",
+  "startTime": "1981-08-13T10:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "24-36"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "30-31"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.53,
+    "rankGapFactor": 0.184,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181257",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181257/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.112229Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.112231Z"
+}

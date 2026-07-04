@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-07-01-mets-at-padres",
+  "sport": "mlb",
+  "date": "1994-07-01",
+  "startTime": "1994-07-02T02:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "35-43"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "31-49"
+  },
+  "finalScore": "10-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208398",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208398/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.657168Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.657170Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-07-03-padres-at-florida-marlins",
+  "sport": "mlb",
+  "date": "1995-07-03",
+  "startTime": "1995-07-03T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "22-39"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "31-31"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.648,
+    "rankGapFactor": 0.279,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209776",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209776/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.987767Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.987772Z"
+}

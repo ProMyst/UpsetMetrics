@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-05-15-braves-at-cardinals",
+  "sport": "mlb",
+  "date": "1988-05-15",
+  "startTime": "1988-05-15T08:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "17-19"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "10-23"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194967",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194967/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.242059Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.242061Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-06-07-phillies-at-cubs",
+  "sport": "mlb",
+  "date": "1990-06-07",
+  "startTime": "1990-06-08T00:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "28-23"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "22-32"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199409",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199409/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.041361Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.041363Z"
+}

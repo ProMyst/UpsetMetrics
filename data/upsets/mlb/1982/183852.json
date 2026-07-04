@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-09-22-white-sox-at-mariners",
+  "sport": "mlb",
+  "date": "1982-09-22",
+  "startTime": "1982-09-23T02:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "73-78"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "79-72"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.399,
+    "rankGapFactor": 0.079,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183852",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183852/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.463605Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.463607Z"
+}

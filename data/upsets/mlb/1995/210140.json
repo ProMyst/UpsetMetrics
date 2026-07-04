@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-08-02-cubs-at-pirates",
+  "sport": "mlb",
+  "date": "1995-08-02",
+  "startTime": "1995-08-02T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "37-50"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "44-45"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.473,
+    "rankGapFactor": 0.138,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210140",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210140/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.060406Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.060408Z"
+}

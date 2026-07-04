@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-09-10-twins-at-royals",
+  "sport": "mlb",
+  "date": "1989-09-10",
+  "startTime": "1989-09-10T08:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "71-71"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "82-60"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.494,
+    "rankGapFactor": 0.155,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198476",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198476/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.475911Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.475913Z"
+}

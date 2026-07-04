@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-07-18-braves-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1989-07-18",
+  "startTime": "1989-07-18T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "39-54"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "53-40"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.676,
+    "rankGapFactor": 0.301,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197810",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197810/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.341204Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.341208Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-06-26-royals-at-mariners",
+  "sport": "mlb",
+  "date": "1990-06-26",
+  "startTime": "1990-06-27T02:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "30-39"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "35-38"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.412,
+    "rankGapFactor": 0.089,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199634",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199634/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.087437Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.087439Z"
+}

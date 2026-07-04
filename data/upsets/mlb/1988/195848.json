@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-07-30-cubs-at-phillies",
+  "sport": "mlb",
+  "date": "1988-07-30",
+  "startTime": "1988-07-30T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "44-59"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "50-52"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.458,
+    "rankGapFactor": 0.126,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195848",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195848/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.419210Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.419212Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-10-03-cubs-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1987-10-03",
+  "startTime": "1987-10-03T07:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "91-70"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "75-85"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194499",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194499/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.501942Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.501947Z"
+}

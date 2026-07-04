@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-07-16-reds-at-pirates",
+  "sport": "mlb",
+  "date": "1997-07-16",
+  "startTime": "1997-07-16T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "41-51"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "47-46"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.449,
+    "rankGapFactor": 0.119,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214479",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214479/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.114915Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.114917Z"
+}

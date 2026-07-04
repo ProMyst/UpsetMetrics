@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-05-02-reds-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1989-05-02",
+  "startTime": "1989-05-02T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "14-12"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "14-10"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.412,
+    "rankGapFactor": 0.09,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196942",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196942/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.166633Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.166637Z"
+}

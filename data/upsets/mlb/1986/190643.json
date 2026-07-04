@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-05-07-yankees-at-white-sox",
+  "sport": "mlb",
+  "date": "1986-05-07",
+  "startTime": "1986-05-08T00:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "18-9"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "7-18"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190643",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190643/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.691480Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.691482Z"
+}

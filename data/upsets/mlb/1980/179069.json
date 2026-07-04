@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-06-10-orioles-at-athletics",
+  "sport": "mlb",
+  "date": "1980-06-10",
+  "startTime": "1980-06-11T02:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "27-28"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "27-27"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.323,
+    "rankGapFactor": 0.018,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179069",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179069/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.741440Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.741442Z"
+}

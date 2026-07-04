@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-05-11-yankees-at-blue-jays",
+  "sport": "mlb",
+  "date": "1995-05-11",
+  "startTime": "1995-05-11T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "9-5"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "7-7"
+  },
+  "finalScore": "12-11",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209105",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209105/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.851536Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.851538Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-06-astros-at-twins",
+  "sport": "mlb",
+  "date": "1999-06-06",
+  "startTime": "1999-06-06T18:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "19-36"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "33-22"
+  },
+  "finalScore": "13-6",
+  "factors": {
+    "pregameOddsFactor": 0.936,
+    "rankGapFactor": 0.509,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "449",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/449/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.274777Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.274779Z"
+}

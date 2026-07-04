@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-07-07-white-sox-at-orioles",
+  "sport": "mlb",
+  "date": "1987-07-07",
+  "startTime": "1987-07-07T23:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "32-48"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "32-51"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193472",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193472/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.289664Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.289666Z"
+}

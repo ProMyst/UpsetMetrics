@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-04-29-montreal-expos-at-phillies",
+  "sport": "mlb",
+  "date": "1987-04-29",
+  "startTime": "1987-04-29T23:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "7-13"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "8-11"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.478,
+    "rankGapFactor": 0.142,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192679",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192679/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.126077Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.126082Z"
+}

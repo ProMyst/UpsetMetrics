@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-05-26-padres-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1986-05-26",
+  "startTime": "1986-05-26T23:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "23-20"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "24-17"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.426,
+    "rankGapFactor": 0.101,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190863",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190863/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.734338Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.734343Z"
+}

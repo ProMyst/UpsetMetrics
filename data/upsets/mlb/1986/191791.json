@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-08-14-orioles-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1986-08-14",
+  "startTime": "1986-08-14T23:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "62-53"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "58-57"
+  },
+  "finalScore": "12-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191791",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191791/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.922665Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.922669Z"
+}

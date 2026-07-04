@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-05-04-braves-at-florida-marlins",
+  "sport": "mlb",
+  "date": "1995-05-04",
+  "startTime": "1995-09-07T03:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "7-1"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "1-7"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209013",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209013/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.159129Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.159133Z"
+}

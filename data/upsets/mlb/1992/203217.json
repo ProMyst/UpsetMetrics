@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-05-01-royals-at-red-sox",
+  "sport": "mlb",
+  "date": "1992-05-01",
+  "startTime": "1992-05-01T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "10-9"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "3-18"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203217",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203217/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.826689Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.826691Z"
+}

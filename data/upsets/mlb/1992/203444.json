@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-05-20-cardinals-at-braves",
+  "sport": "mlb",
+  "date": "1992-05-20",
+  "startTime": "1992-05-20T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "19-23"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "23-17"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.607,
+    "rankGapFactor": 0.245,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203444",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203444/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.871792Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.871795Z"
+}

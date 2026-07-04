@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-05-23-orioles-at-brewers",
+  "sport": "mlb",
+  "date": "1994-05-23",
+  "startTime": "1994-05-24T00:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "24-17"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "17-26"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207900",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207900/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.557550Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.557552Z"
+}

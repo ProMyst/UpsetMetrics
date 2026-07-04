@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-09-09-reds-at-braves",
+  "sport": "mlb",
+  "date": "1980-09-09",
+  "startTime": "1980-09-09T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "76-63"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "71-67"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180180",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180180/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.963545Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.963547Z"
+}

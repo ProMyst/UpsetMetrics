@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-09-21-astros-at-braves",
+  "sport": "mlb",
+  "date": "1989-09-21",
+  "startTime": "1989-09-21T07:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "60-93"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "82-71"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.659,
+    "rankGapFactor": 0.288,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198600",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198600/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.502007Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.502009Z"
+}

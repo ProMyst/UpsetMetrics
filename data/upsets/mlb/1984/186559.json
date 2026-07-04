@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-05-16-california-angels-at-orioles",
+  "sport": "mlb",
+  "date": "1984-05-16",
+  "startTime": "1984-05-16T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "20-17"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "20-19"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186559",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186559/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.156451Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.156456Z"
+}

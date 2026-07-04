@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-04-20-phillies-at-mets",
+  "sport": "mlb",
+  "date": "1986-04-20",
+  "startTime": "1986-04-20T08:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "5-3"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "3-6"
+  },
+  "finalScore": "8-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190454",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190454/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.652445Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.652447Z"
+}

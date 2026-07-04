@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-06-10-yankees-at-red-sox",
+  "sport": "mlb",
+  "date": "1982-06-10",
+  "startTime": "1982-06-10T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "26-27"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "35-20"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.664,
+    "rankGapFactor": 0.292,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182609",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182609/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.209237Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.209238Z"
+}

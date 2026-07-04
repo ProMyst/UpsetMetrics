@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-05-21-brewers-at-orioles",
+  "sport": "mlb",
+  "date": "1993-05-21",
+  "startTime": "1993-05-21T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "17-21"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "16-24"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205602",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205602/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.419121Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.419123Z"
+}

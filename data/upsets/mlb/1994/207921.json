@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-05-24-blue-jays-at-yankees",
+  "sport": "mlb",
+  "date": "1994-05-24",
+  "startTime": "1994-05-24T23:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "29-13"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "22-22"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207921",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207921/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.559713Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.559715Z"
+}

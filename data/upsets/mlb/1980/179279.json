@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-06-27-cleveland-indians-at-yankees",
+  "sport": "mlb",
+  "date": "1980-06-27",
+  "startTime": "1980-06-27T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "34-33"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "44-25"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.626,
+    "rankGapFactor": 0.26,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179279",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179279/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.781146Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.781151Z"
+}

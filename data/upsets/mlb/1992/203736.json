@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-06-15-cardinals-at-cubs",
+  "sport": "mlb",
+  "date": "1992-06-15",
+  "startTime": "1992-06-16T00:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "30-32"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "31-31"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.34,
+    "rankGapFactor": 0.032,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203736",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203736/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.929568Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.929570Z"
+}

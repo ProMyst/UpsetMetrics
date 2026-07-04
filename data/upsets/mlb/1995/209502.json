@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-06-12-red-sox-at-blue-jays",
+  "sport": "mlb",
+  "date": "1995-06-12",
+  "startTime": "1995-06-12T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "17-24"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "26-16"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.811,
+    "rankGapFactor": 0.409,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209502",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209502/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.933417Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.933419Z"
+}

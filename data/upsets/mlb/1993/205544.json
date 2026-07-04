@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-05-16-mariners-at-athletics",
+  "sport": "mlb",
+  "date": "1993-05-16",
+  "startTime": "1993-05-16T10:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "18-19"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "14-20"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205544",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205544/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.408477Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.408479Z"
+}

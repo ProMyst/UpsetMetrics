@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-09-02-white-sox-at-orioles",
+  "sport": "mlb",
+  "date": "1998-09-02",
+  "startTime": "1998-09-02T23:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "64-75"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "69-70"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.39,
+    "rankGapFactor": 0.072,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "217540",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/217540/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.312167Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.312169Z"
+}

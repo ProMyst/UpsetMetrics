@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-19-mariners-at-rangers",
+  "sport": "mlb",
+  "date": "1997-06-19",
+  "startTime": "1997-06-20T00:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "39-31"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "36-32"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214161",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214161/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.052092Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.052094Z"
+}

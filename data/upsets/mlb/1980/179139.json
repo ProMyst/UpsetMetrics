@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-06-15-padres-at-phillies",
+  "sport": "mlb",
+  "date": "1980-06-15",
+  "startTime": "1980-06-15T07:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "30-24"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "25-35"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179139",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179139/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.752933Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.752935Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-07-22-cardinals-at-padres",
+  "sport": "mlb",
+  "date": "1989-07-22",
+  "startTime": "1989-07-23T02:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "49-44"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "47-51"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197868",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197868/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.350680Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.350682Z"
+}

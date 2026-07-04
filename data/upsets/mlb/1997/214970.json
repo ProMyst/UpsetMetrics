@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-22-montreal-expos-at-cubs",
+  "sport": "mlb",
+  "date": "1997-08-22",
+  "startTime": "1997-08-22T08:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "51-77"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "62-64"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.534,
+    "rankGapFactor": 0.187,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214970",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214970/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.216830Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.216835Z"
+}

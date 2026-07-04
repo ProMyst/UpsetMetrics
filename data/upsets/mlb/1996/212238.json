@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-07-17-giants-at-rockies",
+  "sport": "mlb",
+  "date": "1996-07-17",
+  "startTime": "1996-07-17T09:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "49-44"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "40-53"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212238",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212238/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.353744Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.353746Z"
+}

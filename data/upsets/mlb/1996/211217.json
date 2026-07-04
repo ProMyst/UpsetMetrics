@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-04-25-braves-at-giants",
+  "sport": "mlb",
+  "date": "1996-04-25",
+  "startTime": "1996-04-25T10:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "11-11"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "12-11"
+  },
+  "finalScore": "8-0",
+  "factors": {
+    "pregameOddsFactor": 0.354,
+    "rankGapFactor": 0.043,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211217",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211217/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.150332Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.150334Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-08-25-rockies-at-pirates",
+  "sport": "mlb",
+  "date": "1999-08-25",
+  "startTime": "1999-08-25T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "62-65"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "57-71"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2906",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2906/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.493189Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.493190Z"
+}

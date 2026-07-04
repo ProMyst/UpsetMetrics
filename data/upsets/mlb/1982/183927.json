@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-09-28-brewers-at-red-sox",
+  "sport": "mlb",
+  "date": "1982-09-28",
+  "startTime": "1982-09-28T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "93-63"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "85-72"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183927",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183927/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.476361Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.476363Z"
+}

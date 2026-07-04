@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-23-reds-at-cardinals",
+  "sport": "mlb",
+  "date": "1997-09-23",
+  "startTime": "1997-09-24T00:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "72-85"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "71-86"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215385",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215385/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.298969Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.298971Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-06-rangers-at-diamondbacks",
+  "sport": "mlb",
+  "date": "1999-06-06",
+  "startTime": "1999-06-07T00:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "34-23"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "33-22"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.309,
+    "rankGapFactor": 0.007,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1013",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1013/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.275916Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.275918Z"
+}

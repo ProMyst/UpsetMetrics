@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-08-01-astros-at-mets",
+  "sport": "mlb",
+  "date": "1980-08-01",
+  "startTime": "1980-08-01T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "49-51"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "56-45"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.461,
+    "rankGapFactor": 0.129,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179696",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179696/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.862943Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.862945Z"
+}

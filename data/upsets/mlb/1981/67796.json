@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-10-24-yankees-at-dodgers",
+  "sport": "mlb",
+  "date": "1981-10-24",
+  "startTime": "1981-10-24T10:33:00Z",
+  "season": "1981",
+  "event": "World Series",
+  "stakes": "World Series",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "2-2"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "2-2"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 1.0,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "67796",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/67796/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.243766Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.243768Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-06-26-rangers-at-mariners",
+  "sport": "mlb",
+  "date": "1985-06-26",
+  "startTime": "1985-06-26T10:33:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "34-36"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "27-44"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "189106",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/189106/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.553194Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.553196Z"
+}

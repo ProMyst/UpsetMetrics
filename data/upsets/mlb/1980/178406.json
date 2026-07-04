@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-04-11-cleveland-indians-at-california-angels",
+  "sport": "mlb",
+  "date": "1980-04-11",
+  "startTime": "1980-04-12T02:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178406",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178406/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.600073Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.600085Z"
+}

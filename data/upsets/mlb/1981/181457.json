@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-08-30-braves-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1981-08-30",
+  "startTime": "1981-08-30T07:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "37-37"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "41-32"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.454,
+    "rankGapFactor": 0.123,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181457",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181457/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.151864Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.151868Z"
+}

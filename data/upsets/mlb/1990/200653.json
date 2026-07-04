@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-09-19-red-sox-at-orioles",
+  "sport": "mlb",
+  "date": "1990-09-19",
+  "startTime": "1990-09-19T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "67-81"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "81-69"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.518,
+    "rankGapFactor": 0.175,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200653",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200653/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.293467Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.293469Z"
+}

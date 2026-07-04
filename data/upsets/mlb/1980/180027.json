@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-08-28-braves-at-cardinals",
+  "sport": "mlb",
+  "date": "1980-08-28",
+  "startTime": "1980-08-29T00:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "56-69"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "63-64"
+  },
+  "finalScore": "11-2",
+  "factors": {
+    "pregameOddsFactor": 0.42,
+    "rankGapFactor": 0.096,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180027",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180027/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.935011Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.935013Z"
+}

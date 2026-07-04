@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-09-19-red-sox-at-yankees",
+  "sport": "mlb",
+  "date": "1993-09-19",
+  "startTime": "1993-09-19T07:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "77-72"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "83-68"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.382,
+    "rankGapFactor": 0.066,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207121",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207121/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.738512Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.738514Z"
+}

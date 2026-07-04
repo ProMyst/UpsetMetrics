@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-06-02-white-sox-at-rangers",
+  "sport": "mlb",
+  "date": "1987-06-02",
+  "startTime": "1987-06-03T00:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "21-26"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "20-28"
+  },
+  "finalScore": "15-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193052",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193052/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.204176Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.204178Z"
+}

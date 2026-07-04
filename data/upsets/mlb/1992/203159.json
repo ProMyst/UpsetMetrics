@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-04-25-athletics-at-twins",
+  "sport": "mlb",
+  "date": "1992-04-25",
+  "startTime": "1992-04-25T08:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "12-6"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "7-10"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203159",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203159/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.814462Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.814464Z"
+}

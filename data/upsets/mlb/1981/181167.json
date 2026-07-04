@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-06-07-phillies-at-braves",
+  "sport": "mlb",
+  "date": "1981-06-07",
+  "startTime": "1981-06-07T07:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "31-21"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "25-26"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181167",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181167/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.090825Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.090827Z"
+}

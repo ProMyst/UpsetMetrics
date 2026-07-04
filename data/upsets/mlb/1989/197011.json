@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-05-07-cardinals-at-giants",
+  "sport": "mlb",
+  "date": "1989-05-07",
+  "startTime": "1989-05-07T10:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "16-15"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "16-13"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.389,
+    "rankGapFactor": 0.071,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197011",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197011/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.180809Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.180811Z"
+}

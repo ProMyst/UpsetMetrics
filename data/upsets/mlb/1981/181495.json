@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-09-02-tigers-at-white-sox",
+  "sport": "mlb",
+  "date": "1981-09-02",
+  "startTime": "1981-09-03T00:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "46-34"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "41-34"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181495",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181495/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.159586Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.159588Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-05-26-braves-at-cardinals",
+  "sport": "mlb",
+  "date": "1987-05-26",
+  "startTime": "1987-05-27T00:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "23-22"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "26-16"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.57,
+    "rankGapFactor": 0.216,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192973",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192973/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.187532Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.187534Z"
+}

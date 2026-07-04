@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-08-14-athletics-at-california-angels",
+  "sport": "mlb",
+  "date": "1987-08-14",
+  "startTime": "1987-08-15T02:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "58-57"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "59-57"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.311,
+    "rankGapFactor": 0.009,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193913",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193913/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.379435Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.379440Z"
+}

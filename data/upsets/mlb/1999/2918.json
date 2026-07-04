@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-04-21-phillies-at-diamondbacks",
+  "sport": "mlb",
+  "date": "1999-04-21",
+  "startTime": "1999-04-22T02:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "9-7"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "7-8"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2918",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2918/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.153239Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.153241Z"
+}

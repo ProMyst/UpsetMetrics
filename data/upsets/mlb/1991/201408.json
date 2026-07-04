@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-05-29-twins-at-rangers",
+  "sport": "mlb",
+  "date": "1991-05-29",
+  "startTime": "1991-05-30T00:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "22-24"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "25-16"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.629,
+    "rankGapFactor": 0.263,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201408",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201408/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.138720Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.138722Z"
+}

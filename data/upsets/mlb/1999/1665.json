@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-08-28-reds-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1999-08-28",
+  "startTime": "1999-08-28T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "54-75"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "75-53"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.718,
+    "rankGapFactor": 0.335,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1665",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1665/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.501156Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.501161Z"
+}

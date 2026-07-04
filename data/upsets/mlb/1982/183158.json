@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-07-28-twins-at-mariners",
+  "sport": "mlb",
+  "date": "1982-07-28",
+  "startTime": "1982-07-28T10:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "51-48"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "34-66"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183158",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183158/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.320287Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.320289Z"
+}

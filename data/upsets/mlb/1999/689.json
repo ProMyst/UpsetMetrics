@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-15-rangers-at-yankees",
+  "sport": "mlb",
+  "date": "1999-06-15",
+  "startTime": "1999-06-15T23:30:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "37-25"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "36-27"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "689",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/689/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.297119Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.297122Z"
+}

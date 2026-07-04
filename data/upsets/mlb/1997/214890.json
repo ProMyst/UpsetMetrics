@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-16-royals-at-tigers",
+  "sport": "mlb",
+  "date": "1997-08-16",
+  "startTime": "1997-08-16T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "51-68"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "56-66"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.376,
+    "rankGapFactor": 0.061,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214890",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214890/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.199560Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.199562Z"
+}

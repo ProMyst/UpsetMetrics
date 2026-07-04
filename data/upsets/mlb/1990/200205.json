@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-13-red-sox-at-athletics",
+  "sport": "mlb",
+  "date": "1990-08-13",
+  "startTime": "1990-08-14T02:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "74-42"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "62-52"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200205",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200205/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.201361Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.201363Z"
+}

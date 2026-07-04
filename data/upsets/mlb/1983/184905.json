@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-06-26-yankees-at-red-sox",
+  "sport": "mlb",
+  "date": "1983-06-26",
+  "startTime": "1983-06-26T07:33:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "35-35"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "36-33"
+  },
+  "finalScore": "12-5",
+  "factors": {
+    "pregameOddsFactor": 0.354,
+    "rankGapFactor": 0.043,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "184905",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/184905/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.592243Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.592245Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-07-05-cubs-at-pirates",
+  "sport": "mlb",
+  "date": "1980-07-05",
+  "startTime": "1980-07-05T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "41-37"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "34-42"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179386",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179386/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.802647Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.802649Z"
+}

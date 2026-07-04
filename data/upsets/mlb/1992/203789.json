@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-06-20-cleveland-indians-at-brewers",
+  "sport": "mlb",
+  "date": "1992-06-20",
+  "startTime": "1992-06-21T00:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "35-30"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "28-40"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203789",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203789/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.941503Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.941507Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-07-25-twins-at-blue-jays",
+  "sport": "mlb",
+  "date": "1987-07-25",
+  "startTime": "1987-07-25T07:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "54-45"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "56-41"
+  },
+  "finalScore": "13-9",
+  "factors": {
+    "pregameOddsFactor": 0.38,
+    "rankGapFactor": 0.064,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193669",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193669/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.330332Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.330334Z"
+}

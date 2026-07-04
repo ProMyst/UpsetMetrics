@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-07-18-braves-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1984-07-18",
+  "startTime": "1984-07-18T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "48-46"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "46-45"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187292",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187292/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.304995Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.305000Z"
+}

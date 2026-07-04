@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-26-orioles-at-brewers",
+  "sport": "mlb",
+  "date": "1997-09-26",
+  "startTime": "1997-09-27T00:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "78-81"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "96-64"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.574,
+    "rankGapFactor": 0.219,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215421",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215421/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.306658Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.306659Z"
+}

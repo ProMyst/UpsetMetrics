@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-06-25-phillies-at-reds",
+  "sport": "mlb",
+  "date": "1996-06-25",
+  "startTime": "1996-06-25T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "33-38"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "31-44"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211980",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211980/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.300819Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.300821Z"
+}

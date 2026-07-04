@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-09-29-dodgers-at-giants",
+  "sport": "mlb",
+  "date": "1999-09-29",
+  "startTime": "1999-09-30T02:35:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "84-74"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "75-83"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2681",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2681/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.588403Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.588405Z"
+}

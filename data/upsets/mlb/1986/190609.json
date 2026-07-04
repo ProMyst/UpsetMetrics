@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-05-04-athletics-at-red-sox",
+  "sport": "mlb",
+  "date": "1986-05-04",
+  "startTime": "1986-05-04T07:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "14-9"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "13-12"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190609",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190609/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.683939Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.683941Z"
+}

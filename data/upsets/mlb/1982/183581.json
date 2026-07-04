@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-08-30-athletics-at-red-sox",
+  "sport": "mlb",
+  "date": "1982-08-30",
+  "startTime": "1982-08-30T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "72-58"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "58-74"
+  },
+  "finalScore": "9-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183581",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183581/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.407831Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.407835Z"
+}

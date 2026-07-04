@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-09-22-brewers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1983-09-22",
+  "startTime": "1983-09-22T23:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "67-85"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "81-72"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.522,
+    "rankGapFactor": 0.177,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185976",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185976/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.810233Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.810237Z"
+}

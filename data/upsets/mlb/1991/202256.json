@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-08-11-astros-at-braves",
+  "sport": "mlb",
+  "date": "1991-08-11",
+  "startTime": "1991-08-11T07:33:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "59-50"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "46-64"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202256",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202256/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.309391Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.309393Z"
+}

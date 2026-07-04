@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-06-22-blue-jays-at-red-sox",
+  "sport": "mlb",
+  "date": "1984-06-22",
+  "startTime": "1984-06-22T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "32-36"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "42-25"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.691,
+    "rankGapFactor": 0.313,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186995",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186995/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.242078Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.242080Z"
+}

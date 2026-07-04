@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-04-25-astros-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1998-04-25",
+  "startTime": "1998-04-25T23:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "13-10"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "7-15"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215786",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215786/feed/live",
+    "retrievedAt": "2026-07-04T07:28:37.959703Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:37.959708Z"
+}

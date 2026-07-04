@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-06-18-florida-marlins-at-phillies",
+  "sport": "mlb",
+  "date": "1993-06-18",
+  "startTime": "1993-06-18T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "46-20"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "31-35"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205950",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205950/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.488952Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.488957Z"
+}

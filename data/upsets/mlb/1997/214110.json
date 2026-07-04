@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-15-royals-at-pirates",
+  "sport": "mlb",
+  "date": "1997-06-15",
+  "startTime": "1997-06-15T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "31-33"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "32-34"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.301,
+    "rankGapFactor": 0.001,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214110",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214110/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.041997Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.041999Z"
+}

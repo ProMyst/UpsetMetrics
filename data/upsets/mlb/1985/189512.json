@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-08-01-phillies-at-pirates",
+  "sport": "mlb",
+  "date": "1985-08-01",
+  "startTime": "1985-08-01T23:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "46-54"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "32-67"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "189512",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/189512/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.634558Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.634560Z"
+}

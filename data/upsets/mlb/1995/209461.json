@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-06-09-california-angels-at-orioles",
+  "sport": "mlb",
+  "date": "1995-06-09",
+  "startTime": "1995-06-09T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "18-21"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "24-17"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.61,
+    "rankGapFactor": 0.248,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209461",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209461/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.925417Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.925422Z"
+}

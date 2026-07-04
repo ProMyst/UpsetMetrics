@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-05-04-phillies-at-giants",
+  "sport": "mlb",
+  "date": "1993-05-04",
+  "startTime": "1993-05-05T02:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "19-6"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "17-10"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205393",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205393/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.378088Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.378090Z"
+}

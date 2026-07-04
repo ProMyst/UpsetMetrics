@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-05-21-brewers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1996-05-21",
+  "startTime": "1996-05-21T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "29-13"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "21-21"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211536",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211536/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.212936Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.212940Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-09-24-mets-at-cubs",
+  "sport": "mlb",
+  "date": "1986-09-24",
+  "startTime": "1986-09-24T08:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "65-87"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "99-53"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.859,
+    "rankGapFactor": 0.447,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192284",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192284/feed/live",
+    "retrievedAt": "2026-07-04T07:11:18.025478Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:18.025480Z"
+}

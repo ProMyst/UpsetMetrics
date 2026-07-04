@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-08-03-padres-at-astros",
+  "sport": "mlb",
+  "date": "1984-08-03",
+  "startTime": "1984-08-04T00:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "51-58"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "64-43"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.626,
+    "rankGapFactor": 0.26,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187495",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187495/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.343471Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.343473Z"
+}

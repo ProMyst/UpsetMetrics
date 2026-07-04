@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-06-05-twins-at-blue-jays",
+  "sport": "mlb",
+  "date": "1990-06-05",
+  "startTime": "1990-06-05T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "28-25"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "29-22"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.401,
+    "rankGapFactor": 0.081,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199383",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199383/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.035461Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.035463Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-09-24-astros-at-padres",
+  "sport": "mlb",
+  "date": "1988-09-24",
+  "startTime": "1988-09-25T02:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "77-77"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "80-75"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.34,
+    "rankGapFactor": 0.032,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196519",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196519/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.556030Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.556032Z"
+}

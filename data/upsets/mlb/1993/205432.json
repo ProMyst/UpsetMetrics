@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-05-08-orioles-at-blue-jays",
+  "sport": "mlb",
+  "date": "1993-05-08",
+  "startTime": "1993-05-08T07:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "11-17"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "16-14"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.651,
+    "rankGapFactor": 0.281,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205432",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205432/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.386352Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.386354Z"
+}

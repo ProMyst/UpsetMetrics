@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-09-19-royals-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1996-09-19",
+  "startTime": "1996-09-19T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "93-59"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "71-82"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213061",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213061/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.521210Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.521215Z"
+}

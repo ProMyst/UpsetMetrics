@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-01-orioles-at-florida-marlins",
+  "sport": "mlb",
+  "date": "1997-09-01",
+  "startTime": "1997-09-01T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "81-55"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "85-49"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.397,
+    "rankGapFactor": 0.077,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215095",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215095/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.242823Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.242828Z"
+}

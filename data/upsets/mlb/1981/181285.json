@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-08-15-brewers-at-blue-jays",
+  "sport": "mlb",
+  "date": "1981-08-15",
+  "startTime": "1981-08-15T07:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "20-43"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "35-28"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.895,
+    "rankGapFactor": 0.476,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181285",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181285/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.116943Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.116945Z"
+}

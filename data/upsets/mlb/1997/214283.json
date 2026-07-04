@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-28-blue-jays-at-orioles",
+  "sport": "mlb",
+  "date": "1997-06-28",
+  "startTime": "1997-06-28T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "36-39"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "50-26"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.745,
+    "rankGapFactor": 0.356,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214283",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214283/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.074013Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.074015Z"
+}

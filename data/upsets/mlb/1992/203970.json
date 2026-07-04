@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-07-05-astros-at-mets",
+  "sport": "mlb",
+  "date": "1992-07-05",
+  "startTime": "1992-07-05T07:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "38-43"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "38-43"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203970",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203970/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.976239Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.976241Z"
+}

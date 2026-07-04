@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-07-27-mariners-at-blue-jays",
+  "sport": "mlb",
+  "date": "1980-07-27",
+  "startTime": "1980-07-27T07:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "43-52"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "39-58"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179646",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179646/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.853466Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.853468Z"
+}

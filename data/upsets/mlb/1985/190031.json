@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-09-14-orioles-at-tigers",
+  "sport": "mlb",
+  "date": "1985-09-14",
+  "startTime": "1985-09-14T07:33:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "72-68"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "74-65"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.345,
+    "rankGapFactor": 0.036,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190031",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190031/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.742507Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.742509Z"
+}

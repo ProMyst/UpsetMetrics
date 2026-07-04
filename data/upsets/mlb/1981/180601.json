@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-04-19-mariners-at-athletics",
+  "sport": "mlb",
+  "date": "1981-04-19",
+  "startTime": "1981-04-19T11:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "11-0"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "2-7"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180601",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180601/feed/live",
+    "retrievedAt": "2026-07-04T07:04:01.977477Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:01.977479Z"
+}

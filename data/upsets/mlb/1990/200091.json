@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-03-padres-at-reds",
+  "sport": "mlb",
+  "date": "1990-08-03",
+  "startTime": "1990-08-03T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "47-57"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "61-43"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.637,
+    "rankGapFactor": 0.269,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200091",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200091/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.175886Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.175888Z"
+}

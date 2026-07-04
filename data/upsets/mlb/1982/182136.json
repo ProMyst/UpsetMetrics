@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-04-30-california-angels-at-orioles",
+  "sport": "mlb",
+  "date": "1982-04-30",
+  "startTime": "1982-04-30T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "6-12"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "15-7"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.697,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182136",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182136/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.115551Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.115556Z"
+}

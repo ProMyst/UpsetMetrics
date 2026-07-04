@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-25-athletics-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "1999-06-25",
+  "startTime": "1999-06-26T02:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "33-39"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "36-37"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.387,
+    "rankGapFactor": 0.07,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "3044",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/3044/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.325632Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.325637Z"
+}

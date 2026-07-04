@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-06-15-brewers-at-red-sox",
+  "sport": "mlb",
+  "date": "1986-06-15",
+  "startTime": "1986-06-15T07:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "32-28"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "40-21"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.606,
+    "rankGapFactor": 0.245,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191096",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191096/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.782731Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.782733Z"
+}

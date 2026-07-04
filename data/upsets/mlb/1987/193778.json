@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-08-03-cardinals-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1987-08-03",
+  "startTime": "1987-08-03T23:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "65-39"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "58-46"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193778",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193778/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.349997Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.350002Z"
+}

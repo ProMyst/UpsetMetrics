@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-09-29-cubs-at-phillies",
+  "sport": "mlb",
+  "date": "1980-09-29",
+  "startTime": "1980-09-29T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "86-70"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "63-93"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180420",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180420/feed/live",
+    "retrievedAt": "2026-07-04T07:02:45.011674Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:45.011676Z"
+}

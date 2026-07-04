@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-05-06-mets-at-florida-marlins",
+  "sport": "mlb",
+  "date": "1996-05-06",
+  "startTime": "1996-05-06T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "12-21"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "13-17"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.474,
+    "rankGapFactor": 0.139,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211361",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211361/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.175921Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.175926Z"
+}

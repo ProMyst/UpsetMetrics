@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-06-24-tigers-at-orioles",
+  "sport": "mlb",
+  "date": "1982-06-24",
+  "startTime": "1982-06-24T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "37-29"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "35-31"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182768",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182768/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.241393Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.241395Z"
+}

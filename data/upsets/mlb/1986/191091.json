@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-06-15-reds-at-braves",
+  "sport": "mlb",
+  "date": "1986-06-15",
+  "startTime": "1986-06-15T07:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "24-34"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "30-30"
+  },
+  "finalScore": "9-7",
+  "factors": {
+    "pregameOddsFactor": 0.516,
+    "rankGapFactor": 0.172,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191091",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191091/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.782361Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.782363Z"
+}

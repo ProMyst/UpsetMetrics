@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-07-01-montreal-expos-at-cubs",
+  "sport": "mlb",
+  "date": "1986-07-01",
+  "startTime": "1986-07-02T08:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "30-44"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "41-32"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.691,
+    "rankGapFactor": 0.312,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191290",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191290/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.823135Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.823140Z"
+}

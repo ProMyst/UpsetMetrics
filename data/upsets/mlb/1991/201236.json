@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-05-15-braves-at-cubs",
+  "sport": "mlb",
+  "date": "1991-05-15",
+  "startTime": "1991-05-15T08:33:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "17-17"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "16-14"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.383,
+    "rankGapFactor": 0.067,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201236",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201236/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.106959Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.106961Z"
+}

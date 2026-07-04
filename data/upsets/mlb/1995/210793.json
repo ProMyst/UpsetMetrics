@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-09-21-rockies-at-giants",
+  "sport": "mlb",
+  "date": "1995-09-21",
+  "startTime": "1995-09-22T02:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "64-70"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "72-62"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.449,
+    "rankGapFactor": 0.119,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210793",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210793/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.195886Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.195888Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-08-12-phillies-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1982-08-12",
+  "startTime": "1982-08-12T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "60-53"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "64-50"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.376,
+    "rankGapFactor": 0.061,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183359",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183359/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.357807Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.357812Z"
+}

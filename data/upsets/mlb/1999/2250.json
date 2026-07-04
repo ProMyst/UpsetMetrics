@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-05-astros-at-reds",
+  "sport": "mlb",
+  "date": "1999-07-05",
+  "startTime": "1999-07-05T16:35:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "46-33"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "47-35"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2250",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2250/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.351573Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.351575Z"
+}

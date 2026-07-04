@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-10-03-white-sox-at-mariners",
+  "sport": "mlb",
+  "date": "1992-10-03",
+  "startTime": "1992-10-04T02:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "63-98"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "86-75"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.657,
+    "rankGapFactor": 0.286,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205019",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205019/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.189055Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.189057Z"
+}

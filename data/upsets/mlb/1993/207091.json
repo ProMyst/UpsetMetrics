@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-09-16-pirates-at-florida-marlins",
+  "sport": "mlb",
+  "date": "1993-09-16",
+  "startTime": "1993-09-16T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "68-78"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "60-86"
+  },
+  "finalScore": "10-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207091",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207091/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.729934Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.729939Z"
+}

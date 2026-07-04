@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-05-15-montreal-expos-at-mets",
+  "sport": "mlb",
+  "date": "1995-05-15",
+  "startTime": "1995-05-15T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "7-11"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "11-8"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.775,
+    "rankGapFactor": 0.38,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209154",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209154/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.861285Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.861290Z"
+}

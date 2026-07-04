@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-06-12-padres-at-giants",
+  "sport": "mlb",
+  "date": "1987-06-12",
+  "startTime": "1987-06-13T02:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "16-46"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "33-27"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.584,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193178",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193178/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.228727Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.228729Z"
+}

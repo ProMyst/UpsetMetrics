@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-06-03-phillies-at-braves",
+  "sport": "mlb",
+  "date": "1992-06-03",
+  "startTime": "1992-06-03T07:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "23-27"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "25-28"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.329,
+    "rankGapFactor": 0.023,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203595",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203595/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.902296Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.902298Z"
+}

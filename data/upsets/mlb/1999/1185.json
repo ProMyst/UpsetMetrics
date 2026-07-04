@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-04-25-mariners-at-tampa-bay-devil-rays",
+  "sport": "mlb",
+  "date": "1999-04-25",
+  "startTime": "1999-04-25T17:35:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "8-10"
+  },
+  "loser": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "11-9"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.564,
+    "rankGapFactor": 0.211,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1185",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1185/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.162441Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-tampa-bay-devil-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.162447Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-24-blue-jays-at-athletics",
+  "sport": "mlb",
+  "date": "1981-05-24",
+  "startTime": "1981-05-24T10:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "28-16"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "12-29"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181007",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181007/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.058091Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.058093Z"
+}

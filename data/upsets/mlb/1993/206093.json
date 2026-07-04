@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-06-29-royals-at-rangers",
+  "sport": "mlb",
+  "date": "1993-06-29",
+  "startTime": "1993-06-30T00:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "34-40"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "38-37"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.418,
+    "rankGapFactor": 0.094,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206093",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206093/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.518439Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.518441Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-04-16-cardinals-at-mets",
+  "sport": "mlb",
+  "date": "1988-04-16",
+  "startTime": "1988-04-16T07:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "7-3"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "3-7"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194656",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194656/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.174954Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.174956Z"
+}

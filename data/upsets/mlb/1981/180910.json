@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-16-blue-jays-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1981-05-16",
+  "startTime": "1981-05-16T07:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "11-22"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "16-9"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.613,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180910",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180910/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.039393Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.039398Z"
+}

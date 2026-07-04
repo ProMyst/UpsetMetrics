@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-08-10-royals-at-yankees",
+  "sport": "mlb",
+  "date": "1986-08-10",
+  "startTime": "1986-08-10T07:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "49-62"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "61-52"
+  },
+  "finalScore": "13-3",
+  "factors": {
+    "pregameOddsFactor": 0.546,
+    "rankGapFactor": 0.197,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191741",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191741/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.913423Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.913425Z"
+}

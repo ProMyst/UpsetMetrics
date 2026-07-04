@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-04-30-twins-at-tigers",
+  "sport": "mlb",
+  "date": "1985-04-30",
+  "startTime": "1985-04-30T23:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "11-9"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "11-7"
+  },
+  "finalScore": "11-2",
+  "factors": {
+    "pregameOddsFactor": 0.453,
+    "rankGapFactor": 0.122,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188456",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188456/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.423382Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.423384Z"
+}

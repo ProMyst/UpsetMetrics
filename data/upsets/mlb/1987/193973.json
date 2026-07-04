@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-08-19-giants-at-mets",
+  "sport": "mlb",
+  "date": "1987-08-19",
+  "startTime": "1987-08-19T23:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "63-58"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "67-53"
+  },
+  "finalScore": "10-6",
+  "factors": {
+    "pregameOddsFactor": 0.394,
+    "rankGapFactor": 0.075,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193973",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193973/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.394561Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.394564Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-10-19-cardinals-at-royals",
+  "sport": "mlb",
+  "date": "1985-10-19",
+  "startTime": "1985-10-20T00:05:00Z",
+  "season": "1985",
+  "event": "World Series",
+  "stakes": "World Series",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 1.0,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "67853",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/67853/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.801457Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.801459Z"
+}

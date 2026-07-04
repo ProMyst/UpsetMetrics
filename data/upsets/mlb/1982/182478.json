@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-05-29-blue-jays-at-orioles",
+  "sport": "mlb",
+  "date": "1982-05-29",
+  "startTime": "1982-05-29T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "19-26"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "22-23"
+  },
+  "finalScore": "11-10",
+  "factors": {
+    "pregameOddsFactor": 0.467,
+    "rankGapFactor": 0.133,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182478",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182478/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.182701Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.182703Z"
+}

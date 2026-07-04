@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-10-13-braves-at-phillies",
+  "sport": "mlb",
+  "date": "1993-10-13",
+  "startTime": "1993-10-13T23:05:00Z",
+  "season": "1993",
+  "event": "NL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "4-2"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "2-4"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "67992",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/67992/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.778923Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.778925Z"
+}

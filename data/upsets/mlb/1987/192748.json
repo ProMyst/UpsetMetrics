@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-05-06-cubs-at-giants",
+  "sport": "mlb",
+  "date": "1987-05-06",
+  "startTime": "1987-05-07T02:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "15-11"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "18-10"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.465,
+    "rankGapFactor": 0.132,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192748",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192748/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.142757Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.142759Z"
+}

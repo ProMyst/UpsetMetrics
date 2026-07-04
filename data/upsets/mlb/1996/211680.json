@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-06-02-rockies-at-pirates",
+  "sport": "mlb",
+  "date": "1996-06-02",
+  "startTime": "1996-06-02T07:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "22-33"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "26-26"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.55,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211680",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211680/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.241625Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.241627Z"
+}

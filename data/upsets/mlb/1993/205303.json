@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-04-27-tigers-at-royals",
+  "sport": "mlb",
+  "date": "1993-04-27",
+  "startTime": "1993-04-28T00:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "8-12"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "13-6"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.568,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205303",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205303/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.359601Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.359603Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-08-04-dodgers-at-reds",
+  "sport": "mlb",
+  "date": "1985-08-04",
+  "startTime": "1985-08-04T07:33:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "55-48"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "60-43"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.421,
+    "rankGapFactor": 0.097,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "189546",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/189546/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.642056Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.642058Z"
+}

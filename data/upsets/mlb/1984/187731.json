@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-08-21-mariners-at-orioles",
+  "sport": "mlb",
+  "date": "1984-08-21",
+  "startTime": "1984-08-21T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "57-70"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "66-59"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.498,
+    "rankGapFactor": 0.158,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187731",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187731/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.392672Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.392675Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-10-05-yankees-at-blue-jays",
+  "sport": "mlb",
+  "date": "1985-10-05",
+  "startTime": "1985-10-05T07:33:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "99-61"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "96-64"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190297",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190297/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.794208Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.794210Z"
+}

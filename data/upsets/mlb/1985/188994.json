@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-06-17-yankees-at-orioles",
+  "sport": "mlb",
+  "date": "1985-06-17",
+  "startTime": "1985-06-17T23:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "30-29"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "33-27"
+  },
+  "finalScore": "10-0",
+  "factors": {
+    "pregameOddsFactor": 0.404,
+    "rankGapFactor": 0.083,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188994",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188994/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.531285Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.531287Z"
+}

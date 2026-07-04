@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-07-22-pirates-at-padres",
+  "sport": "mlb",
+  "date": "1997-07-22",
+  "startTime": "1997-07-23T02:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "48-52"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "49-50"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.337,
+    "rankGapFactor": 0.03,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214570",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214570/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.132349Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.132351Z"
+}

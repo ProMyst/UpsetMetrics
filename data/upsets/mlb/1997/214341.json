@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-07-03-orioles-at-tigers",
+  "sport": "mlb",
+  "date": "1997-07-03",
+  "startTime": "1997-07-03T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "54-27"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "38-43"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214341",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214341/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.087159Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.087161Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-05-21-california-angels-at-rangers",
+  "sport": "mlb",
+  "date": "1993-05-21",
+  "startTime": "1993-05-22T00:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "22-18"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "21-17"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.307,
+    "rankGapFactor": 0.005,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205595",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205595/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.419503Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.419508Z"
+}

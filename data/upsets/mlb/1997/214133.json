@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-17-florida-marlins-at-tigers",
+  "sport": "mlb",
+  "date": "1997-06-17",
+  "startTime": "1997-06-17T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "41-27"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "29-37"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214133",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214133/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.046815Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.046820Z"
+}

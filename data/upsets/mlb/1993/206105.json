@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-06-30-tigers-at-yankees",
+  "sport": "mlb",
+  "date": "1993-06-30",
+  "startTime": "1993-06-30T07:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "46-33"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "43-34"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206105",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206105/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.521854Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.521856Z"
+}

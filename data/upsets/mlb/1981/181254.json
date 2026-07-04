@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-08-12-blue-jays-at-tigers",
+  "sport": "mlb",
+  "date": "1981-08-12",
+  "startTime": "1981-08-12T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "18-43"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "32-28"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.896,
+    "rankGapFactor": 0.477,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181254",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181254/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.108346Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.108348Z"
+}

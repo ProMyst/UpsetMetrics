@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-26-royals-at-mariners",
+  "sport": "mlb",
+  "date": "1981-05-26",
+  "startTime": "1981-05-27T02:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "12-24"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "15-28"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.339,
+    "rankGapFactor": 0.031,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181026",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181026/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.064387Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.064389Z"
+}

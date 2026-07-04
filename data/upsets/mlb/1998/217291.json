@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-08-16-orioles-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1998-08-16",
+  "startTime": "1998-08-16T23:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "67-55"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "65-58"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "217291",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/217291/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.261493Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.261498Z"
+}

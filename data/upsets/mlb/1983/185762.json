@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-09-04-tigers-at-blue-jays",
+  "sport": "mlb",
+  "date": "1983-09-04",
+  "startTime": "1983-09-04T07:33:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "75-64"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "77-59"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.367,
+    "rankGapFactor": 0.053,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185762",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185762/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.766458Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.766460Z"
+}

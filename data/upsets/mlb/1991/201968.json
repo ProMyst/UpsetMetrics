@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-07-17-giants-at-mets",
+  "sport": "mlb",
+  "date": "1991-07-17",
+  "startTime": "1991-07-17T07:33:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "51-36"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "38-50"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201968",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201968/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.250747Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.250749Z"
+}

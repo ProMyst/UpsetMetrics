@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-12-red-sox-at-mets",
+  "sport": "mlb",
+  "date": "1999-06-12",
+  "startTime": "1999-06-12T17:15:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "32-29"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "34-26"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.405,
+    "rankGapFactor": 0.084,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2788",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2788/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.288417Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.288419Z"
+}

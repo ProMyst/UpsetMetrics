@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-10-04-braves-at-astros",
+  "sport": "mlb",
+  "date": "1986-10-04",
+  "startTime": "1986-10-04T08:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "95-66"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "72-88"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192390",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192390/feed/live",
+    "retrievedAt": "2026-07-04T07:11:18.048510Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:18.048512Z"
+}

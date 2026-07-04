@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-08-07-white-sox-at-yankees",
+  "sport": "mlb",
+  "date": "1984-08-07",
+  "startTime": "1984-08-07T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "56-54"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "56-53"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.312,
+    "rankGapFactor": 0.009,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187543",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187543/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.354645Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.354647Z"
+}

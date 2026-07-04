@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-06-11-yankees-at-blue-jays",
+  "sport": "mlb",
+  "date": "1996-06-11",
+  "startTime": "1996-06-11T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "36-24"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "26-37"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211798",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211798/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.264373Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.264375Z"
+}

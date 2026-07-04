@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-05-22-dodgers-at-mets",
+  "sport": "mlb",
+  "date": "1987-05-22",
+  "startTime": "1987-05-22T23:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "19-20"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "19-22"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192928",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192928/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.175990Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.175993Z"
+}

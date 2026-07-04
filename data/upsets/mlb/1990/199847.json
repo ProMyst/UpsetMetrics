@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-07-15-padres-at-pirates",
+  "sport": "mlb",
+  "date": "1990-07-15",
+  "startTime": "1990-07-15T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "38-46"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "52-33"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.698,
+    "rankGapFactor": 0.319,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199847",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199847/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.127660Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.127662Z"
+}

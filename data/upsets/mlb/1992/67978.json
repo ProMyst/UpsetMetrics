@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-10-21-braves-at-blue-jays",
+  "sport": "mlb",
+  "date": "1992-10-21",
+  "startTime": "1992-10-21T23:05:00Z",
+  "season": "1992",
+  "event": "World Series",
+  "stakes": "World Series",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "3-1"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "1-3"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 1.0,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "67978",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/67978/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.197326Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.197327Z"
+}

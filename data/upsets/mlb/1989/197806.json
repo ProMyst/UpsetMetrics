@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-07-17-phillies-at-reds",
+  "sport": "mlb",
+  "date": "1989-07-17",
+  "startTime": "1989-07-17T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "35-54"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "45-47"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.54,
+    "rankGapFactor": 0.192,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197806",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197806/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.338241Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.338243Z"
+}

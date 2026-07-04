@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-06-23-dodgers-at-padres",
+  "sport": "mlb",
+  "date": "1992-06-23",
+  "startTime": "1992-06-23T10:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "37-34"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "27-39"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203829",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203829/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.949079Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.949081Z"
+}

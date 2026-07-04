@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-10-09-braves-at-cardinals",
+  "sport": "mlb",
+  "date": "1982-10-09",
+  "startTime": "1982-10-10T00:05:00Z",
+  "season": "1982",
+  "event": "NL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "2-0"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "0-2"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "67803",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/67803/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.491736Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.491739Z"
+}

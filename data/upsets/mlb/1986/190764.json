@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-05-18-royals-at-white-sox",
+  "sport": "mlb",
+  "date": "1986-05-18",
+  "startTime": "1986-05-18T08:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "15-20"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "16-19"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.371,
+    "rankGapFactor": 0.057,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190764",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190764/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.716810Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.716812Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-05-20-pirates-at-astros",
+  "sport": "mlb",
+  "date": "1986-05-20",
+  "startTime": "1986-05-21T00:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "15-18"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "21-15"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.622,
+    "rankGapFactor": 0.258,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190787",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190787/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.719505Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.719507Z"
+}

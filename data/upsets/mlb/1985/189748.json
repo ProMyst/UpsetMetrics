@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-08-22-orioles-at-mariners",
+  "sport": "mlb",
+  "date": "1985-08-22",
+  "startTime": "1985-08-23T02:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "57-64"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "62-56"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.436,
+    "rankGapFactor": 0.109,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "189748",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/189748/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.688749Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.688751Z"
+}

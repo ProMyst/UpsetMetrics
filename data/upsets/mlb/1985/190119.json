@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-09-20-pirates-at-mets",
+  "sport": "mlb",
+  "date": "1985-09-20",
+  "startTime": "1985-09-20T23:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "50-95"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "89-58"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.952,
+    "rankGapFactor": 0.521,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190119",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190119/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.758440Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.758442Z"
+}

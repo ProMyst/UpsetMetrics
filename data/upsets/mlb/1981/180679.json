@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-04-26-rangers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1981-04-26",
+  "startTime": "1981-04-26T07:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "7-4"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "6-7"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180679",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180679/feed/live",
+    "retrievedAt": "2026-07-04T07:04:01.993180Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:01.993185Z"
+}

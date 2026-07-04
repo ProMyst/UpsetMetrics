@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-06-29-giants-at-dodgers",
+  "sport": "mlb",
+  "date": "1993-06-29",
+  "startTime": "1993-06-30T02:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "52-26"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "39-36"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206099",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206099/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.519444Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.519445Z"
+}

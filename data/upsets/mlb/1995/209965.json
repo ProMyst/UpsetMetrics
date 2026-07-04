@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-07-19-astros-at-dodgers",
+  "sport": "mlb",
+  "date": "1995-07-19",
+  "startTime": "1995-07-19T10:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "37-39"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "42-33"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.483,
+    "rankGapFactor": 0.146,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209965",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209965/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.026730Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.026732Z"
+}

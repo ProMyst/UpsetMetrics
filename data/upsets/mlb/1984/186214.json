@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-04-14-orioles-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1984-04-14",
+  "startTime": "1984-04-14T08:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "4-3"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "1-6"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186214",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186214/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.087484Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.087490Z"
+}

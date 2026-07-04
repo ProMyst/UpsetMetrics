@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-07-22-phillies-at-reds",
+  "sport": "mlb",
+  "date": "1990-07-22",
+  "startTime": "1990-07-22T07:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "45-46"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "58-33"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.657,
+    "rankGapFactor": 0.286,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199934",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199934/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.146161Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.146163Z"
+}

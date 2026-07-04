@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-05-25-blue-jays-at-yankees",
+  "sport": "mlb",
+  "date": "1982-05-25",
+  "startTime": "1982-05-25T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "21-19"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "17-25"
+  },
+  "finalScore": "8-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182438",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182438/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.175207Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.175209Z"
+}

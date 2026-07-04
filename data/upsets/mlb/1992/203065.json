@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-04-17-mets-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1992-04-17",
+  "startTime": "1992-04-17T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "5-6"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "5-5"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203065",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203065/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.794576Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.794580Z"
+}

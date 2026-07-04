@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-04-12-twins-at-royals",
+  "sport": "mlb",
+  "date": "1998-04-12",
+  "startTime": "1998-04-12T08:33:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "6-5"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "4-7"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215622",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215622/feed/live",
+    "retrievedAt": "2026-07-04T07:28:37.928392Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:37.928394Z"
+}

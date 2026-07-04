@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-09-20-montreal-expos-at-mets",
+  "sport": "mlb",
+  "date": "1990-09-20",
+  "startTime": "1990-09-20T07:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "80-68"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "83-65"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.351,
+    "rankGapFactor": 0.041,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200668",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200668/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.295746Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.295751Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-04-06-cardinals-at-braves",
+  "sport": "mlb",
+  "date": "1996-04-06",
+  "startTime": "1996-04-07T00:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "3-2"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "2-3"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210995",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210995/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.096402Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.096405Z"
+}

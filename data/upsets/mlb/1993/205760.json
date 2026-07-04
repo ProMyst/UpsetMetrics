@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-06-02-rangers-at-twins",
+  "sport": "mlb",
+  "date": "1993-06-02",
+  "startTime": "1993-06-03T00:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "22-27"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "25-26"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.403,
+    "rankGapFactor": 0.082,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205760",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205760/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.449578Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.449580Z"
+}

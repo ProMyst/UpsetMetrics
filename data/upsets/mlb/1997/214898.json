@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-16-rangers-at-yankees",
+  "sport": "mlb",
+  "date": "1997-08-16",
+  "startTime": "1997-08-16T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "59-63"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "72-49"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.579,
+    "rankGapFactor": 0.223,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214898",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214898/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.201091Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.201093Z"
+}

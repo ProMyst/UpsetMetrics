@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-05-12-astros-at-pirates",
+  "sport": "mlb",
+  "date": "1990-05-12",
+  "startTime": "1990-05-12T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "21-9"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "12-18"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199105",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199105/feed/live",
+    "retrievedAt": "2026-07-04T07:17:02.979834Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:02.979836Z"
+}

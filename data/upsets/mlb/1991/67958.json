@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-10-23-twins-at-braves",
+  "sport": "mlb",
+  "date": "1991-10-23",
+  "startTime": "1991-10-23T23:05:00Z",
+  "season": "1991",
+  "event": "World Series",
+  "stakes": "World Series",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "2-2"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "2-2"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 1.0,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "67958",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/67958/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.451381Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.451383Z"
+}

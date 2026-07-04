@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-04-25-rockies-at-cardinals",
+  "sport": "mlb",
+  "date": "1994-04-25",
+  "startTime": "1994-04-26T00:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "9-9"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "11-7"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.578,
+    "rankGapFactor": 0.222,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207565",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207565/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.489527Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.489529Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-05-25-blue-jays-at-california-angels",
+  "sport": "mlb",
+  "date": "1991-05-25",
+  "startTime": "1991-05-26T02:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "23-19"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "25-18"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.384,
+    "rankGapFactor": 0.068,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201362",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201362/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.129640Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.129645Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-07-15-brewers-at-twins",
+  "sport": "mlb",
+  "date": "1994-07-15",
+  "startTime": "1994-07-16T00:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "41-48"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "42-46"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.341,
+    "rankGapFactor": 0.033,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208552",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208552/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.689116Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.689118Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-05-19-pirates-at-braves",
+  "sport": "mlb",
+  "date": "1999-05-19",
+  "startTime": "1999-05-19T17:10:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "25-14"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "19-20"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "256",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/256/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.225586Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.225588Z"
+}

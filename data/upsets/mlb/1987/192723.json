@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-05-03-brewers-at-mariners",
+  "sport": "mlb",
+  "date": "1987-05-03",
+  "startTime": "1987-05-03T10:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "13-13"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "20-4"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.667,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192723",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192723/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.137180Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.137182Z"
+}

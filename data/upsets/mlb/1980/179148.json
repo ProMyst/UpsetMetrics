@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-06-16-brewers-at-tigers",
+  "sport": "mlb",
+  "date": "1980-06-16",
+  "startTime": "1980-06-16T07:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "27-28"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "31-26"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.432,
+    "rankGapFactor": 0.106,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179148",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179148/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.754298Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.754300Z"
+}

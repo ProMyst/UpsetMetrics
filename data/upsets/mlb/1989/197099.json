@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-05-16-pirates-at-reds",
+  "sport": "mlb",
+  "date": "1989-05-16",
+  "startTime": "1989-05-16T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "15-21"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "21-16"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.677,
+    "rankGapFactor": 0.302,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197099",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197099/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.196827Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.196829Z"
+}

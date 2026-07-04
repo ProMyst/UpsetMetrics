@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-05-31-cleveland-indians-at-orioles",
+  "sport": "mlb",
+  "date": "1997-05-31",
+  "startTime": "1997-05-31T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "36-15"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "27-24"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213919",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213919/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.005601Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.005606Z"
+}

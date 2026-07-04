@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-05-06-dodgers-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1982-05-06",
+  "startTime": "1982-05-06T07:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "13-13"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "12-10"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.414,
+    "rankGapFactor": 0.091,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182210",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182210/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.132104Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.132109Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-07-19-royals-at-white-sox",
+  "sport": "mlb",
+  "date": "1996-07-19",
+  "startTime": "1996-07-20T00:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "43-54"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "54-42"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.598,
+    "rankGapFactor": 0.238,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212261",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212261/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.358430Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.358432Z"
+}

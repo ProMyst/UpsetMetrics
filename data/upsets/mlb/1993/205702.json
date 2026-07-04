@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-05-29-montreal-expos-at-cubs",
+  "sport": "mlb",
+  "date": "1993-05-29",
+  "startTime": "1993-05-29T08:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "27-20"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "23-22"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205702",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205702/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.439129Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.439133Z"
+}

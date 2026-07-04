@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-07-18-astros-at-phillies",
+  "sport": "mlb",
+  "date": "1983-07-18",
+  "startTime": "1983-07-18T23:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "48-42"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "43-43"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185147",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185147/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.638414Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.638416Z"
+}

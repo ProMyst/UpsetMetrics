@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-04-28-rangers-at-brewers",
+  "sport": "mlb",
+  "date": "1997-04-28",
+  "startTime": "1997-04-28T08:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "11-10"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "13-9"
+  },
+  "finalScore": "14-8",
+  "factors": {
+    "pregameOddsFactor": 0.468,
+    "rankGapFactor": 0.134,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213515",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213515/feed/live",
+    "retrievedAt": "2026-07-04T07:27:10.923762Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:10.923764Z"
+}

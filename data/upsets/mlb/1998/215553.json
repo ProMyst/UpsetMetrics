@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-04-07-orioles-at-royals",
+  "sport": "mlb",
+  "date": "1998-04-07",
+  "startTime": "1998-04-07T08:33:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "6-1"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "3-4"
+  },
+  "finalScore": "11-7",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215553",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215553/feed/live",
+    "retrievedAt": "2026-07-04T07:28:37.913192Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:37.913195Z"
+}

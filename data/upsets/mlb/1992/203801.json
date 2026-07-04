@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-06-21-reds-at-braves",
+  "sport": "mlb",
+  "date": "1992-06-21",
+  "startTime": "1992-06-21T07:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "39-30"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "39-27"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.364,
+    "rankGapFactor": 0.051,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203801",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203801/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.943338Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.943340Z"
+}

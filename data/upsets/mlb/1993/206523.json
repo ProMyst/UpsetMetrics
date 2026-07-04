@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-08-03-dodgers-at-astros",
+  "sport": "mlb",
+  "date": "1993-08-03",
+  "startTime": "1993-08-04T00:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "55-51"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "54-51"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206523",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206523/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.605431Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.605433Z"
+}

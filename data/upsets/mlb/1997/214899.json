@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-16-blue-jays-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1997-08-16",
+  "startTime": "1997-08-16T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "63-56"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "58-62"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214899",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214899/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.200902Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.200907Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-07-01-royals-at-athletics",
+  "sport": "mlb",
+  "date": "1991-07-01",
+  "startTime": "1991-07-02T02:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "34-40"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "41-35"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.5,
+    "rankGapFactor": 0.16,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201798",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201798/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.217993Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.217995Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-09-13-tigers-at-blue-jays",
+  "sport": "mlb",
+  "date": "1988-09-13",
+  "startTime": "1988-09-13T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "73-72"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "77-68"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.369,
+    "rankGapFactor": 0.055,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196387",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196387/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.529126Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.529128Z"
+}

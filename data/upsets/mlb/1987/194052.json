@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-08-26-reds-at-pirates",
+  "sport": "mlb",
+  "date": "1987-08-26",
+  "startTime": "1987-08-26T23:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "56-71"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "63-65"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.428,
+    "rankGapFactor": 0.102,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194052",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194052/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.413113Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.413115Z"
+}

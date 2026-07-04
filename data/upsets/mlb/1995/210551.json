@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-09-02-rockies-at-cardinals",
+  "sport": "mlb",
+  "date": "1995-09-02",
+  "startTime": "1995-09-03T00:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "61-57"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "50-68"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210551",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210551/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.146371Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.146373Z"
+}

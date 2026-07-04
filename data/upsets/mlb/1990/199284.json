@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-05-27-yankees-at-royals",
+  "sport": "mlb",
+  "date": "1990-05-27",
+  "startTime": "1990-05-27T08:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "17-25"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "17-24"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.325,
+    "rankGapFactor": 0.02,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199284",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199284/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.017285Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.017287Z"
+}

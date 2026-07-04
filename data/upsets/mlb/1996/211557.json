@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-05-22-cardinals-at-astros",
+  "sport": "mlb",
+  "date": "1996-05-22",
+  "startTime": "1996-05-23T00:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "20-26"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "22-26"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.359,
+    "rankGapFactor": 0.047,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211557",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211557/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.215260Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.215262Z"
+}

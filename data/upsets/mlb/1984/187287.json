@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-07-17-phillies-at-reds",
+  "sport": "mlb",
+  "date": "1984-07-17",
+  "startTime": "1984-07-17T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "50-40"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "40-53"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187287",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187287/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.301625Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.301627Z"
+}

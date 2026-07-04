@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-07-17-royals-at-mariners",
+  "sport": "mlb",
+  "date": "1998-07-17",
+  "startTime": "1998-07-18T02:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "44-53"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "42-53"
+  },
+  "finalScore": "18-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216879",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216879/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.182451Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.182453Z"
+}

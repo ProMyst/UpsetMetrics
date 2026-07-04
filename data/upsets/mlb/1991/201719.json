@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-06-25-california-angels-at-royals",
+  "sport": "mlb",
+  "date": "1991-06-25",
+  "startTime": "1991-06-26T00:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "39-31"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "32-37"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201719",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201719/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.201892Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.201897Z"
+}

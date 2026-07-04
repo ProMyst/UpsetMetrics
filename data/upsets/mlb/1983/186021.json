@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-09-26-cleveland-indians-at-yankees",
+  "sport": "mlb",
+  "date": "1983-09-26",
+  "startTime": "1983-09-26T23:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "68-88"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "87-68"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.613,
+    "rankGapFactor": 0.251,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186021",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186021/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.819477Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.819481Z"
+}

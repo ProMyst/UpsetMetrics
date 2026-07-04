@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-08-04-tigers-at-white-sox",
+  "sport": "mlb",
+  "date": "1989-08-04",
+  "startTime": "1989-08-05T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "46-63"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "38-69"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198022",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198022/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.383067Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.383070Z"
+}

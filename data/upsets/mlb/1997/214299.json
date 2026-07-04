@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-30-braves-at-yankees",
+  "sport": "mlb",
+  "date": "1997-06-30",
+  "startTime": "1997-06-30T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "46-33"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "52-29"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.449,
+    "rankGapFactor": 0.119,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214299",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214299/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.079953Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.079955Z"
+}

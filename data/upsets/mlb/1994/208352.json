@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-06-28-tigers-at-mariners",
+  "sport": "mlb",
+  "date": "1994-06-28",
+  "startTime": "1994-06-28T10:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "32-44"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "36-38"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.464,
+    "rankGapFactor": 0.131,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208352",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208352/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.649769Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.649771Z"
+}

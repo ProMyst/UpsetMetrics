@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-05-20-rockies-at-padres",
+  "sport": "mlb",
+  "date": "1993-05-20",
+  "startTime": "1993-05-20T10:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "17-23"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "12-29"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205588",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205588/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.417399Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.417401Z"
+}

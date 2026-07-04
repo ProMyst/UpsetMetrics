@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-09-30-braves-at-astros",
+  "sport": "mlb",
+  "date": "1990-09-30",
+  "startTime": "1990-09-30T08:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "74-85"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "63-96"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200782",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200782/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.320128Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.320130Z"
+}

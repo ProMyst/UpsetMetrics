@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-08-13-dodgers-at-astros",
+  "sport": "mlb",
+  "date": "1986-08-13",
+  "startTime": "1986-08-14T00:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "56-58"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "64-50"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.475,
+    "rankGapFactor": 0.14,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191781",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191781/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.921315Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.921317Z"
+}

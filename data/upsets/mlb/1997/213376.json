@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-04-16-giants-at-phillies",
+  "sport": "mlb",
+  "date": "1997-04-16",
+  "startTime": "1997-04-16T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "10-3"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "3-10"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213376",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213376/feed/live",
+    "retrievedAt": "2026-07-04T07:27:10.893767Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:10.893769Z"
+}

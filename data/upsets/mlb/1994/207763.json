@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-05-11-phillies-at-braves",
+  "sport": "mlb",
+  "date": "1994-05-11",
+  "startTime": "1994-05-11T07:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "21-11"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "12-21"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207763",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207763/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.530044Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.530046Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-07-reds-at-cardinals",
+  "sport": "mlb",
+  "date": "1999-07-07",
+  "startTime": "1999-07-08T00:10:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "42-42"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "46-35"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.47,
+    "rankGapFactor": 0.136,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2476",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2476/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.358669Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.358671Z"
+}

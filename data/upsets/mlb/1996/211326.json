@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-05-04-reds-at-giants",
+  "sport": "mlb",
+  "date": "1996-05-04",
+  "startTime": "1996-05-04T10:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "11-17"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "14-15"
+  },
+  "finalScore": "9-7",
+  "factors": {
+    "pregameOddsFactor": 0.525,
+    "rankGapFactor": 0.18,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211326",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211326/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.172323Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.172325Z"
+}

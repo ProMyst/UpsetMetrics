@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-09-16-california-angels-at-white-sox",
+  "sport": "mlb",
+  "date": "1989-09-16",
+  "startTime": "1989-09-17T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "63-85"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "85-63"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.672,
+    "rankGapFactor": 0.297,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198542",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198542/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.489637Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.489642Z"
+}

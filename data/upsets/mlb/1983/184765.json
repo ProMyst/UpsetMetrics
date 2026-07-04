@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-06-15-cubs-at-mets",
+  "sport": "mlb",
+  "date": "1983-06-15",
+  "startTime": "1983-06-15T23:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "28-31"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "22-36"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "184765",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/184765/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.564071Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.564073Z"
+}

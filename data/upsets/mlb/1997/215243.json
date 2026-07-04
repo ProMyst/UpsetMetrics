@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-13-cubs-at-pirates",
+  "sport": "mlb",
+  "date": "1997-09-13",
+  "startTime": "1997-09-13T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "62-86"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "71-77"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.452,
+    "rankGapFactor": 0.122,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215243",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215243/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.269643Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.269645Z"
+}

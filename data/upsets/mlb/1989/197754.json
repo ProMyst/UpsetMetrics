@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-07-13-cardinals-at-dodgers",
+  "sport": "mlb",
+  "date": "1989-07-13",
+  "startTime": "1989-07-14T02:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "41-47"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "44-40"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.445,
+    "rankGapFactor": 0.116,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197754",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197754/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.328534Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.328536Z"
+}

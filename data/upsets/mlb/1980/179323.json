@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-06-30-yankees-at-red-sox",
+  "sport": "mlb",
+  "date": "1980-06-30",
+  "startTime": "1980-06-30T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "47-25"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "38-33"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179323",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179323/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.789543Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.789545Z"
+}

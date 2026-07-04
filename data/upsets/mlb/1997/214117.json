@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-15-giants-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "1997-06-15",
+  "startTime": "1997-06-15T10:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "38-29"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "34-32"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214117",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214117/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.043782Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.043787Z"
+}

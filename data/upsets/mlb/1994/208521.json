@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-07-10-royals-at-blue-jays",
+  "sport": "mlb",
+  "date": "1994-07-10",
+  "startTime": "1994-07-10T07:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "38-48"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "45-42"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.488,
+    "rankGapFactor": 0.151,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208521",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208521/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.682608Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.682610Z"
+}

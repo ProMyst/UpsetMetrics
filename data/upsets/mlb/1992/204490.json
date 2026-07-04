@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-08-19-athletics-at-yankees",
+  "sport": "mlb",
+  "date": "1992-08-19",
+  "startTime": "1992-08-19T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "55-65"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "72-48"
+  },
+  "finalScore": "14-3",
+  "factors": {
+    "pregameOddsFactor": 0.654,
+    "rankGapFactor": 0.283,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204490",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204490/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.083030Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.083033Z"
+}

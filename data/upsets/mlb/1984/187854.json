@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-09-01-astros-at-cardinals",
+  "sport": "mlb",
+  "date": "1984-09-01",
+  "startTime": "1984-09-02T00:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "69-67"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "67-66"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187854",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187854/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.418878Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.418880Z"
+}

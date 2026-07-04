@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-05-12-mets-at-reds",
+  "sport": "mlb",
+  "date": "1987-05-12",
+  "startTime": "1987-05-12T23:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "14-16"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "20-12"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.696,
+    "rankGapFactor": 0.317,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192818",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192818/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.154073Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.154075Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-10-03-braves-at-padres",
+  "sport": "mlb",
+  "date": "1982-10-03",
+  "startTime": "1982-10-03T10:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "81-81"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "89-73"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.423,
+    "rankGapFactor": 0.099,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183985",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183985/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.490633Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.490635Z"
+}

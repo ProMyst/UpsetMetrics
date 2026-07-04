@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-06-26-pirates-at-mets",
+  "sport": "mlb",
+  "date": "1994-06-26",
+  "startTime": "1994-06-26T07:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "36-36"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "33-41"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208330",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208330/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.642043Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.642045Z"
+}

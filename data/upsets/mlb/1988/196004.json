@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-08-11-blue-jays-at-yankees",
+  "sport": "mlb",
+  "date": "1988-08-11",
+  "startTime": "1988-08-11T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "58-58"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "62-49"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.446,
+    "rankGapFactor": 0.117,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196004",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196004/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.448450Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.448452Z"
+}

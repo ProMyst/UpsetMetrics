@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-10-cleveland-indians-at-twins",
+  "sport": "mlb",
+  "date": "1981-05-10",
+  "startTime": "1981-05-10T08:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "13-7"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "10-17"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180836",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180836/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.026917Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.026922Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-07-24-royals-at-twins",
+  "sport": "mlb",
+  "date": "1997-07-24",
+  "startTime": "1997-07-24T08:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "40-56"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "45-54"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.395,
+    "rankGapFactor": 0.076,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214586",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214586/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.136646Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.136648Z"
+}

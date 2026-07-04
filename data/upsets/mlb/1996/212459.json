@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-08-03-twins-at-red-sox",
+  "sport": "mlb",
+  "date": "1996-08-03",
+  "startTime": "1996-08-03T07:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "49-59"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "51-58"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.335,
+    "rankGapFactor": 0.028,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212459",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212459/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.400319Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.400321Z"
+}

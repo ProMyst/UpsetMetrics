@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-08-11-braves-at-padres",
+  "sport": "mlb",
+  "date": "1981-08-11",
+  "startTime": "1981-08-12T02:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "27-29"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "23-35"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181228",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181228/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.107346Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.107348Z"
+}

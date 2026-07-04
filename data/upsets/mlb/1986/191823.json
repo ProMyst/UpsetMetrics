@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-08-16-dodgers-at-giants",
+  "sport": "mlb",
+  "date": "1986-08-16",
+  "startTime": "1986-08-16T10:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "57-60"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "61-56"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.385,
+    "rankGapFactor": 0.068,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191823",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191823/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.930354Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.930356Z"
+}

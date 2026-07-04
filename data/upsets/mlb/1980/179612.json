@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-07-25-reds-at-mets",
+  "sport": "mlb",
+  "date": "1980-07-25",
+  "startTime": "1980-07-25T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "46-48"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "50-46"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.379,
+    "rankGapFactor": 0.063,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179612",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179612/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.846978Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.846980Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-05-12-mets-at-giants",
+  "sport": "mlb",
+  "date": "1991-05-12",
+  "startTime": "1991-05-12T10:33:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "17-12"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "10-20"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201208",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201208/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.100148Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.100151Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-06-30-tigers-at-yankees",
+  "sport": "mlb",
+  "date": "1986-06-30",
+  "startTime": "1986-06-30T23:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "42-34"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "37-37"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191273",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191273/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.819010Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.819012Z"
+}

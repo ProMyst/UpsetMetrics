@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-06-14-california-angels-at-rangers",
+  "sport": "mlb",
+  "date": "1989-06-14",
+  "startTime": "1989-06-15T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "36-27"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "36-26"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.323,
+    "rankGapFactor": 0.018,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197428",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197428/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.265058Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.265063Z"
+}

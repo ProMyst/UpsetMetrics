@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-10-01-braves-at-mets",
+  "sport": "mlb",
+  "date": "1995-10-01",
+  "startTime": "1995-10-01T07:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "69-75"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "90-54"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.665,
+    "rankGapFactor": 0.292,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210915",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210915/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.218752Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.218754Z"
+}

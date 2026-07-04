@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-06-21-yankees-at-blue-jays",
+  "sport": "mlb",
+  "date": "1990-06-21",
+  "startTime": "1990-06-21T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "24-40"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "39-29"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.796,
+    "rankGapFactor": 0.397,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199581",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199581/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.075346Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.075348Z"
+}

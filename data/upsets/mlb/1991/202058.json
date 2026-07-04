@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-07-26-california-angels-at-yankees",
+  "sport": "mlb",
+  "date": "1991-07-26",
+  "startTime": "1991-07-26T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "49-46"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "45-47"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202058",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202058/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.270308Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.270313Z"
+}

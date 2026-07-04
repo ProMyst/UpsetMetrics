@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-04-27-braves-at-diamondbacks",
+  "sport": "mlb",
+  "date": "1998-04-27",
+  "startTime": "1998-04-28T02:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "16-9"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "7-19"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215807",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215807/feed/live",
+    "retrievedAt": "2026-07-04T07:28:37.967010Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:37.967012Z"
+}

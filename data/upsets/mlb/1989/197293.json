@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-06-02-blue-jays-at-red-sox",
+  "sport": "mlb",
+  "date": "1989-06-02",
+  "startTime": "1989-06-02T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "21-31"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "24-25"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.515,
+    "rankGapFactor": 0.172,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197293",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197293/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.234796Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.234798Z"
+}

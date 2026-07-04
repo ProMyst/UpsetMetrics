@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-12-royals-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "1997-09-12",
+  "startTime": "1997-09-13T02:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "76-71"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "59-85"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215234",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215234/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.268986Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.268991Z"
+}

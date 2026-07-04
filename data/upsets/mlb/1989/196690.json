@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-04-09-giants-at-reds",
+  "sport": "mlb",
+  "date": "1989-04-09",
+  "startTime": "1989-04-09T07:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "3-2"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "3-2"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196690",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196690/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.109178Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.109181Z"
+}

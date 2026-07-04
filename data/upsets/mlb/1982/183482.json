@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-08-22-twins-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1982-08-22",
+  "startTime": "1982-08-22T07:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "59-61"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "43-80"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183482",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183482/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.387961Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.387966Z"
+}

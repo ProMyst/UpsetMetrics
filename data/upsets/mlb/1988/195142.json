@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-05-30-dodgers-at-mets",
+  "sport": "mlb",
+  "date": "1988-05-30",
+  "startTime": "1988-05-30T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "33-15"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "27-19"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195142",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195142/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.275093Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.275095Z"
+}

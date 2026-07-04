@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-05-15-royals-at-rangers",
+  "sport": "mlb",
+  "date": "1996-05-15",
+  "startTime": "1996-05-16T00:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "17-24"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "26-14"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.888,
+    "rankGapFactor": 0.471,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211466",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211466/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.198910Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.198912Z"
+}

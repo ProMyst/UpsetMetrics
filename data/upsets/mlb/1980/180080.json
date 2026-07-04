@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-09-01-california-angels-at-red-sox",
+  "sport": "mlb",
+  "date": "1980-09-01",
+  "startTime": "1980-09-01T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "71-56"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "51-78"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180080",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180080/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.944448Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.944452Z"
+}

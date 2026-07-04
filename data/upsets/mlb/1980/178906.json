@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-05-26-mets-at-cardinals",
+  "sport": "mlb",
+  "date": "1980-05-26",
+  "startTime": "1980-05-26T08:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "15-25"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "16-22"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.415,
+    "rankGapFactor": 0.092,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178906",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178906/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.707979Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.707981Z"
+}

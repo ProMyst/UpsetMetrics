@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-10-04-cleveland-indians-at-yankees",
+  "sport": "mlb",
+  "date": "1991-10-04",
+  "startTime": "1991-10-04T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "56-104"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "70-90"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.519,
+    "rankGapFactor": 0.175,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202901",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202901/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.440570Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.440575Z"
+}

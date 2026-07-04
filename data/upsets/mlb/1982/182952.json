@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-07-08-cardinals-at-braves",
+  "sport": "mlb",
+  "date": "1982-07-08",
+  "startTime": "1982-07-08T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "47-37"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "50-31"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.444,
+    "rankGapFactor": 0.116,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182952",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182952/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.276704Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.276706Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-09-18-astros-at-braves",
+  "sport": "mlb",
+  "date": "1996-09-18",
+  "startTime": "1996-09-18T07:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "90-61"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "78-75"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213047",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213047/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.520076Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.520078Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-08-22-blue-jays-at-white-sox",
+  "sport": "mlb",
+  "date": "1996-08-22",
+  "startTime": "1996-08-23T00:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "59-69"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "69-60"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.485,
+    "rankGapFactor": 0.148,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212711",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212711/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.451262Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.451264Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-05-20-royals-at-tigers",
+  "sport": "mlb",
+  "date": "1989-05-20",
+  "startTime": "1989-05-20T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "15-24"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "25-16"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.863,
+    "rankGapFactor": 0.45,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197139",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197139/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.206281Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.206283Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-05-28-montreal-expos-at-braves",
+  "sport": "mlb",
+  "date": "1990-05-28",
+  "startTime": "1990-05-28T07:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "24-21"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "17-25"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199294",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199294/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.019054Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.019059Z"
+}

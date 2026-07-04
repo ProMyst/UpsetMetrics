@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-09-19-dodgers-at-astros",
+  "sport": "mlb",
+  "date": "1984-09-19",
+  "startTime": "1984-09-20T00:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "74-78"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "76-76"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.333,
+    "rankGapFactor": 0.026,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188071",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188071/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.461571Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.461573Z"
+}

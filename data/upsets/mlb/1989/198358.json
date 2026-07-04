@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-09-01-orioles-at-white-sox",
+  "sport": "mlb",
+  "date": "1989-09-01",
+  "startTime": "1989-09-02T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "57-77"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "72-63"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.57,
+    "rankGapFactor": 0.216,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198358",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198358/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.453945Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.453947Z"
+}

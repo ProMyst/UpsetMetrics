@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-04-03-brewers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1989-04-03",
+  "startTime": "1989-04-03T07:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196625",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196625/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.089146Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.089157Z"
+}

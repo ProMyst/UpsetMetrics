@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-06-12-twins-at-tigers",
+  "sport": "mlb",
+  "date": "1980-06-12",
+  "startTime": "1980-06-12T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "24-28"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "23-33"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179099",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179099/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.745374Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.745376Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-05-30-giants-at-mets",
+  "sport": "mlb",
+  "date": "1986-05-30",
+  "startTime": "1986-05-30T23:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "31-11"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "24-23"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190903",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190903/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.742259Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.742261Z"
+}

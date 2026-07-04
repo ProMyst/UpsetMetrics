@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-07-10-cubs-at-giants",
+  "sport": "mlb",
+  "date": "1983-07-10",
+  "startTime": "1983-07-10T10:33:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "41-41"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "39-43"
+  },
+  "finalScore": "10-8",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185040",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185040/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.618429Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.618431Z"
+}

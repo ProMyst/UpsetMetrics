@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-06-02-cardinals-at-reds",
+  "sport": "mlb",
+  "date": "1995-06-02",
+  "startTime": "1995-06-02T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "15-21"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "20-13"
+  },
+  "finalScore": "10-7",
+  "factors": {
+    "pregameOddsFactor": 0.773,
+    "rankGapFactor": 0.379,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209380",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209380/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.906835Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.906837Z"
+}

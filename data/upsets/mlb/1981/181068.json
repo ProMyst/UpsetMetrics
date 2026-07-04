@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-30-tigers-at-orioles",
+  "sport": "mlb",
+  "date": "1981-05-30",
+  "startTime": "1981-05-30T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "22-24"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "28-15"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.732,
+    "rankGapFactor": 0.346,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181068",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181068/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.071623Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.071625Z"
+}

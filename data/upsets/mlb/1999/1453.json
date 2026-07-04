@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-05-07-pirates-at-cardinals",
+  "sport": "mlb",
+  "date": "1999-05-07",
+  "startTime": "1999-05-08T00:10:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "16-12"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "14-14"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1453",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1453/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.195225Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.195227Z"
+}

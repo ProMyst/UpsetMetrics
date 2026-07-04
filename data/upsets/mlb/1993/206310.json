@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-07-18-california-angels-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1993-07-18",
+  "startTime": "1993-07-18T07:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "43-49"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "44-46"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.354,
+    "rankGapFactor": 0.043,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206310",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206310/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.562482Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.562489Z"
+}

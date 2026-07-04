@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-07-01-cubs-at-mets",
+  "sport": "mlb",
+  "date": "1980-07-01",
+  "startTime": "1980-07-01T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "32-39"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "34-38"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.354,
+    "rankGapFactor": 0.043,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179331",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179331/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.791289Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.791291Z"
+}

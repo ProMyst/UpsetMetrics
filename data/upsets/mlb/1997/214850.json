@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-13-reds-at-padres",
+  "sport": "mlb",
+  "date": "1997-08-13",
+  "startTime": "1997-08-14T02:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "52-66"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "57-63"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.386,
+    "rankGapFactor": 0.069,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214850",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214850/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.194060Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.194061Z"
+}

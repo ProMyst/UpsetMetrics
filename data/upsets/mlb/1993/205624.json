@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-05-23-cubs-at-florida-marlins",
+  "sport": "mlb",
+  "date": "1993-05-23",
+  "startTime": "1993-05-23T07:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "19-24"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "21-20"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.476,
+    "rankGapFactor": 0.141,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205624",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205624/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.424523Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.424528Z"
+}

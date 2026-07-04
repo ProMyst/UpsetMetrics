@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-26-padres-at-phillies",
+  "sport": "mlb",
+  "date": "1997-08-26",
+  "startTime": "1997-08-26T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "48-80"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "62-71"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.528,
+    "rankGapFactor": 0.182,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215027",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215027/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.225623Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.225625Z"
+}

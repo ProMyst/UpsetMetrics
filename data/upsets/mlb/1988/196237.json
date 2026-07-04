@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-08-31-cubs-at-astros",
+  "sport": "mlb",
+  "date": "1988-08-31",
+  "startTime": "1988-08-31T08:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "66-65"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "71-62"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.375,
+    "rankGapFactor": 0.06,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196237",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196237/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.501574Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.501576Z"
+}

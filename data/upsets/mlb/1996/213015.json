@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-09-15-athletics-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1996-09-15",
+  "startTime": "1996-09-15T07:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "72-79"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "89-59"
+  },
+  "finalScore": "10-9",
+  "factors": {
+    "pregameOddsFactor": 0.611,
+    "rankGapFactor": 0.249,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213015",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213015/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.511082Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.511087Z"
+}

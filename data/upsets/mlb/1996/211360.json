@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-05-06-twins-at-mariners",
+  "sport": "mlb",
+  "date": "1996-05-06",
+  "startTime": "1996-05-07T02:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "18-14"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "14-16"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211360",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211360/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.176700Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.176702Z"
+}

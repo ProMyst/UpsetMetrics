@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-08-04-tigers-at-white-sox",
+  "sport": "mlb",
+  "date": "1983-08-04",
+  "startTime": "1983-08-05T00:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "56-49"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "61-44"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.419,
+    "rankGapFactor": 0.095,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185371",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185371/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.683539Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.683541Z"
+}

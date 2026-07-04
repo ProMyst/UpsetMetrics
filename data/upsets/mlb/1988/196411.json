@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-09-15-cubs-at-mets",
+  "sport": "mlb",
+  "date": "1988-09-15",
+  "startTime": "1988-09-15T07:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "88-57"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "69-77"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196411",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196411/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.535566Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.535568Z"
+}

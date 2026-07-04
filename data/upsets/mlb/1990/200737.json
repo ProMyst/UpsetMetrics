@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-09-26-california-angels-at-rangers",
+  "sport": "mlb",
+  "date": "1990-09-26",
+  "startTime": "1990-09-27T00:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "81-74"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "77-78"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200737",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200737/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.311067Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.311071Z"
+}

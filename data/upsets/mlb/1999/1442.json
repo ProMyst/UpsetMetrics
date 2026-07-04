@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-08-03-blue-jays-at-yankees",
+  "sport": "mlb",
+  "date": "1999-08-03",
+  "startTime": "1999-08-03T23:30:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "60-49"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "63-42"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.424,
+    "rankGapFactor": 0.099,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1442",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1442/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.431019Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.431021Z"
+}

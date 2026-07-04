@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-09-29-cubs-at-cardinals",
+  "sport": "mlb",
+  "date": "1991-09-29",
+  "startTime": "1991-09-29T08:33:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "73-81"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "81-75"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.413,
+    "rankGapFactor": 0.09,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202845",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202845/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.430267Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.430269Z"
+}

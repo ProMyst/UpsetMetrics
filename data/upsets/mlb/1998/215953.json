@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-05-08-rockies-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1998-05-08",
+  "startTime": "1998-05-08T23:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "16-19"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "12-21"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215953",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215953/feed/live",
+    "retrievedAt": "2026-07-04T07:28:37.992614Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:37.992620Z"
+}

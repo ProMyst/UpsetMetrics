@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-07-18-cleveland-indians-at-athletics",
+  "sport": "mlb",
+  "date": "1988-07-18",
+  "startTime": "1988-07-19T02:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "56-37"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "47-46"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195702",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195702/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.390793Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.390801Z"
+}

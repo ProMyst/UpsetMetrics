@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-08-17-twins-at-mariners",
+  "sport": "mlb",
+  "date": "1983-08-17",
+  "startTime": "1983-08-18T02:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "52-70"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "46-74"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185539",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185539/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.722325Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.722327Z"
+}

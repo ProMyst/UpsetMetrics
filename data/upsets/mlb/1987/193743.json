@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-08-01-orioles-at-rangers",
+  "sport": "mlb",
+  "date": "1987-08-01",
+  "startTime": "1987-08-02T00:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "48-56"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "49-53"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.347,
+    "rankGapFactor": 0.038,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193743",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193743/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.345286Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.345289Z"
+}

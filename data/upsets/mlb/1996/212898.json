@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-09-06-giants-at-reds",
+  "sport": "mlb",
+  "date": "1996-09-06",
+  "startTime": "1996-09-06T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "59-79"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "70-70"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.481,
+    "rankGapFactor": 0.145,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212898",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212898/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.487452Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.487454Z"
+}

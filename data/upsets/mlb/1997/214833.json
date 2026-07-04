@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-11-rangers-at-red-sox",
+  "sport": "mlb",
+  "date": "1997-08-11",
+  "startTime": "1997-08-11T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "56-62"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "58-61"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.332,
+    "rankGapFactor": 0.026,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214833",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214833/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.187342Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.187344Z"
+}

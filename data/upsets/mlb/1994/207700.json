@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-05-07-rockies-at-padres",
+  "sport": "mlb",
+  "date": "1994-05-07",
+  "startTime": "1994-05-08T02:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "10-19"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "12-15"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.549,
+    "rankGapFactor": 0.199,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207700",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207700/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.516834Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.516836Z"
+}

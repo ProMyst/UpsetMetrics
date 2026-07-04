@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-09-11-mariners-at-athletics",
+  "sport": "mlb",
+  "date": "1992-09-11",
+  "startTime": "1992-09-12T02:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "84-57"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "56-86"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204760",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204760/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.137203Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.137205Z"
+}

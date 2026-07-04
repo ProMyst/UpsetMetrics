@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-09-13-dodgers-at-cubs",
+  "sport": "mlb",
+  "date": "1995-09-13",
+  "startTime": "1995-09-13T08:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "63-64"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "68-61"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.378,
+    "rankGapFactor": 0.062,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210692",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210692/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.174904Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.174906Z"
+}

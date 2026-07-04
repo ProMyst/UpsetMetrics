@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-12-cubs-at-dodgers",
+  "sport": "mlb",
+  "date": "1997-08-12",
+  "startTime": "1997-08-13T02:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "48-72"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "64-55"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.645,
+    "rankGapFactor": 0.276,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214835",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214835/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.191304Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.191306Z"
+}

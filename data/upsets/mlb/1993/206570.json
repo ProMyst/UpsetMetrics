@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-08-06-athletics-at-royals",
+  "sport": "mlb",
+  "date": "1993-08-06",
+  "startTime": "1993-08-07T00:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "46-60"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "55-54"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.477,
+    "rankGapFactor": 0.141,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206570",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206570/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.618045Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.618047Z"
+}

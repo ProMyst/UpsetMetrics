@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-21-royals-at-blue-jays",
+  "sport": "mlb",
+  "date": "1999-06-21",
+  "startTime": "1999-06-21T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "34-37"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "27-40"
+  },
+  "finalScore": "11-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1036",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1036/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.314474Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.314476Z"
+}

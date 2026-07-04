@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-07-22-padres-at-pirates",
+  "sport": "mlb",
+  "date": "1984-07-22",
+  "startTime": "1984-07-22T07:38:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "42-56"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "56-40"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.687,
+    "rankGapFactor": 0.31,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187354",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187354/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.314797Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.314802Z"
+}

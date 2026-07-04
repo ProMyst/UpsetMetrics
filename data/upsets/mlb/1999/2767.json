@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-10-02-florida-marlins-at-braves",
+  "sport": "mlb",
+  "date": "1999-10-02",
+  "startTime": "1999-10-02T17:15:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "64-97"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "102-59"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.89,
+    "rankGapFactor": 0.472,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2767",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2767/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.594348Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.594353Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-04-05-rockies-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1997-04-05",
+  "startTime": "1997-04-05T08:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "3-2"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "3-2"
+  },
+  "finalScore": "15-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213250",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213250/feed/live",
+    "retrievedAt": "2026-07-04T07:27:10.866084Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:10.866092Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-08-06-astros-at-pirates",
+  "sport": "mlb",
+  "date": "1995-08-06",
+  "startTime": "1995-08-06T07:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "39-53"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "54-40"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.676,
+    "rankGapFactor": 0.301,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210199",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210199/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.071375Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.071377Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-28-tigers-at-brewers",
+  "sport": "mlb",
+  "date": "1981-05-28",
+  "startTime": "1981-05-28T08:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "25-18"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "21-23"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181047",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181047/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.068993Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.068996Z"
+}

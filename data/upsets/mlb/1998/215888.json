@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-05-03-rockies-at-mets",
+  "sport": "mlb",
+  "date": "1998-05-03",
+  "startTime": "1998-05-03T07:33:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "14-13"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "13-17"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215888",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215888/feed/live",
+    "retrievedAt": "2026-07-04T07:28:37.980689Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:37.980691Z"
+}

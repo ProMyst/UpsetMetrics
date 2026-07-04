@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-04-30-astros-at-braves",
+  "sport": "mlb",
+  "date": "1981-04-30",
+  "startTime": "1981-04-30T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "7-12"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "9-10"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.563,
+    "rankGapFactor": 0.211,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180715",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180715/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.001481Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.001483Z"
+}

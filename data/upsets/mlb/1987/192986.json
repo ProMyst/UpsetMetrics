@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-05-27-royals-at-white-sox",
+  "sport": "mlb",
+  "date": "1987-05-27",
+  "startTime": "1987-05-28T00:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "18-24"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "26-17"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.74,
+    "rankGapFactor": 0.352,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192986",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192986/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.190106Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.190109Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-09-14-braves-at-padres",
+  "sport": "mlb",
+  "date": "1999-09-14",
+  "startTime": "1999-09-15T02:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "91-55"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "68-78"
+  },
+  "finalScore": "11-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2747",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2747/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.548272Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.548274Z"
+}

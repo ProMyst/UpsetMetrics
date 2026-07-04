@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-09-06-dodgers-at-florida-marlins",
+  "sport": "mlb",
+  "date": "1999-09-06",
+  "startTime": "1999-09-06T20:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "55-82"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "65-72"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.482,
+    "rankGapFactor": 0.146,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2650",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2650/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.525301Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.525306Z"
+}

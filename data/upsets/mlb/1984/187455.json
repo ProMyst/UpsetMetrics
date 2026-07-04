@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-07-31-cleveland-indians-at-tigers",
+  "sport": "mlb",
+  "date": "1984-07-31",
+  "startTime": "1984-07-31T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "71-32"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "43-58"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187455",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187455/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.335400Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.335405Z"
+}

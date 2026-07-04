@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-08-27-cubs-at-dodgers",
+  "sport": "mlb",
+  "date": "1982-08-27",
+  "startTime": "1982-08-28T02:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "72-57"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "57-73"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183537",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183537/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.400638Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.400640Z"
+}

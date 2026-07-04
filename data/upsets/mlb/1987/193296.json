@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-06-22-pirates-at-cubs",
+  "sport": "mlb",
+  "date": "1987-06-22",
+  "startTime": "1987-06-22T08:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "38-31"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "30-37"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193296",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193296/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.253053Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.253055Z"
+}

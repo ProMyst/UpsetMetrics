@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-07-28-athletics-at-yankees",
+  "sport": "mlb",
+  "date": "1997-07-28",
+  "startTime": "1997-07-28T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "59-44"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "42-65"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214646",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214646/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.147586Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.147588Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-06-10-blue-jays-at-white-sox",
+  "sport": "mlb",
+  "date": "1980-06-10",
+  "startTime": "1980-06-11T00:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "26-26"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "28-26"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.346,
+    "rankGapFactor": 0.037,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179081",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179081/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.741065Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.741067Z"
+}

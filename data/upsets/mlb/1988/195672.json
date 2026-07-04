@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-07-15-blue-jays-at-athletics",
+  "sport": "mlb",
+  "date": "1988-07-15",
+  "startTime": "1988-07-16T02:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "44-46"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "54-36"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.578,
+    "rankGapFactor": 0.222,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195672",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195672/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.382693Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.382695Z"
+}

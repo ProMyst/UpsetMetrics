@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-06-10-mariners-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1984-06-10",
+  "startTime": "1984-06-10T07:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "21-33"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "27-33"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.453,
+    "rankGapFactor": 0.122,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186854",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186854/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.214005Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.214010Z"
+}

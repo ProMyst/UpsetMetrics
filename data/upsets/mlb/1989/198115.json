@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-08-11-yankees-at-twins",
+  "sport": "mlb",
+  "date": "1989-08-11",
+  "startTime": "1989-08-12T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "54-61"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "57-58"
+  },
+  "finalScore": "11-3",
+  "factors": {
+    "pregameOddsFactor": 0.365,
+    "rankGapFactor": 0.052,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198115",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198115/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.400259Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.400261Z"
+}

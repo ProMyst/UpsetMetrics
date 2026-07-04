@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-07-16-pirates-at-braves",
+  "sport": "mlb",
+  "date": "1993-07-16",
+  "startTime": "1993-07-16T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "52-39"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "42-48"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206294",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206294/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.557272Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.557274Z"
+}

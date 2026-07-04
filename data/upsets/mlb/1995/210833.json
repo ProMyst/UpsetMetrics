@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-09-24-cleveland-indians-at-royals",
+  "sport": "mlb",
+  "date": "1995-09-24",
+  "startTime": "1995-09-24T08:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "69-69"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "95-43"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.771,
+    "rankGapFactor": 0.377,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210833",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210833/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.202561Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.202566Z"
+}

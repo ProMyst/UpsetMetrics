@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-04-26-mets-at-phillies",
+  "sport": "mlb",
+  "date": "1992-04-26",
+  "startTime": "1992-04-26T07:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "8-11"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "10-9"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.563,
+    "rankGapFactor": 0.211,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203171",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203171/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.815893Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.815895Z"
+}

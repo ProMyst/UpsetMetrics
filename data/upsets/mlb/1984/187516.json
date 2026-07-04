@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-08-05-royals-at-tigers",
+  "sport": "mlb",
+  "date": "1984-08-05",
+  "startTime": "1984-08-05T07:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "53-56"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "72-37"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.736,
+    "rankGapFactor": 0.349,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187516",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187516/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.347754Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.347756Z"
+}

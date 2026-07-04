@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-17-rockies-at-reds",
+  "sport": "mlb",
+  "date": "1999-07-17",
+  "startTime": "1999-07-17T17:15:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "51-37"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "41-48"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "278",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/278/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.377339Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.377341Z"
+}

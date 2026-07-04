@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-07-15-phillies-at-giants",
+  "sport": "mlb",
+  "date": "1982-07-15",
+  "startTime": "1982-07-16T02:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "48-38"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "42-47"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183007",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183007/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.289194Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.289196Z"
+}

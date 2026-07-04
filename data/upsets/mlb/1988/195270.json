@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-06-10-tigers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1988-06-10",
+  "startTime": "1988-06-10T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "34-23"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "36-23"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.334,
+    "rankGapFactor": 0.027,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195270",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195270/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.300847Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.300852Z"
+}

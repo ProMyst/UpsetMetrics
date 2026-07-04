@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-07-31-braves-at-giants",
+  "sport": "mlb",
+  "date": "1986-07-31",
+  "startTime": "1986-08-01T02:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "53-49"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "46-55"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191620",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191620/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.888147Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.888149Z"
+}

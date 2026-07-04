@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-06-15-tigers-at-mariners",
+  "sport": "mlb",
+  "date": "1991-06-15",
+  "startTime": "1991-06-16T02:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "33-28"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "29-32"
+  },
+  "finalScore": "15-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201604",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201604/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.179259Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.179261Z"
+}

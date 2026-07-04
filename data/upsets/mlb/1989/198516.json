@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-09-13-pirates-at-cardinals",
+  "sport": "mlb",
+  "date": "1989-09-13",
+  "startTime": "1989-09-14T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "65-79"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "77-67"
+  },
+  "finalScore": "0-0",
+  "factors": {
+    "pregameOddsFactor": 0.508,
+    "rankGapFactor": 0.167,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198516",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198516/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.482209Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.482211Z"
+}

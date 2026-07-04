@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-06-23-tigers-at-california-angels",
+  "sport": "mlb",
+  "date": "1990-06-23",
+  "startTime": "1990-06-24T02:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "34-37"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "36-34"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.389,
+    "rankGapFactor": 0.071,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199597",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199597/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.079766Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.079770Z"
+}

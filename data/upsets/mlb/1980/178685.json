@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-05-06-astros-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1980-05-06",
+  "startTime": "1980-05-06T07:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "17-7"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "9-14"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178685",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178685/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.663858Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.663863Z"
+}

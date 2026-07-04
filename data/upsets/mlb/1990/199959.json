@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-07-24-yankees-at-rangers",
+  "sport": "mlb",
+  "date": "1990-07-24",
+  "startTime": "1990-07-25T00:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "48-48"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "34-59"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199959",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199959/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.151941Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.151943Z"
+}

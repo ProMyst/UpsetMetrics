@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-07-08-brewers-at-twins",
+  "sport": "mlb",
+  "date": "1988-07-08",
+  "startTime": "1988-07-09T00:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "42-43"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "47-36"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.48,
+    "rankGapFactor": 0.144,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195609",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195609/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.371357Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.371359Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-04-28-giants-at-pirates",
+  "sport": "mlb",
+  "date": "1989-04-28",
+  "startTime": "1989-04-28T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "9-13"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "11-11"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.527,
+    "rankGapFactor": 0.182,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196902",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196902/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.156825Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.156827Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-09-16-cubs-at-pirates",
+  "sport": "mlb",
+  "date": "1989-09-16",
+  "startTime": "1989-09-16T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "67-80"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "84-64"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.579,
+    "rankGapFactor": 0.224,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198543",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198543/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.488698Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.488700Z"
+}

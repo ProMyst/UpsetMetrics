@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-07-11-blue-jays-at-california-angels",
+  "sport": "mlb",
+  "date": "1985-07-11",
+  "startTime": "1985-07-12T02:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "53-32"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "49-35"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "189292",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/189292/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.591002Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.591007Z"
+}

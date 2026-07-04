@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-04-28-red-sox-at-twins",
+  "sport": "mlb",
+  "date": "1999-04-28",
+  "startTime": "1999-04-28T17:15:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "11-10"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "9-13"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "370",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/370/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.168569Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.168571Z"
+}

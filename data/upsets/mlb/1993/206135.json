@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-07-02-padres-at-phillies",
+  "sport": "mlb",
+  "date": "1993-07-02",
+  "startTime": "1993-07-02T07:38:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "53-27"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "30-50"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206135",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206135/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.524484Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.524486Z"
+}

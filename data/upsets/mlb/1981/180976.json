@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-22-giants-at-astros",
+  "sport": "mlb",
+  "date": "1981-05-22",
+  "startTime": "1981-05-23T00:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "22-20"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "19-21"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180976",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180976/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.051718Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.051720Z"
+}

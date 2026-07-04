@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-05-18-tampa-bay-devil-rays-at-rangers",
+  "sport": "mlb",
+  "date": "1999-05-18",
+  "startTime": "1999-05-19T00:35:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "21-19"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "21-18"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.334,
+    "rankGapFactor": 0.027,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1994",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1994/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.224438Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tampa-bay-devil-rays-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.224443Z"
+}

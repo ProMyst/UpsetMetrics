@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-06-05-mariners-at-royals",
+  "sport": "mlb",
+  "date": "1984-06-05",
+  "startTime": "1984-06-06T00:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "24-27"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "27-28"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.351,
+    "rankGapFactor": 0.041,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186790",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186790/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.201780Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.201782Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-09-19-twins-at-white-sox",
+  "sport": "mlb",
+  "date": "1996-09-19",
+  "startTime": "1996-09-20T00:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "81-73"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "75-78"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213063",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213063/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.522150Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.522152Z"
+}

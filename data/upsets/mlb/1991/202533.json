@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-09-02-astros-at-mets",
+  "sport": "mlb",
+  "date": "1991-09-02",
+  "startTime": "1991-09-02T07:33:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "54-77"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "64-67"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.491,
+    "rankGapFactor": 0.153,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202533",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202533/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.367340Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.367342Z"
+}

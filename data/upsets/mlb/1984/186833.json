@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-06-09-astros-at-giants",
+  "sport": "mlb",
+  "date": "1984-06-09",
+  "startTime": "1984-06-09T10:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "19-36"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "23-34"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.445,
+    "rankGapFactor": 0.116,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186833",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186833/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.213204Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.213206Z"
+}

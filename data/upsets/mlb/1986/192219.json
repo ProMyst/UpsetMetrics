@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-09-19-twins-at-rangers",
+  "sport": "mlb",
+  "date": "1986-09-19",
+  "startTime": "1986-09-20T00:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "77-70"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "62-84"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192219",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192219/feed/live",
+    "retrievedAt": "2026-07-04T07:11:18.012588Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:18.012590Z"
+}

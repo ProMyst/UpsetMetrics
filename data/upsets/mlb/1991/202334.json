@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-08-17-california-angels-at-mariners",
+  "sport": "mlb",
+  "date": "1991-08-17",
+  "startTime": "1991-08-18T02:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "57-59"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "63-54"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.418,
+    "rankGapFactor": 0.094,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202334",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202334/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.325347Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.325351Z"
+}

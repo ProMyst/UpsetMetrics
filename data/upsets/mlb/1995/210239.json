@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-08-09-mets-at-phillies",
+  "sport": "mlb",
+  "date": "1995-08-09",
+  "startTime": "1995-08-09T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "39-57"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "48-48"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.534,
+    "rankGapFactor": 0.188,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210239",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210239/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.078087Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.078089Z"
+}

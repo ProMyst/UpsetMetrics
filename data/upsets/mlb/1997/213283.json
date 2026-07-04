@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-04-08-red-sox-at-athletics",
+  "sport": "mlb",
+  "date": "1997-04-08",
+  "startTime": "1997-04-09T02:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "4-3"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "4-3"
+  },
+  "finalScore": "13-7",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213283",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213283/feed/live",
+    "retrievedAt": "2026-07-04T07:27:10.875178Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:10.875181Z"
+}

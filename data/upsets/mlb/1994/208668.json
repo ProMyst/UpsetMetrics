@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-07-24-white-sox-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1994-07-24",
+  "startTime": "1994-07-24T07:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "59-38"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "56-39"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208668",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208668/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.712429Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.712434Z"
+}

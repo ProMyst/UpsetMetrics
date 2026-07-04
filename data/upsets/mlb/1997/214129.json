@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-17-anaheim-angels-at-dodgers",
+  "sport": "mlb",
+  "date": "1997-06-17",
+  "startTime": "1997-06-18T02:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "33-35"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "34-33"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.355,
+    "rankGapFactor": 0.044,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214129",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214129/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.048343Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.048348Z"
+}

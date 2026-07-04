@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-05-27-orioles-at-mariners",
+  "sport": "mlb",
+  "date": "1995-05-27",
+  "startTime": "1995-05-28T02:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "11-16"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "15-13"
+  },
+  "finalScore": "11-4",
+  "factors": {
+    "pregameOddsFactor": 0.621,
+    "rankGapFactor": 0.257,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209297",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209297/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.893307Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.893309Z"
+}

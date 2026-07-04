@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-08-08-braves-at-reds",
+  "sport": "mlb",
+  "date": "1994-08-08",
+  "startTime": "1994-08-08T23:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "66-45"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "65-46"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208863",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208863/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.751628Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.751630Z"
+}

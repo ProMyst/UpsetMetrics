@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-04-23-cleveland-indians-at-royals",
+  "sport": "mlb",
+  "date": "1982-04-23",
+  "startTime": "1982-04-24T00:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "7-6"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "6-6"
+  },
+  "finalScore": "11-6",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182061",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182061/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.101282Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.101287Z"
+}

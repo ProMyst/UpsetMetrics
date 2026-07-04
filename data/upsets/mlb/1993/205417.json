@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-05-07-braves-at-rockies",
+  "sport": "mlb",
+  "date": "1993-05-07",
+  "startTime": "1993-05-08T01:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "16-15"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "10-18"
+  },
+  "finalScore": "13-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205417",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205417/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.384035Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.384037Z"
+}

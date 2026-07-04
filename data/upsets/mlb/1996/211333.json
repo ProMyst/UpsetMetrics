@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-05-04-mets-at-cubs",
+  "sport": "mlb",
+  "date": "1996-05-04",
+  "startTime": "1996-05-05T00:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "13-15"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "15-15"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.389,
+    "rankGapFactor": 0.071,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211333",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211333/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.170357Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.170359Z"
+}

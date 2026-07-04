@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-06-29-mariners-at-twins",
+  "sport": "mlb",
+  "date": "1993-06-29",
+  "startTime": "1993-06-30T00:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "32-41"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "37-40"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.405,
+    "rankGapFactor": 0.084,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206098",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206098/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.518637Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.518639Z"
+}

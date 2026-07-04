@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-08-15-rockies-at-florida-marlins",
+  "sport": "mlb",
+  "date": "1996-08-15",
+  "startTime": "1996-08-15T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "57-64"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "61-59"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.393,
+    "rankGapFactor": 0.075,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212614",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212614/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.432525Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.432530Z"
+}

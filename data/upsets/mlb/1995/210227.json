@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-08-08-pirates-at-giants",
+  "sport": "mlb",
+  "date": "1995-08-08",
+  "startTime": "1995-08-08T10:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "40-53"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "42-53"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.33,
+    "rankGapFactor": 0.024,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210227",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210227/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.077710Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.077712Z"
+}

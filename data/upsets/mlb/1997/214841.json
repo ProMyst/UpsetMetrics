@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-12-brewers-at-mariners",
+  "sport": "mlb",
+  "date": "1997-08-12",
+  "startTime": "1997-08-12T10:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "57-60"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "66-52"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.48,
+    "rankGapFactor": 0.144,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214841",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214841/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.191935Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.191937Z"
+}

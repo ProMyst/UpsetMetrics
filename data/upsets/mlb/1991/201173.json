@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-05-09-rangers-at-red-sox",
+  "sport": "mlb",
+  "date": "1991-05-09",
+  "startTime": "1991-05-09T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "16-9"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "11-12"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201173",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201173/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.091965Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.091967Z"
+}

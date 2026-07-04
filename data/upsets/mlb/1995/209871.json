@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-07-12-cardinals-at-phillies",
+  "sport": "mlb",
+  "date": "1995-07-12",
+  "startTime": "1995-07-12T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "31-40"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "39-30"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.621,
+    "rankGapFactor": 0.257,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209871",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209871/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.007057Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.007059Z"
+}

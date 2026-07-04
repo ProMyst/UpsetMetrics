@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-04-16-cubs-at-brewers",
+  "sport": "mlb",
+  "date": "1999-04-16",
+  "startTime": "1999-04-16T18:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "4-5"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "4-6"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1311",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1311/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.138228Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.138230Z"
+}

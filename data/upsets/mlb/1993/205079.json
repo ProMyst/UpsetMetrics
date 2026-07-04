@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-04-08-yankees-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1993-04-08",
+  "startTime": "1993-04-08T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "2-1"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "1-2"
+  },
+  "finalScore": "15-5",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205079",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205079/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.306375Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.306383Z"
+}

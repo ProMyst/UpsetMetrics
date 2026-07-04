@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-08-03-cardinals-at-dodgers",
+  "sport": "mlb",
+  "date": "1980-08-03",
+  "startTime": "1980-08-03T10:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "46-57"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "57-47"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.554,
+    "rankGapFactor": 0.203,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179731",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179731/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.870696Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.870698Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-17-florida-marlins-at-blue-jays",
+  "sport": "mlb",
+  "date": "1999-07-17",
+  "startTime": "1999-07-17T20:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "48-45"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "34-57"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "862",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/862/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.379342Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.379347Z"
+}

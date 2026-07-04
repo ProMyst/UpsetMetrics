@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-08-19-royals-at-blue-jays",
+  "sport": "mlb",
+  "date": "1995-08-19",
+  "startTime": "1995-08-19T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "45-59"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "50-52"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.444,
+    "rankGapFactor": 0.115,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210370",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210370/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.105674Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.105676Z"
+}

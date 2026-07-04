@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-09-24-royals-at-tigers",
+  "sport": "mlb",
+  "date": "1999-09-24",
+  "startTime": "1999-09-24T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "62-92"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "62-91"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.307,
+    "rankGapFactor": 0.005,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "341",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/341/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.571974Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.571976Z"
+}

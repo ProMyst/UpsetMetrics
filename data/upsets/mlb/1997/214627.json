@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-07-27-cubs-at-rockies",
+  "sport": "mlb",
+  "date": "1997-07-27",
+  "startTime": "1997-07-27T09:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "50-55"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "43-62"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214627",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214627/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.145534Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.145536Z"
+}

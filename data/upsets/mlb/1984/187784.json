@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-08-26-dodgers-at-phillies",
+  "sport": "mlb",
+  "date": "1984-08-26",
+  "startTime": "1984-08-26T07:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "69-58"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "63-67"
+  },
+  "finalScore": "10-8",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187784",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187784/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.405226Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.405228Z"
+}

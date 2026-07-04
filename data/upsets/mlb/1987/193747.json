@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-08-01-tigers-at-yankees",
+  "sport": "mlb",
+  "date": "1987-08-01",
+  "startTime": "1987-08-01T07:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "59-41"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "63-41"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.339,
+    "rankGapFactor": 0.032,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193747",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193747/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.346257Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.346259Z"
+}

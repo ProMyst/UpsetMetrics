@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-06-04-white-sox-at-rangers",
+  "sport": "mlb",
+  "date": "1982-06-04",
+  "startTime": "1982-06-05T00:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "16-29"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "28-21"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.84,
+    "rankGapFactor": 0.432,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182534",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182534/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.196805Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.196807Z"
+}

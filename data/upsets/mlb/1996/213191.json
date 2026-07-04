@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-09-29-yankees-at-red-sox",
+  "sport": "mlb",
+  "date": "1996-09-29",
+  "startTime": "1996-09-29T07:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "85-77"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "92-70"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.408,
+    "rankGapFactor": 0.086,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213191",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213191/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.546810Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.546812Z"
+}

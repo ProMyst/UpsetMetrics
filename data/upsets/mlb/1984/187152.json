@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-07-04-mariners-at-brewers",
+  "sport": "mlb",
+  "date": "1984-07-04",
+  "startTime": "1984-07-04T08:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "38-43"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "38-46"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187152",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187152/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.275822Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.275824Z"
+}

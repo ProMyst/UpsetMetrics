@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-08-01-yankees-at-brewers",
+  "sport": "mlb",
+  "date": "1980-08-01",
+  "startTime": "1980-08-02T00:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "64-37"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "54-47"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179699",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179699/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.865130Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.865132Z"
+}

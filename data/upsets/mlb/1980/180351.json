@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-09-23-astros-at-padres",
+  "sport": "mlb",
+  "date": "1980-09-23",
+  "startTime": "1980-09-23T10:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "68-84"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "86-65"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.605,
+    "rankGapFactor": 0.244,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180351",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180351/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.998868Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.998870Z"
+}

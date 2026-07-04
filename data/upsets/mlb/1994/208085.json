@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-06-07-cleveland-indians-at-mariners",
+  "sport": "mlb",
+  "date": "1994-06-07",
+  "startTime": "1994-06-08T02:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "24-32"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "30-23"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.644,
+    "rankGapFactor": 0.275,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208085",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208085/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.595594Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.595599Z"
+}

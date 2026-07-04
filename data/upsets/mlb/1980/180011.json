@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-08-26-astros-at-cardinals",
+  "sport": "mlb",
+  "date": "1980-08-26",
+  "startTime": "1980-08-27T00:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "71-54"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "54-69"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180011",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180011/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.930011Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.930013Z"
+}

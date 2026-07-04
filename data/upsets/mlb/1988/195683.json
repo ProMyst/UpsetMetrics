@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-07-16-padres-at-cardinals",
+  "sport": "mlb",
+  "date": "1988-07-16",
+  "startTime": "1988-07-17T00:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "39-50"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "41-50"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.331,
+    "rankGapFactor": 0.025,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195683",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195683/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.384103Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.384105Z"
+}

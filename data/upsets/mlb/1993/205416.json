@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-05-06-mariners-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1993-05-06",
+  "startTime": "1993-05-06T07:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "14-14"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "12-16"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205416",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205416/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.381821Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.381826Z"
+}

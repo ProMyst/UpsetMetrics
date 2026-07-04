@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-08-26-royals-at-tigers",
+  "sport": "mlb",
+  "date": "1981-08-26",
+  "startTime": "1981-08-26T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "28-39"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "42-31"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.694,
+    "rankGapFactor": 0.315,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181413",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181413/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.140850Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.140852Z"
+}

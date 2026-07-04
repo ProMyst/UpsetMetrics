@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-08-16-cardinals-at-mets",
+  "sport": "mlb",
+  "date": "1986-08-16",
+  "startTime": "1986-08-16T07:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "58-58"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "76-40"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.688,
+    "rankGapFactor": 0.31,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191831",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191831/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.929759Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.929761Z"
+}

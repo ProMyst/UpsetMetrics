@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-07-18-mets-at-dodgers",
+  "sport": "mlb",
+  "date": "1982-07-18",
+  "startTime": "1982-07-18T10:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "42-49"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "48-44"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.451,
+    "rankGapFactor": 0.12,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183044",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183044/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.296735Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.296737Z"
+}

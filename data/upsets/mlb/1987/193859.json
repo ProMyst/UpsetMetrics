@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-08-10-cleveland-indians-at-orioles",
+  "sport": "mlb",
+  "date": "1987-08-10",
+  "startTime": "1987-08-10T23:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "51-61"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "41-71"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193859",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193859/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.367328Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.367333Z"
+}

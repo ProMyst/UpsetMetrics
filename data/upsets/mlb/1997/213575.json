@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-05-03-montreal-expos-at-padres",
+  "sport": "mlb",
+  "date": "1997-05-03",
+  "startTime": "1997-05-04T02:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "11-16"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "14-13"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.578,
+    "rankGapFactor": 0.222,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213575",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213575/feed/live",
+    "retrievedAt": "2026-07-04T07:27:10.935310Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:10.935315Z"
+}

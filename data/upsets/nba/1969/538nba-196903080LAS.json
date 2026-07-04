@@ -1,0 +1,34 @@
+{
+  "id": "nba-1969-03-08-nets-at-stars",
+  "sport": "nba",
+  "date": "1969-03-08",
+  "season": "1969",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nets",
+    "name": "Nets"
+  },
+  "loser": {
+    "slug": "stars",
+    "name": "Stars"
+  },
+  "finalScore": "120-110",
+  "factors": {
+    "pregameOddsFactor": 0.59,
+    "rankGapFactor": 0.158,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "nba_elo_538_prehistoric",
+    "sourceGameId": "538nba-196903080LAS",
+    "sourceUrl": "https://github.com/nicidob/nba_elo",
+    "retrievedAt": "2026-07-04T06:59:53.941602Z"
+  },
+  "methodologyVersion": "1.2",
+  "slug": "nets-at-stars",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:59:53.941604Z"
+}

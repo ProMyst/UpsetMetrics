@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-09-12-reds-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1993-09-12",
+  "startTime": "1993-09-12T07:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "82-61"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "69-75"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207037",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207037/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.720143Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.720147Z"
+}

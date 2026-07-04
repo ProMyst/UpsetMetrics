@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-05-05-royals-at-white-sox",
+  "sport": "mlb",
+  "date": "1995-05-05",
+  "startTime": "1995-05-06T00:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "5-3"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "1-7"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209027",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209027/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.837327Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.837329Z"
+}

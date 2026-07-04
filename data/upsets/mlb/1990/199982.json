@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-07-26-reds-at-giants",
+  "sport": "mlb",
+  "date": "1990-07-26",
+  "startTime": "1990-07-27T02:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "51-46"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "59-37"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.522,
+    "rankGapFactor": 0.178,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199982",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199982/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.157096Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.157098Z"
+}

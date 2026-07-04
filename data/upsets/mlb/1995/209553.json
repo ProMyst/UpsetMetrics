@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-06-16-brewers-at-red-sox",
+  "sport": "mlb",
+  "date": "1995-06-16",
+  "startTime": "1995-06-16T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "21-24"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "27-18"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.633,
+    "rankGapFactor": 0.267,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209553",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209553/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.943410Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.943412Z"
+}

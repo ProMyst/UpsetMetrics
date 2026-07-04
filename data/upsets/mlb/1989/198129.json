@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-08-12-athletics-at-california-angels",
+  "sport": "mlb",
+  "date": "1989-08-12",
+  "startTime": "1989-08-12T10:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "71-46"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "68-47"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198129",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198129/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.403795Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.403800Z"
+}

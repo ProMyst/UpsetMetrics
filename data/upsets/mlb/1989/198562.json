@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-09-17-padres-at-giants",
+  "sport": "mlb",
+  "date": "1989-09-17",
+  "startTime": "1989-09-17T10:38:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "81-69"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "86-64"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.383,
+    "rankGapFactor": 0.067,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198562",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198562/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.491399Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.491401Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-04-29-pirates-at-padres",
+  "sport": "mlb",
+  "date": "1988-04-29",
+  "startTime": "1988-04-30T02:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "9-11"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "15-6"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.961,
+    "rankGapFactor": 0.529,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194786",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194786/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.204656Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.204658Z"
+}

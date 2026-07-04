@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-03-twins-at-cubs",
+  "sport": "mlb",
+  "date": "1997-09-03",
+  "startTime": "1997-09-03T08:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "57-83"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "57-80"
+  },
+  "finalScore": "10-6",
+  "factors": {
+    "pregameOddsFactor": 0.322,
+    "rankGapFactor": 0.018,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215127",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215127/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.248319Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.248321Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-08-09-brewers-at-white-sox",
+  "sport": "mlb",
+  "date": "1987-08-09",
+  "startTime": "1987-08-09T08:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "58-52"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "44-65"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193849",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193849/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.366541Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.366544Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-04-23-padres-at-florida-marlins",
+  "sport": "mlb",
+  "date": "1996-04-23",
+  "startTime": "1996-04-23T07:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "13-7"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "8-13"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211201",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211201/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.143609Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.143614Z"
+}

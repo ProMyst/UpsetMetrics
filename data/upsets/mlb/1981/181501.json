@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-09-02-athletics-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1981-09-02",
+  "startTime": "1981-09-02T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "38-36"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "47-34"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.467,
+    "rankGapFactor": 0.133,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181501",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181501/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.158592Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.158597Z"
+}

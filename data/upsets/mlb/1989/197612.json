@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-06-29-astros-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1989-06-29",
+  "startTime": "1989-06-29T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "45-33"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "43-35"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197612",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197612/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.300478Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.300483Z"
+}

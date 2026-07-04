@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-05-26-mariners-at-twins",
+  "sport": "mlb",
+  "date": "1999-05-26",
+  "startTime": "1999-05-26T17:15:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "23-23"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "17-29"
+  },
+  "finalScore": "11-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1459",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1459/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.244330Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.244332Z"
+}

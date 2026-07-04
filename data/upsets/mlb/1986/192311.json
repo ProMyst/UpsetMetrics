@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-09-27-orioles-at-brewers",
+  "sport": "mlb",
+  "date": "1986-09-27",
+  "startTime": "1986-09-28T00:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "72-83"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "72-82"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.308,
+    "rankGapFactor": 0.006,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192311",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192311/feed/live",
+    "retrievedAt": "2026-07-04T07:11:18.031385Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:18.031387Z"
+}

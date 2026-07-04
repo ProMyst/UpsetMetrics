@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-04-12-white-sox-at-red-sox",
+  "sport": "mlb",
+  "date": "1982-04-12",
+  "startTime": "1982-04-12T08:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "3-0"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "2-2"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181944",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181944/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.072672Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.072676Z"
+}

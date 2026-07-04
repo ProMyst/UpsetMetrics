@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-06-28-florida-marlins-at-phillies",
+  "sport": "mlb",
+  "date": "1994-06-28",
+  "startTime": "1994-06-28T23:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "36-40"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "38-38"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.366,
+    "rankGapFactor": 0.053,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208353",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208353/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.648025Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.648030Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-09-10-cubs-at-pirates",
+  "sport": "mlb",
+  "date": "1985-09-10",
+  "startTime": "1985-09-10T23:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "44-90"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "65-71"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.674,
+    "rankGapFactor": 0.299,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "189978",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/189978/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.732146Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.732148Z"
+}

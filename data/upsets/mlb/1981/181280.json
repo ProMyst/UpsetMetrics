@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-08-15-red-sox-at-rangers",
+  "sport": "mlb",
+  "date": "1981-08-15",
+  "startTime": "1981-08-16T00:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "33-29"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "35-25"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.428,
+    "rankGapFactor": 0.102,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181280",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181280/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.115990Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.115992Z"
+}

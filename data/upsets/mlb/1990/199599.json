@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-06-23-dodgers-at-reds",
+  "sport": "mlb",
+  "date": "1990-06-23",
+  "startTime": "1990-06-23T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "42-23"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "34-34"
+  },
+  "finalScore": "11-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199599",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199599/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.078413Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.078415Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-07-orioles-at-white-sox",
+  "sport": "mlb",
+  "date": "1997-06-07",
+  "startTime": "1997-06-07T08:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "28-30"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "38-17"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.82,
+    "rankGapFactor": 0.416,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214008",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214008/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.023806Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.023808Z"
+}

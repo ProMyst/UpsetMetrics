@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-09-10-giants-at-cubs",
+  "sport": "mlb",
+  "date": "1995-09-10",
+  "startTime": "1995-09-10T08:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "61-64"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "61-63"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.31,
+    "rankGapFactor": 0.008,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210659",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210659/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.166793Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.166795Z"
+}

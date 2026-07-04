@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-09-06-dodgers-at-pirates",
+  "sport": "mlb",
+  "date": "1991-09-06",
+  "startTime": "1991-09-06T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "81-53"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "75-60"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202572",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202572/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.374983Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.374985Z"
+}

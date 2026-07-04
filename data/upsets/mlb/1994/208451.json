@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-07-05-astros-at-cardinals",
+  "sport": "mlb",
+  "date": "1994-07-05",
+  "startTime": "1994-07-06T00:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "47-36"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "40-40"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208451",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208451/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.667697Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.667699Z"
+}

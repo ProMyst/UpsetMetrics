@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-07-astros-at-padres",
+  "sport": "mlb",
+  "date": "1997-06-07",
+  "startTime": "1997-06-08T02:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "27-32"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "30-31"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.385,
+    "rankGapFactor": 0.068,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214012",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214012/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.022645Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.022647Z"
+}

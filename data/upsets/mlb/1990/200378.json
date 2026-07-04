@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-27-padres-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1990-08-27",
+  "startTime": "1990-08-27T07:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "60-66"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "66-61"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.409,
+    "rankGapFactor": 0.087,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200378",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200378/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.239596Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.239601Z"
+}

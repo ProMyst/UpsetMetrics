@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-05-09-braves-at-cubs",
+  "sport": "mlb",
+  "date": "1990-05-09",
+  "startTime": "1990-05-09T08:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "13-14"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "8-17"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199067",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199067/feed/live",
+    "retrievedAt": "2026-07-04T07:17:02.974710Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:02.974712Z"
+}

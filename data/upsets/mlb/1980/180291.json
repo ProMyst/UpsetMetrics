@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-09-18-athletics-at-rangers",
+  "sport": "mlb",
+  "date": "1980-09-18",
+  "startTime": "1980-09-19T00:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "71-75"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "74-74"
+  },
+  "finalScore": "10-6",
+  "factors": {
+    "pregameOddsFactor": 0.334,
+    "rankGapFactor": 0.027,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180291",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180291/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.985404Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.985406Z"
+}

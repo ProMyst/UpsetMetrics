@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-08-17-brewers-at-white-sox",
+  "sport": "mlb",
+  "date": "1986-08-17",
+  "startTime": "1986-08-17T08:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "52-64"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "58-59"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.419,
+    "rankGapFactor": 0.095,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191839",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191839/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.932487Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.932489Z"
+}

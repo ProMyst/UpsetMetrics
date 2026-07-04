@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-09-26-montreal-expos-at-mets",
+  "sport": "mlb",
+  "date": "1993-09-26",
+  "startTime": "1993-09-26T07:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "53-102"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "89-66"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.881,
+    "rankGapFactor": 0.465,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207214",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207214/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.756380Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.756384Z"
+}

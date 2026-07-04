@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-09-25-cardinals-at-florida-marlins",
+  "sport": "mlb",
+  "date": "1993-09-25",
+  "startTime": "1993-09-25T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "63-91"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "83-71"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.625,
+    "rankGapFactor": 0.26,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207203",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207203/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.753216Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.753221Z"
+}

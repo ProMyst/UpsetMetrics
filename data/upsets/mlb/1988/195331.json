@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-06-15-cleveland-indians-at-blue-jays",
+  "sport": "mlb",
+  "date": "1988-06-15",
+  "startTime": "1988-06-15T07:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "31-34"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "37-27"
+  },
+  "finalScore": "15-3",
+  "factors": {
+    "pregameOddsFactor": 0.553,
+    "rankGapFactor": 0.202,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195331",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195331/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.315621Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.315626Z"
+}

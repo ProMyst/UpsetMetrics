@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-07-16-blue-jays-at-royals",
+  "sport": "mlb",
+  "date": "1991-07-16",
+  "startTime": "1991-07-17T00:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "39-47"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "53-36"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.655,
+    "rankGapFactor": 0.284,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201959",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201959/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.248204Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.248206Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-09-11-mariners-at-royals",
+  "sport": "mlb",
+  "date": "1996-09-11",
+  "startTime": "1996-09-12T00:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "67-79"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "73-70"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.429,
+    "rankGapFactor": 0.103,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212965",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212965/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.501079Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.501081Z"
+}

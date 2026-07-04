@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-10-orioles-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "1997-08-10",
+  "startTime": "1997-08-11T02:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "72-41"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "66-51"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214810",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214810/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.184633Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.184638Z"
+}

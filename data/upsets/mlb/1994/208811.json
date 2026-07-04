@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-08-04-rockies-at-astros",
+  "sport": "mlb",
+  "date": "1994-08-04",
+  "startTime": "1994-08-05T00:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "62-47"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "51-60"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208811",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208811/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.740948Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.740951Z"
+}

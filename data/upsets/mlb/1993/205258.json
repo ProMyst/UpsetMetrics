@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-04-23-giants-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1993-04-23",
+  "startTime": "1993-04-23T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "10-6"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "10-7"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205258",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205258/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.348318Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.348323Z"
+}

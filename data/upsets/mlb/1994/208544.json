@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-07-15-cubs-at-reds",
+  "sport": "mlb",
+  "date": "1994-07-15",
+  "startTime": "1994-07-15T23:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "53-36"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "37-51"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208544",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208544/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.687527Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.687529Z"
+}

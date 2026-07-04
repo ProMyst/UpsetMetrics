@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-07-23-brewers-at-royals",
+  "sport": "mlb",
+  "date": "1982-07-23",
+  "startTime": "1982-07-24T00:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "50-42"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "54-38"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.409,
+    "rankGapFactor": 0.087,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183095",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183095/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.307755Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.307757Z"
+}

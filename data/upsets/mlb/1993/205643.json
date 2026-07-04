@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-05-24-rangers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1993-05-24",
+  "startTime": "1993-05-24T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "18-27"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "23-20"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.637,
+    "rankGapFactor": 0.27,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205643",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205643/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.426308Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.426313Z"
+}

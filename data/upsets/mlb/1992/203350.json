@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-05-12-pirates-at-braves",
+  "sport": "mlb",
+  "date": "1992-05-12",
+  "startTime": "1992-05-12T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "16-18"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "21-10"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.817,
+    "rankGapFactor": 0.414,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203350",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203350/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.851866Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.851868Z"
+}

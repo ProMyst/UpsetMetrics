@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-08-15-giants-at-reds",
+  "sport": "mlb",
+  "date": "1981-08-15",
+  "startTime": "1981-08-15T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "30-35"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "37-25"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.638,
+    "rankGapFactor": 0.27,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181290",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181290/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.115224Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.115225Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-04-19-blue-jays-at-brewers",
+  "sport": "mlb",
+  "date": "1991-04-19",
+  "startTime": "1991-04-20T00:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "7-4"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "5-5"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200962",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200962/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.048279Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.048281Z"
+}

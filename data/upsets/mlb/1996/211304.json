@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-05-01-cardinals-at-cubs",
+  "sport": "mlb",
+  "date": "1996-05-01",
+  "startTime": "1996-05-01T08:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "14-14"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "12-16"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211304",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211304/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.165183Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.165185Z"
+}

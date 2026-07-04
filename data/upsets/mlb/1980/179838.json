@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-08-12-astros-at-giants",
+  "sport": "mlb",
+  "date": "1980-08-12",
+  "startTime": "1980-08-13T02:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "55-58"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "60-52"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.422,
+    "rankGapFactor": 0.098,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179838",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179838/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.893667Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.893669Z"
+}

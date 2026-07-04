@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-08-04-blue-jays-at-red-sox",
+  "sport": "mlb",
+  "date": "1994-08-04",
+  "startTime": "1994-08-04T23:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "52-56"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "52-56"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208820",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208820/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.740404Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.740406Z"
+}

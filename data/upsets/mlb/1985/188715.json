@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-05-24-pirates-at-braves",
+  "sport": "mlb",
+  "date": "1985-05-24",
+  "startTime": "1985-05-24T23:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "13-25"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "16-23"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.47,
+    "rankGapFactor": 0.136,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188715",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188715/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.475492Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.475494Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-05-26-pirates-at-dodgers",
+  "sport": "mlb",
+  "date": "1982-05-26",
+  "startTime": "1982-05-27T02:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "23-22"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "17-24"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182448",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182448/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.178612Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.178614Z"
+}

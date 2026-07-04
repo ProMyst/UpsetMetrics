@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-08-22-yankees-at-twins",
+  "sport": "mlb",
+  "date": "1999-08-22",
+  "startTime": "1999-08-22T18:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "75-48"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "51-71"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "541",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/541/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.484119Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.484121Z"
+}

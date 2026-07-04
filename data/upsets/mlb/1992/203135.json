@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-04-23-twins-at-mariners",
+  "sport": "mlb",
+  "date": "1992-04-23",
+  "startTime": "1992-04-23T10:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "8-9"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "6-9"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203135",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203135/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.810097Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.810099Z"
+}

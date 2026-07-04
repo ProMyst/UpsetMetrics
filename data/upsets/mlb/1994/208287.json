@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-06-22-mariners-at-california-angels",
+  "sport": "mlb",
+  "date": "1994-06-22",
+  "startTime": "1994-06-23T02:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "31-39"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "31-42"
+  },
+  "finalScore": "12-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208287",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208287/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.634205Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.634210Z"
+}

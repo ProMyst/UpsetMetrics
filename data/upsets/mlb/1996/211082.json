@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-04-14-astros-at-reds",
+  "sport": "mlb",
+  "date": "1996-04-14",
+  "startTime": "1996-04-14T07:38:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "7-5"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "5-8"
+  },
+  "finalScore": "9-8",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211082",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211082/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.118996Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.118998Z"
+}

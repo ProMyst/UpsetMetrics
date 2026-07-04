@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-08-07-mariners-at-royals",
+  "sport": "mlb",
+  "date": "1994-08-07",
+  "startTime": "1994-08-07T08:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "45-63"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "63-49"
+  },
+  "finalScore": "10-6",
+  "factors": {
+    "pregameOddsFactor": 0.665,
+    "rankGapFactor": 0.292,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208859",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208859/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.750075Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.750077Z"
+}

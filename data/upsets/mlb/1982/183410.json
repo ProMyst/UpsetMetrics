@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-08-16-royals-at-yankees",
+  "sport": "mlb",
+  "date": "1982-08-16",
+  "startTime": "1982-08-16T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "57-58"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "66-50"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.483,
+    "rankGapFactor": 0.147,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183410",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183410/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.367565Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.367567Z"
+}

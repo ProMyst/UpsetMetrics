@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-07-06-red-sox-at-royals",
+  "sport": "mlb",
+  "date": "1982-07-06",
+  "startTime": "1982-07-07T00:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "46-33"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "46-34"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182917",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182917/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.272483Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.272485Z"
+}

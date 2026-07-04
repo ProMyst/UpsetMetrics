@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-06-09-montreal-expos-at-cubs",
+  "sport": "mlb",
+  "date": "1996-06-09",
+  "startTime": "1996-06-09T08:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "27-34"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "34-27"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.587,
+    "rankGapFactor": 0.23,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211767",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211767/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.258908Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.258913Z"
+}

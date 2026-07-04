@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-05-12-phillies-at-astros",
+  "sport": "mlb",
+  "date": "1986-05-12",
+  "startTime": "1986-05-13T00:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "12-15"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "17-12"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.654,
+    "rankGapFactor": 0.284,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190700",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190700/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.702427Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.702429Z"
+}

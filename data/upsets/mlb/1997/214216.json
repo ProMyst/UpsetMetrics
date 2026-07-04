@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-23-padres-at-giants",
+  "sport": "mlb",
+  "date": "1997-06-23",
+  "startTime": "1997-06-24T02:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "32-42"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "42-32"
+  },
+  "finalScore": "11-6",
+  "factors": {
+    "pregameOddsFactor": 0.638,
+    "rankGapFactor": 0.27,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214216",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214216/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.063188Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.063190Z"
+}

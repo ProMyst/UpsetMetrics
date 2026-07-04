@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-01-padres-at-mariners",
+  "sport": "mlb",
+  "date": "1997-09-01",
+  "startTime": "1997-09-02T02:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "76-62"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "65-74"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215105",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215105/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.241697Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.241700Z"
+}

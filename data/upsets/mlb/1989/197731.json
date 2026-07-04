@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-07-09-reds-at-mets",
+  "sport": "mlb",
+  "date": "1989-07-09",
+  "startTime": "1989-07-09T07:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "45-39"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "44-43"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197731",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197731/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.323488Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.323490Z"
+}

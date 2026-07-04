@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-05-24-red-sox-at-tigers",
+  "sport": "mlb",
+  "date": "1991-05-24",
+  "startTime": "1991-05-24T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "24-15"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "20-20"
+  },
+  "finalScore": "10-9",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201337",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201337/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.125597Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.125599Z"
+}

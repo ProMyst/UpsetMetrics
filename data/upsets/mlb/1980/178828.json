@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-05-20-orioles-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1980-05-20",
+  "startTime": "1980-05-20T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "14-19"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "15-20"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.311,
+    "rankGapFactor": 0.009,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178828",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178828/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.690718Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.690723Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-07-06-mets-at-braves",
+  "sport": "mlb",
+  "date": "1992-07-06",
+  "startTime": "1992-07-06T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "39-43"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "44-36"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.486,
+    "rankGapFactor": 0.149,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203988",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203988/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.979393Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.979395Z"
+}

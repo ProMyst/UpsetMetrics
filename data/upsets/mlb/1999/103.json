@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-29-rockies-at-giants",
+  "sport": "mlb",
+  "date": "1999-06-29",
+  "startTime": "1999-06-30T03:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "42-35"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "34-39"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "103",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/103/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.336502Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.336504Z"
+}

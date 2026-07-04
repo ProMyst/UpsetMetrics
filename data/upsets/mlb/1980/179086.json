@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-06-11-royals-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1980-06-11",
+  "startTime": "1980-06-11T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "26-27"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "35-21"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.636,
+    "rankGapFactor": 0.269,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179086",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179086/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.742231Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.742235Z"
+}

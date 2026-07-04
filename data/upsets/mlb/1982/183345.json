@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-08-11-california-angels-at-twins",
+  "sport": "mlb",
+  "date": "1982-08-11",
+  "startTime": "1982-08-12T00:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "64-48"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "39-74"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183345",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183345/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.355901Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.355906Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-07-20-brewers-at-twins",
+  "sport": "mlb",
+  "date": "1982-07-20",
+  "startTime": "1982-07-21T00:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "31-62"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "53-37"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.939,
+    "rankGapFactor": 0.511,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183067",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183067/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.301261Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.301263Z"
+}

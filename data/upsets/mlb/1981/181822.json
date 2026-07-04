@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-09-29-california-angels-at-white-sox",
+  "sport": "mlb",
+  "date": "1981-09-29",
+  "startTime": "1981-09-30T00:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "50-56"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "51-51"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.371,
+    "rankGapFactor": 0.057,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181822",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181822/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.225160Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.225165Z"
+}

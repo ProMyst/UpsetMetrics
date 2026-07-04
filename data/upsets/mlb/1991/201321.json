@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-05-22-padres-at-braves",
+  "sport": "mlb",
+  "date": "1991-05-22",
+  "startTime": "1991-05-22T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "20-20"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "19-16"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.407,
+    "rankGapFactor": 0.086,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201321",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201321/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.121773Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.121775Z"
+}

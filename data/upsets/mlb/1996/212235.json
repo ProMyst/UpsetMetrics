@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-07-17-phillies-at-mets",
+  "sport": "mlb",
+  "date": "1996-07-17",
+  "startTime": "1996-07-17T07:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "46-48"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "40-53"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212235",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212235/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.353180Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.353182Z"
+}

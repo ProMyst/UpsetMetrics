@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-07-31-astros-at-padres",
+  "sport": "mlb",
+  "date": "1995-07-31",
+  "startTime": "1995-07-31T10:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "41-46"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "50-37"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.559,
+    "rankGapFactor": 0.207,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210121",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210121/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.057196Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.057198Z"
+}

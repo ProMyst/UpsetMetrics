@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-08-29-astros-at-phillies",
+  "sport": "mlb",
+  "date": "1991-08-29",
+  "startTime": "1991-08-29T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "53-74"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "61-66"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.457,
+    "rankGapFactor": 0.126,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202481",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202481/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.357295Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.357297Z"
+}

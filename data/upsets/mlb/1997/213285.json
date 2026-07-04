@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-04-08-florida-marlins-at-cubs",
+  "sport": "mlb",
+  "date": "1997-04-08",
+  "startTime": "1997-04-08T08:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "6-1"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "0-7"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213285",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213285/feed/live",
+    "retrievedAt": "2026-07-04T07:27:10.876484Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:10.876491Z"
+}

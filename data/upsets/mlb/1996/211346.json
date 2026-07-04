@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-05-05-montreal-expos-at-astros",
+  "sport": "mlb",
+  "date": "1996-05-05",
+  "startTime": "1996-05-05T08:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "20-11"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "15-16"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211346",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211346/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.173945Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.173950Z"
+}

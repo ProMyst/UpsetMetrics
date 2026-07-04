@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-07-11-padres-at-giants",
+  "sport": "mlb",
+  "date": "1980-07-11",
+  "startTime": "1980-07-11T10:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "39-43"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "34-49"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179438",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179438/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.812825Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.812827Z"
+}

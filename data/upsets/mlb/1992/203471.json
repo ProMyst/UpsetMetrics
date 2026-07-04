@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-05-23-brewers-at-yankees",
+  "sport": "mlb",
+  "date": "1992-05-23",
+  "startTime": "1992-05-23T07:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "20-20"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "22-19"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.391,
+    "rankGapFactor": 0.073,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203471",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203471/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.878723Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.878725Z"
+}

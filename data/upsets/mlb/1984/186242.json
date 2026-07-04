@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-04-17-montreal-expos-at-mets",
+  "sport": "mlb",
+  "date": "1984-04-17",
+  "startTime": "1984-04-17T08:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "6-5"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "6-4"
+  },
+  "finalScore": "10-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186242",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186242/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.092987Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.092992Z"
+}

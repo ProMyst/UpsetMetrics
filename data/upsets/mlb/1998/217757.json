@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-09-18-florida-marlins-at-mets",
+  "sport": "mlb",
+  "date": "1998-09-18",
+  "startTime": "1998-09-18T23:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "51-103"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "86-69"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.859,
+    "rankGapFactor": 0.447,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "217757",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/217757/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.355744Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.355748Z"
+}

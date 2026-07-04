@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-05-21-mets-at-dodgers",
+  "sport": "mlb",
+  "date": "1990-05-21",
+  "startTime": "1990-05-22T02:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "18-19"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "19-19"
+  },
+  "finalScore": "12-3",
+  "factors": {
+    "pregameOddsFactor": 0.334,
+    "rankGapFactor": 0.027,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199207",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199207/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.002614Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.002616Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-06-05-pirates-at-rockies",
+  "sport": "mlb",
+  "date": "1994-06-05",
+  "startTime": "1994-06-05T09:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "23-30"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "25-29"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.373,
+    "rankGapFactor": 0.058,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208064",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208064/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.590655Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.590658Z"
+}

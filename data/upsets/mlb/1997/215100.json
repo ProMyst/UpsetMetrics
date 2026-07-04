@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-01-tigers-at-braves",
+  "sport": "mlb",
+  "date": "1997-09-01",
+  "startTime": "1997-09-01T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "64-72"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "85-52"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.675,
+    "rankGapFactor": 0.3,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215100",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215100/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.241264Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.241266Z"
+}

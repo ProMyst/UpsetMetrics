@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-09-27-california-angels-at-rangers",
+  "sport": "mlb",
+  "date": "1984-09-27",
+  "startTime": "1984-09-28T00:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "68-90"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "79-80"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.466,
+    "rankGapFactor": 0.133,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188168",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188168/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.480876Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.480881Z"
+}

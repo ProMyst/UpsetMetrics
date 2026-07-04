@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-06-13-giants-at-astros",
+  "sport": "mlb",
+  "date": "1986-06-13",
+  "startTime": "1986-06-14T00:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "32-27"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "34-25"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.385,
+    "rankGapFactor": 0.068,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191073",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191073/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.777888Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.777890Z"
+}

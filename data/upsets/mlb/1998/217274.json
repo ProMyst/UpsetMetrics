@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-08-14-rangers-at-yankees",
+  "sport": "mlb",
+  "date": "1998-08-14",
+  "startTime": "1998-08-14T23:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "89-29"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "64-56"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "217274",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/217274/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.256496Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.256498Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-05-26-pirates-at-astros",
+  "sport": "mlb",
+  "date": "1987-05-26",
+  "startTime": "1987-05-27T00:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "22-22"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "21-21"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192981",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192981/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.187336Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.187338Z"
+}

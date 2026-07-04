@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-09-22-pirates-at-giants",
+  "sport": "mlb",
+  "date": "1998-09-22",
+  "startTime": "1998-09-23T02:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "85-72"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "69-88"
+  },
+  "finalScore": "14-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "217820",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/217820/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.368712Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.368714Z"
+}

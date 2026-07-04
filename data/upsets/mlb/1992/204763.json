@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-09-11-blue-jays-at-rangers",
+  "sport": "mlb",
+  "date": "1992-09-11",
+  "startTime": "1992-09-12T00:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "70-74"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "82-60"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.528,
+    "rankGapFactor": 0.183,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204763",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204763/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.136249Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.136251Z"
+}

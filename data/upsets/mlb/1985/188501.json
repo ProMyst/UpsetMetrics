@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-05-04-padres-at-cubs",
+  "sport": "mlb",
+  "date": "1985-05-04",
+  "startTime": "1985-05-04T08:33:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "14-7"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "12-10"
+  },
+  "finalScore": "12-8",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188501",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188501/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.433722Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.433724Z"
+}

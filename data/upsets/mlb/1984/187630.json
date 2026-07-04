@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-08-13-mets-at-dodgers",
+  "sport": "mlb",
+  "date": "1984-08-13",
+  "startTime": "1984-08-14T02:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "60-59"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "64-51"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.431,
+    "rankGapFactor": 0.105,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187630",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187630/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.370373Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.370375Z"
+}

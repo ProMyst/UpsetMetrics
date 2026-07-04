@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-09-21-montreal-expos-at-florida-marlins",
+  "sport": "mlb",
+  "date": "1999-09-21",
+  "startTime": "1999-09-21T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "60-91"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "63-88"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.04,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2876",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2876/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.563522Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.563529Z"
+}

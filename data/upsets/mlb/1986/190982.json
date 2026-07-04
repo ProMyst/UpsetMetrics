@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-06-06-cubs-at-cardinals",
+  "sport": "mlb",
+  "date": "1986-06-06",
+  "startTime": "1986-06-07T00:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "22-30"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "21-29"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190982",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190982/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.759902Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.759904Z"
+}

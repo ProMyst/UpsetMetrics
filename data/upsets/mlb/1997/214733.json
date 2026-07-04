@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-04-cleveland-indians-at-tigers",
+  "sport": "mlb",
+  "date": "1997-08-04",
+  "startTime": "1997-08-04T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "57-49"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "51-58"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214733",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214733/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.168652Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.168657Z"
+}

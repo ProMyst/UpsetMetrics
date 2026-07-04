@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-05-12-rockies-at-florida-marlins",
+  "sport": "mlb",
+  "date": "1995-05-12",
+  "startTime": "1995-05-12T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "11-4"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "3-13"
+  },
+  "finalScore": "10-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209113",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209113/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.853490Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.853495Z"
+}

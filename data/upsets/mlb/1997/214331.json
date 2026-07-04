@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-07-02-royals-at-cubs",
+  "sport": "mlb",
+  "date": "1997-07-02",
+  "startTime": "1997-07-02T08:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "34-49"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "36-43"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.415,
+    "rankGapFactor": 0.092,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214331",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214331/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.086775Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.086777Z"
+}

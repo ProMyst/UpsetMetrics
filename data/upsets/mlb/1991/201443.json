@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-06-01-mets-at-cardinals",
+  "sport": "mlb",
+  "date": "1991-06-01",
+  "startTime": "1991-06-02T00:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "25-22"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "26-20"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.383,
+    "rankGapFactor": 0.067,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201443",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201443/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.144686Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.144688Z"
+}

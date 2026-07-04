@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-07-17-blue-jays-at-mariners",
+  "sport": "mlb",
+  "date": "1992-07-17",
+  "startTime": "1992-07-18T02:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "37-54"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "54-35"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.8,
+    "rankGapFactor": 0.4,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204099",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204099/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.001632Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.001634Z"
+}

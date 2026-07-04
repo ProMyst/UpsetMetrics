@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-08-22-phillies-at-dodgers",
+  "sport": "mlb",
+  "date": "1996-08-22",
+  "startTime": "1996-08-23T02:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "67-60"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "52-76"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212706",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212706/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.451645Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.451647Z"
+}

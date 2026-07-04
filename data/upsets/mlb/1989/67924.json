@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-10-09-cubs-at-giants",
+  "sport": "mlb",
+  "date": "1989-10-09",
+  "startTime": "1989-10-09T10:33:00Z",
+  "season": "1989",
+  "event": "NL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "4-1"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "1-4"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "67924",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/67924/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.527780Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.527783Z"
+}

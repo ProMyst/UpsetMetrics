@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-05-23-cardinals-at-dodgers",
+  "sport": "mlb",
+  "date": "1982-05-23",
+  "startTime": "1982-05-23T10:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "21-21"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "25-17"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.538,
+    "rankGapFactor": 0.19,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182415",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182415/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.172668Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.172670Z"
+}

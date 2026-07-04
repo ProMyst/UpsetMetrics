@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-08-14-blue-jays-at-red-sox",
+  "sport": "mlb",
+  "date": "1989-08-14",
+  "startTime": "1989-08-14T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "59-59"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "57-59"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198153",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198153/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.406970Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.406972Z"
+}

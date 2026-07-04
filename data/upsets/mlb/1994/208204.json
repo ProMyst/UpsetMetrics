@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-06-16-tigers-at-brewers",
+  "sport": "mlb",
+  "date": "1994-06-16",
+  "startTime": "1994-06-16T08:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "29-35"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "32-31"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.437,
+    "rankGapFactor": 0.11,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208204",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208204/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.618862Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.618864Z"
+}

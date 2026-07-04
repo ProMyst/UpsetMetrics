@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-08-09-brewers-at-rangers",
+  "sport": "mlb",
+  "date": "1991-08-09",
+  "startTime": "1991-08-10T00:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "48-61"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "56-49"
+  },
+  "finalScore": "10-8",
+  "factors": {
+    "pregameOddsFactor": 0.532,
+    "rankGapFactor": 0.186,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202231",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202231/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.303584Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.303586Z"
+}

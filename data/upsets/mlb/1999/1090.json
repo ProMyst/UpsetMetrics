@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-08-25-astros-at-mets",
+  "sport": "mlb",
+  "date": "1999-08-25",
+  "startTime": "1999-08-25T23:40:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "78-50"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "76-52"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1090",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1090/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.493958Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.493960Z"
+}

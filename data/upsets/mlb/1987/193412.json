@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-07-02-white-sox-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1987-07-02",
+  "startTime": "1987-07-02T23:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "27-50"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "28-47"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.357,
+    "rankGapFactor": 0.045,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193412",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193412/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.276650Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.276655Z"
+}

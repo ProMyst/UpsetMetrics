@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-06-21-orioles-at-mariners",
+  "sport": "mlb",
+  "date": "1989-06-21",
+  "startTime": "1989-06-22T02:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "40-28"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "32-40"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197512",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197512/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.282573Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.282575Z"
+}

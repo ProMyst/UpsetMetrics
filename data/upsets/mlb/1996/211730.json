@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-06-06-mariners-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1996-06-06",
+  "startTime": "1996-06-06T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "31-26"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "37-20"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.563,
+    "rankGapFactor": 0.211,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211730",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211730/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.251068Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.251073Z"
+}

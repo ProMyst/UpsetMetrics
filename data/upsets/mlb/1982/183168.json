@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-07-29-cubs-at-phillies",
+  "sport": "mlb",
+  "date": "1982-07-29",
+  "startTime": "1982-07-29T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "56-42"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "40-63"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183168",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183168/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.320937Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.320939Z"
+}

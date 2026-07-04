@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-09-13-rangers-at-royals",
+  "sport": "mlb",
+  "date": "1999-09-13",
+  "startTime": "1999-09-14T00:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "86-59"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "57-86"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1651",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1651/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.544185Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.544186Z"
+}

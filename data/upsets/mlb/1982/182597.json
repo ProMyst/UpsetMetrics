@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-06-09-astros-at-giants",
+  "sport": "mlb",
+  "date": "1982-06-09",
+  "startTime": "1982-06-09T10:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "25-30"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "26-31"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.304,
+    "rankGapFactor": 0.003,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182597",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182597/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.209015Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.209017Z"
+}

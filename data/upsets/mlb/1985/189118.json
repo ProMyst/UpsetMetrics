@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-06-28-reds-at-padres",
+  "sport": "mlb",
+  "date": "1985-06-28",
+  "startTime": "1985-06-29T02:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "38-32"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "43-30"
+  },
+  "finalScore": "11-9",
+  "factors": {
+    "pregameOddsFactor": 0.415,
+    "rankGapFactor": 0.092,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "189118",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/189118/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.556656Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.556658Z"
+}

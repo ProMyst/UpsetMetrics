@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-06-30-yankees-at-brewers",
+  "sport": "mlb",
+  "date": "1991-06-30",
+  "startTime": "1991-06-30T08:33:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "33-38"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "34-39"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.302,
+    "rankGapFactor": 0.002,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201787",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201787/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.216032Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.216034Z"
+}

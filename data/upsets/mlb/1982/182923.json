@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-07-06-yankees-at-mariners",
+  "sport": "mlb",
+  "date": "1982-07-06",
+  "startTime": "1982-07-07T02:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "38-38"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "43-38"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.377,
+    "rankGapFactor": 0.062,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182923",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182923/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.273066Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.273068Z"
+}

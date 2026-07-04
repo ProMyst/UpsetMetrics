@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-04-10-red-sox-at-orioles",
+  "sport": "mlb",
+  "date": "1982-04-10",
+  "startTime": "1982-04-10T08:38:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "2-1"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "1-1"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181918",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181918/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.062651Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.062655Z"
+}

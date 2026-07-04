@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-09-24-red-sox-at-tigers",
+  "sport": "mlb",
+  "date": "1989-09-24",
+  "startTime": "1989-09-24T07:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "78-77"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "57-99"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198637",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198637/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.507738Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.507740Z"
+}

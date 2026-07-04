@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-05-13-montreal-expos-at-dodgers",
+  "sport": "mlb",
+  "date": "1991-05-13",
+  "startTime": "1991-05-14T02:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "16-14"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "15-16"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201219",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201219/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.101906Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.101911Z"
+}

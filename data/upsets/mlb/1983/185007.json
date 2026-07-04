@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-07-04-mets-at-phillies",
+  "sport": "mlb",
+  "date": "1983-07-04",
+  "startTime": "1983-07-04T23:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "38-36"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "30-50"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185007",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185007/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.611500Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.611502Z"
+}

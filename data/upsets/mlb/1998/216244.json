@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-05-29-athletics-at-royals",
+  "sport": "mlb",
+  "date": "1998-05-29",
+  "startTime": "1998-05-30T00:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "20-31"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "21-30"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.349,
+    "rankGapFactor": 0.039,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216244",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216244/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.050604Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.050606Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-04-28-cardinals-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1984-04-28",
+  "startTime": "1984-04-28T08:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "10-11"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "10-10"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.36,
+    "rankGapFactor": 0.048,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186368",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186368/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.117539Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.117544Z"
+}

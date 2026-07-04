@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-09-blue-jays-at-mets",
+  "sport": "mlb",
+  "date": "1999-06-09",
+  "startTime": "1999-06-09T23:40:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "31-28"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "27-34"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1007",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1007/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.283042Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.283044Z"
+}

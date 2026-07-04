@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-08-23-blue-jays-at-athletics",
+  "sport": "mlb",
+  "date": "1999-08-23",
+  "startTime": "1999-08-23T20:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "67-60"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "68-57"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.341,
+    "rankGapFactor": 0.033,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2715",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2715/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.485440Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.485442Z"
+}

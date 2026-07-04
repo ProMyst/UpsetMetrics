@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-06-15-braves-at-dodgers",
+  "sport": "mlb",
+  "date": "1983-06-15",
+  "startTime": "1983-06-16T02:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "38-23"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "40-20"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.409,
+    "rankGapFactor": 0.087,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "184761",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/184761/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.565881Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.565883Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-06-19-red-sox-at-blue-jays",
+  "sport": "mlb",
+  "date": "1990-06-19",
+  "startTime": "1990-06-19T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "36-28"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "38-28"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.333,
+    "rankGapFactor": 0.027,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199551",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199551/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.070512Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.070514Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-05-03-yankees-at-twins",
+  "sport": "mlb",
+  "date": "1987-05-03",
+  "startTime": "1987-05-03T08:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "14-10"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "15-9"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.404,
+    "rankGapFactor": 0.083,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192725",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192725/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.136584Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.136586Z"
+}

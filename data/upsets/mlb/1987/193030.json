@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-05-31-astros-at-cardinals",
+  "sport": "mlb",
+  "date": "1987-05-31",
+  "startTime": "1987-05-31T08:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "24-24"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "29-17"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.626,
+    "rankGapFactor": 0.261,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193030",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193030/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.199530Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.199532Z"
+}

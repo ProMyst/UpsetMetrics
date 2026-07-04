@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-09-27-rangers-at-athletics",
+  "sport": "mlb",
+  "date": "1989-09-27",
+  "startTime": "1989-09-28T02:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "96-62"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "81-77"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198685",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198685/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.517174Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.517176Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-07-11-twins-at-mariners",
+  "sport": "mlb",
+  "date": "1980-07-11",
+  "startTime": "1980-07-12T02:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "37-44"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "35-47"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179435",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179435/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.812453Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.812455Z"
+}

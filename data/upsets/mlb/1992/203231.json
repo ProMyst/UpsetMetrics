@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-05-02-athletics-at-tigers",
+  "sport": "mlb",
+  "date": "1992-05-02",
+  "startTime": "1992-05-02T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "8-15"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "15-9"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.993,
+    "rankGapFactor": 0.554,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203231",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203231/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.828374Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.828376Z"
+}

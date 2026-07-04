@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-08-12-red-sox-at-blue-jays",
+  "sport": "mlb",
+  "date": "1996-08-12",
+  "startTime": "1996-08-12T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "54-65"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "57-62"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.363,
+    "rankGapFactor": 0.05,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212574",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212574/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.425672Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.425674Z"
+}

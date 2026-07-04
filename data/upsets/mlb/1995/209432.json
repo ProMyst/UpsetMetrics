@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-06-06-phillies-at-padres",
+  "sport": "mlb",
+  "date": "1995-06-06",
+  "startTime": "1995-06-07T02:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "17-21"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "24-14"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.761,
+    "rankGapFactor": 0.368,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209432",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209432/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.920320Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.920322Z"
+}

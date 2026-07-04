@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-05-25-braves-at-cubs",
+  "sport": "mlb",
+  "date": "1988-05-25",
+  "startTime": "1988-05-25T08:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "14-28"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "21-23"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.66,
+    "rankGapFactor": 0.288,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195081",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195081/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.266213Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.266215Z"
+}

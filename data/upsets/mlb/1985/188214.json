@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-04-08-yankees-at-red-sox",
+  "sport": "mlb",
+  "date": "1985-04-08",
+  "startTime": "1985-04-08T08:33:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188214",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188214/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.362003Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.362007Z"
+}

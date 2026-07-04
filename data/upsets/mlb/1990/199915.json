@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-07-21-white-sox-at-orioles",
+  "sport": "mlb",
+  "date": "1990-07-21",
+  "startTime": "1990-07-21T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "45-48"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "54-35"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.607,
+    "rankGapFactor": 0.246,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199915",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199915/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.143704Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.143706Z"
+}

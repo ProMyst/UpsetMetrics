@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-04-08-phillies-at-braves",
+  "sport": "mlb",
+  "date": "1999-04-08",
+  "startTime": "1999-04-08T23:40:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "2-2"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "2-2"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.115572Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.115575Z"
+}

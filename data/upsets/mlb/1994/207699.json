@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-05-07-red-sox-at-yankees",
+  "sport": "mlb",
+  "date": "1994-05-07",
+  "startTime": "1994-05-07T07:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "18-10"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "20-9"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.417,
+    "rankGapFactor": 0.094,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207699",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207699/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.517203Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.517205Z"
+}

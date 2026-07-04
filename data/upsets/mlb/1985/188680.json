@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-05-21-red-sox-at-twins",
+  "sport": "mlb",
+  "date": "1985-05-21",
+  "startTime": "1985-05-22T00:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "17-20"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "21-17"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.533,
+    "rankGapFactor": 0.186,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188680",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188680/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.469784Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.469786Z"
+}

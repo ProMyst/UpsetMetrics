@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-09-05-mariners-at-red-sox",
+  "sport": "mlb",
+  "date": "1980-09-05",
+  "startTime": "1980-09-05T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "49-85"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "72-59"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.76,
+    "rankGapFactor": 0.368,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180136",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180136/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.953427Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.953429Z"
+}

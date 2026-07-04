@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-05-08-padres-at-phillies",
+  "sport": "mlb",
+  "date": "1982-05-08",
+  "startTime": "1982-05-08T07:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "12-14"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "15-11"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.588,
+    "rankGapFactor": 0.231,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182239",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182239/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.136342Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.136344Z"
+}

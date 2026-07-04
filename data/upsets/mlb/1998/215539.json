@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-04-05-pirates-at-mets",
+  "sport": "mlb",
+  "date": "1998-04-05",
+  "startTime": "1998-04-05T07:33:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "4-1"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "2-3"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215539",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215539/feed/live",
+    "retrievedAt": "2026-07-04T07:28:37.906067Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:37.906071Z"
+}

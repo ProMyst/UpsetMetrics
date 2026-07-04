@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-05-31-reds-at-phillies",
+  "sport": "mlb",
+  "date": "1982-05-31",
+  "startTime": "1982-05-31T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "25-21"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "19-28"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182496",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182496/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.188324Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.188326Z"
+}

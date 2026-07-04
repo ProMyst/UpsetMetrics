@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-05-08-dodgers-at-florida-marlins",
+  "sport": "mlb",
+  "date": "1998-05-08",
+  "startTime": "1998-05-08T23:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "12-23"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "17-17"
+  },
+  "finalScore": "12-6",
+  "factors": {
+    "pregameOddsFactor": 0.693,
+    "rankGapFactor": 0.314,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215956",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215956/feed/live",
+    "retrievedAt": "2026-07-04T07:28:37.993991Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:37.993996Z"
+}

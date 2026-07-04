@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-08-22-tigers-at-brewers",
+  "sport": "mlb",
+  "date": "1992-08-22",
+  "startTime": "1992-08-23T00:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "67-55"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "58-66"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204521",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204521/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.090411Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.090413Z"
+}

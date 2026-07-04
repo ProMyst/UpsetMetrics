@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-04-28-california-angels-at-blue-jays",
+  "sport": "mlb",
+  "date": "1992-04-28",
+  "startTime": "1992-04-28T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "10-9"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "15-6"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.77,
+    "rankGapFactor": 0.376,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203184",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203184/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.820269Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.820274Z"
+}

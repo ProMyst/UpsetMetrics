@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-06-03-braves-at-dodgers",
+  "sport": "mlb",
+  "date": "1981-06-03",
+  "startTime": "1981-06-04T02:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "24-24"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "34-17"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.717,
+    "rankGapFactor": 0.333,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181112",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181112/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.083286Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.083288Z"
+}

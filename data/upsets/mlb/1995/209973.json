@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-07-20-california-angels-at-blue-jays",
+  "sport": "mlb",
+  "date": "1995-07-20",
+  "startTime": "1995-07-20T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "46-31"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "32-44"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209973",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209973/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.027303Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.027308Z"
+}

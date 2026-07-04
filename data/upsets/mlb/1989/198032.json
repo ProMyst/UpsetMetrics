@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-08-05-california-angels-at-brewers",
+  "sport": "mlb",
+  "date": "1989-08-05",
+  "startTime": "1989-08-06T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "53-56"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "66-43"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.598,
+    "rankGapFactor": 0.239,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198032",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198032/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.385374Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.385379Z"
+}

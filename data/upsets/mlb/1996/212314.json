@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-07-23-royals-at-red-sox",
+  "sport": "mlb",
+  "date": "1996-07-23",
+  "startTime": "1996-07-23T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "46-55"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "44-54"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212314",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212314/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.367798Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.367800Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-06-28-brewers-at-red-sox",
+  "sport": "mlb",
+  "date": "1993-06-28",
+  "startTime": "1993-06-28T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "37-38"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "31-43"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206081",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206081/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.515531Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.515533Z"
+}

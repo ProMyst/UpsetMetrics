@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-09-white-sox-at-royals",
+  "sport": "mlb",
+  "date": "1990-08-09",
+  "startTime": "1990-08-10T00:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "52-58"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "64-44"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.6,
+    "rankGapFactor": 0.24,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200155",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200155/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.191430Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.191432Z"
+}

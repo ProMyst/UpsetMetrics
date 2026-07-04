@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-05-29-reds-at-mets",
+  "sport": "mlb",
+  "date": "1993-05-29",
+  "startTime": "1993-05-29T07:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "16-30"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "23-26"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.604,
+    "rankGapFactor": 0.243,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205696",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205696/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.438376Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.438378Z"
+}

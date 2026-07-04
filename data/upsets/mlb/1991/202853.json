@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-09-29-rangers-at-athletics",
+  "sport": "mlb",
+  "date": "1991-09-29",
+  "startTime": "1991-09-29T10:33:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "82-74"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "82-73"
+  },
+  "finalScore": "19-5",
+  "factors": {
+    "pregameOddsFactor": 0.308,
+    "rankGapFactor": 0.007,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202853",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202853/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.431058Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.431060Z"
+}

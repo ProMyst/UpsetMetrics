@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-06-30-padres-at-dodgers",
+  "sport": "mlb",
+  "date": "1987-06-30",
+  "startTime": "1987-07-01T02:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "36-40"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "27-51"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193395",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193395/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.272881Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.272884Z"
+}

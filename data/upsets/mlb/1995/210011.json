@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-07-22-rangers-at-yankees",
+  "sport": "mlb",
+  "date": "1995-07-22",
+  "startTime": "1995-07-22T07:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "37-40"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "42-37"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.428,
+    "rankGapFactor": 0.102,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210011",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210011/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.034468Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.034470Z"
+}

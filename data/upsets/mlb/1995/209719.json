@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-06-29-white-sox-at-brewers",
+  "sport": "mlb",
+  "date": "1995-06-29",
+  "startTime": "1995-06-30T00:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "25-31"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "25-32"
+  },
+  "finalScore": "17-13",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209719",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209719/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.977449Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.977451Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-09-01-athletics-at-yankees",
+  "sport": "mlb",
+  "date": "1987-09-01",
+  "startTime": "1987-09-01T23:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "68-64"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "74-58"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.414,
+    "rankGapFactor": 0.091,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194127",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194127/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.427333Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.427335Z"
+}

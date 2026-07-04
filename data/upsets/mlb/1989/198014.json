@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-08-03-mets-at-cardinals",
+  "sport": "mlb",
+  "date": "1989-08-03",
+  "startTime": "1989-08-03T08:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "55-49"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "55-51"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198014",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198014/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.380744Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.380746Z"
+}

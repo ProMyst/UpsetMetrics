@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-27-braves-at-mets",
+  "sport": "mlb",
+  "date": "1997-09-27",
+  "startTime": "1997-09-27T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "87-74"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "101-60"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.517,
+    "rankGapFactor": 0.174,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215434",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215434/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.309428Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.309430Z"
+}

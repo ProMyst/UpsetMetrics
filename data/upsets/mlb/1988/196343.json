@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-09-09-mets-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1988-09-09",
+  "startTime": "1988-09-09T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "83-56"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "71-69"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196343",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196343/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.519036Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.519041Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-05-07-cubs-at-astros",
+  "sport": "mlb",
+  "date": "1991-05-07",
+  "startTime": "1991-05-08T00:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "14-13"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "10-15"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201145",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201145/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.088194Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.088196Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-08-04-red-sox-at-twins",
+  "sport": "mlb",
+  "date": "1993-08-04",
+  "startTime": "1993-08-05T00:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "60-47"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "45-59"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206531",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206531/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.612840Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.612842Z"
+}

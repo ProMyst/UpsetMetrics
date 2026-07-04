@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-09-14-pirates-at-giants",
+  "sport": "mlb",
+  "date": "1996-09-14",
+  "startTime": "1996-09-14T10:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "62-85"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "60-87"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213004",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213004/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.510137Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.510139Z"
+}

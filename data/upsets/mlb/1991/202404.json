@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-08-23-dodgers-at-cardinals",
+  "sport": "mlb",
+  "date": "1991-08-23",
+  "startTime": "1991-08-24T00:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "65-55"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "68-53"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.351,
+    "rankGapFactor": 0.041,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202404",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202404/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.342695Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.342697Z"
+}

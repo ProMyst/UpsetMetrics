@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-06-18-athletics-at-orioles",
+  "sport": "mlb",
+  "date": "1989-06-18",
+  "startTime": "1989-06-18T07:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "37-28"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "42-26"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.421,
+    "rankGapFactor": 0.097,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197487",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197487/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.274366Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.274368Z"
+}

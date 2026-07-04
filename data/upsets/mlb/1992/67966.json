@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-10-09-braves-at-pirates",
+  "sport": "mlb",
+  "date": "1992-10-09",
+  "startTime": "1992-10-09T23:05:00Z",
+  "season": "1992",
+  "event": "NL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "1-2"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "2-1"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "67966",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/67966/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.194836Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.194838Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-08-12-brewers-at-rangers",
+  "sport": "mlb",
+  "date": "1986-08-12",
+  "startTime": "1986-08-13T00:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "56-56"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "59-54"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.355,
+    "rankGapFactor": 0.044,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191770",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191770/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.918946Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.918948Z"
+}

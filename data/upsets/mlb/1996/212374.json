@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-07-27-phillies-at-pirates",
+  "sport": "mlb",
+  "date": "1996-07-27",
+  "startTime": "1996-07-27T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "42-62"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "47-55"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.442,
+    "rankGapFactor": 0.114,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212374",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212374/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.378366Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.378368Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-06-29-rangers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1984-06-29",
+  "startTime": "1984-06-29T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "31-41"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "34-44"
+  },
+  "finalScore": "13-12",
+  "factors": {
+    "pregameOddsFactor": 0.313,
+    "rankGapFactor": 0.011,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187087",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187087/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.260883Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.260888Z"
+}

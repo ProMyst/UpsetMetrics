@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-06-28-blue-jays-at-orioles",
+  "sport": "mlb",
+  "date": "1989-06-28",
+  "startTime": "1989-06-28T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "43-31"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "36-40"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197607",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197607/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.298289Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.298291Z"
+}

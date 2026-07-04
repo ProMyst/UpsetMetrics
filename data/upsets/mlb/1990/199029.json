@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-05-06-braves-at-pirates",
+  "sport": "mlb",
+  "date": "1990-05-06",
+  "startTime": "1990-05-06T07:38:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "16-8"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "7-15"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199029",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199029/feed/live",
+    "retrievedAt": "2026-07-04T07:17:02.965984Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:02.965986Z"
+}

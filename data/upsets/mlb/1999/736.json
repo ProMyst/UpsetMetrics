@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-05-cubs-at-pirates",
+  "sport": "mlb",
+  "date": "1999-07-05",
+  "startTime": "1999-07-05T17:35:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "38-41"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "40-41"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.332,
+    "rankGapFactor": 0.026,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "736",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/736/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.351768Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.351771Z"
+}

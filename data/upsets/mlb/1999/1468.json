@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-10-reds-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1999-07-10",
+  "startTime": "1999-07-10T17:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "56-30"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "48-36"
+  },
+  "finalScore": "11-10",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1468",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1468/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.365186Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.365192Z"
+}

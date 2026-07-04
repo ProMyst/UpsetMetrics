@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-08-04-montreal-expos-at-cubs",
+  "sport": "mlb",
+  "date": "1984-08-04",
+  "startTime": "1984-08-04T08:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "63-45"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "52-55"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187506",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187506/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.347147Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.347152Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-09-02-braves-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1991-09-02",
+  "startTime": "1991-09-02T07:33:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "54-76"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "72-59"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.636,
+    "rankGapFactor": 0.268,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202526",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202526/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.367727Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.367732Z"
+}

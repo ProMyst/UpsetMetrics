@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-08-10-yankees-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1984-08-10",
+  "startTime": "1984-08-10T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "59-54"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "47-66"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187592",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187592/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.362542Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.362547Z"
+}

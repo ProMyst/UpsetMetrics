@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-09-22-cardinals-at-cubs",
+  "sport": "mlb",
+  "date": "1993-09-22",
+  "startTime": "1993-09-22T08:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "79-74"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "82-70"
+  },
+  "finalScore": "11-9",
+  "factors": {
+    "pregameOddsFactor": 0.358,
+    "rankGapFactor": 0.046,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207171",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207171/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.748666Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.748667Z"
+}

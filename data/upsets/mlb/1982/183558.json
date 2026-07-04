@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-08-28-pirates-at-giants",
+  "sport": "mlb",
+  "date": "1982-08-28",
+  "startTime": "1982-08-28T10:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "65-65"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "68-61"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.368,
+    "rankGapFactor": 0.054,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183558",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183558/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.403847Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.403849Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-09-10-brewers-at-rockies",
+  "sport": "mlb",
+  "date": "1999-09-10",
+  "startTime": "1999-09-11T00:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "64-78"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "61-79"
+  },
+  "finalScore": "15-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2867",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2867/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.536384Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.536386Z"
+}

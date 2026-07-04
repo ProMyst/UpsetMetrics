@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-09-25-tigers-at-blue-jays",
+  "sport": "mlb",
+  "date": "1987-09-25",
+  "startTime": "1987-09-25T23:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "95-59"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "92-61"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194402",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194402/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.482554Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.482556Z"
+}

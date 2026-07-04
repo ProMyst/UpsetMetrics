@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-06-26-california-angels-at-mariners",
+  "sport": "mlb",
+  "date": "1995-06-26",
+  "startTime": "1995-06-27T02:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "29-27"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "33-23"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.479,
+    "rankGapFactor": 0.143,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209678",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209678/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.971088Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.971093Z"
+}

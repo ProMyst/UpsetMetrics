@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-08-11-astros-at-giants",
+  "sport": "mlb",
+  "date": "1987-08-11",
+  "startTime": "1987-08-12T02:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "55-57"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "58-56"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.344,
+    "rankGapFactor": 0.035,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193874",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193874/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.372350Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.372352Z"
+}

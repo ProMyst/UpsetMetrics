@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-09-10-braves-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1998-09-10",
+  "startTime": "1998-09-10T23:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "93-54"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "57-90"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "217644",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/217644/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.334239Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.334243Z"
+}

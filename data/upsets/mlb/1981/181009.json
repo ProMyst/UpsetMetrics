@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-25-white-sox-at-athletics",
+  "sport": "mlb",
+  "date": "1981-05-25",
+  "startTime": "1981-05-25T10:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "30-16"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "22-16"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181009",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181009/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.062771Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.062773Z"
+}

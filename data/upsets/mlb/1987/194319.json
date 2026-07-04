@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-09-18-cubs-at-cardinals",
+  "sport": "mlb",
+  "date": "1987-09-18",
+  "startTime": "1987-09-19T00:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "71-75"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "85-61"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.54,
+    "rankGapFactor": 0.192,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194319",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194319/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.466943Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.466945Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-06-21-rangers-at-athletics",
+  "sport": "mlb",
+  "date": "1987-06-21",
+  "startTime": "1987-06-21T10:38:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "30-35"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "35-32"
+  },
+  "finalScore": "13-3",
+  "factors": {
+    "pregameOddsFactor": 0.452,
+    "rankGapFactor": 0.122,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193291",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193291/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.249282Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.249284Z"
+}

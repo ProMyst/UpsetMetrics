@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-07-10-braves-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1983-07-10",
+  "startTime": "1983-07-10T07:33:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "42-38"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "51-32"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.524,
+    "rankGapFactor": 0.179,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185038",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185038/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.619895Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.619900Z"
+}

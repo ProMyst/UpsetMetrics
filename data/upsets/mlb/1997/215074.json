@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-30-mets-at-orioles",
+  "sport": "mlb",
+  "date": "1997-08-30",
+  "startTime": "1997-08-30T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "72-62"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "85-47"
+  },
+  "finalScore": "13-6",
+  "factors": {
+    "pregameOddsFactor": 0.567,
+    "rankGapFactor": 0.213,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215074",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215074/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.236981Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.236983Z"
+}

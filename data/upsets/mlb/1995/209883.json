@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-07-13-cardinals-at-pirates",
+  "sport": "mlb",
+  "date": "1995-07-13",
+  "startTime": "1995-07-13T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "30-37"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "31-41"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209883",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209883/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.008688Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.008690Z"
+}

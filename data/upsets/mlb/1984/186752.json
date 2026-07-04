@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-06-02-mariners-at-rangers",
+  "sport": "mlb",
+  "date": "1984-06-02",
+  "startTime": "1984-06-03T00:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "25-27"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "20-31"
+  },
+  "finalScore": "10-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186752",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186752/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.194013Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.194015Z"
+}

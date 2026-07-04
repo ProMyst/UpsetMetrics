@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-10-02-dodgers-at-giants",
+  "sport": "mlb",
+  "date": "1980-10-02",
+  "startTime": "1980-10-03T02:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "74-84"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "89-70"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.528,
+    "rankGapFactor": 0.183,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180452",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180452/feed/live",
+    "retrievedAt": "2026-07-04T07:02:45.018337Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:45.018339Z"
+}

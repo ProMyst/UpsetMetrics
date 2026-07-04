@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-08-06-rangers-at-athletics",
+  "sport": "mlb",
+  "date": "1994-08-06",
+  "startTime": "1994-08-07T02:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "49-60"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "52-58"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.358,
+    "rankGapFactor": 0.046,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208847",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208847/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.747819Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.747821Z"
+}

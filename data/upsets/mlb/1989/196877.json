@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-04-26-yankees-at-royals",
+  "sport": "mlb",
+  "date": "1989-04-26",
+  "startTime": "1989-04-27T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "13-7"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "8-12"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196877",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196877/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.153592Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.153594Z"
+}

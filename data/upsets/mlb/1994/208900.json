@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-08-10-padres-at-astros",
+  "sport": "mlb",
+  "date": "1994-08-10",
+  "startTime": "1994-08-11T00:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "66-48"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "46-70"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208900",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208900/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.757702Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.757704Z"
+}

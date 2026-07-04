@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-04-28-yankees-at-rangers",
+  "sport": "mlb",
+  "date": "1999-04-28",
+  "startTime": "1999-04-29T00:35:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "12-9"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "13-6"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.582,
+    "rankGapFactor": 0.226,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "876",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/876/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.170937Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.170939Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-05-04-white-sox-at-red-sox",
+  "sport": "mlb",
+  "date": "1984-05-04",
+  "startTime": "1984-05-04T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "11-13"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "11-15"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186422",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186422/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.130074Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.130076Z"
+}

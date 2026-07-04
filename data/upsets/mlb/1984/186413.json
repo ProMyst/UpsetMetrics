@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-05-02-athletics-at-california-angels",
+  "sport": "mlb",
+  "date": "1984-05-02",
+  "startTime": "1984-05-03T02:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "15-11"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "16-12"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186413",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186413/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.127698Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.127703Z"
+}

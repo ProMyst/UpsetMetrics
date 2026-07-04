@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-08-19-brewers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1984-08-19",
+  "startTime": "1984-08-19T07:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "54-70"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "52-71"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187701",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187701/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.387357Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.387362Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-09-29-cubs-at-mets",
+  "sport": "mlb",
+  "date": "1990-09-29",
+  "startTime": "1990-09-29T07:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "74-84"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "89-69"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.537,
+    "rankGapFactor": 0.19,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200771",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200771/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.316908Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.316910Z"
+}

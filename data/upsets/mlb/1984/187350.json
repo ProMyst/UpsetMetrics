@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-07-22-montreal-expos-at-astros",
+  "sport": "mlb",
+  "date": "1984-07-22",
+  "startTime": "1984-07-23T00:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "47-51"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "47-48"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.338,
+    "rankGapFactor": 0.03,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187350",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187350/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.315007Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.315011Z"
+}

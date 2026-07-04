@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-06-13-yankees-at-red-sox",
+  "sport": "mlb",
+  "date": "1984-06-13",
+  "startTime": "1984-06-13T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "26-33"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "31-29"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.49,
+    "rankGapFactor": 0.152,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186888",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186888/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.221606Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.221608Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-06-14-yankees-at-red-sox",
+  "sport": "mlb",
+  "date": "1988-06-14",
+  "startTime": "1988-06-14T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "29-30"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "39-22"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.67,
+    "rankGapFactor": 0.296,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195323",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195323/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.312196Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.312199Z"
+}

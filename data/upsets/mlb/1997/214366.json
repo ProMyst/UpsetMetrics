@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-07-04-pirates-at-cardinals",
+  "sport": "mlb",
+  "date": "1997-07-04",
+  "startTime": "1997-07-04T08:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "41-43"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "41-43"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214366",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214366/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.092333Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.092335Z"
+}

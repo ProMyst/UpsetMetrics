@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-05-26-orioles-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "1999-05-26",
+  "startTime": "1999-05-27T02:35:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "17-28"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "22-24"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.551,
+    "rankGapFactor": 0.201,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1261",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1261/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.246895Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.246899Z"
+}

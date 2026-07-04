@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-01-royals-at-reds",
+  "sport": "mlb",
+  "date": "1997-09-01",
+  "startTime": "1997-09-01T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "56-78"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "59-76"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.348,
+    "rankGapFactor": 0.038,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215101",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215101/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.242065Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.242067Z"
+}

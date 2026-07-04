@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-09-07-cardinals-at-padres",
+  "sport": "mlb",
+  "date": "1991-09-07",
+  "startTime": "1991-09-08T02:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "69-68"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "71-64"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.356,
+    "rankGapFactor": 0.045,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202592",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202592/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.378546Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.378548Z"
+}

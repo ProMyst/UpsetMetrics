@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-08-15-tigers-at-royals",
+  "sport": "mlb",
+  "date": "1983-08-15",
+  "startTime": "1983-08-16T00:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "57-57"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "65-51"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.451,
+    "rankGapFactor": 0.121,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185508",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185508/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.711443Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.711445Z"
+}

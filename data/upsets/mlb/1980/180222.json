@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-09-12-rangers-at-california-angels",
+  "sport": "mlb",
+  "date": "1980-09-12",
+  "startTime": "1980-09-13T02:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "56-84"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "69-71"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.532,
+    "rankGapFactor": 0.186,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180222",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180222/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.971260Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.971265Z"
+}

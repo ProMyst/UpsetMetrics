@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-08-29-athletics-at-blue-jays",
+  "sport": "mlb",
+  "date": "1987-08-29",
+  "startTime": "1987-08-29T07:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "67-62"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "76-53"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.474,
+    "rankGapFactor": 0.14,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194089",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194089/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.420754Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.420756Z"
+}

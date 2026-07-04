@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-08-11-braves-at-giants",
+  "sport": "mlb",
+  "date": "1982-08-11",
+  "startTime": "1982-08-11T10:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "60-55"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "62-50"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.38,
+    "rankGapFactor": 0.064,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183342",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183342/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.357011Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.357012Z"
+}

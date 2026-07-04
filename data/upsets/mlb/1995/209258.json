@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-05-24-orioles-at-athletics",
+  "sport": "mlb",
+  "date": "1995-05-24",
+  "startTime": "1995-05-25T02:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "14-12"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "10-14"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209258",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209258/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.886464Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.886466Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-05-12-dodgers-at-pirates",
+  "sport": "mlb",
+  "date": "1988-05-12",
+  "startTime": "1988-05-12T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "22-11"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "19-11"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194937",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194937/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.233926Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.233928Z"
+}

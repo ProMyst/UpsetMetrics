@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-05-13-cardinals-at-braves",
+  "sport": "mlb",
+  "date": "1982-05-13",
+  "startTime": "1982-05-13T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "21-12"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "21-11"
+  },
+  "finalScore": "10-9",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.04,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182298",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182298/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.147376Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.147378Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-09-cardinals-at-giants",
+  "sport": "mlb",
+  "date": "1997-09-09",
+  "startTime": "1997-09-10T02:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "67-77"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "79-65"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.508,
+    "rankGapFactor": 0.167,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215206",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215206/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.262116Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.262118Z"
+}

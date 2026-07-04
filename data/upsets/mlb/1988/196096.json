@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-08-19-montreal-expos-at-dodgers",
+  "sport": "mlb",
+  "date": "1988-08-19",
+  "startTime": "1988-08-20T02:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "70-51"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "63-58"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196096",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196096/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.472047Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.472051Z"
+}

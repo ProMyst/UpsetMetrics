@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-09-14-montreal-expos-at-dodgers",
+  "sport": "mlb",
+  "date": "1999-09-14",
+  "startTime": "1999-09-15T02:10:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "61-84"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "67-78"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.403,
+    "rankGapFactor": 0.083,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "920",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/920/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.548657Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.548662Z"
+}

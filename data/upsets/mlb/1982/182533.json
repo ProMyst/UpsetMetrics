@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-06-04-red-sox-at-california-angels",
+  "sport": "mlb",
+  "date": "1982-06-04",
+  "startTime": "1982-06-05T02:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "31-19"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "31-21"
+  },
+  "finalScore": "11-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182533",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182533/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.196999Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.197004Z"
+}

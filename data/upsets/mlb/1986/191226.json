@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-06-25-athletics-at-royals",
+  "sport": "mlb",
+  "date": "1986-06-25",
+  "startTime": "1986-06-26T00:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "36-35"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "29-44"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191226",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191226/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.807628Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.807630Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-08-17-red-sox-at-brewers",
+  "sport": "mlb",
+  "date": "1983-08-17",
+  "startTime": "1983-08-18T00:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "67-51"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "58-60"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185533",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185533/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.721122Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.721127Z"
+}

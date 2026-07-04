@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-06-27-montreal-expos-at-cubs",
+  "sport": "mlb",
+  "date": "1990-06-27",
+  "startTime": "1990-06-27T08:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "30-44"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "42-31"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.725,
+    "rankGapFactor": 0.34,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199650",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199650/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.090172Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.090177Z"
+}

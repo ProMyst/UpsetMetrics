@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-11-royals-at-pirates",
+  "sport": "mlb",
+  "date": "1999-06-11",
+  "startTime": "1999-06-11T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "26-32"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "30-29"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.45,
+    "rankGapFactor": 0.12,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2219",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2219/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.285734Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.285736Z"
+}

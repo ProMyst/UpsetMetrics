@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-08-25-blue-jays-at-white-sox",
+  "sport": "mlb",
+  "date": "1992-08-25",
+  "startTime": "1992-08-26T00:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "67-57"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "71-55"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.358,
+    "rankGapFactor": 0.046,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204565",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204565/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.097425Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.097427Z"
+}

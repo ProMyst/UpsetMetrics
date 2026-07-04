@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-06-19-giants-at-astros",
+  "sport": "mlb",
+  "date": "1993-06-19",
+  "startTime": "1993-06-20T00:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "45-23"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "34-31"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205971",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205971/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.491279Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.491281Z"
+}

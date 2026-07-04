@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-10-03-padres-at-giants",
+  "sport": "mlb",
+  "date": "1981-10-03",
+  "startTime": "1981-10-03T10:38:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "41-68"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "55-55"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.61,
+    "rankGapFactor": 0.248,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181874",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181874/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.231987Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.231988Z"
+}

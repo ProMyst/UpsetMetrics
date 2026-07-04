@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-05-17-red-sox-at-orioles",
+  "sport": "mlb",
+  "date": "1994-05-17",
+  "startTime": "1994-05-17T23:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "22-13"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "24-13"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.04,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207824",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207824/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.541825Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.541827Z"
+}

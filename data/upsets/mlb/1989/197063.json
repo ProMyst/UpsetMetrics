@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-05-13-brewers-at-athletics",
+  "sport": "mlb",
+  "date": "1989-05-13",
+  "startTime": "1989-05-13T10:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "24-11"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "14-19"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197063",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197063/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.191893Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.191895Z"
+}

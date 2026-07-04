@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-09-19-royals-at-twins",
+  "sport": "mlb",
+  "date": "1990-09-19",
+  "startTime": "1990-09-20T00:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "68-83"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "69-80"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.332,
+    "rankGapFactor": 0.026,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200657",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200657/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.294427Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.294429Z"
+}

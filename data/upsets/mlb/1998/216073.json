@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-05-16-mariners-at-blue-jays",
+  "sport": "mlb",
+  "date": "1998-05-16",
+  "startTime": "1998-05-16T07:33:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "20-21"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "19-22"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216073",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216073/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.017304Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.017306Z"
+}

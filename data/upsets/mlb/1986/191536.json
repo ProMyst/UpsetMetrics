@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-07-24-white-sox-at-orioles",
+  "sport": "mlb",
+  "date": "1986-07-24",
+  "startTime": "1986-07-24T23:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "51-44"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "42-52"
+  },
+  "finalScore": "12-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191536",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191536/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.872292Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.872294Z"
+}

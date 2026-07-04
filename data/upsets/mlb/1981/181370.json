@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-08-22-giants-at-cubs",
+  "sport": "mlb",
+  "date": "1981-08-22",
+  "startTime": "1981-08-22T08:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "34-37"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "20-44"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181370",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181370/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.133134Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.133136Z"
+}

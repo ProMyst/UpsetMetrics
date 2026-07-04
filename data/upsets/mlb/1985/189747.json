@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-08-21-blue-jays-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1985-08-21",
+  "startTime": "1985-08-21T23:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "40-79"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "74-46"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.561,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "189747",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/189747/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.680206Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.680211Z"
+}

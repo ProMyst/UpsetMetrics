@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-20-mets-at-florida-marlins",
+  "sport": "mlb",
+  "date": "1997-09-20",
+  "startTime": "1997-09-20T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "83-72"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "90-64"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.422,
+    "rankGapFactor": 0.098,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215351",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215351/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.291494Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.291499Z"
+}

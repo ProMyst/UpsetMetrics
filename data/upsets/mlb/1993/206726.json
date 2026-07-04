@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-08-18-rangers-at-yankees",
+  "sport": "mlb",
+  "date": "1993-08-18",
+  "startTime": "1993-08-18T07:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "62-58"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "69-53"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.422,
+    "rankGapFactor": 0.098,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206726",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206726/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.658427Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.658429Z"
+}

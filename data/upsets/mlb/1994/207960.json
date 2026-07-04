@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-05-28-reds-at-mets",
+  "sport": "mlb",
+  "date": "1994-05-28",
+  "startTime": "1994-05-28T07:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "24-23"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "27-21"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.43,
+    "rankGapFactor": 0.104,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207960",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207960/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.570162Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.570164Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-07-01-braves-at-florida-marlins",
+  "sport": "mlb",
+  "date": "1994-07-01",
+  "startTime": "1994-07-01T23:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "37-42"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "48-29"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.688,
+    "rankGapFactor": 0.31,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208388",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208388/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.655631Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.655636Z"
+}

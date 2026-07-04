@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-08-03-montreal-expos-at-pirates",
+  "sport": "mlb",
+  "date": "1989-08-03",
+  "startTime": "1989-08-03T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "46-61"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "63-45"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.684,
+    "rankGapFactor": 0.307,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198013",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198013/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.378887Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.378891Z"
+}

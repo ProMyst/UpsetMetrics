@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-07-13-brewers-at-rangers",
+  "sport": "mlb",
+  "date": "1983-07-13",
+  "startTime": "1983-07-14T00:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "42-39"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "45-39"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.343,
+    "rankGapFactor": 0.034,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185083",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185083/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.627655Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.627657Z"
+}

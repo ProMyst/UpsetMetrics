@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-08-29-athletics-at-white-sox",
+  "sport": "mlb",
+  "date": "1999-08-29",
+  "startTime": "1999-08-29T18:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "62-68"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "71-59"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.473,
+    "rankGapFactor": 0.138,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1142",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1142/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.503736Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.503738Z"
+}

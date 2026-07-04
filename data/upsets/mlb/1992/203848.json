@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-06-25-california-angels-at-mariners",
+  "sport": "mlb",
+  "date": "1992-06-25",
+  "startTime": "1992-06-26T02:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "30-42"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "30-41"
+  },
+  "finalScore": "13-4",
+  "factors": {
+    "pregameOddsFactor": 0.315,
+    "rankGapFactor": 0.012,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203848",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203848/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.951879Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.951883Z"
+}

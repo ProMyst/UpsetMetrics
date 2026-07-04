@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-07-17-cleveland-indians-at-athletics",
+  "sport": "mlb",
+  "date": "1991-07-17",
+  "startTime": "1991-07-17T10:33:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "28-58"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "48-41"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.834,
+    "rankGapFactor": 0.427,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201963",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201963/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.251323Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.251328Z"
+}

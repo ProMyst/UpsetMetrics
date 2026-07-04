@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-05-21-braves-at-rockies",
+  "sport": "mlb",
+  "date": "1994-05-21",
+  "startTime": "1994-05-21T09:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "26-14"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "17-23"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207872",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207872/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.553912Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.553914Z"
+}

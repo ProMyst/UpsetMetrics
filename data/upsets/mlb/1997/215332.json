@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-19-rockies-at-dodgers",
+  "sport": "mlb",
+  "date": "1997-09-19",
+  "startTime": "1997-09-20T02:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "79-75"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "84-70"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.381,
+    "rankGapFactor": 0.065,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215332",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215332/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.289148Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.289150Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-06-25-royals-at-mariners",
+  "sport": "mlb",
+  "date": "1988-06-25",
+  "startTime": "1988-06-26T02:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "38-35"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "28-46"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195452",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195452/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.339076Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.339078Z"
+}

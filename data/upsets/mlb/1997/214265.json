@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-27-padres-at-dodgers",
+  "sport": "mlb",
+  "date": "1997-06-27",
+  "startTime": "1997-06-28T02:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "34-44"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "38-40"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.428,
+    "rankGapFactor": 0.103,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214265",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214265/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.072889Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.072891Z"
+}

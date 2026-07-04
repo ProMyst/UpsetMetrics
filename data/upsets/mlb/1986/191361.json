@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-07-07-cleveland-indians-at-white-sox",
+  "sport": "mlb",
+  "date": "1986-07-07",
+  "startTime": "1986-07-08T00:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "37-43"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "43-36"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.505,
+    "rankGapFactor": 0.164,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191361",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191361/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.836794Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.836799Z"
+}

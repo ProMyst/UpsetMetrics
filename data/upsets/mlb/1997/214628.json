@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-07-27-florida-marlins-at-cardinals",
+  "sport": "mlb",
+  "date": "1997-07-27",
+  "startTime": "1997-07-27T08:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "50-53"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "58-44"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.508,
+    "rankGapFactor": 0.166,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214628",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214628/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.145338Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.145343Z"
+}

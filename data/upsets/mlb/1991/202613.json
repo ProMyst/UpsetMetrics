@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-09-09-pirates-at-cubs",
+  "sport": "mlb",
+  "date": "1991-09-09",
+  "startTime": "1991-09-09T08:33:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "82-55"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "68-69"
+  },
+  "finalScore": "12-10",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202613",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202613/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.383934Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.383936Z"
+}

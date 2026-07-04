@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-10-02-white-sox-at-royals",
+  "sport": "mlb",
+  "date": "1988-10-02",
+  "startTime": "1988-10-02T08:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "71-90"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "84-77"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.502,
+    "rankGapFactor": 0.161,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196614",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196614/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.575103Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.575104Z"
+}

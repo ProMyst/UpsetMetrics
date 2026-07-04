@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-09-22-rangers-at-twins",
+  "sport": "mlb",
+  "date": "1980-09-22",
+  "startTime": "1980-09-23T00:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "69-82"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "71-79"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.341,
+    "rankGapFactor": 0.033,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180343",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180343/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.995039Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.995041Z"
+}

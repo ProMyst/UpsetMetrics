@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-09-02-padres-at-cardinals",
+  "sport": "mlb",
+  "date": "1992-09-02",
+  "startTime": "1992-09-03T00:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "70-62"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "65-66"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204660",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204660/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.116030Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.116032Z"
+}

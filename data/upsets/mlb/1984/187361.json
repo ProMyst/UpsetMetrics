@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-07-23-yankees-at-brewers",
+  "sport": "mlb",
+  "date": "1984-07-23",
+  "startTime": "1984-07-24T00:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "44-54"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "45-50"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.362,
+    "rankGapFactor": 0.049,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187361",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187361/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.318692Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.318694Z"
+}

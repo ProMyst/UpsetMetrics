@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-10-10-cleveland-indians-at-mariners",
+  "sport": "mlb",
+  "date": "1995-10-10",
+  "startTime": "1995-10-11T02:05:00Z",
+  "season": "1995",
+  "event": "AL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68015",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68015/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.224098Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.224102Z"
+}

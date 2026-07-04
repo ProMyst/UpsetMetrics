@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-08-05-brewers-at-orioles",
+  "sport": "mlb",
+  "date": "1988-08-05",
+  "startTime": "1988-08-05T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "36-71"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "54-55"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.697,
+    "rankGapFactor": 0.318,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195923",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195923/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.433173Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.433175Z"
+}

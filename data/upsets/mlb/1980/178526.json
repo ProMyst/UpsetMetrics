@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-04-21-pirates-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1980-04-21",
+  "startTime": "1980-04-21T08:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "7-3"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "4-5"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178526",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178526/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.631122Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.631126Z"
+}

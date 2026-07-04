@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-09-11-mariners-at-orioles",
+  "sport": "mlb",
+  "date": "1999-09-11",
+  "startTime": "1999-09-11T20:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "66-76"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "70-71"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.379,
+    "rankGapFactor": 0.063,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "219",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/219/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.538082Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.538084Z"
+}

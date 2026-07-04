@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-08-04-braves-at-dodgers",
+  "sport": "mlb",
+  "date": "1996-08-04",
+  "startTime": "1996-08-04T10:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "68-42"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "58-54"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212467",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212467/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.405662Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.405663Z"
+}

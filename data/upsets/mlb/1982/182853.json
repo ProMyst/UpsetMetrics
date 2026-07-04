@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-07-01-red-sox-at-tigers",
+  "sport": "mlb",
+  "date": "1982-07-01",
+  "startTime": "1982-07-01T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "39-33"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "44-30"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.432,
+    "rankGapFactor": 0.106,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182853",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182853/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.259064Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.259066Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-09-03-phillies-at-padres",
+  "sport": "mlb",
+  "date": "1989-09-03",
+  "startTime": "1989-09-03T10:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "71-65"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "54-81"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198394",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198394/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.459642Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.459644Z"
+}

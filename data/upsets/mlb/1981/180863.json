@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-12-rangers-at-royals",
+  "sport": "mlb",
+  "date": "1981-05-12",
+  "startTime": "1981-05-13T00:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "7-16"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "16-12"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.968,
+    "rankGapFactor": 0.534,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180863",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180863/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.029547Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.029549Z"
+}

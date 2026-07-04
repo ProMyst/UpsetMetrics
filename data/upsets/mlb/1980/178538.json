@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-04-22-padres-at-braves",
+  "sport": "mlb",
+  "date": "1980-04-22",
+  "startTime": "1980-04-22T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "2-9"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "6-6"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178538",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178538/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.631720Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.631722Z"
+}

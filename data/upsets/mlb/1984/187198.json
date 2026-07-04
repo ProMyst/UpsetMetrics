@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-07-08-california-angels-at-red-sox",
+  "sport": "mlb",
+  "date": "1984-07-08",
+  "startTime": "1984-07-08T07:38:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "44-42"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "41-43"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187198",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187198/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.284792Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.284797Z"
+}

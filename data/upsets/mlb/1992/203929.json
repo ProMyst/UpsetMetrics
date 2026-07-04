@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-07-01-pirates-at-cardinals",
+  "sport": "mlb",
+  "date": "1992-07-01",
+  "startTime": "1992-07-01T08:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "44-33"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "37-39"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203929",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203929/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.968023Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.968025Z"
+}

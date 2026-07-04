@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-11-cubs-at-white-sox",
+  "sport": "mlb",
+  "date": "1999-07-11",
+  "startTime": "1999-07-12T00:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "41-44"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "42-43"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.329,
+    "rankGapFactor": 0.024,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "459",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/459/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.371040Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.371042Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-07-16-red-sox-at-athletics",
+  "sport": "mlb",
+  "date": "1994-07-16",
+  "startTime": "1994-07-17T02:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "40-50"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "44-45"
+  },
+  "finalScore": "9-0",
+  "factors": {
+    "pregameOddsFactor": 0.425,
+    "rankGapFactor": 0.1,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208560",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208560/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.692498Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.692500Z"
+}

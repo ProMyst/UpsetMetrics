@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-04-17-cleveland-indians-at-yankees",
+  "sport": "mlb",
+  "date": "1992-04-17",
+  "startTime": "1992-04-17T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "4-7"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "6-4"
+  },
+  "finalScore": "11-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203062",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203062/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.795162Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.795167Z"
+}

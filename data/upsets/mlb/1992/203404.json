@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-05-17-padres-at-pirates",
+  "sport": "mlb",
+  "date": "1992-05-17",
+  "startTime": "1992-05-17T07:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "20-17"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "23-13"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.546,
+    "rankGapFactor": 0.197,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203404",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203404/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.862568Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.862570Z"
+}

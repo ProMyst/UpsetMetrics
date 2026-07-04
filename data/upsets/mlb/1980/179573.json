@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-07-21-rangers-at-red-sox",
+  "sport": "mlb",
+  "date": "1980-07-21",
+  "startTime": "1980-07-21T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "45-46"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "46-44"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.342,
+    "rankGapFactor": 0.033,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179573",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179573/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.836646Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.836648Z"
+}

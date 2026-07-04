@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-06-08-tigers-at-california-angels",
+  "sport": "mlb",
+  "date": "1991-06-08",
+  "startTime": "1991-06-09T02:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "27-27"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "31-23"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.485,
+    "rankGapFactor": 0.148,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201517",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201517/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.161514Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.161519Z"
+}

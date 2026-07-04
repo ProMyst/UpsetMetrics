@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-05-12-cardinals-at-reds",
+  "sport": "mlb",
+  "date": "1984-05-12",
+  "startTime": "1984-05-12T07:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "19-14"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "15-19"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186521",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186521/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.148629Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.148631Z"
+}

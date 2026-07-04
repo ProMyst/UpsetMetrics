@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-07-01-reds-at-mets",
+  "sport": "mlb",
+  "date": "1990-07-01",
+  "startTime": "1990-07-01T07:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "42-30"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "46-27"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.417,
+    "rankGapFactor": 0.094,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199696",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199696/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.098869Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.098871Z"
+}

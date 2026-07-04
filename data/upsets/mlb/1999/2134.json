@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-04-29-reds-at-phillies",
+  "sport": "mlb",
+  "date": "1999-04-29",
+  "startTime": "1999-04-29T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "9-11"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "11-10"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.485,
+    "rankGapFactor": 0.148,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2134",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2134/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.173707Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.173709Z"
+}

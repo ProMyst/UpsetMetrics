@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-09-13-braves-at-astros",
+  "sport": "mlb",
+  "date": "1992-09-13",
+  "startTime": "1992-09-13T08:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "87-55"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "67-76"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204777",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204777/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.142166Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.142168Z"
+}

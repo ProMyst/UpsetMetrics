@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-08-19-royals-at-rangers",
+  "sport": "mlb",
+  "date": "1984-08-19",
+  "startTime": "1984-08-20T00:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "54-70"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "60-63"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.431,
+    "rankGapFactor": 0.105,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187699",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187699/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.388112Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.388114Z"
+}

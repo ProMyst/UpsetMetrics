@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-05-03-mariners-at-red-sox",
+  "sport": "mlb",
+  "date": "1993-05-03",
+  "startTime": "1993-05-03T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "12-13"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "15-10"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.6,
+    "rankGapFactor": 0.24,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205382",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205382/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.374955Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.374958Z"
+}

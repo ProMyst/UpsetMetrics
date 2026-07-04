@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-05-12-orioles-at-athletics",
+  "sport": "mlb",
+  "date": "1990-05-12",
+  "startTime": "1990-05-12T10:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "13-17"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "22-7"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.651,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199101",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199101/feed/live",
+    "retrievedAt": "2026-07-04T07:17:02.981820Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:02.981822Z"
+}

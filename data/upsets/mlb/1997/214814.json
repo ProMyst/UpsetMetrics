@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-10-astros-at-mets",
+  "sport": "mlb",
+  "date": "1997-08-10",
+  "startTime": "1997-08-10T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "63-55"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "65-51"
+  },
+  "finalScore": "11-8",
+  "factors": {
+    "pregameOddsFactor": 0.366,
+    "rankGapFactor": 0.053,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214814",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214814/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.185398Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.185400Z"
+}

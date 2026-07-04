@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-08-23-royals-at-rangers",
+  "sport": "mlb",
+  "date": "1982-08-23",
+  "startTime": "1982-08-24T00:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "49-72"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "70-54"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.699,
+    "rankGapFactor": 0.319,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183493",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183493/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.391282Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.391284Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-08-10-padres-at-astros",
+  "sport": "mlb",
+  "date": "1986-08-10",
+  "startTime": "1986-08-10T08:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "52-58"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "62-49"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.515,
+    "rankGapFactor": 0.172,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191748",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191748/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.913611Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.913613Z"
+}

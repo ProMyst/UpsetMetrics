@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-09-17-cleveland-indians-at-mariners",
+  "sport": "mlb",
+  "date": "1984-09-17",
+  "startTime": "1984-09-18T02:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "67-84"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "69-82"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.333,
+    "rankGapFactor": 0.026,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188044",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188044/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.457740Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.457745Z"
+}

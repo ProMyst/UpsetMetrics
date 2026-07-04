@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-05-07-brewers-at-white-sox",
+  "sport": "mlb",
+  "date": "1984-05-07",
+  "startTime": "1984-05-08T00:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "13-13"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "12-15"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186466",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186466/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.138217Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.138219Z"
+}

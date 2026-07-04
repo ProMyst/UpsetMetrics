@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-05-07-dodgers-at-cardinals",
+  "sport": "mlb",
+  "date": "1988-05-07",
+  "startTime": "1988-05-08T00:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "12-16"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "17-9"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.863,
+    "rankGapFactor": 0.451,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194880",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194880/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.222129Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.222131Z"
+}

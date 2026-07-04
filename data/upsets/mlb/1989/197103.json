@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-05-17-braves-at-cubs",
+  "sport": "mlb",
+  "date": "1989-05-17",
+  "startTime": "1989-05-18T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "20-18"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "18-22"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197103",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197103/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.201080Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.201082Z"
+}

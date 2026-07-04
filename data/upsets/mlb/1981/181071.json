@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-30-brewers-at-red-sox",
+  "sport": "mlb",
+  "date": "1981-05-30",
+  "startTime": "1981-05-30T07:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "25-20"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "26-19"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.356,
+    "rankGapFactor": 0.044,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181071",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181071/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.073361Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.073363Z"
+}

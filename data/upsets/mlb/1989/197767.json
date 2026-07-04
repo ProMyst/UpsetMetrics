@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-07-14-mariners-at-tigers",
+  "sport": "mlb",
+  "date": "1989-07-14",
+  "startTime": "1989-07-14T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "44-44"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "31-56"
+  },
+  "finalScore": "13-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197767",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197767/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.329762Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.329764Z"
+}

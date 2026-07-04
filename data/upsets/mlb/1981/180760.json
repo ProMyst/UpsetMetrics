@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-03-padres-at-mets",
+  "sport": "mlb",
+  "date": "1981-05-03",
+  "startTime": "1981-05-03T07:38:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "6-12"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "8-16"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180760",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180760/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.008411Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.008413Z"
+}

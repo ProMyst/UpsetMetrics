@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-05-11-brewers-at-cardinals",
+  "sport": "mlb",
+  "date": "1998-05-11",
+  "startTime": "1998-05-12T00:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "18-17"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "19-16"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.371,
+    "rankGapFactor": 0.057,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215997",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215997/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.002475Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.002477Z"
+}

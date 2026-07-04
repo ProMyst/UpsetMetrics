@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-08-01-braves-at-mets",
+  "sport": "mlb",
+  "date": "1994-08-01",
+  "startTime": "1994-08-01T23:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "63-42"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "50-54"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208769",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208769/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.732865Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.732867Z"
+}

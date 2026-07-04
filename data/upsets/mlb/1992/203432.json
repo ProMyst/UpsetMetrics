@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-05-19-rangers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1992-05-19",
+  "startTime": "1992-05-19T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "21-20"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "13-27"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203432",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203432/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.868255Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.868260Z"
+}

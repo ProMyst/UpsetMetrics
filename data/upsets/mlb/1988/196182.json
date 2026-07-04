@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-08-26-blue-jays-at-rangers",
+  "sport": "mlb",
+  "date": "1988-08-26",
+  "startTime": "1988-08-27T00:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "58-68"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "63-65"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.38,
+    "rankGapFactor": 0.064,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196182",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196182/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.487856Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.487858Z"
+}

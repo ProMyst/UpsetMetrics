@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-04-23-mets-at-cubs",
+  "sport": "mlb",
+  "date": "1999-04-23",
+  "startTime": "1999-04-23T19:20:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "11-6"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "5-9"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2034",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2034/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.155232Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.155234Z"
+}

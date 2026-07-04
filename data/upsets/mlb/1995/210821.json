@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-09-23-montreal-expos-at-braves",
+  "sport": "mlb",
+  "date": "1995-09-23",
+  "startTime": "1995-09-23T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "63-73"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "87-51"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.718,
+    "rankGapFactor": 0.334,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210821",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210821/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.199526Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.199531Z"
+}

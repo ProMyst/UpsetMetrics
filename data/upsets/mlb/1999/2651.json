@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-09-06-yankees-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "1999-09-06",
+  "startTime": "1999-09-07T00:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "53-84"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "84-53"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.866,
+    "rankGapFactor": 0.453,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2651",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2651/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.526495Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.526499Z"
+}

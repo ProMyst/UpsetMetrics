@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-01-yankees-at-athletics",
+  "sport": "mlb",
+  "date": "1981-05-01",
+  "startTime": "1981-05-02T02:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "19-3"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "11-7"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180731",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180731/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.004045Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.004047Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-06-11-astros-at-dodgers",
+  "sport": "mlb",
+  "date": "1987-06-11",
+  "startTime": "1987-06-12T02:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "30-28"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "28-31"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193162",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193162/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.225229Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.225231Z"
+}

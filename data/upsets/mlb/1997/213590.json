@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-05-04-yankees-at-royals",
+  "sport": "mlb",
+  "date": "1997-05-04",
+  "startTime": "1997-05-04T08:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "16-14"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "13-14"
+  },
+  "finalScore": "13-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213590",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213590/feed/live",
+    "retrievedAt": "2026-07-04T07:27:10.938161Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:10.938162Z"
+}

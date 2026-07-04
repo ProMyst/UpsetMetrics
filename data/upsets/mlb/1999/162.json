@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-11-rangers-at-padres",
+  "sport": "mlb",
+  "date": "1999-07-11",
+  "startTime": "1999-07-11T20:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "43-44"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "48-39"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.444,
+    "rankGapFactor": 0.115,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "162",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/162/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.370448Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.370450Z"
+}

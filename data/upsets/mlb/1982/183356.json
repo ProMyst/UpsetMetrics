@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-08-12-cubs-at-mets",
+  "sport": "mlb",
+  "date": "1982-08-12",
+  "startTime": "1982-08-12T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "49-67"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "48-64"
+  },
+  "finalScore": "13-6",
+  "factors": {
+    "pregameOddsFactor": 0.315,
+    "rankGapFactor": 0.012,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183356",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183356/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.357191Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.357193Z"
+}

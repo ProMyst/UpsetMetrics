@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-06-17-phillies-at-pirates",
+  "sport": "mlb",
+  "date": "1992-06-17",
+  "startTime": "1992-06-17T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "38-26"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "28-34"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203759",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203759/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.933438Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.933440Z"
+}

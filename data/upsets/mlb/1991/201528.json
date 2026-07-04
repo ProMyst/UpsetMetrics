@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-06-09-white-sox-at-royals",
+  "sport": "mlb",
+  "date": "1991-06-09",
+  "startTime": "1991-06-09T08:33:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "27-26"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "24-30"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201528",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201528/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.164581Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.164584Z"
+}

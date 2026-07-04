@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-20-montreal-expos-at-yankees",
+  "sport": "mlb",
+  "date": "1999-07-20",
+  "startTime": "1999-07-20T23:30:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "55-37"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "34-56"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2491",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2491/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.387799Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.387803Z"
+}

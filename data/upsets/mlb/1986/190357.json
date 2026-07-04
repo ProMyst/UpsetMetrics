@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-04-11-brewers-at-yankees",
+  "sport": "mlb",
+  "date": "1986-04-11",
+  "startTime": "1986-04-11T23:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "3-1"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "3-1"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190357",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190357/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.625586Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.625589Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-05-24-phillies-at-cardinals",
+  "sport": "mlb",
+  "date": "1994-05-24",
+  "startTime": "1994-05-25T00:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "22-23"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "23-20"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.415,
+    "rankGapFactor": 0.092,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207917",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207917/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.560095Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.560097Z"
+}

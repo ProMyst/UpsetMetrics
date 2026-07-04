@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-04-27-reds-at-astros",
+  "sport": "mlb",
+  "date": "1986-04-27",
+  "startTime": "1986-04-27T08:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "13-5"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "5-10"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190528",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190528/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.668183Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.668185Z"
+}

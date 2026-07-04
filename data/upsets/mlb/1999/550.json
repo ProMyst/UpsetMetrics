@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-09-01-athletics-at-yankees",
+  "sport": "mlb",
+  "date": "1999-09-01",
+  "startTime": "1999-09-01T11:30:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "73-60"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "81-51"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.462,
+    "rankGapFactor": 0.13,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "550",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/550/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.510987Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.510989Z"
+}

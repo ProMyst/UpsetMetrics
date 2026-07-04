@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-07-22-braves-at-cardinals",
+  "sport": "mlb",
+  "date": "1994-07-22",
+  "startTime": "1994-07-23T00:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "45-49"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "57-38"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.603,
+    "rankGapFactor": 0.243,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208635",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208635/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.706770Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.706772Z"
+}

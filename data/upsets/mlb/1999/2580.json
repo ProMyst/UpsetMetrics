@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-08-28-brewers-at-padres",
+  "sport": "mlb",
+  "date": "1999-08-28",
+  "startTime": "1999-08-29T02:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "57-71"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "58-72"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.302,
+    "rankGapFactor": 0.002,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2580",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2580/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.502126Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.502128Z"
+}

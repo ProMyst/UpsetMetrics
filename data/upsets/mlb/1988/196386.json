@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-09-13-cubs-at-phillies",
+  "sport": "mlb",
+  "date": "1988-09-13",
+  "startTime": "1988-09-13T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "69-75"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "58-86"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196386",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196386/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.529347Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.529349Z"
+}

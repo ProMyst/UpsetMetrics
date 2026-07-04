@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-08-20-yankees-at-royals",
+  "sport": "mlb",
+  "date": "1991-08-20",
+  "startTime": "1991-08-21T00:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "55-63"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "61-57"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.427,
+    "rankGapFactor": 0.102,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202372",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202372/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.331818Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.331820Z"
+}

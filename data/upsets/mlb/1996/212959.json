@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-09-11-brewers-at-red-sox",
+  "sport": "mlb",
+  "date": "1996-09-11",
+  "startTime": "1996-09-11T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "74-72"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "70-77"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212959",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212959/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.500898Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.500900Z"
+}

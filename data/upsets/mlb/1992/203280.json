@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-05-06-brewers-at-royals",
+  "sport": "mlb",
+  "date": "1992-05-06",
+  "startTime": "1992-05-07T00:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "6-20"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "12-13"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.923,
+    "rankGapFactor": 0.498,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203280",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203280/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.839246Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.839248Z"
+}

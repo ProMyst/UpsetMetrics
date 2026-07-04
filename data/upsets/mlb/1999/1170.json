@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-26-astros-at-rockies",
+  "sport": "mlb",
+  "date": "1999-07-26",
+  "startTime": "1999-07-27T01:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "60-40"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "44-55"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1170",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1170/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.411403Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.411405Z"
+}

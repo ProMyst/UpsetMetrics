@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-05-20-white-sox-at-blue-jays",
+  "sport": "mlb",
+  "date": "1984-05-20",
+  "startTime": "1984-05-20T07:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "19-21"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "24-14"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.691,
+    "rankGapFactor": 0.313,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186605",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186605/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.166665Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.166667Z"
+}

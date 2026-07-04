@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-06-10-rangers-at-mariners",
+  "sport": "mlb",
+  "date": "1987-06-10",
+  "startTime": "1987-06-11T02:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "24-31"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "29-30"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.438,
+    "rankGapFactor": 0.11,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193159",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193159/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.224079Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.224081Z"
+}

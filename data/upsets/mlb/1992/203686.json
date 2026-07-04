@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-06-11-california-angels-at-white-sox",
+  "sport": "mlb",
+  "date": "1992-06-11",
+  "startTime": "1992-06-11T08:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "23-35"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "28-28"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.559,
+    "rankGapFactor": 0.207,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203686",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203686/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.920528Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.920532Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-07-03-red-sox-at-white-sox",
+  "sport": "mlb",
+  "date": "1997-07-03",
+  "startTime": "1997-07-04T00:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "38-45"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "40-42"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.375,
+    "rankGapFactor": 0.06,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214342",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214342/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.088664Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.088666Z"
+}

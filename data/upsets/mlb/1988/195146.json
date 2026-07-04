@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-05-30-padres-at-phillies",
+  "sport": "mlb",
+  "date": "1988-05-30",
+  "startTime": "1988-05-30T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "19-27"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "17-32"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195146",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195146/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.275466Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.275468Z"
+}

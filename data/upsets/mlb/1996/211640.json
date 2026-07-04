@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-05-29-yankees-at-california-angels",
+  "sport": "mlb",
+  "date": "1996-05-29",
+  "startTime": "1996-05-30T02:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "25-26"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "28-21"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.503,
+    "rankGapFactor": 0.162,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211640",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211640/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.233392Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.233397Z"
+}

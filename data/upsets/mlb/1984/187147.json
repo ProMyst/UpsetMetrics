@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-07-04-royals-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1984-07-04",
+  "startTime": "1984-07-04T07:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "37-41"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "33-45"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187147",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187147/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.275252Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.275257Z"
+}

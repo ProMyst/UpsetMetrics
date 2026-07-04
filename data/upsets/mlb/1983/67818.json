@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-10-07-orioles-at-white-sox",
+  "sport": "mlb",
+  "date": "1983-10-07",
+  "startTime": "1983-10-08T00:05:00Z",
+  "season": "1983",
+  "event": "AL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "2-1"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "1-2"
+  },
+  "finalScore": "11-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "67818",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/67818/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.837497Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.837499Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-05-04-astros-at-mets",
+  "sport": "mlb",
+  "date": "1988-05-04",
+  "startTime": "1988-05-04T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "18-7"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "15-10"
+  },
+  "finalScore": "8-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194847",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194847/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.215406Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.215408Z"
+}

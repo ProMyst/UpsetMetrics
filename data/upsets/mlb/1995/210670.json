@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-09-11-padres-at-pirates",
+  "sport": "mlb",
+  "date": "1995-09-11",
+  "startTime": "1995-09-11T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "52-73"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "60-65"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.46,
+    "rankGapFactor": 0.128,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210670",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210670/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.168299Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.168301Z"
+}

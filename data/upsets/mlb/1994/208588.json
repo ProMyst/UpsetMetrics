@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-07-18-orioles-at-mariners",
+  "sport": "mlb",
+  "date": "1994-07-18",
+  "startTime": "1994-07-19T02:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "38-54"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "53-38"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.723,
+    "rankGapFactor": 0.339,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208588",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208588/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.697988Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.697990Z"
+}

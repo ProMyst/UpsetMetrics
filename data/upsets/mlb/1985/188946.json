@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-06-13-cardinals-at-pirates",
+  "sport": "mlb",
+  "date": "1985-06-13",
+  "startTime": "1985-06-13T23:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "31-26"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "18-37"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188946",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188946/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.520810Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.520812Z"
+}

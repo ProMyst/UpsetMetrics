@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-20-mets-at-giants",
+  "sport": "mlb",
+  "date": "1981-05-20",
+  "startTime": "1981-05-20T10:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "9-24"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "21-20"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.899,
+    "rankGapFactor": 0.479,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180955",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180955/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.049244Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.049246Z"
+}

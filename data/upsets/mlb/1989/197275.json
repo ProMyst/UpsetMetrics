@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-05-31-rangers-at-orioles",
+  "sport": "mlb",
+  "date": "1989-05-31",
+  "startTime": "1989-05-31T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "26-22"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "27-22"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.323,
+    "rankGapFactor": 0.019,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197275",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197275/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.231240Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.231242Z"
+}

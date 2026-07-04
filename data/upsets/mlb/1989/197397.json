@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-06-11-california-angels-at-royals",
+  "sport": "mlb",
+  "date": "1989-06-11",
+  "startTime": "1989-06-11T08:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "36-24"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "36-23"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.325,
+    "rankGapFactor": 0.02,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197397",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197397/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.259122Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.259127Z"
+}

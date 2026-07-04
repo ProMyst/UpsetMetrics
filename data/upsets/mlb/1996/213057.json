@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-09-19-red-sox-at-tigers",
+  "sport": "mlb",
+  "date": "1996-09-19",
+  "startTime": "1996-09-19T07:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "79-73"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "51-102"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213057",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213057/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.522531Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.522533Z"
+}

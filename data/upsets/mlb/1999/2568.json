@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-08-16-brewers-at-astros",
+  "sport": "mlb",
+  "date": "1999-08-16",
+  "startTime": "1999-08-17T00:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "71-49"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "54-62"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2568",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2568/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.468244Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.468246Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-14-rockies-at-braves",
+  "sport": "mlb",
+  "date": "1997-09-14",
+  "startTime": "1997-09-14T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "77-72"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "91-57"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.545,
+    "rankGapFactor": 0.196,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215260",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215260/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.273033Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.273035Z"
+}

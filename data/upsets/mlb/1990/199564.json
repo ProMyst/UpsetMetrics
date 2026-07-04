@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-06-20-orioles-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1990-06-20",
+  "startTime": "1990-06-20T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "31-35"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "30-33"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.316,
+    "rankGapFactor": 0.013,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199564",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199564/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.072408Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.072413Z"
+}

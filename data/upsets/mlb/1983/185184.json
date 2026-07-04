@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-07-21-tigers-at-california-angels",
+  "sport": "mlb",
+  "date": "1983-07-21",
+  "startTime": "1983-07-22T02:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "47-46"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "51-40"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.438,
+    "rankGapFactor": 0.11,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185184",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185184/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.645987Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.645991Z"
+}

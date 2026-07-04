@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-05-29-yankees-at-royals",
+  "sport": "mlb",
+  "date": "1994-05-29",
+  "startTime": "1994-05-29T08:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "24-23"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "32-14"
+  },
+  "finalScore": "10-6",
+  "factors": {
+    "pregameOddsFactor": 0.763,
+    "rankGapFactor": 0.37,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207979",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207979/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.572809Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.572811Z"
+}

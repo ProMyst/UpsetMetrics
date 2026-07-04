@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-07-30-red-sox-at-rangers",
+  "sport": "mlb",
+  "date": "1995-07-30",
+  "startTime": "1995-07-31T00:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "44-43"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "48-38"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.431,
+    "rankGapFactor": 0.105,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210107",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210107/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.053970Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.053972Z"
+}

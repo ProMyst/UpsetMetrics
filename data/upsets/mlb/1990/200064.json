@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-01-cardinals-at-phillies",
+  "sport": "mlb",
+  "date": "1990-08-01",
+  "startTime": "1990-08-01T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "50-50"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "46-58"
+  },
+  "finalScore": "11-10",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200064",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200064/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.171227Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.171228Z"
+}

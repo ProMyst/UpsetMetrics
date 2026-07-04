@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-06-04-rangers-at-twins",
+  "sport": "mlb",
+  "date": "1981-06-04",
+  "startTime": "1981-06-04T08:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "15-34"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "28-20"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.993,
+    "rankGapFactor": 0.554,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181131",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181131/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.084557Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.084559Z"
+}

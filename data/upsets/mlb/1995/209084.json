@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-05-09-mariners-at-athletics",
+  "sport": "mlb",
+  "date": "1995-05-09",
+  "startTime": "1995-05-10T02:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "5-8"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "7-4"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209084",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209084/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.847959Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.847962Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-05-04-tigers-at-athletics",
+  "sport": "mlb",
+  "date": "1980-05-04",
+  "startTime": "1980-05-04T10:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "8-13"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "14-9"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.869,
+    "rankGapFactor": 0.455,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178661",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178661/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.658226Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.658228Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-09-16-reds-at-giants",
+  "sport": "mlb",
+  "date": "1981-09-16",
+  "startTime": "1981-09-17T02:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "47-47"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "54-37"
+  },
+  "finalScore": "12-7",
+  "factors": {
+    "pregameOddsFactor": 0.534,
+    "rankGapFactor": 0.187,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181662",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181662/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.193729Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.193731Z"
+}

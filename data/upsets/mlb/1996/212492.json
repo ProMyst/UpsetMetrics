@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-08-06-white-sox-at-yankees",
+  "sport": "mlb",
+  "date": "1996-08-06",
+  "startTime": "1996-08-06T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "67-44"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "62-51"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212492",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212492/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.408787Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.408789Z"
+}

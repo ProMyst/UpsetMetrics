@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-06-21-yankees-at-orioles",
+  "sport": "mlb",
+  "date": "1984-06-21",
+  "startTime": "1984-06-21T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "30-37"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "39-30"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.594,
+    "rankGapFactor": 0.235,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186977",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186977/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.240582Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.240584Z"
+}

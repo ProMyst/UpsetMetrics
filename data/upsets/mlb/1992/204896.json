@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-09-22-blue-jays-at-orioles",
+  "sport": "mlb",
+  "date": "1992-09-22",
+  "startTime": "1992-09-22T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "89-63"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "82-68"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204896",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204896/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.163016Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.163018Z"
+}

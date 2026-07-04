@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-07-15-reds-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1988-07-15",
+  "startTime": "1988-07-15T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "43-46"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "46-42"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.399,
+    "rankGapFactor": 0.079,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195660",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195660/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.380721Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.380725Z"
+}

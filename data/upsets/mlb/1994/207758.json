@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-05-11-astros-at-dodgers",
+  "sport": "mlb",
+  "date": "1994-05-11",
+  "startTime": "1994-05-12T02:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "17-17"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "17-16"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.338,
+    "rankGapFactor": 0.03,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207758",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207758/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.529655Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.529657Z"
+}

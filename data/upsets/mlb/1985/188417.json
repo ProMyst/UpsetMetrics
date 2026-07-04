@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-04-26-blue-jays-at-rangers",
+  "sport": "mlb",
+  "date": "1985-04-26",
+  "startTime": "1985-04-27T00:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "9-7"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "5-10"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188417",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188417/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.414691Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.414693Z"
+}

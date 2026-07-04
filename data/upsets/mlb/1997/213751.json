@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-05-17-astros-at-phillies",
+  "sport": "mlb",
+  "date": "1997-05-17",
+  "startTime": "1997-05-17T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "15-25"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "22-20"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.672,
+    "rankGapFactor": 0.298,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213751",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213751/feed/live",
+    "retrievedAt": "2026-07-04T07:27:10.970202Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:10.970204Z"
+}

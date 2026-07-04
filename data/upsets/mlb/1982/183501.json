@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-08-23-giants-at-cubs",
+  "sport": "mlb",
+  "date": "1982-08-23",
+  "startTime": "1982-08-23T08:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "55-72"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "64-62"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.487,
+    "rankGapFactor": 0.15,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183501",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183501/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.392030Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.392032Z"
+}

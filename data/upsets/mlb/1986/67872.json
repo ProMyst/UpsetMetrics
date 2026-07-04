@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-10-15-mets-at-astros",
+  "sport": "mlb",
+  "date": "1986-10-15",
+  "startTime": "1986-10-16T00:05:00Z",
+  "season": "1986",
+  "event": "NL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "4-2"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "2-4"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "67872",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/67872/feed/live",
+    "retrievedAt": "2026-07-04T07:11:18.054794Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:18.054796Z"
+}

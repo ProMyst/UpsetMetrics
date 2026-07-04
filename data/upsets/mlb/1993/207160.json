@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-09-22-orioles-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1993-09-22",
+  "startTime": "1993-09-22T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "73-80"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "82-70"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.456,
+    "rankGapFactor": 0.125,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207160",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207160/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.746154Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.746158Z"
+}

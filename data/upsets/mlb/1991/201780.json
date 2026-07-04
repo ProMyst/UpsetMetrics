@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-06-29-rangers-at-california-angels",
+  "sport": "mlb",
+  "date": "1991-06-29",
+  "startTime": "1991-06-30T02:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "38-31"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "41-32"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.327,
+    "rankGapFactor": 0.022,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201780",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201780/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.212786Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.212791Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-09-04-mariners-at-red-sox",
+  "sport": "mlb",
+  "date": "1981-09-04",
+  "startTime": "1981-09-04T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "31-51"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "42-38"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.667,
+    "rankGapFactor": 0.294,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181528",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181528/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.163841Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.163843Z"
+}

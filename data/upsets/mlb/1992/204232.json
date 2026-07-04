@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-07-28-pirates-at-cubs",
+  "sport": "mlb",
+  "date": "1992-07-28",
+  "startTime": "1992-07-28T08:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "48-51"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "53-47"
+  },
+  "finalScore": "11-1",
+  "factors": {
+    "pregameOddsFactor": 0.413,
+    "rankGapFactor": 0.09,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204232",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204232/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.028764Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.028766Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-07-24-mariners-at-california-angels",
+  "sport": "mlb",
+  "date": "1984-07-24",
+  "startTime": "1984-07-25T02:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "46-55"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "50-48"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.437,
+    "rankGapFactor": 0.11,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187377",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187377/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.321001Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.321006Z"
+}

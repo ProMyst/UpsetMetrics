@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-06-08-reds-at-giants",
+  "sport": "mlb",
+  "date": "1986-06-08",
+  "startTime": "1986-06-08T10:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "22-29"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "29-25"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.564,
+    "rankGapFactor": 0.211,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191011",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191011/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.764174Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.764176Z"
+}

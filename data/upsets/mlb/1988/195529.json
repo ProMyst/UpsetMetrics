@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-07-01-pirates-at-giants",
+  "sport": "mlb",
+  "date": "1988-07-01",
+  "startTime": "1988-07-02T02:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "44-34"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "39-38"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195529",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195529/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.354310Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.354312Z"
+}

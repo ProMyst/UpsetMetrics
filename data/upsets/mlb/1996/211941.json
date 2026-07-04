@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-06-22-mariners-at-white-sox",
+  "sport": "mlb",
+  "date": "1996-06-22",
+  "startTime": "1996-06-22T08:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "39-32"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "41-31"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.04,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211941",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211941/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.294260Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.294262Z"
+}

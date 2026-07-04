@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-09-29-mariners-at-rangers",
+  "sport": "mlb",
+  "date": "1999-09-29",
+  "startTime": "1999-09-30T00:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "78-80"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "94-64"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.553,
+    "rankGapFactor": 0.203,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2628",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2628/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.587549Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.587551Z"
+}

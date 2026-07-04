@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-09-30-orioles-at-red-sox",
+  "sport": "mlb",
+  "date": "1984-09-30",
+  "startTime": "1984-09-30T07:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "85-77"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "86-76"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.315,
+    "rankGapFactor": 0.012,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188198",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188198/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.487031Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.487032Z"
+}

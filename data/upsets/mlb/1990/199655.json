@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-06-27-rangers-at-twins",
+  "sport": "mlb",
+  "date": "1990-06-27",
+  "startTime": "1990-06-28T00:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "32-41"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "35-37"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.419,
+    "rankGapFactor": 0.096,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199655",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199655/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.089524Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.089526Z"
+}

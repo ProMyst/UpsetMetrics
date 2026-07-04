@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-06-22-cubs-at-mets",
+  "sport": "mlb",
+  "date": "1992-06-22",
+  "startTime": "1992-06-22T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "33-36"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "33-35"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.318,
+    "rankGapFactor": 0.014,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203814",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203814/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.945307Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.945309Z"
+}

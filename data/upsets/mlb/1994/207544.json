@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-04-23-phillies-at-padres",
+  "sport": "mlb",
+  "date": "1994-04-23",
+  "startTime": "1994-04-24T02:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "5-14"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "8-10"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.753,
+    "rankGapFactor": 0.363,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207544",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207544/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.483158Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.483160Z"
+}

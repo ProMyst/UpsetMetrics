@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-08-22-phillies-at-padres",
+  "sport": "mlb",
+  "date": "1988-08-22",
+  "startTime": "1988-08-23T02:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "52-72"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "60-64"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.461,
+    "rankGapFactor": 0.129,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196139",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196139/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.479944Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.479946Z"
+}

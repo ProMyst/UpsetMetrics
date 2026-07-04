@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-05-twins-at-mariners",
+  "sport": "mlb",
+  "date": "1990-08-05",
+  "startTime": "1990-08-06T02:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "57-52"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "51-58"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200111",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200111/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.180747Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.180749Z"
+}

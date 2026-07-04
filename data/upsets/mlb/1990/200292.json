@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-20-cleveland-indians-at-brewers",
+  "sport": "mlb",
+  "date": "1990-08-20",
+  "startTime": "1990-08-21T00:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "54-66"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "56-65"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.332,
+    "rankGapFactor": 0.026,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200292",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200292/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.222679Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.222684Z"
+}

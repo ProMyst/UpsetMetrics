@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-05-10-white-sox-at-blue-jays",
+  "sport": "mlb",
+  "date": "1991-05-10",
+  "startTime": "1991-05-10T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "14-11"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "17-13"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.317,
+    "rankGapFactor": 0.013,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201177",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201177/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.093382Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.093384Z"
+}

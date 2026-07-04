@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-07-19-cleveland-indians-at-twins",
+  "sport": "mlb",
+  "date": "1989-07-19",
+  "startTime": "1989-07-20T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "44-48"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "45-49"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.301,
+    "rankGapFactor": 0.001,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197825",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197825/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.343287Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.343291Z"
+}

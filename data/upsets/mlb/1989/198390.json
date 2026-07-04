@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-09-03-twins-at-blue-jays",
+  "sport": "mlb",
+  "date": "1989-09-03",
+  "startTime": "1989-09-03T07:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "69-67"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "74-63"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.382,
+    "rankGapFactor": 0.066,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198390",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198390/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.457914Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.457916Z"
+}

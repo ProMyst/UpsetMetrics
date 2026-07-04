@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-07-17-phillies-at-reds",
+  "sport": "mlb",
+  "date": "1986-07-17",
+  "startTime": "1986-07-17T23:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "42-44"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "42-44"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191454",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191454/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.853760Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.853762Z"
+}

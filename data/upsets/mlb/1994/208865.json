@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-08-08-red-sox-at-twins",
+  "sport": "mlb",
+  "date": "1994-08-08",
+  "startTime": "1994-08-09T00:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "51-60"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "54-59"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.346,
+    "rankGapFactor": 0.037,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208865",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208865/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.752795Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.752797Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-08-09-astros-at-padres",
+  "sport": "mlb",
+  "date": "1982-08-09",
+  "startTime": "1982-08-10T02:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "49-62"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "60-52"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.536,
+    "rankGapFactor": 0.189,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183322",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183322/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.351780Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.351782Z"
+}

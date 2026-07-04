@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-06-18-padres-at-braves",
+  "sport": "mlb",
+  "date": "1996-06-18",
+  "startTime": "1996-06-18T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "43-26"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "37-34"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211889",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211889/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.282554Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.282556Z"
+}

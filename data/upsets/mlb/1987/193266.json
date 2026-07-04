@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-06-20-reds-at-braves",
+  "sport": "mlb",
+  "date": "1987-06-20",
+  "startTime": "1987-06-20T07:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "34-33"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "37-31"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.392,
+    "rankGapFactor": 0.073,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193266",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193266/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.247787Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.247789Z"
+}

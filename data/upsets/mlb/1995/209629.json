@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-06-22-red-sox-at-orioles",
+  "sport": "mlb",
+  "date": "1995-06-22",
+  "startTime": "1995-06-22T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "30-21"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "21-30"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209629",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209629/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.958521Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.958523Z"
+}

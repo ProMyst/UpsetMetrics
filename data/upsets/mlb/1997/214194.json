@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-22-rockies-at-padres",
+  "sport": "mlb",
+  "date": "1997-06-22",
+  "startTime": "1997-06-22T10:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "31-42"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "39-35"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.556,
+    "rankGapFactor": 0.205,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214194",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214194/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.060454Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.060456Z"
+}

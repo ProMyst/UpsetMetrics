@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-04-20-cleveland-indians-at-royals",
+  "sport": "mlb",
+  "date": "1981-04-20",
+  "startTime": "1981-04-21T00:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "4-3"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "2-5"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180605",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180605/feed/live",
+    "retrievedAt": "2026-07-04T07:04:01.979877Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:01.979883Z"
+}

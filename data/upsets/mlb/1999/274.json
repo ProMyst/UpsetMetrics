@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-04-08-tampa-bay-devil-rays-at-orioles",
+  "sport": "mlb",
+  "date": "1999-04-08",
+  "startTime": "1999-04-08T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "2-1"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "1-2"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "274",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/274/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.115261Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tampa-bay-devil-rays-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.115270Z"
+}

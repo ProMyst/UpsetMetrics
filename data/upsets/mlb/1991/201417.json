@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-05-30-astros-at-padres",
+  "sport": "mlb",
+  "date": "1991-05-30",
+  "startTime": "1991-05-30T10:33:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "23-25"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "18-28"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201417",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201417/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.141630Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.141632Z"
+}

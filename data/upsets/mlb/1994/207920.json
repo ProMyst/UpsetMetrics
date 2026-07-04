@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-05-24-rangers-at-royals",
+  "sport": "mlb",
+  "date": "1994-05-24",
+  "startTime": "1994-05-25T00:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "19-23"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "21-21"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.419,
+    "rankGapFactor": 0.095,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207920",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207920/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.559901Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.559903Z"
+}

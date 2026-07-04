@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-07-22-braves-at-pirates",
+  "sport": "mlb",
+  "date": "1991-07-22",
+  "startTime": "1991-07-22T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "48-42"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "56-34"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.522,
+    "rankGapFactor": 0.178,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202017",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202017/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.261193Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.261195Z"
+}

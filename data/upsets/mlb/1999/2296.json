@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-19-phillies-at-dodgers",
+  "sport": "mlb",
+  "date": "1999-06-19",
+  "startTime": "1999-06-19T20:10:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "31-35"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "35-31"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.452,
+    "rankGapFactor": 0.121,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2296",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2296/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.308918Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.308920Z"
+}

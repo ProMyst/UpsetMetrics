@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-08-28-astros-at-cubs",
+  "sport": "mlb",
+  "date": "1980-08-28",
+  "startTime": "1980-08-28T08:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "72-55"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "50-75"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180030",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180030/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.935436Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.935438Z"
+}

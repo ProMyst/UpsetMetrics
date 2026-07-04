@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-05-11-cleveland-indians-at-mariners",
+  "sport": "mlb",
+  "date": "1980-05-11",
+  "startTime": "1980-05-11T10:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "15-16"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "11-15"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178737",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178737/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.674486Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.674491Z"
+}

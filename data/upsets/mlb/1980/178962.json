@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-05-31-brewers-at-red-sox",
+  "sport": "mlb",
+  "date": "1980-05-31",
+  "startTime": "1980-05-31T07:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "23-20"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "22-23"
+  },
+  "finalScore": "19-8",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178962",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178962/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.719112Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.719114Z"
+}

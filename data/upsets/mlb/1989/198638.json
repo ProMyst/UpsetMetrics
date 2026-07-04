@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-09-24-california-angels-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1989-09-24",
+  "startTime": "1989-09-24T07:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "71-85"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "89-67"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.588,
+    "rankGapFactor": 0.231,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198638",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198638/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.507540Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.507547Z"
+}

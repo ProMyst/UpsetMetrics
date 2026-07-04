@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-09-05-athletics-at-orioles",
+  "sport": "mlb",
+  "date": "1981-09-05",
+  "startTime": "1981-09-05T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "45-34"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "49-35"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.334,
+    "rankGapFactor": 0.027,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181540",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181540/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.166253Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.166255Z"
+}

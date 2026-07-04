@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-06-17-white-sox-at-brewers",
+  "sport": "mlb",
+  "date": "1988-06-17",
+  "startTime": "1988-06-18T00:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "35-31"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "28-36"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195351",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195351/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.320160Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.320162Z"
+}

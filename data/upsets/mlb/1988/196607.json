@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-10-01-giants-at-dodgers",
+  "sport": "mlb",
+  "date": "1988-10-01",
+  "startTime": "1988-10-01T10:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "94-66"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "82-79"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196607",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196607/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.572745Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.572747Z"
+}

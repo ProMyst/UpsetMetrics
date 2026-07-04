@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-08-22-mariners-at-brewers",
+  "sport": "mlb",
+  "date": "1983-08-22",
+  "startTime": "1983-08-23T00:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "71-52"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "47-77"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185598",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185598/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.732769Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.732771Z"
+}

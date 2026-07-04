@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-08-31-braves-at-cubs",
+  "sport": "mlb",
+  "date": "1996-08-31",
+  "startTime": "1996-08-31T08:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "67-67"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "84-51"
+  },
+  "finalScore": "12-0",
+  "factors": {
+    "pregameOddsFactor": 0.606,
+    "rankGapFactor": 0.244,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212817",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212817/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.475719Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.475721Z"
+}

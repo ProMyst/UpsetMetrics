@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-26-athletics-at-mariners",
+  "sport": "mlb",
+  "date": "1997-09-26",
+  "startTime": "1997-09-27T02:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "64-96"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "89-71"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.691,
+    "rankGapFactor": 0.312,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215430",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215430/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.307048Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.307050Z"
+}

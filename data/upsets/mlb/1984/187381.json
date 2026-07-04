@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-07-25-orioles-at-rangers",
+  "sport": "mlb",
+  "date": "1984-07-25",
+  "startTime": "1984-07-26T00:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "55-45"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "41-60"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187381",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187381/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.322166Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.322168Z"
+}

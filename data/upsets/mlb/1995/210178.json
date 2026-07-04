@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-08-04-padres-at-rockies",
+  "sport": "mlb",
+  "date": "1995-08-04",
+  "startTime": "1995-08-05T01:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "51-41"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "43-48"
+  },
+  "finalScore": "14-12",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210178",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210178/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.067495Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.067497Z"
+}

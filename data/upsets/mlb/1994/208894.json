@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-08-10-cleveland-indians-at-blue-jays",
+  "sport": "mlb",
+  "date": "1994-08-10",
+  "startTime": "1994-08-10T07:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "66-47"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "54-60"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208894",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208894/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.758667Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.758672Z"
+}

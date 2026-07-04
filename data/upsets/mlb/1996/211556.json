@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-05-22-mariners-at-red-sox",
+  "sport": "mlb",
+  "date": "1996-05-22",
+  "startTime": "1996-05-22T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "24-20"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "17-26"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211556",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211556/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.214673Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.214675Z"
+}

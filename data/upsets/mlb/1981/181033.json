@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-26-blue-jays-at-california-angels",
+  "sport": "mlb",
+  "date": "1981-05-26",
+  "startTime": "1981-05-27T02:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "13-31"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "22-24"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.757,
+    "rankGapFactor": 0.366,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181033",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181033/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.064594Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.064599Z"
+}

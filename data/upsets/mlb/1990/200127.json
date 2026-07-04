@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-07-red-sox-at-california-angels",
+  "sport": "mlb",
+  "date": "1990-08-07",
+  "startTime": "1990-08-08T02:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "59-49"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "52-58"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200127",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200127/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.187208Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.187213Z"
+}

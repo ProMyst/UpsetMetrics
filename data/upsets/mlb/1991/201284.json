@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-05-19-twins-at-tigers",
+  "sport": "mlb",
+  "date": "1991-05-19",
+  "startTime": "1991-05-19T07:33:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "17-18"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "19-18"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.369,
+    "rankGapFactor": 0.056,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201284",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201284/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.114477Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.114479Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-07-21-phillies-at-braves",
+  "sport": "mlb",
+  "date": "1983-07-21",
+  "startTime": "1983-07-21T23:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "45-44"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "58-37"
+  },
+  "finalScore": "10-6",
+  "factors": {
+    "pregameOddsFactor": 0.562,
+    "rankGapFactor": 0.21,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185188",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185188/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.646754Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.646756Z"
+}

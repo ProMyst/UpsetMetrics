@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-09-26-cardinals-at-phillies",
+  "sport": "mlb",
+  "date": "1992-09-26",
+  "startTime": "1992-09-26T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "64-88"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "77-76"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.506,
+    "rankGapFactor": 0.164,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204945",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204945/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.171903Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.171905Z"
+}

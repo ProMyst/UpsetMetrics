@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-05-18-dodgers-at-mets",
+  "sport": "mlb",
+  "date": "1989-05-18",
+  "startTime": "1989-05-18T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "21-16"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "18-19"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197118",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197118/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.202241Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.202243Z"
+}

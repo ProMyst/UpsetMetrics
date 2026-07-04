@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-09-17-twins-at-brewers",
+  "sport": "mlb",
+  "date": "1980-09-17",
+  "startTime": "1980-09-18T00:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "65-80"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "77-69"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.498,
+    "rankGapFactor": 0.158,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180276",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180276/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.983485Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.983487Z"
+}

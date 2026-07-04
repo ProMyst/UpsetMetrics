@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-05-21-twins-at-red-sox",
+  "sport": "mlb",
+  "date": "1983-05-21",
+  "startTime": "1983-05-21T07:33:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "21-15"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "17-23"
+  },
+  "finalScore": "11-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "184467",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/184467/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.505732Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.505734Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-09-15-yankees-at-orioles",
+  "sport": "mlb",
+  "date": "1995-09-15",
+  "startTime": "1995-09-15T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "60-70"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "67-63"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.435,
+    "rankGapFactor": 0.108,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210717",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210717/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.178137Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.178139Z"
+}

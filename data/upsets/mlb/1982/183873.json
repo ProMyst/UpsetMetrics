@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-09-24-astros-at-reds",
+  "sport": "mlb",
+  "date": "1982-09-24",
+  "startTime": "1982-09-24T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "57-96"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "72-81"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.545,
+    "rankGapFactor": 0.196,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183873",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183873/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.465703Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.465705Z"
+}

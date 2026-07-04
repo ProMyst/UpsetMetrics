@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-10-16-cardinals-at-brewers",
+  "sport": "mlb",
+  "date": "1982-10-16",
+  "startTime": "1982-10-16T08:33:00Z",
+  "season": "1982",
+  "event": "World Series",
+  "stakes": "World Series",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "2-2"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "2-2"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 1.0,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "67810",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/67810/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.493076Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.493078Z"
+}

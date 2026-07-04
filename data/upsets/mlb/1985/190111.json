@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-09-20-cleveland-indians-at-california-angels",
+  "sport": "mlb",
+  "date": "1985-09-20",
+  "startTime": "1985-09-21T02:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "83-64"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "54-95"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190111",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190111/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.760132Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.760139Z"
+}

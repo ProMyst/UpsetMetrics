@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-07-18-reds-at-cardinals",
+  "sport": "mlb",
+  "date": "1982-07-18",
+  "startTime": "1982-07-18T08:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "51-40"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "34-56"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183040",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183040/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.295934Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.295935Z"
+}

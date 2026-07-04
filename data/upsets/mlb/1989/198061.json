@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-08-07-astros-at-padres",
+  "sport": "mlb",
+  "date": "1989-08-07",
+  "startTime": "1989-08-08T02:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "56-56"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "62-50"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.434,
+    "rankGapFactor": 0.107,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198061",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198061/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.390725Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.390727Z"
+}

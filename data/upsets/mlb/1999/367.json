@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-04-22-rangers-at-twins",
+  "sport": "mlb",
+  "date": "1999-04-22",
+  "startTime": "1999-04-23T00:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "8-8"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "7-9"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "367",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/367/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.155046Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.155048Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-04-27-cleveland-indians-at-blue-jays",
+  "sport": "mlb",
+  "date": "1996-04-27",
+  "startTime": "1996-04-27T07:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "10-13"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "14-8"
+  },
+  "finalScore": "11-6",
+  "factors": {
+    "pregameOddsFactor": 0.804,
+    "rankGapFactor": 0.403,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211247",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211247/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.154510Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.154515Z"
+}

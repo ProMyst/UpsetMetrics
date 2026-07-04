@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-05-16-montreal-expos-at-padres",
+  "sport": "mlb",
+  "date": "1984-05-16",
+  "startTime": "1984-05-17T02:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "19-17"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "18-18"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186563",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186563/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.158209Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.158214Z"
+}

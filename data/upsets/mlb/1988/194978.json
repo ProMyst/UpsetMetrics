@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-05-15-mariners-at-red-sox",
+  "sport": "mlb",
+  "date": "1988-05-15",
+  "startTime": "1988-05-15T07:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "16-22"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "19-14"
+  },
+  "finalScore": "11-7",
+  "factors": {
+    "pregameOddsFactor": 0.687,
+    "rankGapFactor": 0.309,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194978",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194978/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.240606Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.240608Z"
+}

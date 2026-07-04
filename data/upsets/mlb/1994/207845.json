@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-05-18-montreal-expos-at-phillies",
+  "sport": "mlb",
+  "date": "1994-05-18",
+  "startTime": "1994-05-18T07:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "22-17"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "17-23"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207845",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207845/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.546486Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.546490Z"
+}

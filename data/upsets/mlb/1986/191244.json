@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-06-28-red-sox-at-orioles",
+  "sport": "mlb",
+  "date": "1986-06-28",
+  "startTime": "1986-06-28T07:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "47-25"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "38-34"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191244",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191244/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.814183Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.814185Z"
+}

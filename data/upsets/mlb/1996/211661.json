@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-05-31-giants-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1996-05-31",
+  "startTime": "1996-05-31T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "31-23"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "26-26"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211661",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211661/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.235772Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.235777Z"
+}

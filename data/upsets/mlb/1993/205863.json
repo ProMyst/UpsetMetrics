@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-06-11-athletics-at-twins",
+  "sport": "mlb",
+  "date": "1993-06-11",
+  "startTime": "1993-06-12T00:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "27-29"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "21-34"
+  },
+  "finalScore": "11-8",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205863",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205863/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.470886Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.470888Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-04-29-mets-at-astros",
+  "sport": "mlb",
+  "date": "1990-04-29",
+  "startTime": "1990-04-29T08:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "8-10"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "9-9"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.439,
+    "rankGapFactor": 0.111,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198957",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198957/feed/live",
+    "retrievedAt": "2026-07-04T07:17:02.951166Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:02.951168Z"
+}

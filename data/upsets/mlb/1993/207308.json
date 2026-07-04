@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-10-03-phillies-at-cardinals",
+  "sport": "mlb",
+  "date": "1993-10-03",
+  "startTime": "1993-10-03T08:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "87-75"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "97-65"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.454,
+    "rankGapFactor": 0.123,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207308",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207308/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.776038Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.776040Z"
+}

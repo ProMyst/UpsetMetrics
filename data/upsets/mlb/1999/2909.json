@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-09-15-cubs-at-reds",
+  "sport": "mlb",
+  "date": "1999-09-15",
+  "startTime": "1999-09-15T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "87-59"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "57-88"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2909",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2909/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.549225Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.549228Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-06-29-royals-at-athletics",
+  "sport": "mlb",
+  "date": "1983-06-29",
+  "startTime": "1983-06-30T02:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "36-39"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "34-34"
+  },
+  "finalScore": "11-6",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.04,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "184939",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/184939/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.599372Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.599374Z"
+}

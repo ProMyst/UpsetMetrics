@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-08-03-mariners-at-athletics",
+  "sport": "mlb",
+  "date": "1984-08-03",
+  "startTime": "1984-08-04T02:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "50-60"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "50-60"
+  },
+  "finalScore": "11-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187497",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187497/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.344244Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.344246Z"
+}

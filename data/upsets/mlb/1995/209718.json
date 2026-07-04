@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-06-29-california-angels-at-rangers",
+  "sport": "mlb",
+  "date": "1995-06-29",
+  "startTime": "1995-06-30T00:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "34-25"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "34-25"
+  },
+  "finalScore": "20-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209718",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209718/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.977055Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.977059Z"
+}

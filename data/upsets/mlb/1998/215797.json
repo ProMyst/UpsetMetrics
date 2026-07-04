@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-04-26-rockies-at-braves",
+  "sport": "mlb",
+  "date": "1998-04-26",
+  "startTime": "1998-04-26T07:33:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "10-15"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "15-9"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.863,
+    "rankGapFactor": 0.45,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215797",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215797/feed/live",
+    "retrievedAt": "2026-07-04T07:28:37.963404Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:37.963406Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-08-05-padres-at-cardinals",
+  "sport": "mlb",
+  "date": "1996-08-05",
+  "startTime": "1996-08-06T00:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "60-52"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "60-54"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212489",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212489/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.406817Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.406819Z"
+}

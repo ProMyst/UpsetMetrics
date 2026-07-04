@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-05-11-padres-at-mets",
+  "sport": "mlb",
+  "date": "1982-05-11",
+  "startTime": "1982-05-11T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "16-15"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "16-13"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.389,
+    "rankGapFactor": 0.071,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182276",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182276/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.142107Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.142109Z"
+}

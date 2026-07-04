@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-05-04-diamondbacks-at-reds",
+  "sport": "mlb",
+  "date": "1999-05-04",
+  "startTime": "1999-05-04T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "11-14"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "14-14"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.45,
+    "rankGapFactor": 0.12,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1119",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1119/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.186342Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.186344Z"
+}

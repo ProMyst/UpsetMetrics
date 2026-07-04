@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-08-15-athletics-at-mariners",
+  "sport": "mlb",
+  "date": "1991-08-15",
+  "startTime": "1991-08-15T10:33:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "62-53"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "64-52"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.331,
+    "rankGapFactor": 0.025,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202314",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202314/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.320784Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.320786Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-08-27-braves-at-pirates",
+  "sport": "mlb",
+  "date": "1996-08-27",
+  "startTime": "1996-08-27T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "56-75"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "81-49"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.789,
+    "rankGapFactor": 0.391,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212764",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212764/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.463085Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.463087Z"
+}

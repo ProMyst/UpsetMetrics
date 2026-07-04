@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-05-06-tigers-at-athletics",
+  "sport": "mlb",
+  "date": "1998-05-06",
+  "startTime": "1998-05-06T10:33:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "8-20"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "14-17"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.715,
+    "rankGapFactor": 0.332,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215927",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215927/feed/live",
+    "retrievedAt": "2026-07-04T07:28:37.990087Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:37.990089Z"
+}

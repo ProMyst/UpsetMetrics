@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-08-19-mariners-at-tigers",
+  "sport": "mlb",
+  "date": "1984-08-19",
+  "startTime": "1984-08-19T07:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "56-69"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "81-44"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.8,
+    "rankGapFactor": 0.4,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187708",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187708/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.388869Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.388871Z"
+}

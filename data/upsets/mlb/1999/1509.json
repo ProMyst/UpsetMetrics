@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-04-27-royals-at-orioles",
+  "sport": "mlb",
+  "date": "1999-04-27",
+  "startTime": "1999-04-27T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "5-14"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "6-11"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.524,
+    "rankGapFactor": 0.18,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1509",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1509/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.165939Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.165941Z"
+}

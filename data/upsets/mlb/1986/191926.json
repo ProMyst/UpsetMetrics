@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-08-25-red-sox-at-rangers",
+  "sport": "mlb",
+  "date": "1986-08-25",
+  "startTime": "1986-08-26T00:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "66-59"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "73-52"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.44,
+    "rankGapFactor": 0.112,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191926",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191926/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.953761Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.953763Z"
+}

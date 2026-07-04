@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-04-11-mariners-at-athletics",
+  "sport": "mlb",
+  "date": "1982-04-11",
+  "startTime": "1982-04-12T02:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "3-3"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "2-4"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181940",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181940/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.067646Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.067649Z"
+}

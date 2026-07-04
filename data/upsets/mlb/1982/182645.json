@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-06-14-braves-at-astros",
+  "sport": "mlb",
+  "date": "1982-06-14",
+  "startTime": "1982-06-15T00:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "26-34"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "36-23"
+  },
+  "finalScore": "9-0",
+  "factors": {
+    "pregameOddsFactor": 0.742,
+    "rankGapFactor": 0.354,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182645",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182645/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.219231Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.219233Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-06-09-blue-jays-at-athletics",
+  "sport": "mlb",
+  "date": "1983-06-09",
+  "startTime": "1983-06-10T02:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "28-27"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "29-25"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.37,
+    "rankGapFactor": 0.056,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "184697",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/184697/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.550509Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.550511Z"
+}

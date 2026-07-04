@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-07-14-reds-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1984-07-14",
+  "startTime": "1984-07-14T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "44-43"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "39-51"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187241",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187241/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.293111Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.293116Z"
+}

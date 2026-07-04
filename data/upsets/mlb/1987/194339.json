@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-09-19-blue-jays-at-yankees",
+  "sport": "mlb",
+  "date": "1987-09-19",
+  "startTime": "1987-09-19T07:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "82-66"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "89-59"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.418,
+    "rankGapFactor": 0.095,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194339",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194339/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.469729Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.469731Z"
+}

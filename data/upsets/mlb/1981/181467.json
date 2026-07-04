@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-08-30-cardinals-at-padres",
+  "sport": "mlb",
+  "date": "1981-08-30",
+  "startTime": "1981-08-30T10:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "27-50"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "42-26"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.967,
+    "rankGapFactor": 0.534,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181467",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181467/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.153005Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.153007Z"
+}

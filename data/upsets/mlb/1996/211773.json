@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-06-09-cardinals-at-giants",
+  "sport": "mlb",
+  "date": "1996-06-09",
+  "startTime": "1996-06-09T10:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "31-29"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "29-32"
+  },
+  "finalScore": "9-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211773",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211773/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.260256Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.260258Z"
+}

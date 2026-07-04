@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-04-25-reds-at-braves",
+  "sport": "mlb",
+  "date": "1984-04-25",
+  "startTime": "1984-04-25T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "6-12"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "6-11"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.349,
+    "rankGapFactor": 0.039,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186327",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186327/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.109442Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.109444Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-04-23-giants-at-dodgers",
+  "sport": "mlb",
+  "date": "1989-04-23",
+  "startTime": "1989-04-23T10:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "9-9"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "10-8"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.439,
+    "rankGapFactor": 0.111,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196848",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196848/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.147156Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.147158Z"
+}

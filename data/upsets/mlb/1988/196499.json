@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-09-22-twins-at-california-angels",
+  "sport": "mlb",
+  "date": "1988-09-22",
+  "startTime": "1988-09-23T02:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "84-69"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "75-79"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196499",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196499/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.551898Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.551906Z"
+}

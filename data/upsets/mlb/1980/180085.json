@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-09-01-astros-at-pirates",
+  "sport": "mlb",
+  "date": "1980-09-01",
+  "startTime": "1980-09-01T07:38:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "71-62"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "75-57"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.386,
+    "rankGapFactor": 0.069,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180085",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180085/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.944254Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.944256Z"
+}

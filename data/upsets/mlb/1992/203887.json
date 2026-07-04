@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-06-28-brewers-at-red-sox",
+  "sport": "mlb",
+  "date": "1992-06-28",
+  "startTime": "1992-06-28T07:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "38-34"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "34-37"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203887",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203887/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.960336Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.960338Z"
+}

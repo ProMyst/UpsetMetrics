@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-08-16-rangers-at-tigers",
+  "sport": "mlb",
+  "date": "1980-08-16",
+  "startTime": "1980-08-16T07:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "55-59"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "59-53"
+  },
+  "finalScore": "12-5",
+  "factors": {
+    "pregameOddsFactor": 0.411,
+    "rankGapFactor": 0.089,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179890",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179890/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.902084Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.902086Z"
+}

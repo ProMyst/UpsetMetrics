@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-04-28-white-sox-at-brewers",
+  "sport": "mlb",
+  "date": "1982-04-28",
+  "startTime": "1982-04-29T00:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "9-7"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "10-7"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.364,
+    "rankGapFactor": 0.051,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182113",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182113/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.112191Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.112193Z"
+}

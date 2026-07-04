@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-04-18-giants-at-reds",
+  "sport": "mlb",
+  "date": "1985-04-18",
+  "startTime": "1985-04-18T23:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "5-4"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "3-5"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188317",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188317/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.394010Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.394012Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-09-25-cleveland-indians-at-red-sox",
+  "sport": "mlb",
+  "date": "1990-09-25",
+  "startTime": "1990-09-25T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "74-81"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "82-72"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.438,
+    "rankGapFactor": 0.11,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200726",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200726/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.306788Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.306793Z"
+}

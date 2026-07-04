@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-08-02-white-sox-at-athletics",
+  "sport": "mlb",
+  "date": "1989-08-02",
+  "startTime": "1989-08-03T02:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "65-42"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "44-63"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197994",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197994/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.378294Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.378296Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-05-12-athletics-at-twins",
+  "sport": "mlb",
+  "date": "1995-05-12",
+  "startTime": "1995-05-13T00:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "5-10"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "7-9"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.56,
+    "rankGapFactor": 0.208,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209117",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209117/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.854330Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.854332Z"
+}

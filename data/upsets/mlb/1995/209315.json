@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-05-28-rockies-at-pirates",
+  "sport": "mlb",
+  "date": "1995-05-28",
+  "startTime": "1995-05-28T07:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "16-14"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "12-16"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209315",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209315/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.895181Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.895183Z"
+}

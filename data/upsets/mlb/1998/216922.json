@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-07-20-cleveland-indians-at-white-sox",
+  "sport": "mlb",
+  "date": "1998-07-20",
+  "startTime": "1998-07-21T00:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "55-42"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "43-56"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216922",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216922/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.190059Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.190064Z"
+}

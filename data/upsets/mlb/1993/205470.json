@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-05-11-red-sox-at-orioles",
+  "sport": "mlb",
+  "date": "1993-05-11",
+  "startTime": "1993-05-11T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "18-15"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "13-18"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205470",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205470/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.392473Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.392475Z"
+}

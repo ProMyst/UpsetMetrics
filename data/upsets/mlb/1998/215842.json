@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-04-29-tampa-bay-devil-rays-at-twins",
+  "sport": "mlb",
+  "date": "1998-04-29",
+  "startTime": "1998-04-30T00:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "11-15"
+  },
+  "loser": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "11-14"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.342,
+    "rankGapFactor": 0.034,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215842",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215842/feed/live",
+    "retrievedAt": "2026-07-04T07:28:37.971482Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tampa-bay-devil-rays-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:37.971488Z"
+}

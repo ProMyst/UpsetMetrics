@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-07-31-twins-at-california-angels",
+  "sport": "mlb",
+  "date": "1993-07-31",
+  "startTime": "1993-08-01T02:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "48-55"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "43-58"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206489",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206489/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.598413Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.598417Z"
+}

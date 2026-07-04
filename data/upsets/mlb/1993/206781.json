@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-08-23-cleveland-indians-at-blue-jays",
+  "sport": "mlb",
+  "date": "1993-08-23",
+  "startTime": "1993-08-23T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "60-65"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "72-54"
+  },
+  "finalScore": "9-8",
+  "factors": {
+    "pregameOddsFactor": 0.529,
+    "rankGapFactor": 0.183,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206781",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206781/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.670101Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.670106Z"
+}

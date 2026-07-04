@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-06-16-cardinals-at-pirates",
+  "sport": "mlb",
+  "date": "1986-06-16",
+  "startTime": "1986-06-18T03:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "25-35"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "25-35"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191111",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191111/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.788535Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.788537Z"
+}

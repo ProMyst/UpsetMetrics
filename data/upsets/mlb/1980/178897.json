@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-05-25-giants-at-pirates",
+  "sport": "mlb",
+  "date": "1980-05-25",
+  "startTime": "1980-05-25T07:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "18-23"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "22-15"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.689,
+    "rankGapFactor": 0.311,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178897",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178897/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.704228Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.704230Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-05-29-braves-at-phillies",
+  "sport": "mlb",
+  "date": "1982-05-29",
+  "startTime": "1982-05-29T07:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "23-21"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "27-18"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.493,
+    "rankGapFactor": 0.155,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182465",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182465/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.183723Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.183725Z"
+}

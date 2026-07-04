@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-08-23-montreal-expos-at-giants",
+  "sport": "mlb",
+  "date": "1988-08-23",
+  "startTime": "1988-08-24T02:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "64-61"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "68-58"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.369,
+    "rankGapFactor": 0.055,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196149",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196149/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.481818Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.481823Z"
+}

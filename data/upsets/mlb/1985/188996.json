@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-06-17-padres-at-dodgers",
+  "sport": "mlb",
+  "date": "1985-06-17",
+  "startTime": "1985-06-18T02:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "36-27"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "31-29"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188996",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188996/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.531844Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.531846Z"
+}

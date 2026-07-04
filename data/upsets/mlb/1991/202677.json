@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-09-14-padres-at-giants",
+  "sport": "mlb",
+  "date": "1991-09-14",
+  "startTime": "1991-09-14T10:33:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "73-70"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "64-78"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202677",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202677/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.396110Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.396112Z"
+}

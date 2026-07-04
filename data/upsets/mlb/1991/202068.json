@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-07-26-mariners-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1991-07-26",
+  "startTime": "1991-07-26T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "51-46"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "32-62"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202068",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202068/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.269927Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.269932Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-07-08-cubs-at-giants",
+  "sport": "mlb",
+  "date": "1984-07-08",
+  "startTime": "1984-07-08T10:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "48-36"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "33-50"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187199",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187199/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.286921Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.286923Z"
+}

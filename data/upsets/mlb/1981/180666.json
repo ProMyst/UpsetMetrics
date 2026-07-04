@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-04-26-braves-at-giants",
+  "sport": "mlb",
+  "date": "1981-04-26",
+  "startTime": "1981-04-26T10:38:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "7-11"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "9-7"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.734,
+    "rankGapFactor": 0.347,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180666",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180666/feed/live",
+    "retrievedAt": "2026-07-04T07:04:01.992597Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:01.992599Z"
+}

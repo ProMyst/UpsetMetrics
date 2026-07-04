@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-06-05-california-angels-at-orioles",
+  "sport": "mlb",
+  "date": "1985-06-05",
+  "startTime": "1985-06-05T23:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "29-21"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "28-23"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188849",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188849/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.502281Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.502285Z"
+}

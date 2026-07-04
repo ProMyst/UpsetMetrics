@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-07-03-yankees-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1982-07-03",
+  "startTime": "1982-07-03T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "36-37"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "37-38"
+  },
+  "finalScore": "10-6",
+  "factors": {
+    "pregameOddsFactor": 0.3,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182882",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182882/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.263801Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.263806Z"
+}

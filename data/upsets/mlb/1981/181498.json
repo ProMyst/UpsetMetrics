@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-09-02-yankees-at-twins",
+  "sport": "mlb",
+  "date": "1981-09-02",
+  "startTime": "1981-09-03T00:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "27-53"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "46-33"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.912,
+    "rankGapFactor": 0.49,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181498",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181498/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.159779Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.159781Z"
+}

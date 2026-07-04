@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-07-19-royals-at-blue-jays",
+  "sport": "mlb",
+  "date": "1982-07-19",
+  "startTime": "1982-07-19T07:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "42-47"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "48-41"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.469,
+    "rankGapFactor": 0.135,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183054",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183054/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.299353Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.299355Z"
+}

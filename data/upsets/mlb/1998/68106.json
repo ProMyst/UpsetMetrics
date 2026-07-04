@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-10-03-braves-at-cubs",
+  "sport": "mlb",
+  "date": "1998-10-03",
+  "startTime": "1998-10-04T00:05:00Z",
+  "season": "1998",
+  "event": "NL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "3-0"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "0-3"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68106",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68106/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.384709Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.384711Z"
+}

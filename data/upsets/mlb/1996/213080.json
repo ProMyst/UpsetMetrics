@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-09-20-blue-jays-at-orioles",
+  "sport": "mlb",
+  "date": "1996-09-20",
+  "startTime": "1996-09-20T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "69-84"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "83-70"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.529,
+    "rankGapFactor": 0.183,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213080",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213080/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.523737Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.523739Z"
+}

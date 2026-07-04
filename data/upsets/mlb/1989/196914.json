@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-04-29-padres-at-cubs",
+  "sport": "mlb",
+  "date": "1989-04-29",
+  "startTime": "1989-04-30T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "14-11"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "11-11"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196914",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196914/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.159933Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.159935Z"
+}

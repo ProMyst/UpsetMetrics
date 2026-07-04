@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-09-16-tigers-at-red-sox",
+  "sport": "mlb",
+  "date": "1981-09-16",
+  "startTime": "1981-09-16T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "49-41"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "53-39"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.379,
+    "rankGapFactor": 0.063,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181663",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181663/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.191316Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.191318Z"
+}

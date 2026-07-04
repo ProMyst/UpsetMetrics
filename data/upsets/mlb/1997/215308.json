@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-17-athletics-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "1997-09-17",
+  "startTime": "1997-09-18T02:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "79-73"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "61-91"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215308",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215308/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.283395Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.283400Z"
+}

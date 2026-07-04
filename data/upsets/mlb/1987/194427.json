@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-09-27-white-sox-at-athletics",
+  "sport": "mlb",
+  "date": "1987-09-27",
+  "startTime": "1987-09-27T10:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "72-84"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "77-79"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.38,
+    "rankGapFactor": 0.064,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194427",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194427/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.489447Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.489449Z"
+}

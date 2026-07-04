@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-05-09-brewers-at-red-sox",
+  "sport": "mlb",
+  "date": "1994-05-09",
+  "startTime": "1994-05-09T23:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "16-14"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "20-11"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.58,
+    "rankGapFactor": 0.224,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207733",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207733/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.522334Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.522336Z"
+}

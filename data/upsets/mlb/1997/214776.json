@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-07-dodgers-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1997-08-07",
+  "startTime": "1997-08-07T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "62-52"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "58-54"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214776",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214776/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.176112Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.176117Z"
+}

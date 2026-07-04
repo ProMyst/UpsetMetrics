@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-09-23-california-angels-at-royals",
+  "sport": "mlb",
+  "date": "1990-09-23",
+  "startTime": "1990-09-23T08:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "71-81"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "75-77"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.366,
+    "rankGapFactor": 0.053,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200702",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200702/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.303931Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.303935Z"
+}

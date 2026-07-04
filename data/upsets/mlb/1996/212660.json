@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-08-18-giants-at-phillies",
+  "sport": "mlb",
+  "date": "1996-08-18",
+  "startTime": "1996-08-18T07:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "50-75"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "52-69"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.374,
+    "rankGapFactor": 0.06,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212660",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212660/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.440531Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.440533Z"
+}

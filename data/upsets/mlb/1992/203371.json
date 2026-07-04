@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-05-15-cubs-at-giants",
+  "sport": "mlb",
+  "date": "1992-05-15",
+  "startTime": "1992-05-16T02:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "15-19"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "19-15"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.594,
+    "rankGapFactor": 0.235,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203371",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203371/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.859503Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.859505Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-07-26-astros-at-mets",
+  "sport": "mlb",
+  "date": "1987-07-26",
+  "startTime": "1987-07-26T07:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "49-49"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "53-45"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.402,
+    "rankGapFactor": 0.082,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193680",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193680/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.332093Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.332095Z"
+}

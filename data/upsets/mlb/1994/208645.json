@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-07-22-pirates-at-astros",
+  "sport": "mlb",
+  "date": "1994-07-22",
+  "startTime": "1994-07-23T00:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "46-49"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "55-42"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.507,
+    "rankGapFactor": 0.166,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208645",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208645/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.706575Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.706577Z"
+}

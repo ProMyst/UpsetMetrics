@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-06-giants-at-astros",
+  "sport": "mlb",
+  "date": "1990-08-06",
+  "startTime": "1990-08-07T00:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "48-61"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "58-50"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.542,
+    "rankGapFactor": 0.193,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200124",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200124/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.183576Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.183577Z"
+}

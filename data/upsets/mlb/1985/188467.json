@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-05-01-astros-at-mets",
+  "sport": "mlb",
+  "date": "1985-05-01",
+  "startTime": "1985-05-01T23:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "11-10"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "12-7"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.569,
+    "rankGapFactor": 0.216,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188467",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188467/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.425896Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.425898Z"
+}

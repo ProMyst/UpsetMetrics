@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-05-30-dodgers-at-phillies",
+  "sport": "mlb",
+  "date": "1995-05-30",
+  "startTime": "1995-05-30T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "23-8"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "13-19"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209342",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209342/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.900854Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.900856Z"
+}

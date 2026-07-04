@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-05-12-cardinals-at-giants",
+  "sport": "mlb",
+  "date": "1985-05-12",
+  "startTime": "1985-05-12T10:33:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "12-18"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "14-16"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.467,
+    "rankGapFactor": 0.133,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188588",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188588/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.450605Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.450607Z"
+}

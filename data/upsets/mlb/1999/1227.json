@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-09-10-cubs-at-astros",
+  "sport": "mlb",
+  "date": "1999-09-10",
+  "startTime": "1999-09-11T00:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "87-56"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "56-85"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1227",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1227/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.535583Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.535586Z"
+}

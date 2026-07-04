@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-06-10-cardinals-at-phillies",
+  "sport": "mlb",
+  "date": "1987-06-10",
+  "startTime": "1987-06-10T23:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "35-21"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "27-28"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193158",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193158/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.222698Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.222700Z"
+}

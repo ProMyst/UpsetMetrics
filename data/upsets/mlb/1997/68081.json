@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-10-10-braves-at-florida-marlins",
+  "sport": "mlb",
+  "date": "1997-10-10",
+  "startTime": "1997-10-10T23:05:00Z",
+  "season": "1997",
+  "event": "NL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "2-1"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "1-2"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68081",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68081/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.316977Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.316982Z"
+}

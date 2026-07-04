@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-07-15-blue-jays-at-white-sox",
+  "sport": "mlb",
+  "date": "1983-07-15",
+  "startTime": "1983-07-16T00:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "50-34"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "44-41"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185116",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185116/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.632186Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.632188Z"
+}

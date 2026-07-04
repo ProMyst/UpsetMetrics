@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-06-02-reds-at-cardinals",
+  "sport": "mlb",
+  "date": "1985-06-02",
+  "startTime": "1985-06-02T08:33:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "26-22"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "24-23"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188815",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188815/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.496788Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.496790Z"
+}

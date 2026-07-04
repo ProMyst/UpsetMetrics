@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-05-19-blue-jays-at-twins",
+  "sport": "mlb",
+  "date": "1985-05-19",
+  "startTime": "1985-05-19T08:33:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "20-16"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "21-14"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.411,
+    "rankGapFactor": 0.089,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188667",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188667/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.465405Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.465407Z"
+}

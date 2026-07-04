@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-04-12-cleveland-indians-at-yankees",
+  "sport": "mlb",
+  "date": "1990-04-12",
+  "startTime": "1990-04-12T07:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198760",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198760/feed/live",
+    "retrievedAt": "2026-07-04T07:17:02.902852Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:02.902860Z"
+}

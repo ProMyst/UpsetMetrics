@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-21-phillies-at-dodgers",
+  "sport": "mlb",
+  "date": "1990-08-21",
+  "startTime": "1990-08-22T02:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "58-62"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "63-59"
+  },
+  "finalScore": "12-11",
+  "factors": {
+    "pregameOddsFactor": 0.383,
+    "rankGapFactor": 0.066,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200311",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200311/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.225807Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.225809Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-04-29-orioles-at-white-sox",
+  "sport": "mlb",
+  "date": "1988-04-29",
+  "startTime": "1988-04-30T00:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "1-21"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "10-10"
+  },
+  "finalScore": "9-0",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.909,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194779",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194779/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.204286Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.204288Z"
+}

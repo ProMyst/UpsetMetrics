@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-09-03-brewers-at-twins",
+  "sport": "mlb",
+  "date": "1995-09-03",
+  "startTime": "1995-09-03T08:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "59-60"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "44-73"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210568",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210568/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.150582Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.150584Z"
+}

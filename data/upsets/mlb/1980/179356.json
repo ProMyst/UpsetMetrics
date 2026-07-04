@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-07-03-california-angels-at-white-sox",
+  "sport": "mlb",
+  "date": "1980-07-03",
+  "startTime": "1980-07-04T00:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "27-47"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "36-39"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.588,
+    "rankGapFactor": 0.23,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179356",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179356/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.798429Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.798433Z"
+}

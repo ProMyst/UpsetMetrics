@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-10-01-cubs-at-cardinals",
+  "sport": "mlb",
+  "date": "1983-10-01",
+  "startTime": "1983-10-01T08:33:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "78-83"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "71-90"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186082",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186082/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.832974Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.832976Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-09-07-reds-at-dodgers",
+  "sport": "mlb",
+  "date": "1990-09-07",
+  "startTime": "1990-09-08T02:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "73-65"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "78-59"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.401,
+    "rankGapFactor": 0.081,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200507",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200507/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.265707Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.265709Z"
+}

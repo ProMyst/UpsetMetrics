@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-08-07-astros-at-giants",
+  "sport": "mlb",
+  "date": "1983-08-07",
+  "startTime": "1983-08-07T10:33:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "56-53"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "53-58"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185411",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185411/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.693315Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.693317Z"
+}

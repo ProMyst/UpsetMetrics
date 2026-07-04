@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-08-04-florida-marlins-at-mets",
+  "sport": "mlb",
+  "date": "1995-08-04",
+  "startTime": "1995-08-04T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "38-50"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "35-56"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210170",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210170/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.066539Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.066543Z"
+}

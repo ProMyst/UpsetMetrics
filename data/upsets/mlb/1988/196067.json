@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-08-17-cubs-at-reds",
+  "sport": "mlb",
+  "date": "1988-08-17",
+  "startTime": "1988-08-17T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "58-59"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "60-58"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.332,
+    "rankGapFactor": 0.025,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196067",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196067/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.461449Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.461451Z"
+}

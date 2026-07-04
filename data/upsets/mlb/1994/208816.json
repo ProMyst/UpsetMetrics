@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-08-04-pirates-at-phillies",
+  "sport": "mlb",
+  "date": "1994-08-04",
+  "startTime": "1994-08-04T07:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "51-56"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "52-56"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.312,
+    "rankGapFactor": 0.01,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208816",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208816/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.741975Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.741977Z"
+}

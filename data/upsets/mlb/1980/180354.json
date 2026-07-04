@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-09-23-mets-at-cubs",
+  "sport": "mlb",
+  "date": "1980-09-23",
+  "startTime": "1980-09-23T08:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "59-91"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "63-88"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.36,
+    "rankGapFactor": 0.048,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180354",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180354/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.998681Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.998683Z"
+}

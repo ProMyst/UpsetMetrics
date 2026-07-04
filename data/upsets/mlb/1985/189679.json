@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-08-16-white-sox-at-brewers",
+  "sport": "mlb",
+  "date": "1985-08-16",
+  "startTime": "1985-08-17T00:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "52-60"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "55-57"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.367,
+    "rankGapFactor": 0.054,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "189679",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/189679/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.669647Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.669649Z"
+}

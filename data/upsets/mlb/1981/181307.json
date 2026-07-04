@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-08-17-dodgers-at-cubs",
+  "sport": "mlb",
+  "date": "1981-08-17",
+  "startTime": "1981-08-17T08:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "19-41"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "40-25"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.597,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181307",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181307/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.121613Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.121615Z"
+}

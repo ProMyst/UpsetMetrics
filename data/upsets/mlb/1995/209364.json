@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-06-01-reds-at-pirates",
+  "sport": "mlb",
+  "date": "1995-06-01",
+  "startTime": "1995-06-01T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "13-18"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "20-12"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.814,
+    "rankGapFactor": 0.411,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209364",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209364/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.905305Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.905307Z"
+}

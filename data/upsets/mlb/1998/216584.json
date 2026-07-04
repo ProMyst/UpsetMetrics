@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-06-23-cleveland-indians-at-cubs",
+  "sport": "mlb",
+  "date": "1998-06-23",
+  "startTime": "1998-06-23T08:33:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "43-31"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "42-34"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216584",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216584/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.120269Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.120274Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-07-03-blue-jays-at-royals",
+  "sport": "mlb",
+  "date": "1993-07-03",
+  "startTime": "1993-07-04T00:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "40-38"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "48-33"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.499,
+    "rankGapFactor": 0.16,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206153",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206153/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.528666Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.528668Z"
+}

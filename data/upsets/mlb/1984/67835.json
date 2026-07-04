@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-10-09-tigers-at-padres",
+  "sport": "mlb",
+  "date": "1984-10-09",
+  "startTime": "1984-10-10T02:05:00Z",
+  "season": "1984",
+  "event": "World Series",
+  "stakes": "World Series",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 1.0,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "67835",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/67835/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.491355Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.491357Z"
+}

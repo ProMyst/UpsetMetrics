@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-08-21-phillies-at-giants",
+  "sport": "mlb",
+  "date": "1984-08-21",
+  "startTime": "1984-08-22T02:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "67-56"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "47-76"
+  },
+  "finalScore": "12-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187730",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187730/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.394314Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.394316Z"
+}

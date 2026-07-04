@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-08-09-montreal-expos-at-cubs",
+  "sport": "mlb",
+  "date": "1980-08-09",
+  "startTime": "1980-08-09T08:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "45-62"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "61-48"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.648,
+    "rankGapFactor": 0.278,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179800",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179800/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.883358Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.883362Z"
+}

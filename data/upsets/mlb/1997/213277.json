@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-04-07-twins-at-tigers",
+  "sport": "mlb",
+  "date": "1997-04-07",
+  "startTime": "1997-04-07T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "3-4"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "4-3"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213277",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213277/feed/live",
+    "retrievedAt": "2026-07-04T07:27:10.873375Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:10.873377Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-09-20-white-sox-at-royals",
+  "sport": "mlb",
+  "date": "1989-09-20",
+  "startTime": "1989-09-21T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "65-87"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "87-65"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.662,
+    "rankGapFactor": 0.289,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198589",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198589/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.499748Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.499750Z"
+}

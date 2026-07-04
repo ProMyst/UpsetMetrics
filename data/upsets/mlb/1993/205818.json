@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-06-07-athletics-at-orioles",
+  "sport": "mlb",
+  "date": "1993-06-07",
+  "startTime": "1993-06-07T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "26-30"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "21-31"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205818",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205818/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.460969Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.460971Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-09-11-brewers-at-red-sox",
+  "sport": "mlb",
+  "date": "1990-09-11",
+  "startTime": "1990-09-11T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "68-74"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "79-63"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.494,
+    "rankGapFactor": 0.155,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200563",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200563/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.275431Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.275433Z"
+}

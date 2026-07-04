@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-07-27-red-sox-at-rangers",
+  "sport": "mlb",
+  "date": "1988-07-27",
+  "startTime": "1988-07-28T00:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "56-43"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "45-54"
+  },
+  "finalScore": "10-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195811",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195811/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.412878Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.412880Z"
+}

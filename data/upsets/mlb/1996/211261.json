@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-04-28-florida-marlins-at-giants",
+  "sport": "mlb",
+  "date": "1996-04-28",
+  "startTime": "1996-04-28T10:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "13-12"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "10-16"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211261",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211261/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.158100Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.158105Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-05-11-cubs-at-astros",
+  "sport": "mlb",
+  "date": "1984-05-11",
+  "startTime": "1984-05-12T00:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "13-18"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "17-13"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.668,
+    "rankGapFactor": 0.295,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186501",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186501/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.146143Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.146145Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-07-14-brewers-at-athletics",
+  "sport": "mlb",
+  "date": "1990-07-14",
+  "startTime": "1990-07-14T10:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "54-32"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "38-46"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199829",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199829/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.127477Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.127479Z"
+}

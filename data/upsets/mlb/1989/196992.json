@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-05-06-yankees-at-white-sox",
+  "sport": "mlb",
+  "date": "1989-05-06",
+  "startTime": "1989-05-07T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "15-14"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "11-19"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196992",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196992/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.176740Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.176742Z"
+}

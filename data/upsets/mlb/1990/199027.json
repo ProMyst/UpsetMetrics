@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-05-05-rangers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1990-05-05",
+  "startTime": "1990-05-05T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "13-10"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "11-11"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199027",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199027/feed/live",
+    "retrievedAt": "2026-07-04T07:17:02.962932Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:02.962937Z"
+}

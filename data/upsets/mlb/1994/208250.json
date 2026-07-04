@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-06-19-pirates-at-cardinals",
+  "sport": "mlb",
+  "date": "1994-06-19",
+  "startTime": "1994-06-19T08:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "31-36"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "33-33"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.393,
+    "rankGapFactor": 0.075,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208250",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208250/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.626732Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.626734Z"
+}

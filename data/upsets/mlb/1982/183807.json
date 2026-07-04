@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-09-18-athletics-at-white-sox",
+  "sport": "mlb",
+  "date": "1982-09-18",
+  "startTime": "1982-09-19T00:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "62-86"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "78-69"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.579,
+    "rankGapFactor": 0.223,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183807",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183807/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.452788Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.452790Z"
+}

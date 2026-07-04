@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-08-24-white-sox-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1982-08-24",
+  "startTime": "1982-08-24T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "61-61"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "65-59"
+  },
+  "finalScore": "14-7",
+  "factors": {
+    "pregameOddsFactor": 0.36,
+    "rankGapFactor": 0.048,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183504",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183504/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.392972Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.392977Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-06-19-royals-at-athletics",
+  "sport": "mlb",
+  "date": "1984-06-19",
+  "startTime": "1984-06-20T02:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "28-35"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "31-37"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.329,
+    "rankGapFactor": 0.023,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186951",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186951/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.236597Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.236599Z"
+}

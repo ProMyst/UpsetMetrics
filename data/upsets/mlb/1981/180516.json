@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-04-11-mets-at-cubs",
+  "sport": "mlb",
+  "date": "1981-04-11",
+  "startTime": "1981-04-11T09:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "1-1"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "1-1"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180516",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180516/feed/live",
+    "retrievedAt": "2026-07-04T07:04:01.957802Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:01.957805Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-05-15-reds-at-cardinals",
+  "sport": "mlb",
+  "date": "1987-05-15",
+  "startTime": "1987-05-16T00:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "19-13"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "22-13"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.387,
+    "rankGapFactor": 0.07,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192850",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192850/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.161677Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.161679Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-07-02-tigers-at-pirates",
+  "sport": "mlb",
+  "date": "1998-07-02",
+  "startTime": "1998-07-02T23:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "40-45"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "32-49"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216706",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216706/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.141789Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.141791Z"
+}

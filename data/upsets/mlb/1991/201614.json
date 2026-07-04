@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-06-16-orioles-at-blue-jays",
+  "sport": "mlb",
+  "date": "1991-06-16",
+  "startTime": "1991-06-16T07:33:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "22-38"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "34-29"
+  },
+  "finalScore": "13-8",
+  "factors": {
+    "pregameOddsFactor": 0.733,
+    "rankGapFactor": 0.346,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201614",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201614/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.181243Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.181245Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-08-23-mets-at-reds",
+  "sport": "mlb",
+  "date": "1981-08-23",
+  "startTime": "1981-08-23T07:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "25-39"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "41-27"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.831,
+    "rankGapFactor": 0.425,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181381",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181381/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.133887Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.133889Z"
+}

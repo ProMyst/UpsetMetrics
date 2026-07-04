@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-06-24-orioles-at-blue-jays",
+  "sport": "mlb",
+  "date": "1994-06-24",
+  "startTime": "1994-06-24T23:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "39-31"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "31-39"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208295",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208295/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.636706Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.636708Z"
+}

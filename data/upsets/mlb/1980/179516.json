@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-07-17-padres-at-cardinals",
+  "sport": "mlb",
+  "date": "1980-07-17",
+  "startTime": "1980-07-18T00:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "39-49"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "37-52"
+  },
+  "finalScore": "15-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179516",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179516/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.826559Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.826560Z"
+}

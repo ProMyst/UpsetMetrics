@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-07-27-giants-at-pirates",
+  "sport": "mlb",
+  "date": "1986-07-27",
+  "startTime": "1986-07-27T07:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "40-56"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "52-46"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.585,
+    "rankGapFactor": 0.228,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191579",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191579/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.878494Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.878496Z"
+}

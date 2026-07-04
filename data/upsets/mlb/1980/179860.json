@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-08-14-red-sox-at-tigers",
+  "sport": "mlb",
+  "date": "1980-08-14",
+  "startTime": "1980-08-14T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "59-54"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "59-51"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.336,
+    "rankGapFactor": 0.028,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179860",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179860/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.896747Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.896748Z"
+}

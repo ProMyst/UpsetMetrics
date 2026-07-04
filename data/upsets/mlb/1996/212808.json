@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-08-30-rockies-at-cardinals",
+  "sport": "mlb",
+  "date": "1996-08-30",
+  "startTime": "1996-08-31T00:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "70-65"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "70-66"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212808",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212808/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.472217Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.472218Z"
+}

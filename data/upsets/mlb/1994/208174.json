@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-06-14-reds-at-dodgers",
+  "sport": "mlb",
+  "date": "1994-06-14",
+  "startTime": "1994-06-15T02:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "34-30"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "35-28"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.361,
+    "rankGapFactor": 0.049,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208174",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208174/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.613944Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.613946Z"
+}

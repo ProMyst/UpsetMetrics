@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-08-18-twins-at-orioles",
+  "sport": "mlb",
+  "date": "1999-08-18",
+  "startTime": "1999-08-18T23:35:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "53-66"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "50-68"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1186",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1186/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.474138Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.474140Z"
+}

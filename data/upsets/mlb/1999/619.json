@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-04-29-tigers-at-mariners",
+  "sport": "mlb",
+  "date": "1999-04-29",
+  "startTime": "1999-04-29T19:35:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "10-12"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "10-12"
+  },
+  "finalScore": "22-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "619",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/619/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.172857Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.172859Z"
+}

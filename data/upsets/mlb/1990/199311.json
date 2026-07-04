@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-05-30-orioles-at-twins",
+  "sport": "mlb",
+  "date": "1990-05-30",
+  "startTime": "1990-05-31T00:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "27-19"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "21-26"
+  },
+  "finalScore": "12-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199311",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199311/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.023375Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.023377Z"
+}

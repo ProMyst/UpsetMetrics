@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-05-20-braves-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1980-05-20",
+  "startTime": "1980-05-20T07:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "13-20"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "16-16"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.565,
+    "rankGapFactor": 0.212,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178827",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178827/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.693150Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.693155Z"
+}

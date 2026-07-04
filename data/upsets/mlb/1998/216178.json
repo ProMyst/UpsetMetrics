@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-05-24-dodgers-at-diamondbacks",
+  "sport": "mlb",
+  "date": "1998-05-24",
+  "startTime": "1998-05-24T10:33:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "15-34"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "24-25"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.759,
+    "rankGapFactor": 0.367,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216178",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216178/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.039817Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.039819Z"
+}

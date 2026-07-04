@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-04-22-blue-jays-at-red-sox",
+  "sport": "mlb",
+  "date": "1991-04-22",
+  "startTime": "1991-04-22T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "7-5"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "8-6"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200996",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200996/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.054256Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.054258Z"
+}

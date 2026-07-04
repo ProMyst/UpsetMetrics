@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-01-mariners-at-athletics",
+  "sport": "mlb",
+  "date": "1990-08-01",
+  "startTime": "1990-08-01T10:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "65-40"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "54-51"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200062",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200062/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.172736Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.172738Z"
+}

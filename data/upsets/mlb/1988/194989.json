@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-05-17-braves-at-reds",
+  "sport": "mlb",
+  "date": "1988-05-17",
+  "startTime": "1988-05-17T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "11-24"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "19-19"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.764,
+    "rankGapFactor": 0.371,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194989",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194989/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.245743Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.245745Z"
+}

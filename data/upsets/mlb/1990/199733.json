@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-07-04-reds-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1990-07-04",
+  "startTime": "1990-07-04T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "44-36"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "47-28"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.492,
+    "rankGapFactor": 0.153,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199733",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199733/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.105300Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.105305Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-15-montreal-expos-at-pirates",
+  "sport": "mlb",
+  "date": "1997-09-15",
+  "startTime": "1997-09-15T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "72-78"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "74-75"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.342,
+    "rankGapFactor": 0.033,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215280",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215280/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.275418Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.275423Z"
+}

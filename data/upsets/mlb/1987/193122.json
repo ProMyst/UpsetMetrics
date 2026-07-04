@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-06-07-rangers-at-twins",
+  "sport": "mlb",
+  "date": "1987-06-07",
+  "startTime": "1987-06-07T08:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "29-26"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "22-30"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193122",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193122/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.216312Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.216314Z"
+}

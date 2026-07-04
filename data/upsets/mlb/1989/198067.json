@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-08-07-athletics-at-mariners",
+  "sport": "mlb",
+  "date": "1989-08-07",
+  "startTime": "1989-08-08T02:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "53-58"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "67-45"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.602,
+    "rankGapFactor": 0.241,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198067",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198067/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.390909Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.390911Z"
+}

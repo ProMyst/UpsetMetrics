@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-07-03-montreal-expos-at-giants",
+  "sport": "mlb",
+  "date": "1994-07-03",
+  "startTime": "1994-07-03T10:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "35-47"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "48-32"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.733,
+    "rankGapFactor": 0.346,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208425",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208425/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.662923Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.662927Z"
+}

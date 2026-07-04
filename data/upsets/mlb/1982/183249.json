@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-08-04-tigers-at-royals",
+  "sport": "mlb",
+  "date": "1982-08-04",
+  "startTime": "1982-08-05T00:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "53-51"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "59-45"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.444,
+    "rankGapFactor": 0.115,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183249",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183249/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.337436Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.337438Z"
+}

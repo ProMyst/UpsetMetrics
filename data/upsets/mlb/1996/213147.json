@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-09-26-california-angels-at-rangers",
+  "sport": "mlb",
+  "date": "1996-09-26",
+  "startTime": "1996-09-27T00:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "88-71"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "69-89"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213147",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213147/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.539473Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.539478Z"
+}

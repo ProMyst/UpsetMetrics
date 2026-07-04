@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-08-05-tigers-at-blue-jays",
+  "sport": "mlb",
+  "date": "1994-08-05",
+  "startTime": "1994-08-05T23:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "53-56"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "49-60"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208824",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208824/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.742963Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.742965Z"
+}

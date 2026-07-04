@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-05-06-cubs-at-dodgers",
+  "sport": "mlb",
+  "date": "1989-05-06",
+  "startTime": "1989-05-07T02:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "15-15"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "16-13"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.429,
+    "rankGapFactor": 0.103,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196988",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196988/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.176931Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.176933Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-06-07-tigers-at-white-sox",
+  "sport": "mlb",
+  "date": "1993-06-07",
+  "startTime": "1993-06-08T00:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "29-25"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "33-22"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.457,
+    "rankGapFactor": 0.126,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205813",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205813/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.461748Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.461750Z"
+}

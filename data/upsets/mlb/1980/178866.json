@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-05-23-dodgers-at-cubs",
+  "sport": "mlb",
+  "date": "1980-05-23",
+  "startTime": "1980-05-23T08:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "16-18"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "24-14"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.702,
+    "rankGapFactor": 0.322,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178866",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178866/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.700525Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.700527Z"
+}

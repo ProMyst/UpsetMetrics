@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-06-08-dodgers-at-braves",
+  "sport": "mlb",
+  "date": "1985-06-08",
+  "startTime": "1985-06-08T07:33:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "21-30"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "27-27"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.521,
+    "rankGapFactor": 0.176,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188881",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188881/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.509918Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.509920Z"
+}

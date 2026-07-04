@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-09-07-white-sox-at-blue-jays",
+  "sport": "mlb",
+  "date": "1980-09-07",
+  "startTime": "1980-09-07T07:38:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "58-78"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "57-78"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180155",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180155/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.958389Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.958391Z"
+}

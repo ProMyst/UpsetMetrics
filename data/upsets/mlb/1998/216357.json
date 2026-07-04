@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-06-06-montreal-expos-at-tampa-bay-devil-rays",
+  "sport": "mlb",
+  "date": "1998-06-06",
+  "startTime": "1998-06-06T23:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "24-36"
+  },
+  "loser": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "25-35"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.342,
+    "rankGapFactor": 0.033,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216357",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216357/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.072320Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-tampa-bay-devil-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.072328Z"
+}

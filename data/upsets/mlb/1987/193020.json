@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-05-30-montreal-expos-at-giants",
+  "sport": "mlb",
+  "date": "1987-05-30",
+  "startTime": "1987-05-30T10:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "25-22"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "26-22"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.324,
+    "rankGapFactor": 0.02,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193020",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193020/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.197501Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.197506Z"
+}

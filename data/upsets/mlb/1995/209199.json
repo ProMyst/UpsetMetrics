@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-05-19-cleveland-indians-at-red-sox",
+  "sport": "mlb",
+  "date": "1995-05-19",
+  "startTime": "1995-05-19T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "13-6"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "14-6"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.339,
+    "rankGapFactor": 0.032,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209199",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209199/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.871372Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.871377Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-06-26-pirates-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1996-06-26",
+  "startTime": "1996-06-26T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "36-41"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "45-32"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.592,
+    "rankGapFactor": 0.234,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211993",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211993/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.302754Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.302758Z"
+}

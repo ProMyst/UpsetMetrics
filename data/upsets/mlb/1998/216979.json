@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-07-24-reds-at-giants",
+  "sport": "mlb",
+  "date": "1998-07-24",
+  "startTime": "1998-07-25T02:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "55-48"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "45-58"
+  },
+  "finalScore": "12-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216979",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216979/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.202852Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.202853Z"
+}

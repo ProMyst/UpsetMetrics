@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-08-22-royals-at-brewers",
+  "sport": "mlb",
+  "date": "1995-08-22",
+  "startTime": "1995-08-23T00:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "54-54"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "51-55"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210413",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210413/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.114907Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.114908Z"
+}

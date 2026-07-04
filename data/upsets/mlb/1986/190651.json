@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-05-08-padres-at-cardinals",
+  "sport": "mlb",
+  "date": "1986-05-08",
+  "startTime": "1986-05-08T08:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "11-14"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "14-14"
+  },
+  "finalScore": "13-3",
+  "factors": {
+    "pregameOddsFactor": 0.45,
+    "rankGapFactor": 0.12,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190651",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190651/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.693414Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.693416Z"
+}

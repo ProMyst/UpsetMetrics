@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-09-18-braves-at-reds",
+  "sport": "mlb",
+  "date": "1982-09-18",
+  "startTime": "1982-09-18T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "81-67"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "55-93"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183798",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183798/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.452398Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.452400Z"
+}

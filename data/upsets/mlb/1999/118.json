@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-05-21-reds-at-padres",
+  "sport": "mlb",
+  "date": "1999-05-21",
+  "startTime": "1999-05-22T02:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "17-23"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "19-19"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.488,
+    "rankGapFactor": 0.15,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "118",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/118/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.232650Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.232652Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-05-22-giants-at-mets",
+  "sport": "mlb",
+  "date": "1984-05-22",
+  "startTime": "1984-05-22T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "15-25"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "20-17"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.714,
+    "rankGapFactor": 0.331,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186630",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186630/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.170059Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.170061Z"
+}

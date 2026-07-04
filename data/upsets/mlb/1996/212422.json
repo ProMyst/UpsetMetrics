@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-07-31-giants-at-cubs",
+  "sport": "mlb",
+  "date": "1996-07-31",
+  "startTime": "1996-07-31T08:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "52-54"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "46-60"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212422",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212422/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.394436Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.394438Z"
+}

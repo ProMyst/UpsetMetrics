@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-08-13-rockies-at-astros",
+  "sport": "mlb",
+  "date": "1993-08-13",
+  "startTime": "1993-08-14T00:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "42-74"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "60-56"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.688,
+    "rankGapFactor": 0.31,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206652",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206652/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.643802Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.643804Z"
+}

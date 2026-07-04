@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-05-23-pirates-at-braves",
+  "sport": "mlb",
+  "date": "1989-05-23",
+  "startTime": "1989-05-23T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "17-24"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "19-25"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.343,
+    "rankGapFactor": 0.034,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197176",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197176/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.212651Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.212653Z"
+}

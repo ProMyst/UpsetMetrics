@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-07-07-twins-at-yankees",
+  "sport": "mlb",
+  "date": "1990-07-07",
+  "startTime": "1990-07-07T07:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "30-49"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "39-43"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.54,
+    "rankGapFactor": 0.192,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199774",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199774/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.115660Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.115662Z"
+}

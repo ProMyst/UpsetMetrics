@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-09-03-california-angels-at-tigers",
+  "sport": "mlb",
+  "date": "1985-09-03",
+  "startTime": "1985-09-03T23:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "71-60"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "74-58"
+  },
+  "finalScore": "14-8",
+  "factors": {
+    "pregameOddsFactor": 0.347,
+    "rankGapFactor": 0.037,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "189897",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/189897/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.715973Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.715978Z"
+}

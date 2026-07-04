@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-05-19-montreal-expos-at-dodgers",
+  "sport": "mlb",
+  "date": "1984-05-19",
+  "startTime": "1984-05-20T02:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "23-19"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "20-19"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186596",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186596/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.164716Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.164721Z"
+}

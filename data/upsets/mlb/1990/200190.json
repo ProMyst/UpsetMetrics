@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-11-cardinals-at-pirates",
+  "sport": "mlb",
+  "date": "1990-08-11",
+  "startTime": "1990-08-11T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "53-61"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "64-47"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.579,
+    "rankGapFactor": 0.223,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200190",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200190/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.195930Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.195932Z"
+}

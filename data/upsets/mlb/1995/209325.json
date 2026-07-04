@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-05-29-red-sox-at-athletics",
+  "sport": "mlb",
+  "date": "1995-05-29",
+  "startTime": "1995-05-29T10:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "18-11"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "17-14"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209325",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209325/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.899923Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.899925Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-08-06-royals-at-orioles",
+  "sport": "mlb",
+  "date": "1982-08-06",
+  "startTime": "1982-08-06T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "61-46"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "57-49"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183278",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183278/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.340864Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.340866Z"
+}

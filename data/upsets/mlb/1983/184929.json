@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-06-28-pirates-at-cubs",
+  "sport": "mlb",
+  "date": "1983-06-28",
+  "startTime": "1983-06-28T08:33:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "33-39"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "32-37"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.314,
+    "rankGapFactor": 0.011,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "184929",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/184929/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.597154Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.597156Z"
+}

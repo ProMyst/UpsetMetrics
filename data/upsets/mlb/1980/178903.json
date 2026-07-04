@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-05-26-dodgers-at-reds",
+  "sport": "mlb",
+  "date": "1980-05-26",
+  "startTime": "1980-05-26T07:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "26-15"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "22-19"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178903",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178903/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.705967Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.705969Z"
+}

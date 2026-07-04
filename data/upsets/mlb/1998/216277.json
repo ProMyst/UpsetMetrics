@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-05-31-rangers-at-orioles",
+  "sport": "mlb",
+  "date": "1998-05-31",
+  "startTime": "1998-05-31T07:33:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "33-21"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "25-30"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216277",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216277/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.055672Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.055675Z"
+}

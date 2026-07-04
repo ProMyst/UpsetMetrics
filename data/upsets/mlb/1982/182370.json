@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-05-20-cubs-at-dodgers",
+  "sport": "mlb",
+  "date": "1982-05-20",
+  "startTime": "1982-05-21T02:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "16-22"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "19-20"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.465,
+    "rankGapFactor": 0.132,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182370",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182370/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.163826Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.163828Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-08-25-reds-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1981-08-25",
+  "startTime": "1981-08-25T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "37-31"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "42-28"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.44,
+    "rankGapFactor": 0.112,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181401",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181401/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.138558Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.138563Z"
+}

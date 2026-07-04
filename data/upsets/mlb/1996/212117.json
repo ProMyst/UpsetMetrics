@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-07-06-red-sox-at-orioles",
+  "sport": "mlb",
+  "date": "1996-07-06",
+  "startTime": "1996-07-06T07:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "46-38"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "35-49"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212117",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212117/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.330880Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.330882Z"
+}

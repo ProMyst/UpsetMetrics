@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-09-08-california-angels-at-royals",
+  "sport": "mlb",
+  "date": "1981-09-08",
+  "startTime": "1981-09-09T00:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "35-44"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "42-45"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.399,
+    "rankGapFactor": 0.079,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181573",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181573/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.175180Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.175185Z"
+}

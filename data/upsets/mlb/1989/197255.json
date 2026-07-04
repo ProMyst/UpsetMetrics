@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-05-30-astros-at-cardinals",
+  "sport": "mlb",
+  "date": "1989-05-30",
+  "startTime": "1989-05-31T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "26-24"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "23-24"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197255",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197255/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.229492Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.229494Z"
+}

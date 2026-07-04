@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-10-01-brewers-at-california-angels",
+  "sport": "mlb",
+  "date": "1980-10-01",
+  "startTime": "1980-10-02T02:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "85-75"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "65-92"
+  },
+  "finalScore": "10-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180442",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180442/feed/live",
+    "retrievedAt": "2026-07-04T07:02:45.016351Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:45.016356Z"
+}

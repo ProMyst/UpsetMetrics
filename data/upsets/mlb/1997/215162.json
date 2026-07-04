@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-06-brewers-at-red-sox",
+  "sport": "mlb",
+  "date": "1997-09-06",
+  "startTime": "1997-09-06T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "68-74"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "71-69"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.371,
+    "rankGapFactor": 0.057,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215162",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215162/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.255114Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.255116Z"
+}

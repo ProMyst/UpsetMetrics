@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-06-20-royals-at-tigers",
+  "sport": "mlb",
+  "date": "1998-06-20",
+  "startTime": "1998-06-20T23:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "27-43"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "29-43"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.343,
+    "rankGapFactor": 0.034,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216541",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216541/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.109409Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.109411Z"
+}

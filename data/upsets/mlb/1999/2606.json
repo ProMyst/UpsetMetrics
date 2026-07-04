@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-22-orioles-at-red-sox",
+  "sport": "mlb",
+  "date": "1999-07-22",
+  "startTime": "1999-07-22T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "42-53"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "52-44"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.549,
+    "rankGapFactor": 0.199,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2606",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2606/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.398733Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.398736Z"
+}

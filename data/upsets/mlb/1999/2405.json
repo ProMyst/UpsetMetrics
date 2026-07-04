@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-19-dodgers-at-pirates",
+  "sport": "mlb",
+  "date": "1999-07-19",
+  "startTime": "1999-07-19T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "42-49"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "46-46"
+  },
+  "finalScore": "12-7",
+  "factors": {
+    "pregameOddsFactor": 0.396,
+    "rankGapFactor": 0.077,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2405",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2405/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.383437Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.383439Z"
+}

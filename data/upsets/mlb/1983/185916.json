@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-09-17-padres-at-braves",
+  "sport": "mlb",
+  "date": "1983-09-17",
+  "startTime": "1983-09-17T07:33:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "74-74"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "81-66"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.428,
+    "rankGapFactor": 0.102,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185916",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185916/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.798985Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.798987Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-06-19-mariners-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1986-06-19",
+  "startTime": "1986-06-19T23:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "32-31"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "26-41"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191147",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191147/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.791876Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.791881Z"
+}

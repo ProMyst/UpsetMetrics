@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-08-07-astros-at-padres",
+  "sport": "mlb",
+  "date": "1987-08-07",
+  "startTime": "1987-08-08T02:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "42-67"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "54-54"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.587,
+    "rankGapFactor": 0.229,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193819",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193819/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.360965Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.360967Z"
+}

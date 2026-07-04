@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-05-23-rangers-at-orioles",
+  "sport": "mlb",
+  "date": "1999-05-23",
+  "startTime": "1999-05-24T00:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "16-27"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "23-20"
+  },
+  "finalScore": "15-6",
+  "factors": {
+    "pregameOddsFactor": 0.707,
+    "rankGapFactor": 0.326,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "130",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/130/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.239020Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.239022Z"
+}

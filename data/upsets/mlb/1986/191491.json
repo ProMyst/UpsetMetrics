@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-07-20-brewers-at-athletics",
+  "sport": "mlb",
+  "date": "1986-07-20",
+  "startTime": "1986-07-20T10:38:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "37-57"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "42-48"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.483,
+    "rankGapFactor": 0.146,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191491",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191491/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.861117Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.861119Z"
+}

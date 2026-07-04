@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-05-04-athletics-at-yankees",
+  "sport": "mlb",
+  "date": "1993-05-04",
+  "startTime": "1993-05-04T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "15-10"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "8-14"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205392",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205392/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.376755Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.376758Z"
+}

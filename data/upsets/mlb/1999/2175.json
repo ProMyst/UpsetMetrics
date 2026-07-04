@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-01-padres-at-cubs",
+  "sport": "mlb",
+  "date": "1999-06-01",
+  "startTime": "1999-06-02T00:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "20-30"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "27-21"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.706,
+    "rankGapFactor": 0.325,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2175",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2175/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.262515Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.262518Z"
+}

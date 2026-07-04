@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-05-10-phillies-at-reds",
+  "sport": "mlb",
+  "date": "1987-05-10",
+  "startTime": "1987-05-10T07:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "10-18"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "19-11"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.99,
+    "rankGapFactor": 0.552,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192797",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192797/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.150257Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.150259Z"
+}

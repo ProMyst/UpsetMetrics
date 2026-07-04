@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-05-26-giants-at-cardinals",
+  "sport": "mlb",
+  "date": "1999-05-26",
+  "startTime": "1999-05-27T00:10:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "27-19"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "23-21"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1321",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1321/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.246314Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.246316Z"
+}

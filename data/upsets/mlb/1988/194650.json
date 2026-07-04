@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-04-16-royals-at-tigers",
+  "sport": "mlb",
+  "date": "1988-04-16",
+  "startTime": "1988-04-16T07:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "5-4"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "6-4"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194650",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194650/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.174730Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.174733Z"
+}

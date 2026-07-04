@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-10-05-brewers-at-blue-jays",
+  "sport": "mlb",
+  "date": "1986-10-05",
+  "startTime": "1986-10-05T07:38:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "77-84"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "86-76"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.432,
+    "rankGapFactor": 0.105,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192410",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192410/feed/live",
+    "retrievedAt": "2026-07-04T07:11:18.049410Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:18.049412Z"
+}

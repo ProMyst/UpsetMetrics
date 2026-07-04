@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-05-31-orioles-at-twins",
+  "sport": "mlb",
+  "date": "1980-05-31",
+  "startTime": "1980-05-31T08:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "22-24"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "18-29"
+  },
+  "finalScore": "11-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178957",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178957/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.719322Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.719324Z"
+}

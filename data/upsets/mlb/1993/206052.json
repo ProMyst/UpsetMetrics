@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-06-26-rockies-at-giants",
+  "sport": "mlb",
+  "date": "1993-06-26",
+  "startTime": "1993-06-26T10:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "26-47"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "50-25"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.621,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206052",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206052/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.511686Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.511687Z"
+}

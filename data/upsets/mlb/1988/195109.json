@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-05-27-giants-at-phillies",
+  "sport": "mlb",
+  "date": "1988-05-27",
+  "startTime": "1988-05-27T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "16-27"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "24-23"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.646,
+    "rankGapFactor": 0.277,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195109",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195109/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.268132Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.268134Z"
+}

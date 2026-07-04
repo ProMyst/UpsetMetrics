@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-26-rockies-at-padres",
+  "sport": "mlb",
+  "date": "1999-06-26",
+  "startTime": "1999-06-27T02:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "33-39"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "34-36"
+  },
+  "finalScore": "13-6",
+  "factors": {
+    "pregameOddsFactor": 0.368,
+    "rankGapFactor": 0.055,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "124",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/124/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.329102Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.329104Z"
+}

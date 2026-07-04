@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-05-05-padres-at-cubs",
+  "sport": "mlb",
+  "date": "1990-05-05",
+  "startTime": "1990-05-05T08:38:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "11-12"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "11-12"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199025",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199025/feed/live",
+    "retrievedAt": "2026-07-04T07:17:02.962735Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:02.962737Z"
+}

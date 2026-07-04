@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-08-06-rangers-at-yankees",
+  "sport": "mlb",
+  "date": "1980-08-06",
+  "startTime": "1980-08-06T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "67-39"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "51-55"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179768",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179768/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.877102Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.877104Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-06-21-phillies-at-giants",
+  "sport": "mlb",
+  "date": "1980-06-21",
+  "startTime": "1980-06-21T10:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "30-35"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "33-27"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.521,
+    "rankGapFactor": 0.177,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179216",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179216/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.769472Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.769474Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-07-21-cardinals-at-padres",
+  "sport": "mlb",
+  "date": "1998-07-21",
+  "startTime": "1998-07-22T02:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "65-35"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "46-53"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216944",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216944/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.193762Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.193764Z"
+}

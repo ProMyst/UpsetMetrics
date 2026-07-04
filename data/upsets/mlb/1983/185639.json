@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-08-26-red-sox-at-white-sox",
+  "sport": "mlb",
+  "date": "1983-08-26",
+  "startTime": "1983-08-27T00:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "61-66"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "70-57"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.477,
+    "rankGapFactor": 0.142,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185639",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185639/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.743474Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.743476Z"
+}

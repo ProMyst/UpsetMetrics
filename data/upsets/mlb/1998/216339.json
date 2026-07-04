@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-06-05-royals-at-astros",
+  "sport": "mlb",
+  "date": "1998-06-05",
+  "startTime": "1998-06-06T00:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "22-36"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "35-24"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.835,
+    "rankGapFactor": 0.428,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216339",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216339/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.070568Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.070570Z"
+}

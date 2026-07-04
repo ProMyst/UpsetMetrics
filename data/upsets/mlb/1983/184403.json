@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-05-15-white-sox-at-yankees",
+  "sport": "mlb",
+  "date": "1983-05-15",
+  "startTime": "1983-05-15T07:33:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "13-17"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "15-17"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.389,
+    "rankGapFactor": 0.071,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "184403",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/184403/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.492560Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.492562Z"
+}

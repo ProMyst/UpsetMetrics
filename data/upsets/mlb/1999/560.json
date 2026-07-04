@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-18-brewers-at-reds",
+  "sport": "mlb",
+  "date": "1999-06-18",
+  "startTime": "1999-06-18T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "34-29"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "28-38"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "560",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/560/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.306036Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.306038Z"
+}

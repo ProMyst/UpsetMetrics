@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-08-09-twins-at-orioles",
+  "sport": "mlb",
+  "date": "1989-08-09",
+  "startTime": "1989-08-09T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "57-57"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "58-54"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.345,
+    "rankGapFactor": 0.036,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198088",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198088/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.394625Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.394627Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-09-19-padres-at-reds",
+  "sport": "mlb",
+  "date": "1988-09-19",
+  "startTime": "1988-09-19T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "78-71"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "73-75"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196467",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196467/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.543597Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.543599Z"
+}

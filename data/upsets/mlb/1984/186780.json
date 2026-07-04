@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-06-05-braves-at-giants",
+  "sport": "mlb",
+  "date": "1984-06-05",
+  "startTime": "1984-06-06T02:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "32-23"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "17-34"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186780",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186780/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.203002Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.203004Z"
+}

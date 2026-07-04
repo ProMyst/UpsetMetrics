@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-04-22-yankees-at-rangers",
+  "sport": "mlb",
+  "date": "1990-04-22",
+  "startTime": "1990-04-22T08:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "7-6"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "4-6"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198880",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198880/feed/live",
+    "retrievedAt": "2026-07-04T07:17:02.934779Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:02.934781Z"
+}

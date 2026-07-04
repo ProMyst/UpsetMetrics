@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-06-28-rangers-at-mariners",
+  "sport": "mlb",
+  "date": "1988-06-28",
+  "startTime": "1988-06-29T02:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "36-39"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "30-47"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195499",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195499/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.348184Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.348186Z"
+}

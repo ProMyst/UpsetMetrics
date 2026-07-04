@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-06-13-tigers-at-blue-jays",
+  "sport": "mlb",
+  "date": "1984-06-13",
+  "startTime": "1984-06-13T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "38-22"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "44-16"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.55,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186884",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186884/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.221204Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.221206Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-05-29-brewers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1988-05-29",
+  "startTime": "1988-05-29T07:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "25-23"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "30-18"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.56,
+    "rankGapFactor": 0.208,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195131",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195131/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.273889Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.273894Z"
+}

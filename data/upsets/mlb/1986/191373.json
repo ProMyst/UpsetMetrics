@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-07-08-reds-at-mets",
+  "sport": "mlb",
+  "date": "1986-07-08",
+  "startTime": "1986-07-08T23:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "37-43"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "55-24"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.884,
+    "rankGapFactor": 0.467,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191373",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191373/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.837959Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.837961Z"
+}

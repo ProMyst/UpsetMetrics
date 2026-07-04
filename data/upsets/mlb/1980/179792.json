@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-08-08-giants-at-braves",
+  "sport": "mlb",
+  "date": "1980-08-08",
+  "startTime": "1980-08-08T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "49-59"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "52-57"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.358,
+    "rankGapFactor": 0.047,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179792",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179792/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.881102Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.881104Z"
+}

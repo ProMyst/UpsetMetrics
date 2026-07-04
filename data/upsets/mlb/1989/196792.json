@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-04-19-cubs-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1989-04-19",
+  "startTime": "1989-04-19T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "9-6"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "8-5"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196792",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196792/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.135977Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.135982Z"
+}

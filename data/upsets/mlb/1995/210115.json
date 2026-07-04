@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-07-30-yankees-at-twins",
+  "sport": "mlb",
+  "date": "1995-07-30",
+  "startTime": "1995-07-31T00:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "43-42"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "30-56"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210115",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210115/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.054157Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.054159Z"
+}

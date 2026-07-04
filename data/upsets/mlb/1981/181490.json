@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-09-01-mariners-at-orioles",
+  "sport": "mlb",
+  "date": "1981-09-01",
+  "startTime": "1981-09-01T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "43-32"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "29-50"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181490",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181490/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.155908Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.155910Z"
+}

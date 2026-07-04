@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-04-27-braves-at-dodgers",
+  "sport": "mlb",
+  "date": "1986-04-27",
+  "startTime": "1986-04-27T10:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "7-13"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "7-10"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.454,
+    "rankGapFactor": 0.124,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190525",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190525/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.669551Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.669553Z"
+}

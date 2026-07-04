@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-07-02-astros-at-phillies",
+  "sport": "mlb",
+  "date": "1990-07-02",
+  "startTime": "1990-07-02T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "37-37"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "32-45"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199709",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199709/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.101009Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.101011Z"
+}

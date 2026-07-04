@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-07-27-royals-at-tigers",
+  "sport": "mlb",
+  "date": "1986-07-27",
+  "startTime": "1986-07-27T07:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "46-53"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "51-47"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.439,
+    "rankGapFactor": 0.112,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191572",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191572/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.878081Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.878083Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-05-23-braves-at-mets",
+  "sport": "mlb",
+  "date": "1993-05-23",
+  "startTime": "1993-05-23T07:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "26-19"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "14-27"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205622",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205622/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.424329Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.424331Z"
+}

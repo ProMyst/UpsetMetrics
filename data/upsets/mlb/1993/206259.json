@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-07-11-rockies-at-cardinals",
+  "sport": "mlb",
+  "date": "1993-07-11",
+  "startTime": "1993-07-11T08:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "33-54"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "51-36"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.817,
+    "rankGapFactor": 0.414,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206259",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206259/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.552470Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.552472Z"
+}

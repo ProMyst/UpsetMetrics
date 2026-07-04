@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-05-20-braves-at-pirates",
+  "sport": "mlb",
+  "date": "1984-05-20",
+  "startTime": "1984-05-20T07:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "21-18"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "13-22"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186602",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186602/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.166451Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.166453Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-09-23-blue-jays-at-tigers",
+  "sport": "mlb",
+  "date": "1980-09-23",
+  "startTime": "1980-09-23T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "64-87"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "77-74"
+  },
+  "finalScore": "9-7",
+  "factors": {
+    "pregameOddsFactor": 0.515,
+    "rankGapFactor": 0.172,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180357",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180357/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.996922Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.996923Z"
+}

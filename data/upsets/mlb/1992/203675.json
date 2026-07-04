@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-06-10-reds-at-giants",
+  "sport": "mlb",
+  "date": "1992-06-10",
+  "startTime": "1992-06-10T10:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "30-27"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "32-24"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.413,
+    "rankGapFactor": 0.09,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203675",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203675/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.919768Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.919770Z"
+}

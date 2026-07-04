@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-06-09-reds-at-padres",
+  "sport": "mlb",
+  "date": "1988-06-09",
+  "startTime": "1988-06-09T10:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "22-36"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "26-32"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.472,
+    "rankGapFactor": 0.138,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195260",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195260/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.300469Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.300471Z"
+}

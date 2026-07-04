@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-10-24-yankees-at-braves",
+  "sport": "mlb",
+  "date": "1999-10-24",
+  "startTime": "1999-10-25T00:05:00Z",
+  "season": "1999",
+  "event": "World Series",
+  "stakes": "World Series",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "2-0"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "0-2"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 1.0,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2896",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2896/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.605350Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.605352Z"
+}

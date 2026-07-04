@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-09-24-mets-at-astros",
+  "sport": "mlb",
+  "date": "1996-09-24",
+  "startTime": "1996-09-25T00:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "70-87"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "78-79"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.427,
+    "rankGapFactor": 0.102,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213125",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213125/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.534735Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.534737Z"
+}

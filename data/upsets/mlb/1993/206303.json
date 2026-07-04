@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-07-17-twins-at-orioles",
+  "sport": "mlb",
+  "date": "1993-07-17",
+  "startTime": "1993-07-17T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "37-51"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "49-42"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.595,
+    "rankGapFactor": 0.236,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206303",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206303/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.559251Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.559253Z"
+}

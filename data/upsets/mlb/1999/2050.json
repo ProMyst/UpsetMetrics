@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-05-12-mariners-at-red-sox",
+  "sport": "mlb",
+  "date": "1999-05-12",
+  "startTime": "1999-05-12T23:35:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "18-15"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "15-19"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2050",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2050/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.209561Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.209563Z"
+}

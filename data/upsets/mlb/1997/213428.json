@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-04-21-orioles-at-red-sox",
+  "sport": "mlb",
+  "date": "1997-04-21",
+  "startTime": "1997-04-21T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "9-8"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "11-4"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.81,
+    "rankGapFactor": 0.408,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213428",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213428/feed/live",
+    "retrievedAt": "2026-07-04T07:27:10.906220Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:10.906222Z"
+}

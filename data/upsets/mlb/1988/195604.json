@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-07-08-red-sox-at-white-sox",
+  "sport": "mlb",
+  "date": "1988-07-08",
+  "startTime": "1988-07-08T08:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "39-44"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "41-40"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.391,
+    "rankGapFactor": 0.073,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195604",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195604/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.369348Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.369350Z"
+}

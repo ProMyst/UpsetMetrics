@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-10-13-athletics-at-yankees",
+  "sport": "mlb",
+  "date": "1981-10-13",
+  "startTime": "1981-10-13T23:05:00Z",
+  "season": "1981",
+  "event": "AL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "67786",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/67786/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.241293Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.241295Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-09-22-astros-at-reds",
+  "sport": "mlb",
+  "date": "1992-09-22",
+  "startTime": "1992-09-22T07:38:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "84-67"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "72-79"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204889",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204889/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.161824Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.161827Z"
+}

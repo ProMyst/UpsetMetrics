@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-08-23-athletics-at-yankees",
+  "sport": "mlb",
+  "date": "1983-08-23",
+  "startTime": "1983-08-23T23:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "62-65"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "67-56"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.441,
+    "rankGapFactor": 0.113,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185610",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185610/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.734599Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.734601Z"
+}

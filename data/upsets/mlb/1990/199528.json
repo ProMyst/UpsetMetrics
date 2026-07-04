@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-06-17-braves-at-giants",
+  "sport": "mlb",
+  "date": "1990-06-17",
+  "startTime": "1990-06-17T10:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "34-30"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "23-38"
+  },
+  "finalScore": "9-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199528",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199528/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.067775Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.067777Z"
+}

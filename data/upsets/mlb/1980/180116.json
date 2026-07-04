@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-09-03-mariners-at-orioles",
+  "sport": "mlb",
+  "date": "1980-09-03",
+  "startTime": "1980-09-03T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "79-52"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "47-85"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180116",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180116/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.949400Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.949402Z"
+}

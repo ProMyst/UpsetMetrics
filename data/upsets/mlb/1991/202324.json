@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-08-16-royals-at-red-sox",
+  "sport": "mlb",
+  "date": "1991-08-16",
+  "startTime": "1991-08-16T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "58-58"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "60-54"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.366,
+    "rankGapFactor": 0.053,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202324",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202324/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.321151Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.321153Z"
+}

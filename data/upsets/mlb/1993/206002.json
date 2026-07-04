@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-06-22-cubs-at-pirates",
+  "sport": "mlb",
+  "date": "1993-06-22",
+  "startTime": "1993-06-22T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "33-36"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "33-35"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.318,
+    "rankGapFactor": 0.014,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206002",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206002/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.499358Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.499360Z"
+}

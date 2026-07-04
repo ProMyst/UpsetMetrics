@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-05-29-orioles-at-athletics",
+  "sport": "mlb",
+  "date": "1992-05-29",
+  "startTime": "1992-05-30T02:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "27-20"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "27-19"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.331,
+    "rankGapFactor": 0.025,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203527",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203527/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.890723Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.890725Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-06-19-cleveland-indians-at-white-sox",
+  "sport": "mlb",
+  "date": "1991-06-19",
+  "startTime": "1991-06-20T00:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "23-39"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "30-32"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.582,
+    "rankGapFactor": 0.226,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201653",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201653/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.188531Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.188536Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-08-19-giants-at-pirates",
+  "sport": "mlb",
+  "date": "1981-08-19",
+  "startTime": "1981-08-19T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "28-30"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "32-37"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181338",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181338/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.124594Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.124596Z"
+}

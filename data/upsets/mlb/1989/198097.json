@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-08-10-tigers-at-rangers",
+  "sport": "mlb",
+  "date": "1989-08-10",
+  "startTime": "1989-08-11T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "60-53"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "41-73"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198097",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198097/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.397371Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.397373Z"
+}

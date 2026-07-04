@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-26-rangers-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "1997-09-26",
+  "startTime": "1997-09-27T02:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "76-84"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "83-77"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.409,
+    "rankGapFactor": 0.088,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215433",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215433/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.307492Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.307496Z"
+}

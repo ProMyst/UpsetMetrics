@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-05-09-royals-at-twins",
+  "sport": "mlb",
+  "date": "1999-05-09",
+  "startTime": "1999-05-09T18:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "14-15"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "11-20"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1167",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1167/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.200164Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.200166Z"
+}

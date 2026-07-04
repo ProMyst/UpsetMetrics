@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-06-05-royals-at-athletics",
+  "sport": "mlb",
+  "date": "1996-06-05",
+  "startTime": "1996-06-06T02:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "26-33"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "26-31"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.339,
+    "rankGapFactor": 0.031,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211716",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211716/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.249949Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.249950Z"
+}

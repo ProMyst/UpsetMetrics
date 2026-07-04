@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-08-08-twins-at-brewers",
+  "sport": "mlb",
+  "date": "1992-08-08",
+  "startTime": "1992-08-08T08:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "59-49"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "63-46"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.379,
+    "rankGapFactor": 0.063,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204361",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204361/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.053099Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.053101Z"
+}

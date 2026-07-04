@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-09-18-pirates-at-phillies",
+  "sport": "mlb",
+  "date": "1981-09-18",
+  "startTime": "1981-09-18T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "41-44"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "49-42"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.44,
+    "rankGapFactor": 0.112,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181692",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181692/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.196786Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.196788Z"
+}

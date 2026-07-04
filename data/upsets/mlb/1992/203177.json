@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-04-27-orioles-at-twins",
+  "sport": "mlb",
+  "date": "1992-04-27",
+  "startTime": "1992-04-28T00:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "9-10"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "11-8"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.563,
+    "rankGapFactor": 0.211,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203177",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203177/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.818400Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.818402Z"
+}

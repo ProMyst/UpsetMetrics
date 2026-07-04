@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-07-07-giants-at-braves",
+  "sport": "mlb",
+  "date": "1995-07-07",
+  "startTime": "1995-07-07T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "42-25"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "33-34"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209835",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209835/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.998316Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.998318Z"
+}

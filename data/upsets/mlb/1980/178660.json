@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-05-04-cleveland-indians-at-blue-jays",
+  "sport": "mlb",
+  "date": "1980-05-04",
+  "startTime": "1980-05-04T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "12-9"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "7-13"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178660",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178660/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.657981Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.657986Z"
+}

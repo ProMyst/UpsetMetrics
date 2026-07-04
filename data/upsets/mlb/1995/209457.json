@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-06-08-mets-at-giants",
+  "sport": "mlb",
+  "date": "1995-06-08",
+  "startTime": "1995-06-08T10:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "16-24"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "23-18"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.702,
+    "rankGapFactor": 0.322,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209457",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209457/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.925219Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.925221Z"
+}

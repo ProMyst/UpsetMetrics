@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-07-30-red-sox-at-white-sox",
+  "sport": "mlb",
+  "date": "1986-07-30",
+  "startTime": "1986-07-31T00:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "44-56"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "59-41"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.675,
+    "rankGapFactor": 0.3,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191609",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191609/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.887029Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.887031Z"
+}

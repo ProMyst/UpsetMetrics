@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-04-12-cardinals-at-cubs",
+  "sport": "mlb",
+  "date": "1992-04-12",
+  "startTime": "1992-04-12T08:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "3-3"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "3-4"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203016",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203016/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.783222Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.783225Z"
+}

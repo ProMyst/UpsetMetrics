@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-12-phillies-at-giants",
+  "sport": "mlb",
+  "date": "1981-05-12",
+  "startTime": "1981-05-13T02:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "16-17"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "18-11"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.64,
+    "rankGapFactor": 0.272,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180859",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180859/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.030761Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.030763Z"
+}

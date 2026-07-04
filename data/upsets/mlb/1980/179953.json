@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-08-21-giants-at-mets",
+  "sport": "mlb",
+  "date": "1980-08-21",
+  "startTime": "1980-08-21T07:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "57-64"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "60-61"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.362,
+    "rankGapFactor": 0.05,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179953",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179953/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.918867Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.918869Z"
+}

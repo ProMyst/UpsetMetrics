@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-08-07-yankees-at-twins",
+  "sport": "mlb",
+  "date": "1994-08-07",
+  "startTime": "1994-08-07T08:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "50-60"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "69-40"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.746,
+    "rankGapFactor": 0.357,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208857",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208857/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.750266Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.750268Z"
+}

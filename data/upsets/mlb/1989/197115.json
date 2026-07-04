@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-05-17-cardinals-at-astros",
+  "sport": "mlb",
+  "date": "1989-05-17",
+  "startTime": "1989-05-18T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "19-19"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "19-18"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.334,
+    "rankGapFactor": 0.027,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197115",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197115/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.200383Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.200384Z"
+}

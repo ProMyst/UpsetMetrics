@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-05-19-cardinals-at-padres",
+  "sport": "mlb",
+  "date": "1999-05-19",
+  "startTime": "1999-05-20T02:35:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "16-22"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "20-18"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.563,
+    "rankGapFactor": 0.211,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "117",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/117/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.227973Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.227975Z"
+}

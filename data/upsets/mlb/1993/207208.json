@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-09-26-reds-at-rockies",
+  "sport": "mlb",
+  "date": "1993-09-26",
+  "startTime": "1993-09-26T09:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "66-91"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "71-86"
+  },
+  "finalScore": "12-7",
+  "factors": {
+    "pregameOddsFactor": 0.38,
+    "rankGapFactor": 0.064,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207208",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207208/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.757827Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.757829Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-09-30-cubs-at-pirates",
+  "sport": "mlb",
+  "date": "1987-09-30",
+  "startTime": "1987-09-30T23:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "76-81"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "74-82"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194464",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194464/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.494025Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.494028Z"
+}

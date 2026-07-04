@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-04-17-white-sox-at-athletics",
+  "sport": "mlb",
+  "date": "1988-04-17",
+  "startTime": "1988-04-17T10:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "6-5"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "6-6"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194660",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194660/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.179557Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.179560Z"
+}

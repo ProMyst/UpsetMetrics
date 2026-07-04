@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-06-06-athletics-at-royals",
+  "sport": "mlb",
+  "date": "1988-06-06",
+  "startTime": "1988-06-07T00:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "28-28"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "38-17"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.777,
+    "rankGapFactor": 0.382,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195229",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195229/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.292204Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.292206Z"
+}

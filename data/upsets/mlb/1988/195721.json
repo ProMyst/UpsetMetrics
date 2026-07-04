@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-07-19-twins-at-red-sox",
+  "sport": "mlb",
+  "date": "1988-07-19",
+  "startTime": "1988-07-19T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "49-42"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "51-41"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.34,
+    "rankGapFactor": 0.032,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195721",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195721/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.393042Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.393044Z"
+}

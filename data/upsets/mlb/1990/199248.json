@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-05-24-rangers-at-tigers",
+  "sport": "mlb",
+  "date": "1990-05-24",
+  "startTime": "1990-05-24T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "18-23"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "19-24"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.307,
+    "rankGapFactor": 0.006,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199248",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199248/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.008546Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.008548Z"
+}

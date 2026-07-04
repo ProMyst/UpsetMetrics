@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-07-10-twins-at-red-sox",
+  "sport": "mlb",
+  "date": "1982-07-10",
+  "startTime": "1982-07-10T07:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "49-35"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "27-59"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182978",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182978/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.283914Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.283916Z"
+}

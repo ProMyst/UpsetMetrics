@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-08-01-cardinals-at-phillies",
+  "sport": "mlb",
+  "date": "1996-08-01",
+  "startTime": "1996-08-01T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "44-63"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "56-51"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.58,
+    "rankGapFactor": 0.224,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212435",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212435/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.395232Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.395234Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-06-15-rangers-at-athletics",
+  "sport": "mlb",
+  "date": "1986-06-15",
+  "startTime": "1986-06-15T10:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "27-36"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "34-27"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.622,
+    "rankGapFactor": 0.258,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191103",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191103/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.783684Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.783686Z"
+}

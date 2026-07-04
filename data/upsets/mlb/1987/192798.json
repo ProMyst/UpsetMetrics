@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-05-10-pirates-at-giants",
+  "sport": "mlb",
+  "date": "1987-05-10",
+  "startTime": "1987-05-10T10:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "12-16"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "21-11"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.869,
+    "rankGapFactor": 0.455,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192798",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192798/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.151549Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.151551Z"
+}

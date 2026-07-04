@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-05-03-montreal-expos-at-mets",
+  "sport": "mlb",
+  "date": "1987-05-03",
+  "startTime": "1987-05-03T07:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "10-13"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "12-11"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.517,
+    "rankGapFactor": 0.174,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192724",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192724/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.135102Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.135107Z"
+}

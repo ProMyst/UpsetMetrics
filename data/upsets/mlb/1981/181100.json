@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-06-02-orioles-at-yankees",
+  "sport": "mlb",
+  "date": "1981-06-02",
+  "startTime": "1981-06-02T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "27-20"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "28-17"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.419,
+    "rankGapFactor": 0.096,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181100",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181100/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.079311Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.079313Z"
+}

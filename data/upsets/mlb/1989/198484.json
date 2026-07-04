@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-09-11-braves-at-giants",
+  "sport": "mlb",
+  "date": "1989-09-11",
+  "startTime": "1989-09-12T02:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "83-61"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "56-88"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198484",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198484/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.478240Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.478242Z"
+}

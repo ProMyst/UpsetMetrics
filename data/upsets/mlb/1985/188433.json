@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-04-28-cubs-at-phillies",
+  "sport": "mlb",
+  "date": "1985-04-28",
+  "startTime": "1985-04-28T07:33:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "6-11"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "11-6"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.588,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188433",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188433/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.420080Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.420082Z"
+}

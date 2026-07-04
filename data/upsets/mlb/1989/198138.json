@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-08-13-dodgers-at-giants",
+  "sport": "mlb",
+  "date": "1989-08-13",
+  "startTime": "1989-08-13T10:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "56-62"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "67-51"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.533,
+    "rankGapFactor": 0.186,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198138",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198138/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.406191Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.406193Z"
+}

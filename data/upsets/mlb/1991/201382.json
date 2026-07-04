@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-05-27-royals-at-mariners",
+  "sport": "mlb",
+  "date": "1991-05-27",
+  "startTime": "1991-05-28T02:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "19-23"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "23-21"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.476,
+    "rankGapFactor": 0.141,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201382",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201382/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.133903Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.133905Z"
+}

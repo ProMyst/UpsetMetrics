@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-09-01-royals-at-tigers",
+  "sport": "mlb",
+  "date": "1996-09-01",
+  "startTime": "1996-09-01T07:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "63-75"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "49-88"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212839",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212839/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.476474Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.476476Z"
+}

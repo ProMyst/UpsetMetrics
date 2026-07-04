@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-06-18-reds-at-cubs",
+  "sport": "mlb",
+  "date": "1980-06-18",
+  "startTime": "1980-06-18T08:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "26-32"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "33-29"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.51,
+    "rankGapFactor": 0.168,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179172",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179172/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.761901Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.761903Z"
+}

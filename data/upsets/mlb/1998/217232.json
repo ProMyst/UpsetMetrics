@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-08-11-phillies-at-diamondbacks",
+  "sport": "mlb",
+  "date": "1998-08-11",
+  "startTime": "1998-08-12T02:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "45-74"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "57-61"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.562,
+    "rankGapFactor": 0.21,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "217232",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/217232/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.250132Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.250134Z"
+}

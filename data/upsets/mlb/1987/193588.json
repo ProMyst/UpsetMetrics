@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-07-18-cardinals-at-padres",
+  "sport": "mlb",
+  "date": "1987-07-18",
+  "startTime": "1987-07-18T10:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "32-59"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "57-32"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.578,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193588",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193588/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.313148Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.313150Z"
+}

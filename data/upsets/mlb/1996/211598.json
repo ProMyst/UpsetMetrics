@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-05-26-cleveland-indians-at-tigers",
+  "sport": "mlb",
+  "date": "1996-05-26",
+  "startTime": "1996-05-26T07:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "33-14"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "12-38"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211598",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211598/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.224305Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.224310Z"
+}

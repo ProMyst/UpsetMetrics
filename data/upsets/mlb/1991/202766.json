@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-09-22-montreal-expos-at-cubs",
+  "sport": "mlb",
+  "date": "1991-09-22",
+  "startTime": "1991-09-22T08:38:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "66-82"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "71-77"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.384,
+    "rankGapFactor": 0.068,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202766",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202766/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.412913Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.412918Z"
+}

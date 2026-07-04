@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-04-07-mets-at-cubs",
+  "sport": "mlb",
+  "date": "1998-04-07",
+  "startTime": "1998-04-07T08:33:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "5-2"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "6-2"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215560",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215560/feed/live",
+    "retrievedAt": "2026-07-04T07:28:37.913528Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:37.913531Z"
+}

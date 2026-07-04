@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-07-12-montreal-expos-at-reds",
+  "sport": "mlb",
+  "date": "1997-07-12",
+  "startTime": "1997-07-12T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "39-49"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "48-40"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.556,
+    "rankGapFactor": 0.205,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214428",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214428/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.103932Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.103937Z"
+}

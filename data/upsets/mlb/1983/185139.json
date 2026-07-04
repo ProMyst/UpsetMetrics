@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-07-17-pirates-at-padres",
+  "sport": "mlb",
+  "date": "1983-07-17",
+  "startTime": "1983-07-17T10:33:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "43-43"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "45-44"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.314,
+    "rankGapFactor": 0.011,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185139",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185139/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.637676Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.637678Z"
+}

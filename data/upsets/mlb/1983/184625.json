@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-06-03-mariners-at-yankees",
+  "sport": "mlb",
+  "date": "1983-06-03",
+  "startTime": "1983-06-03T23:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "21-32"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "26-23"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.636,
+    "rankGapFactor": 0.269,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "184625",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/184625/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.535647Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.535649Z"
+}

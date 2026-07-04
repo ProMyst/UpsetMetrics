@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-06-21-royals-at-california-angels",
+  "sport": "mlb",
+  "date": "1995-06-21",
+  "startTime": "1995-06-22T02:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "29-21"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "31-21"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.34,
+    "rankGapFactor": 0.032,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209619",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209619/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.957432Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.957436Z"
+}

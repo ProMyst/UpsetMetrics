@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-05-18-brewers-at-twins",
+  "sport": "mlb",
+  "date": "1980-05-18",
+  "startTime": "1980-05-18T08:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "15-20"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "15-16"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.438,
+    "rankGapFactor": 0.111,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178808",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178808/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.688200Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.688202Z"
+}

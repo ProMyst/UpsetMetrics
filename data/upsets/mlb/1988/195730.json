@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-07-20-tigers-at-mariners",
+  "sport": "mlb",
+  "date": "1988-07-20",
+  "startTime": "1988-07-20T10:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "55-37"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "37-57"
+  },
+  "finalScore": "12-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195730",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195730/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.396863Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.396865Z"
+}

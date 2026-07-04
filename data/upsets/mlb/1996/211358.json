@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-05-06-royals-at-california-angels",
+  "sport": "mlb",
+  "date": "1996-05-06",
+  "startTime": "1996-05-07T02:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "12-20"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "18-13"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.814,
+    "rankGapFactor": 0.411,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211358",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211358/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.176310Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.176315Z"
+}

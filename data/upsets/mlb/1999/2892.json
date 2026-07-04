@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-10-17-braves-at-mets",
+  "sport": "mlb",
+  "date": "1999-10-17",
+  "startTime": "1999-10-17T20:00:00Z",
+  "season": "1999",
+  "event": "NL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "2-3"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "3-2"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2892",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2892/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.604397Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.604399Z"
+}

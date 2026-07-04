@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-08-26-braves-at-cubs",
+  "sport": "mlb",
+  "date": "1989-08-26",
+  "startTime": "1989-08-26T08:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "52-77"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "72-57"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.688,
+    "rankGapFactor": 0.31,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198288",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198288/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.440769Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.440771Z"
+}

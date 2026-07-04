@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-04-23-dodgers-at-giants",
+  "sport": "mlb",
+  "date": "1982-04-23",
+  "startTime": "1982-04-24T02:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "7-8"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "5-9"
+  },
+  "finalScore": "9-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182063",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182063/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.101862Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.101864Z"
+}

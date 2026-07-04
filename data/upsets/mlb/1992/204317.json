@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-08-04-giants-at-padres",
+  "sport": "mlb",
+  "date": "1992-08-04",
+  "startTime": "1992-08-05T02:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "51-56"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "57-51"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.428,
+    "rankGapFactor": 0.102,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204317",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204317/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.045177Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.045179Z"
+}

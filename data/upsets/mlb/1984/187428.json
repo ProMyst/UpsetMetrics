@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-07-29-red-sox-at-tigers",
+  "sport": "mlb",
+  "date": "1984-07-29",
+  "startTime": "1984-07-29T07:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "70-32"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "53-48"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187428",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187428/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.331207Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.331209Z"
+}

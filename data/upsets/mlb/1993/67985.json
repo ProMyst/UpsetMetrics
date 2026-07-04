@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-10-08-white-sox-at-blue-jays",
+  "sport": "mlb",
+  "date": "1993-10-08",
+  "startTime": "1993-10-08T23:05:00Z",
+  "season": "1993",
+  "event": "AL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "1-2"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "2-1"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "67985",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/67985/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.777641Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.777643Z"
+}

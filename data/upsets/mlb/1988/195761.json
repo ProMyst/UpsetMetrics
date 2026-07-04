@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-07-23-braves-at-mets",
+  "sport": "mlb",
+  "date": "1988-07-23",
+  "startTime": "1988-07-23T07:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "33-62"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "58-38"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.942,
+    "rankGapFactor": 0.514,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195761",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195761/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.403509Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.403511Z"
+}

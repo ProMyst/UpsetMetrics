@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-05-12-tigers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1989-05-12",
+  "startTime": "1989-05-12T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "11-21"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "15-17"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.613,
+    "rankGapFactor": 0.25,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197047",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197047/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.186956Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.186961Z"
+}

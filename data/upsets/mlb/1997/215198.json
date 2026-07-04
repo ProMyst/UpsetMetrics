@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-09-florida-marlins-at-padres",
+  "sport": "mlb",
+  "date": "1997-09-09",
+  "startTime": "1997-09-10T02:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "68-77"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "84-59"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.596,
+    "rankGapFactor": 0.237,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215198",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215198/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.262509Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.262514Z"
+}

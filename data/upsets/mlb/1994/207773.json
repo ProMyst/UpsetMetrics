@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-05-13-orioles-at-twins",
+  "sport": "mlb",
+  "date": "1994-05-13",
+  "startTime": "1994-05-14T00:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "16-19"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "21-11"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.798,
+    "rankGapFactor": 0.398,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207773",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207773/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.532801Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.532803Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-01-yankees-at-red-sox",
+  "sport": "mlb",
+  "date": "1997-06-01",
+  "startTime": "1997-06-01T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "30-25"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "22-30"
+  },
+  "finalScore": "11-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213939",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213939/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.007532Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.007534Z"
+}

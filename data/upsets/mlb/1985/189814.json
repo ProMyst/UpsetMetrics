@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-08-27-red-sox-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1985-08-27",
+  "startTime": "1985-08-27T23:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "45-80"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "58-65"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.579,
+    "rankGapFactor": 0.223,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "189814",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/189814/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.699613Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.699618Z"
+}

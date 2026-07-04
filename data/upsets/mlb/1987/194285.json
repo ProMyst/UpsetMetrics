@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-09-15-cleveland-indians-at-mariners",
+  "sport": "mlb",
+  "date": "1987-09-15",
+  "startTime": "1987-09-16T02:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "56-90"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "67-77"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.504,
+    "rankGapFactor": 0.163,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194285",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194285/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.460667Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.460672Z"
+}

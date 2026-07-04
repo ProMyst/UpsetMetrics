@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-05-24-reds-at-rockies",
+  "sport": "mlb",
+  "date": "1994-05-24",
+  "startTime": "1994-05-25T01:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "19-24"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "26-18"
+  },
+  "finalScore": "11-7",
+  "factors": {
+    "pregameOddsFactor": 0.673,
+    "rankGapFactor": 0.298,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207911",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207911/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.560694Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.560696Z"
+}

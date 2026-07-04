@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-05-25-yankees-at-orioles",
+  "sport": "mlb",
+  "date": "1991-05-25",
+  "startTime": "1991-05-25T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "16-23"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "13-26"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201356",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201356/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.128688Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.128690Z"
+}

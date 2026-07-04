@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-04-26-rangers-at-orioles",
+  "sport": "mlb",
+  "date": "1996-04-26",
+  "startTime": "1996-04-26T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "14-8"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "13-9"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211243",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211243/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.151126Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.151128Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-20-athletics-at-white-sox",
+  "sport": "mlb",
+  "date": "1990-08-20",
+  "startTime": "1990-08-21T00:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "70-49"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "77-45"
+  },
+  "finalScore": "11-1",
+  "factors": {
+    "pregameOddsFactor": 0.407,
+    "rankGapFactor": 0.086,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200297",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200297/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.222482Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.222484Z"
+}

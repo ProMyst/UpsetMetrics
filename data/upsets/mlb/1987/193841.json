@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-08-08-blue-jays-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1987-08-08",
+  "startTime": "1987-08-08T07:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "41-69"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "65-45"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.845,
+    "rankGapFactor": 0.436,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193841",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193841/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.363811Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.363816Z"
+}

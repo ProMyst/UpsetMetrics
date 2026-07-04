@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-09-15-brewers-at-tigers",
+  "sport": "mlb",
+  "date": "1982-09-15",
+  "startTime": "1982-09-15T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "86-60"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "73-71"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183768",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183768/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.446115Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.446117Z"
+}

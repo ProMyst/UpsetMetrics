@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-09-03-blue-jays-at-tigers",
+  "sport": "mlb",
+  "date": "1990-09-03",
+  "startTime": "1990-09-03T07:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "65-70"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "70-65"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.393,
+    "rankGapFactor": 0.074,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200468",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200468/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.256128Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.256130Z"
+}

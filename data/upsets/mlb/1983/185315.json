@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-07-31-dodgers-at-giants",
+  "sport": "mlb",
+  "date": "1983-07-31",
+  "startTime": "1983-07-31T10:33:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "57-44"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "50-53"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185315",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185315/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.671220Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.671222Z"
+}

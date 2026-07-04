@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-07-20-cubs-at-braves",
+  "sport": "mlb",
+  "date": "1998-07-20",
+  "startTime": "1998-07-20T23:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "54-44"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "65-34"
+  },
+  "finalScore": "11-4",
+  "factors": {
+    "pregameOddsFactor": 0.564,
+    "rankGapFactor": 0.211,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216920",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216920/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.189485Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.189487Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-07-04-brewers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1991-07-04",
+  "startTime": "1991-07-04T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "25-51"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "34-43"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.582,
+    "rankGapFactor": 0.225,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201838",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201838/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.224591Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.224596Z"
+}

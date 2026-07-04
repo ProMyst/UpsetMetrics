@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-06-07-yankees-at-tigers",
+  "sport": "mlb",
+  "date": "1996-06-07",
+  "startTime": "1996-06-07T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "14-46"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "33-23"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.712,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211739",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211739/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.252648Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.252650Z"
+}

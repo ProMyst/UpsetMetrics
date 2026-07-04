@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-09-14-dodgers-at-reds",
+  "sport": "mlb",
+  "date": "1984-09-14",
+  "startTime": "1984-09-14T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "70-77"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "63-84"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188007",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188007/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.448453Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.448455Z"
+}

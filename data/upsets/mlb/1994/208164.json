@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-06-13-astros-at-giants",
+  "sport": "mlb",
+  "date": "1994-06-13",
+  "startTime": "1994-06-13T10:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "29-34"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "34-28"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.52,
+    "rankGapFactor": 0.176,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208164",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208164/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.611524Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.611526Z"
+}

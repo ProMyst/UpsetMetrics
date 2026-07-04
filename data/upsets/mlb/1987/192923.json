@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-05-22-orioles-at-athletics",
+  "sport": "mlb",
+  "date": "1987-05-22",
+  "startTime": "1987-05-23T02:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "21-20"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "20-20"
+  },
+  "finalScore": "10-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192923",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192923/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.177657Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.177660Z"
+}

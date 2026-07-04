@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-04-01-padres-at-reds",
+  "sport": "mlb",
+  "date": "1998-04-01",
+  "startTime": "1998-04-02T00:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "2-0"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "0-2"
+  },
+  "finalScore": "10-9",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215483",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215483/feed/live",
+    "retrievedAt": "2026-07-04T07:28:37.887631Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:37.887635Z"
+}

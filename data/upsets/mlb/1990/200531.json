@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-09-09-california-angels-at-orioles",
+  "sport": "mlb",
+  "date": "1990-09-09",
+  "startTime": "1990-09-09T07:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "63-75"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "69-71"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.391,
+    "rankGapFactor": 0.073,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200531",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200531/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.269153Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.269158Z"
+}

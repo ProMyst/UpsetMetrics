@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-04-11-mariners-at-red-sox",
+  "sport": "mlb",
+  "date": "1998-04-11",
+  "startTime": "1998-04-11T07:33:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "5-5"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "3-7"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215610",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215610/feed/live",
+    "retrievedAt": "2026-07-04T07:28:37.924686Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:37.924689Z"
+}

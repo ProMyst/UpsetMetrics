@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-06-24-cleveland-indians-at-rangers",
+  "sport": "mlb",
+  "date": "1989-06-24",
+  "startTime": "1989-06-25T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "34-38"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "40-32"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.508,
+    "rankGapFactor": 0.167,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197550",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197550/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.288840Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.288845Z"
+}

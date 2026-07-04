@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-06-21-phillies-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1983-06-21",
+  "startTime": "1983-06-21T23:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "29-30"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "33-29"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.402,
+    "rankGapFactor": 0.081,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "184844",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/184844/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.579002Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.579006Z"
+}

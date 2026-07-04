@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-08-08-white-sox-at-athletics",
+  "sport": "mlb",
+  "date": "1994-08-08",
+  "startTime": "1994-08-09T02:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "66-45"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "50-61"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208866",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208866/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.753193Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.753195Z"
+}

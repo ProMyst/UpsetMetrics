@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-08-29-cubs-at-reds",
+  "sport": "mlb",
+  "date": "1987-08-29",
+  "startTime": "1987-08-29T23:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "64-66"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "64-64"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.319,
+    "rankGapFactor": 0.015,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194083",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194083/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.418835Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.418838Z"
+}

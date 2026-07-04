@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-08-31-yankees-at-mariners",
+  "sport": "mlb",
+  "date": "1986-08-31",
+  "startTime": "1986-09-01T02:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "58-74"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "70-61"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.537,
+    "rankGapFactor": 0.19,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192003",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192003/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.967422Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.967424Z"
+}

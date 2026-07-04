@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-05-04-california-angels-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1982-05-04",
+  "startTime": "1982-05-04T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "9-13"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "17-9"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.912,
+    "rankGapFactor": 0.49,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182188",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182188/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.126782Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.126790Z"
+}

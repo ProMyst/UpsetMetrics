@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-05-06-white-sox-at-mariners",
+  "sport": "mlb",
+  "date": "1998-05-06",
+  "startTime": "1998-05-07T02:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "16-16"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "12-19"
+  },
+  "finalScore": "10-9",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215924",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215924/feed/live",
+    "retrievedAt": "2026-07-04T07:28:37.989139Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:37.989141Z"
+}

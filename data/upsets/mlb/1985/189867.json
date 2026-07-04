@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-08-31-pirates-at-reds",
+  "sport": "mlb",
+  "date": "1985-08-31",
+  "startTime": "1985-08-31T23:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "40-86"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "67-60"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.825,
+    "rankGapFactor": 0.42,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "189867",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/189867/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.708494Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.708496Z"
+}

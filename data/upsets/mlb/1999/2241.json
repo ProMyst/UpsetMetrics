@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-25-blue-jays-at-tampa-bay-devil-rays",
+  "sport": "mlb",
+  "date": "1999-06-25",
+  "startTime": "1999-06-25T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "30-43"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "36-39"
+  },
+  "finalScore": "11-4",
+  "factors": {
+    "pregameOddsFactor": 0.473,
+    "rankGapFactor": 0.138,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2241",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2241/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.323948Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-tampa-bay-devil-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.323954Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-09-06-reds-at-giants",
+  "sport": "mlb",
+  "date": "1983-09-06",
+  "startTime": "1983-09-07T02:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "64-76"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "66-73"
+  },
+  "finalScore": "11-1",
+  "factors": {
+    "pregameOddsFactor": 0.344,
+    "rankGapFactor": 0.035,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185788",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185788/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.773808Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.773811Z"
+}

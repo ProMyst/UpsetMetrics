@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-06-30-astros-at-phillies",
+  "sport": "mlb",
+  "date": "1984-06-30",
+  "startTime": "1984-06-30T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "37-41"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "42-34"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.496,
+    "rankGapFactor": 0.157,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187091",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187091/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.263717Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.263719Z"
+}

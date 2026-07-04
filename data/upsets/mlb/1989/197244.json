@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-05-29-montreal-expos-at-dodgers",
+  "sport": "mlb",
+  "date": "1989-05-29",
+  "startTime": "1989-05-30T02:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "26-24"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "24-23"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197244",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197244/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.226731Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.226736Z"
+}

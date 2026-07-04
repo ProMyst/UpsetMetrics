@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-09-10-rangers-at-mariners",
+  "sport": "mlb",
+  "date": "1983-09-10",
+  "startTime": "1983-09-11T02:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "55-86"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "66-77"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.479,
+    "rankGapFactor": 0.143,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185841",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185841/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.781927Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.781929Z"
+}

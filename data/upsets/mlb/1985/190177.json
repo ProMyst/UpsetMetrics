@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-09-25-dodgers-at-astros",
+  "sport": "mlb",
+  "date": "1985-09-25",
+  "startTime": "1985-09-26T00:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "78-74"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "89-63"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.481,
+    "rankGapFactor": 0.145,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190177",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190177/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.771061Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.771063Z"
+}

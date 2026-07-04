@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-08-07-dodgers-at-braves",
+  "sport": "mlb",
+  "date": "1992-08-07",
+  "startTime": "1992-08-07T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "65-42"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "46-62"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204348",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204348/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.051328Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.051330Z"
+}

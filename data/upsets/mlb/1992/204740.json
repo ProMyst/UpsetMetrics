@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-09-09-athletics-at-california-angels",
+  "sport": "mlb",
+  "date": "1992-09-09",
+  "startTime": "1992-09-10T02:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "82-57"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "63-77"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204740",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204740/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.133233Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.133238Z"
+}

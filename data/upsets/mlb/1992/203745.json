@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-06-16-yankees-at-red-sox",
+  "sport": "mlb",
+  "date": "1992-06-16",
+  "startTime": "1992-06-16T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "31-29"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "30-32"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203745",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203745/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.931716Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.931718Z"
+}

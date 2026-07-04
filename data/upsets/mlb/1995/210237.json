@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-08-09-tigers-at-rangers",
+  "sport": "mlb",
+  "date": "1995-08-09",
+  "startTime": "1995-08-10T00:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "49-47"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "42-53"
+  },
+  "finalScore": "13-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210237",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210237/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.079251Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.079253Z"
+}

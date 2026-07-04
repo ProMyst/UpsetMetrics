@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-04-09-cubs-at-dodgers",
+  "sport": "mlb",
+  "date": "1984-04-09",
+  "startTime": "1984-04-10T02:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "2-4"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "3-3"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186172",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186172/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.075658Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.075661Z"
+}

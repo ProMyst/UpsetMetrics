@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-23-red-sox-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "1997-08-23",
+  "startTime": "1997-08-23T10:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "71-59"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "64-66"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214976",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214976/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.219386Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.219391Z"
+}

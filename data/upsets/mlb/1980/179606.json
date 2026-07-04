@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-07-25-braves-at-phillies",
+  "sport": "mlb",
+  "date": "1980-07-25",
+  "startTime": "1980-07-25T07:38:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "45-50"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "48-45"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.406,
+    "rankGapFactor": 0.085,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179606",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179606/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.846157Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.846159Z"
+}

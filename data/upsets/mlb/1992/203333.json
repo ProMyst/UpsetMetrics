@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-05-10-padres-at-phillies",
+  "sport": "mlb",
+  "date": "1992-05-10",
+  "startTime": "1992-05-10T07:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "13-16"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "15-16"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.389,
+    "rankGapFactor": 0.071,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203333",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203333/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.848309Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.848311Z"
+}

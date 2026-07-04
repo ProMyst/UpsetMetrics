@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-08-05-royals-at-blue-jays",
+  "sport": "mlb",
+  "date": "1986-08-05",
+  "startTime": "1986-08-05T23:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "48-58"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "56-52"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.464,
+    "rankGapFactor": 0.131,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191682",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191682/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.899419Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.899421Z"
+}

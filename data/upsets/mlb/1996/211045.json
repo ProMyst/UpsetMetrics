@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-04-11-mets-at-rockies",
+  "sport": "mlb",
+  "date": "1996-04-11",
+  "startTime": "1996-04-12T01:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "4-5"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "3-6"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211045",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211045/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.111460Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.111462Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-08-10-cleveland-indians-at-yankees",
+  "sport": "mlb",
+  "date": "1995-08-10",
+  "startTime": "1995-08-10T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "65-30"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "49-47"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210248",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210248/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.080959Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.080963Z"
+}

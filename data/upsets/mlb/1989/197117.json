@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-05-18-cleveland-indians-at-orioles",
+  "sport": "mlb",
+  "date": "1989-05-18",
+  "startTime": "1989-05-18T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "17-19"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "18-20"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.304,
+    "rankGapFactor": 0.003,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197117",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197117/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.202053Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.202058Z"
+}

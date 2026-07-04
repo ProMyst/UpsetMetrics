@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-08-15-twins-at-california-angels",
+  "sport": "mlb",
+  "date": "1989-08-15",
+  "startTime": "1989-08-16T02:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "70-48"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "59-60"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198160",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198160/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.414533Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.414538Z"
+}

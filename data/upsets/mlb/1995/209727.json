@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-06-30-orioles-at-blue-jays",
+  "sport": "mlb",
+  "date": "1995-06-30",
+  "startTime": "1995-06-30T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "23-34"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "26-33"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.393,
+    "rankGapFactor": 0.074,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209727",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209727/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.978911Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.978913Z"
+}

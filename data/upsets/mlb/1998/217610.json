@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-09-07-dodgers-at-diamondbacks",
+  "sport": "mlb",
+  "date": "1998-09-07",
+  "startTime": "1998-09-08T02:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "58-87"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "72-72"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.55,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "217610",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/217610/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.325917Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.325920Z"
+}

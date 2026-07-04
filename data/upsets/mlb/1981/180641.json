@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-04-23-reds-at-astros",
+  "sport": "mlb",
+  "date": "1981-04-23",
+  "startTime": "1981-04-24T00:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "6-6"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "3-10"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180641",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180641/feed/live",
+    "retrievedAt": "2026-07-04T07:04:01.986707Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:01.986709Z"
+}

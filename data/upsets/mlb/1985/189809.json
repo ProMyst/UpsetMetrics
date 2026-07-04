@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-08-26-giants-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1985-08-26",
+  "startTime": "1985-08-26T23:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "48-75"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "69-56"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.704,
+    "rankGapFactor": 0.324,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "189809",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/189809/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.697217Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.697222Z"
+}

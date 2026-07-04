@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-06-11-padres-at-giants",
+  "sport": "mlb",
+  "date": "1994-06-11",
+  "startTime": "1994-06-11T10:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "22-39"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "28-33"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.546,
+    "rankGapFactor": 0.197,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208144",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208144/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.606335Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.606337Z"
+}

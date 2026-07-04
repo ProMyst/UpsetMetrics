@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-03-blue-jays-at-mariners",
+  "sport": "mlb",
+  "date": "1997-06-03",
+  "startTime": "1997-06-03T10:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "30-27"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "26-28"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213968",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213968/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.013801Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.013803Z"
+}

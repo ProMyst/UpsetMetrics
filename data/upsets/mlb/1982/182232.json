@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-05-08-cleveland-indians-at-athletics",
+  "sport": "mlb",
+  "date": "1982-05-08",
+  "startTime": "1982-05-08T10:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "11-14"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "16-13"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.579,
+    "rankGapFactor": 0.223,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182232",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182232/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.137085Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.137090Z"
+}

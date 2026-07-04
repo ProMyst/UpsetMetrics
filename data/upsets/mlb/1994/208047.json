@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-06-04-montreal-expos-at-cubs",
+  "sport": "mlb",
+  "date": "1994-06-04",
+  "startTime": "1994-06-04T08:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "31-22"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "22-31"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208047",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208047/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.588146Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.588150Z"
+}

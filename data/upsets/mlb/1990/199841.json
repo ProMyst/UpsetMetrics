@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-07-15-dodgers-at-cubs",
+  "sport": "mlb",
+  "date": "1990-07-15",
+  "startTime": "1990-07-15T08:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "37-52"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "42-44"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.482,
+    "rankGapFactor": 0.145,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199841",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199841/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.129225Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.129227Z"
+}

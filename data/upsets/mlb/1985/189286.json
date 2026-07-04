@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-07-11-montreal-expos-at-reds",
+  "sport": "mlb",
+  "date": "1985-07-11",
+  "startTime": "1985-07-11T23:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "42-40"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "48-37"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.431,
+    "rankGapFactor": 0.105,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "189286",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/189286/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.589280Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.589285Z"
+}

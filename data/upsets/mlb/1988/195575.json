@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-07-05-reds-at-mets",
+  "sport": "mlb",
+  "date": "1988-07-05",
+  "startTime": "1988-07-05T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "39-43"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "52-31"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.677,
+    "rankGapFactor": 0.302,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195575",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195575/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.363136Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.363138Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-08-25-cleveland-indians-at-mariners",
+  "sport": "mlb",
+  "date": "1992-08-25",
+  "startTime": "1992-08-26T02:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "52-74"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "58-67"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.428,
+    "rankGapFactor": 0.103,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204555",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204555/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.098054Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.098059Z"
+}

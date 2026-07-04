@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-08-02-phillies-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1991-08-02",
+  "startTime": "1991-08-02T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "44-58"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "43-59"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202147",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202147/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.287151Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.287155Z"
+}

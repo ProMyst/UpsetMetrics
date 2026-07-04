@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-05-23-anaheim-angels-at-tampa-bay-devil-rays",
+  "sport": "mlb",
+  "date": "1999-05-23",
+  "startTime": "1999-05-23T17:35:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "21-23"
+  },
+  "loser": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "22-22"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.357,
+    "rankGapFactor": 0.045,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "642",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/642/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.236955Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-tampa-bay-devil-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.236963Z"
+}

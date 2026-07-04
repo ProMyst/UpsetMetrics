@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-08-22-astros-at-cardinals",
+  "sport": "mlb",
+  "date": "1986-08-22",
+  "startTime": "1986-08-23T00:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "60-62"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "69-53"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.484,
+    "rankGapFactor": 0.148,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191891",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191891/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.946329Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.946331Z"
+}

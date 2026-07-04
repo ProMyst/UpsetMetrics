@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-08-24-athletics-at-yankees",
+  "sport": "mlb",
+  "date": "1996-08-24",
+  "startTime": "1996-08-24T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "74-54"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "62-70"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212734",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212734/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.455291Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.455293Z"
+}

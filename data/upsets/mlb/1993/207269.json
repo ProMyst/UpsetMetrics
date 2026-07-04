@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-09-30-cardinals-at-mets",
+  "sport": "mlb",
+  "date": "1993-09-30",
+  "startTime": "1993-09-30T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "56-103"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "85-74"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.756,
+    "rankGapFactor": 0.365,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207269",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207269/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.766687Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.766689Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-08-23-brewers-at-athletics",
+  "sport": "mlb",
+  "date": "1991-08-23",
+  "startTime": "1991-08-24T02:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "58-64"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "68-56"
+  },
+  "finalScore": "13-4",
+  "factors": {
+    "pregameOddsFactor": 0.482,
+    "rankGapFactor": 0.146,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202406",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202406/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.343258Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.343260Z"
+}

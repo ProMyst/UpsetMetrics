@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-07-27-yankees-at-rangers",
+  "sport": "mlb",
+  "date": "1983-07-27",
+  "startTime": "1983-07-28T00:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "55-41"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "49-50"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185270",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185270/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.662740Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.662742Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-06-18-yankees-at-tigers",
+  "sport": "mlb",
+  "date": "1984-06-18",
+  "startTime": "1984-06-18T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "29-35"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "47-17"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.562,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186945",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186945/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.233805Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.233807Z"
+}

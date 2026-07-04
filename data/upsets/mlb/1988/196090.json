@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-08-19-california-angels-at-orioles",
+  "sport": "mlb",
+  "date": "1988-08-19",
+  "startTime": "1988-08-19T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "41-80"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "61-61"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.703,
+    "rankGapFactor": 0.322,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196090",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196090/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.470517Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.470522Z"
+}

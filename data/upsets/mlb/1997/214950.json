@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-20-blue-jays-at-white-sox",
+  "sport": "mlb",
+  "date": "1997-08-20",
+  "startTime": "1997-08-21T00:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "62-64"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "60-65"
+  },
+  "finalScore": "12-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214950",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214950/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.211228Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.211230Z"
+}

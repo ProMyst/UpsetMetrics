@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-08-26-mets-at-padres",
+  "sport": "mlb",
+  "date": "1986-08-26",
+  "startTime": "1986-08-27T02:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "84-42"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "59-68"
+  },
+  "finalScore": "11-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191944",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191944/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.956946Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.956948Z"
+}

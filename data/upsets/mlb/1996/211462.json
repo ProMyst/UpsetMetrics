@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-05-15-california-angels-at-red-sox",
+  "sport": "mlb",
+  "date": "1996-05-15",
+  "startTime": "1996-05-15T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "14-23"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "19-20"
+  },
+  "finalScore": "17-6",
+  "factors": {
+    "pregameOddsFactor": 0.572,
+    "rankGapFactor": 0.218,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211462",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211462/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.197866Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.197871Z"
+}

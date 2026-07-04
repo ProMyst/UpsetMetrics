@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-03-rockies-at-cardinals",
+  "sport": "mlb",
+  "date": "1997-06-03",
+  "startTime": "1997-06-03T08:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "25-30"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "31-25"
+  },
+  "finalScore": "15-4",
+  "factors": {
+    "pregameOddsFactor": 0.548,
+    "rankGapFactor": 0.198,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213958",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213958/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.013435Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.013437Z"
+}

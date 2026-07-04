@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-09-23-red-sox-at-blue-jays",
+  "sport": "mlb",
+  "date": "1993-09-23",
+  "startTime": "1993-09-23T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "88-64"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "78-74"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207174",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207174/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.748850Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.748852Z"
+}

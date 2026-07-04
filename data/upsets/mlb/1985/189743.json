@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-08-21-padres-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1985-08-21",
+  "startTime": "1985-08-21T23:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "64-55"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "67-53"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.351,
+    "rankGapFactor": 0.041,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "189743",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/189743/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.679632Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.679637Z"
+}

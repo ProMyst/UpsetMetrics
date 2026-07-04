@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-05-24-california-angels-at-orioles",
+  "sport": "mlb",
+  "date": "1992-05-24",
+  "startTime": "1992-05-24T07:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "26-16"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "20-22"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203477",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203477/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.879497Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.879502Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-26-athletics-at-tigers",
+  "sport": "mlb",
+  "date": "1990-08-26",
+  "startTime": "1990-08-26T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "60-68"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "79-48"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.683,
+    "rankGapFactor": 0.307,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200369",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200369/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.235826Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.235828Z"
+}

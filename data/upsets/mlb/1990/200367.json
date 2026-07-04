@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-26-brewers-at-yankees",
+  "sport": "mlb",
+  "date": "1990-08-26",
+  "startTime": "1990-08-26T07:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "53-73"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "58-68"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.399,
+    "rankGapFactor": 0.079,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200367",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200367/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.237439Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.237441Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-06-10-cardinals-at-braves",
+  "sport": "mlb",
+  "date": "1995-06-10",
+  "startTime": "1995-06-10T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "17-26"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "24-18"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.74,
+    "rankGapFactor": 0.352,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209485",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209485/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.928165Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.928168Z"
+}

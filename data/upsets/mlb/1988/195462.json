@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-06-26-white-sox-at-rangers",
+  "sport": "mlb",
+  "date": "1988-06-26",
+  "startTime": "1988-06-27T00:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "33-39"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "35-38"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.353,
+    "rankGapFactor": 0.042,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195462",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195462/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.340867Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.340869Z"
+}

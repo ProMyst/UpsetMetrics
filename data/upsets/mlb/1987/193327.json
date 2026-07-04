@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-06-25-reds-at-giants",
+  "sport": "mlb",
+  "date": "1987-06-25",
+  "startTime": "1987-06-26T02:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "36-35"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "40-32"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.421,
+    "rankGapFactor": 0.097,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193327",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193327/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.258599Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.258601Z"
+}

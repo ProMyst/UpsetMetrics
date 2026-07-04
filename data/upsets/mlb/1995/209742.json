@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-07-01-california-angels-at-athletics",
+  "sport": "mlb",
+  "date": "1995-07-01",
+  "startTime": "1995-07-01T10:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "34-28"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "34-27"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.322,
+    "rankGapFactor": 0.018,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209742",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209742/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.983495Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.983500Z"
+}

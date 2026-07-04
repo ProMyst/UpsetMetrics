@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-05-16-royals-at-twins",
+  "sport": "mlb",
+  "date": "1989-05-16",
+  "startTime": "1989-05-17T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "25-13"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "16-20"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197096",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197096/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.198166Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.198168Z"
+}

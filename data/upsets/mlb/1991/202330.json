@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-08-16-rangers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1991-08-16",
+  "startTime": "1991-08-16T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "38-77"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "58-56"
+  },
+  "finalScore": "13-9",
+  "factors": {
+    "pregameOddsFactor": 0.746,
+    "rankGapFactor": 0.357,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202330",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202330/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.321918Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.321922Z"
+}

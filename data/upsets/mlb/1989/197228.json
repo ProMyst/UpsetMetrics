@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-05-28-white-sox-at-blue-jays",
+  "sport": "mlb",
+  "date": "1989-05-28",
+  "startTime": "1989-05-28T07:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "20-28"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "18-30"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197228",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197228/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.223752Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.223754Z"
+}

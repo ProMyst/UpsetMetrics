@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-05-16-blue-jays-at-white-sox",
+  "sport": "mlb",
+  "date": "1988-05-16",
+  "startTime": "1988-05-17T00:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "16-21"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "18-17"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.505,
+    "rankGapFactor": 0.164,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194988",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194988/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.244488Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.244490Z"
+}

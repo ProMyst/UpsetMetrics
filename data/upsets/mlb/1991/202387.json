@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-08-21-padres-at-dodgers",
+  "sport": "mlb",
+  "date": "1991-08-21",
+  "startTime": "1991-08-21T10:33:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "68-52"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "58-63"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202387",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202387/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.339224Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.339226Z"
+}

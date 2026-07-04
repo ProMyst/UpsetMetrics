@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-08-12-orioles-at-blue-jays",
+  "sport": "mlb",
+  "date": "1984-08-12",
+  "startTime": "1984-08-12T07:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "61-55"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "66-48"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.433,
+    "rankGapFactor": 0.106,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187612",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187612/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.367358Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.367360Z"
+}

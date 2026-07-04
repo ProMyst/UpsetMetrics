@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-09-21-giants-at-reds",
+  "sport": "mlb",
+  "date": "1982-09-21",
+  "startTime": "1982-09-21T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "56-94"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "79-71"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.683,
+    "rankGapFactor": 0.307,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183847",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183847/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.459365Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.459366Z"
+}

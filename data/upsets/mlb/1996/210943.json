@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-04-02-dodgers-at-astros",
+  "sport": "mlb",
+  "date": "1996-04-02",
+  "startTime": "1996-04-03T01:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "1-1"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "1-1"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210943",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210943/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.081471Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.081475Z"
+}

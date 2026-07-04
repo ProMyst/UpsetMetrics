@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-07-31-braves-at-florida-marlins",
+  "sport": "mlb",
+  "date": "1997-07-31",
+  "startTime": "1997-07-31T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "61-45"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "69-40"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.444,
+    "rankGapFactor": 0.115,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214679",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214679/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.159145Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.159150Z"
+}

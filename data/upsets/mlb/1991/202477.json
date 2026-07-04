@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-08-28-rangers-at-yankees",
+  "sport": "mlb",
+  "date": "1991-08-28",
+  "startTime": "1991-08-28T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "57-68"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "66-60"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.47,
+    "rankGapFactor": 0.136,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202477",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202477/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.355309Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.355311Z"
+}

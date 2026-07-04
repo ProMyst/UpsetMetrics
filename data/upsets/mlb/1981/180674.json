@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-04-26-mets-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1981-04-26",
+  "startTime": "1981-04-26T07:38:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "11-2"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "4-7"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180674",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180674/feed/live",
+    "retrievedAt": "2026-07-04T07:04:01.991766Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:01.991770Z"
+}

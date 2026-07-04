@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-09-03-orioles-at-tigers",
+  "sport": "mlb",
+  "date": "1984-09-03",
+  "startTime": "1984-09-03T07:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "74-62"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "88-50"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.534,
+    "rankGapFactor": 0.187,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187876",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187876/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.424186Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.424188Z"
+}

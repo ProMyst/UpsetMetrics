@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-05-20-tigers-at-blue-jays",
+  "sport": "mlb",
+  "date": "1999-05-20",
+  "startTime": "1999-05-20T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "21-22"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "17-23"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2061",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2061/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.229121Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.229123Z"
+}

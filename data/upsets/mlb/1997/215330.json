@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-19-cleveland-indians-at-royals",
+  "sport": "mlb",
+  "date": "1997-09-19",
+  "startTime": "1997-09-20T00:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "62-89"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "82-69"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.631,
+    "rankGapFactor": 0.265,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215330",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215330/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.288330Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.288334Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-05-26-brewers-at-twins",
+  "sport": "mlb",
+  "date": "1987-05-26",
+  "startTime": "1987-05-27T00:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "22-22"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "22-18"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.425,
+    "rankGapFactor": 0.1,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192977",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192977/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.187977Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.187979Z"
+}

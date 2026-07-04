@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-10-02-cardinals-at-cubs",
+  "sport": "mlb",
+  "date": "1982-10-02",
+  "startTime": "1982-10-02T08:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "73-88"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "91-70"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.58,
+    "rankGapFactor": 0.224,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183983",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183983/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.487134Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.487136Z"
+}

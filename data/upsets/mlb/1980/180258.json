@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-09-16-tigers-at-orioles",
+  "sport": "mlb",
+  "date": "1980-09-16",
+  "startTime": "1980-09-16T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "74-70"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "86-58"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.508,
+    "rankGapFactor": 0.167,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180258",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180258/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.978908Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.978910Z"
+}

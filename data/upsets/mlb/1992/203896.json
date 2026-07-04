@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-06-29-tigers-at-red-sox",
+  "sport": "mlb",
+  "date": "1992-06-29",
+  "startTime": "1992-06-29T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "35-41"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "34-38"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.329,
+    "rankGapFactor": 0.023,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203896",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203896/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.961666Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.961668Z"
+}

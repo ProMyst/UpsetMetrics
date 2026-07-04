@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-06-04-padres-at-cubs",
+  "sport": "mlb",
+  "date": "1991-06-04",
+  "startTime": "1991-06-05T00:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "27-25"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "26-24"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.302,
+    "rankGapFactor": 0.002,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201471",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201471/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.151247Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.151249Z"
+}

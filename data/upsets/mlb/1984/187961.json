@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-09-10-white-sox-at-athletics",
+  "sport": "mlb",
+  "date": "1984-09-10",
+  "startTime": "1984-09-11T02:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "67-78"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "66-77"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187961",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187961/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.441254Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.441256Z"
+}

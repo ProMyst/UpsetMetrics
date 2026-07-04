@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-04-28-blue-jays-at-white-sox",
+  "sport": "mlb",
+  "date": "1990-04-28",
+  "startTime": "1990-04-29T00:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "8-6"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "11-8"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198951",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198951/feed/live",
+    "retrievedAt": "2026-07-04T07:17:02.947435Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:02.947437Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-05-16-giants-at-astros",
+  "sport": "mlb",
+  "date": "1999-05-16",
+  "startTime": "1999-05-17T00:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "22-16"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "23-13"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.45,
+    "rankGapFactor": 0.12,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "615",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/615/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.220228Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.220230Z"
+}

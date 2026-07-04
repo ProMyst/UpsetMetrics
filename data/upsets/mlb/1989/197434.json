@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-06-14-montreal-expos-at-cardinals",
+  "sport": "mlb",
+  "date": "1989-06-14",
+  "startTime": "1989-06-15T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "31-30"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "35-29"
+  },
+  "finalScore": "10-0",
+  "factors": {
+    "pregameOddsFactor": 0.397,
+    "rankGapFactor": 0.077,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197434",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197434/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.264650Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.264655Z"
+}

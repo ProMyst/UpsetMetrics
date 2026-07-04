@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-07-13-tigers-at-yankees",
+  "sport": "mlb",
+  "date": "1997-07-13",
+  "startTime": "1997-07-13T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "42-47"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "51-38"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.553,
+    "rankGapFactor": 0.202,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214438",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214438/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.107380Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.107382Z"
+}

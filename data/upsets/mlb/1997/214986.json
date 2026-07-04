@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-23-padres-at-mets",
+  "sport": "mlb",
+  "date": "1997-08-23",
+  "startTime": "1997-08-23T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "70-58"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "61-68"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214986",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214986/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.217025Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.217027Z"
+}

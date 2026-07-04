@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-04-27-cubs-at-dodgers",
+  "sport": "mlb",
+  "date": "1996-04-27",
+  "startTime": "1996-04-28T02:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "11-13"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "12-13"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.354,
+    "rankGapFactor": 0.043,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211246",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211246/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.153517Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.153519Z"
+}

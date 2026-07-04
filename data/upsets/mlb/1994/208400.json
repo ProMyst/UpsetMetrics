@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-07-01-phillies-at-dodgers",
+  "sport": "mlb",
+  "date": "1994-07-01",
+  "startTime": "1994-07-02T02:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "40-39"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "41-38"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.332,
+    "rankGapFactor": 0.025,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208400",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208400/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.657615Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.657617Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-08-10-cardinals-at-phillies",
+  "sport": "mlb",
+  "date": "1981-08-10",
+  "startTime": "1981-08-10T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "31-20"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "34-22"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181225",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181225/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.103199Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.103201Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-08-30-anaheim-angels-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1999-08-30",
+  "startTime": "1999-08-30T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "80-50"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "51-79"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "332",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/332/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.505623Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.505630Z"
+}

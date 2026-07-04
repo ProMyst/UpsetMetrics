@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-08-phillies-at-mets",
+  "sport": "mlb",
+  "date": "1997-09-08",
+  "startTime": "1997-09-08T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "57-83"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "77-65"
+  },
+  "finalScore": "13-4",
+  "factors": {
+    "pregameOddsFactor": 0.638,
+    "rankGapFactor": 0.27,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215191",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215191/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.259375Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.259377Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-05-09-mariners-at-yankees",
+  "sport": "mlb",
+  "date": "1999-05-09",
+  "startTime": "1999-05-09T17:35:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "20-10"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "14-17"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1983",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1983/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.199979Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.199981Z"
+}

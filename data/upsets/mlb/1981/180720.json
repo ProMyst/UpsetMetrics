@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-04-30-padres-at-reds",
+  "sport": "mlb",
+  "date": "1981-04-30",
+  "startTime": "1981-04-30T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "11-7"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "6-14"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180720",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180720/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.001107Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.001110Z"
+}

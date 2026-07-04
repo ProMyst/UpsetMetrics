@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-07-30-phillies-at-cubs",
+  "sport": "mlb",
+  "date": "1995-07-30",
+  "startTime": "1995-07-30T08:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "43-44"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "47-41"
+  },
+  "finalScore": "8-0",
+  "factors": {
+    "pregameOddsFactor": 0.4,
+    "rankGapFactor": 0.08,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210117",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210117/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.055268Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.055270Z"
+}

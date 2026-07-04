@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-06-07-cleveland-indians-at-mariners",
+  "sport": "mlb",
+  "date": "1981-06-07",
+  "startTime": "1981-06-07T10:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "19-34"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "26-21"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.787,
+    "rankGapFactor": 0.389,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181161",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181161/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.092388Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.092393Z"
+}

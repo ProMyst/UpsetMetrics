@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-07-04-white-sox-at-red-sox",
+  "sport": "mlb",
+  "date": "1998-07-04",
+  "startTime": "1998-07-04T07:33:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "35-50"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "51-33"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.788,
+    "rankGapFactor": 0.391,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216733",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216733/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.149524Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.149526Z"
+}

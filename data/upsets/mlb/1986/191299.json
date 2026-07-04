@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-07-02-royals-at-mariners",
+  "sport": "mlb",
+  "date": "1986-07-02",
+  "startTime": "1986-07-03T02:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "34-46"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "37-41"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.423,
+    "rankGapFactor": 0.099,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191299",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191299/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.824922Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.824924Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-05-14-cardinals-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1994-05-14",
+  "startTime": "1994-05-14T07:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "18-16"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "19-16"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.334,
+    "rankGapFactor": 0.027,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207798",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207798/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.536313Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.536318Z"
+}

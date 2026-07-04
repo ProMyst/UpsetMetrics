@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-08-26-athletics-at-royals",
+  "sport": "mlb",
+  "date": "1989-08-26",
+  "startTime": "1989-08-27T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "75-54"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "78-52"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.347,
+    "rankGapFactor": 0.037,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198296",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198296/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.438934Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.438935Z"
+}

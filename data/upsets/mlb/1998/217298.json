@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-08-16-mets-at-diamondbacks",
+  "sport": "mlb",
+  "date": "1998-08-16",
+  "startTime": "1998-08-17T02:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "46-77"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "66-55"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.729,
+    "rankGapFactor": 0.343,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "217298",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/217298/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.261677Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.261679Z"
+}

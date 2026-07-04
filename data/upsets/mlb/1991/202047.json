@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-07-25-california-angels-at-orioles",
+  "sport": "mlb",
+  "date": "1991-07-25",
+  "startTime": "1991-07-25T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "39-55"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "48-46"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.539,
+    "rankGapFactor": 0.191,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202047",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202047/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.267752Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.267758Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-06-11-red-sox-at-white-sox",
+  "sport": "mlb",
+  "date": "1996-06-11",
+  "startTime": "1996-06-12T00:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "25-37"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "40-22"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.905,
+    "rankGapFactor": 0.484,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211791",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211791/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.264948Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.264950Z"
+}

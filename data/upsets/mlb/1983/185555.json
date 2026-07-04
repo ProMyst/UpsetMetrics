@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-08-19-astros-at-cardinals",
+  "sport": "mlb",
+  "date": "1983-08-19",
+  "startTime": "1983-08-20T00:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "58-61"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "63-57"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.394,
+    "rankGapFactor": 0.075,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185555",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185555/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.725039Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.725041Z"
+}

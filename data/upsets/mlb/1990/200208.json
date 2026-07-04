@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-13-dodgers-at-braves",
+  "sport": "mlb",
+  "date": "1990-08-13",
+  "startTime": "1990-08-13T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "43-70"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "58-55"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.632,
+    "rankGapFactor": 0.265,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200208",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200208/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.200620Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.200622Z"
+}

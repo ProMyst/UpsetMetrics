@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-10-01-royals-at-california-angels",
+  "sport": "mlb",
+  "date": "1992-10-01",
+  "startTime": "1992-10-01T10:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "70-89"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "71-88"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.316,
+    "rankGapFactor": 0.013,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204998",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204998/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.185298Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.185303Z"
+}

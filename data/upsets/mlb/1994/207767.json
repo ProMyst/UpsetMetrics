@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-05-12-cubs-at-cardinals",
+  "sport": "mlb",
+  "date": "1994-05-12",
+  "startTime": "1994-05-12T08:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "10-22"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "17-15"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.847,
+    "rankGapFactor": 0.438,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207767",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207767/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.531189Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.531191Z"
+}

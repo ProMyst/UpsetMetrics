@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-06-16-giants-at-cardinals",
+  "sport": "mlb",
+  "date": "1995-06-16",
+  "startTime": "1995-06-17T00:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "21-27"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "25-23"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.508,
+    "rankGapFactor": 0.167,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209557",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209557/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.943618Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.943620Z"
+}

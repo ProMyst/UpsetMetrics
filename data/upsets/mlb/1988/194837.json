@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-05-03-athletics-at-tigers",
+  "sport": "mlb",
+  "date": "1988-05-03",
+  "startTime": "1988-05-03T07:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "19-7"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "14-10"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194837",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194837/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.215217Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.215219Z"
+}

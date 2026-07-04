@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-06-brewers-at-mariners",
+  "sport": "mlb",
+  "date": "1981-05-06",
+  "startTime": "1981-05-07T02:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "7-18"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "13-9"
+  },
+  "finalScore": "12-1",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.622,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180790",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180790/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.017197Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.017199Z"
+}

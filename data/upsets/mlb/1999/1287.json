@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-04-royals-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1999-07-04",
+  "startTime": "1999-07-04T17:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "34-47"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "53-28"
+  },
+  "finalScore": "10-9",
+  "factors": {
+    "pregameOddsFactor": 0.886,
+    "rankGapFactor": 0.469,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1287",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1287/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.348735Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.348739Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-06-21-pirates-at-astros",
+  "sport": "mlb",
+  "date": "1980-06-21",
+  "startTime": "1980-06-22T00:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "40-23"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "34-30"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179217",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179217/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.767494Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.767496Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-29-brewers-at-blue-jays",
+  "sport": "mlb",
+  "date": "1990-08-29",
+  "startTime": "1990-08-29T07:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "67-64"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "60-69"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200399",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200399/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.244591Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.244593Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-05-11-braves-at-cubs",
+  "sport": "mlb",
+  "date": "1982-05-11",
+  "startTime": "1982-05-11T08:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "12-18"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "20-10"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.967,
+    "rankGapFactor": 0.533,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182266",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182266/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.144313Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.144315Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-05-31-rangers-at-royals",
+  "sport": "mlb",
+  "date": "1986-05-31",
+  "startTime": "1986-06-01T00:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "23-24"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "24-23"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.353,
+    "rankGapFactor": 0.043,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190918",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190918/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.745245Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.745247Z"
+}

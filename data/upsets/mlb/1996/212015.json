@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-06-28-mets-at-astros",
+  "sport": "mlb",
+  "date": "1996-06-28",
+  "startTime": "1996-06-29T00:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "37-41"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "40-40"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.364,
+    "rankGapFactor": 0.051,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212015",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212015/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.307844Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.307846Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-09-20-athletics-at-mariners",
+  "sport": "mlb",
+  "date": "1996-09-20",
+  "startTime": "1996-09-21T02:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "82-70"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "73-81"
+  },
+  "finalScore": "12-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213077",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213077/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.525310Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.525312Z"
+}

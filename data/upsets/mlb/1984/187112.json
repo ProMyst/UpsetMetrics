@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-07-01-cardinals-at-padres",
+  "sport": "mlb",
+  "date": "1984-07-01",
+  "startTime": "1984-07-01T10:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "45-31"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "38-41"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187112",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187112/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.267916Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.267918Z"
+}

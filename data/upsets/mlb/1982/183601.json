@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-09-01-california-angels-at-tigers",
+  "sport": "mlb",
+  "date": "1982-09-01",
+  "startTime": "1982-09-01T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "67-64"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "75-57"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.442,
+    "rankGapFactor": 0.113,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183601",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183601/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.411973Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.411978Z"
+}

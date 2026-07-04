@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-07-30-cardinals-at-giants",
+  "sport": "mlb",
+  "date": "1980-07-30",
+  "startTime": "1980-07-30T10:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "45-54"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "49-51"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.389,
+    "rankGapFactor": 0.071,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179685",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179685/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.861792Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.861794Z"
+}

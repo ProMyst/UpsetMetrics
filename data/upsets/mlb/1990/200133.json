@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-07-yankees-at-mariners",
+  "sport": "mlb",
+  "date": "1990-08-07",
+  "startTime": "1990-08-08T02:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "44-64"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "57-53"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.577,
+    "rankGapFactor": 0.222,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200133",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200133/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.187574Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.187576Z"
+}

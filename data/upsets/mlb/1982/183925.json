@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-09-28-twins-at-blue-jays",
+  "sport": "mlb",
+  "date": "1982-09-28",
+  "startTime": "1982-09-28T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "73-83"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "58-98"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183925",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183925/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.475612Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.475614Z"
+}

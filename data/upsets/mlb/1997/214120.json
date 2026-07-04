@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-16-cubs-at-white-sox",
+  "sport": "mlb",
+  "date": "1997-06-16",
+  "startTime": "1997-06-16T08:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "28-40"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "30-36"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.407,
+    "rankGapFactor": 0.086,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214120",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214120/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.045765Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.045767Z"
+}

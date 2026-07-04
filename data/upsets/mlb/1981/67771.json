@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-10-07-athletics-at-royals",
+  "sport": "mlb",
+  "date": "1981-10-07",
+  "startTime": "1981-10-07T08:33:00Z",
+  "season": "1981",
+  "event": "AL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "2-0"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "0-2"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "67771",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/67771/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.238437Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.238439Z"
+}

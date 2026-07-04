@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-09-28-reds-at-astros",
+  "sport": "mlb",
+  "date": "1980-09-28",
+  "startTime": "1980-09-28T08:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "86-71"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "89-67"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.357,
+    "rankGapFactor": 0.045,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180409",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180409/feed/live",
+    "retrievedAt": "2026-07-04T07:02:45.009557Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:45.009559Z"
+}

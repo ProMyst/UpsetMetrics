@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-09-13-cubs-at-pirates",
+  "sport": "mlb",
+  "date": "1986-09-13",
+  "startTime": "1986-09-13T07:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "57-83"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "60-81"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.346,
+    "rankGapFactor": 0.037,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192148",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192148/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.998019Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.998021Z"
+}

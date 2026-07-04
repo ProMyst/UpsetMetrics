@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-06-30-cardinals-at-cubs",
+  "sport": "mlb",
+  "date": "1995-06-30",
+  "startTime": "1995-06-30T08:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "25-36"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "29-31"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.484,
+    "rankGapFactor": 0.147,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209738",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209738/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.981043Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.981045Z"
+}

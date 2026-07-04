@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-07-31-blue-jays-at-tigers",
+  "sport": "mlb",
+  "date": "1997-07-31",
+  "startTime": "1997-07-31T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "49-56"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "50-55"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.324,
+    "rankGapFactor": 0.019,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214688",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214688/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.158758Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.158760Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-08-24-phillies-at-braves",
+  "sport": "mlb",
+  "date": "1991-08-24",
+  "startTime": "1991-08-24T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "59-63"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "67-55"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.464,
+    "rankGapFactor": 0.131,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202422",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202422/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.344000Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.344002Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-06-17-astros-at-braves",
+  "sport": "mlb",
+  "date": "1988-06-17",
+  "startTime": "1988-06-17T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "23-40"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "34-31"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.695,
+    "rankGapFactor": 0.316,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195353",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195353/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.318024Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.318026Z"
+}

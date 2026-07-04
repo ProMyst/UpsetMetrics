@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-06-03-california-angels-at-twins",
+  "sport": "mlb",
+  "date": "1996-06-03",
+  "startTime": "1996-06-04T00:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "26-28"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "27-28"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.324,
+    "rankGapFactor": 0.019,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211690",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211690/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.244030Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.244035Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-04-08-montreal-expos-at-cardinals",
+  "sport": "mlb",
+  "date": "1996-04-08",
+  "startTime": "1996-04-09T00:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "5-2"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "3-4"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211013",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211013/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.105123Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.105130Z"
+}

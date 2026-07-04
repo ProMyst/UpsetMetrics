@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-04-28-blue-jays-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "1999-04-28",
+  "startTime": "1999-04-29T02:35:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "9-12"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "13-9"
+  },
+  "finalScore": "12-10",
+  "factors": {
+    "pregameOddsFactor": 0.706,
+    "rankGapFactor": 0.325,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "139",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/139/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.171523Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.171528Z"
+}

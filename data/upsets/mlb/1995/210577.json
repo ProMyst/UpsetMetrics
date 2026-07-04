@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-09-04-white-sox-at-rangers",
+  "sport": "mlb",
+  "date": "1995-09-04",
+  "startTime": "1995-09-05T00:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "54-64"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "60-60"
+  },
+  "finalScore": "14-3",
+  "factors": {
+    "pregameOddsFactor": 0.406,
+    "rankGapFactor": 0.085,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210577",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210577/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.152178Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.152180Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-06-giants-at-cubs",
+  "sport": "mlb",
+  "date": "1997-08-06",
+  "startTime": "1997-08-06T08:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "64-50"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "45-69"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214767",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214767/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.175692Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.175694Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-07-29-pirates-at-mets",
+  "sport": "mlb",
+  "date": "1995-07-29",
+  "startTime": "1995-07-29T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "33-52"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "36-47"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.414,
+    "rankGapFactor": 0.091,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210104",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210104/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.051037Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.051039Z"
+}

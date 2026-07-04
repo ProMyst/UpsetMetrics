@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-06-13-montreal-expos-at-phillies",
+  "sport": "mlb",
+  "date": "1986-06-13",
+  "startTime": "1986-06-13T23:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "27-29"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "31-25"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.479,
+    "rankGapFactor": 0.143,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191070",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191070/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.777134Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.777139Z"
+}

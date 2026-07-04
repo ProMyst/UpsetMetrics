@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-04-15-montreal-expos-at-astros",
+  "sport": "mlb",
+  "date": "1997-04-15",
+  "startTime": "1997-04-16T00:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "5-6"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "8-6"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213359",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213359/feed/live",
+    "retrievedAt": "2026-07-04T07:27:10.892185Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:10.892190Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-28-mariners-at-rockies",
+  "sport": "mlb",
+  "date": "1997-08-28",
+  "startTime": "1997-08-29T01:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "65-70"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "74-60"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.477,
+    "rankGapFactor": 0.142,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215051",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215051/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.230952Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.230954Z"
+}

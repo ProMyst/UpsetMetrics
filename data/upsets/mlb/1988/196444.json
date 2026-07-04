@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-09-17-rangers-at-california-angels",
+  "sport": "mlb",
+  "date": "1988-09-17",
+  "startTime": "1988-09-18T02:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "65-82"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "74-75"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.436,
+    "rankGapFactor": 0.109,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196444",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196444/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.539207Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.539212Z"
+}

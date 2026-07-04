@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-05-16-mets-at-padres",
+  "sport": "mlb",
+  "date": "1996-05-16",
+  "startTime": "1996-05-16T10:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "16-23"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "25-16"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.799,
+    "rankGapFactor": 0.399,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211477",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211477/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.201260Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.201262Z"
+}

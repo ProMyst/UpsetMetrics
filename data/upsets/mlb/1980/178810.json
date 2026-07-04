@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-05-18-mets-at-braves",
+  "sport": "mlb",
+  "date": "1980-05-18",
+  "startTime": "1980-05-18T07:38:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "12-19"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "12-19"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178810",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178810/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.686358Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.686360Z"
+}

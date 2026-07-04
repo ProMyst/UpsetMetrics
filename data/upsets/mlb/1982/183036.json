@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-07-17-rangers-at-blue-jays",
+  "sport": "mlb",
+  "date": "1982-07-17",
+  "startTime": "1982-07-17T07:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "40-47"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "35-49"
+  },
+  "finalScore": "11-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183036",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183036/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.294058Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.294060Z"
+}

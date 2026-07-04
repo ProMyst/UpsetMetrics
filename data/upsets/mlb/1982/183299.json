@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-08-07-blue-jays-at-tigers",
+  "sport": "mlb",
+  "date": "1982-08-07",
+  "startTime": "1982-08-07T07:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "50-58"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "56-52"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.439,
+    "rankGapFactor": 0.111,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183299",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183299/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.345062Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.345064Z"
+}

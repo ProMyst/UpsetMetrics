@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-07-31-phillies-at-cubs",
+  "sport": "mlb",
+  "date": "1984-07-31",
+  "startTime": "1984-07-31T08:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "56-47"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "60-44"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.383,
+    "rankGapFactor": 0.066,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187462",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187462/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.337920Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.337922Z"
+}

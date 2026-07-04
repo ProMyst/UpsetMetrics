@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-08-04-brewers-at-blue-jays",
+  "sport": "mlb",
+  "date": "1982-08-04",
+  "startTime": "1982-08-04T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "61-44"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "49-55"
+  },
+  "finalScore": "8-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183252",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183252/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.337256Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.337257Z"
+}

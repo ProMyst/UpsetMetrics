@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-08-19-orioles-at-rangers",
+  "sport": "mlb",
+  "date": "1991-08-19",
+  "startTime": "1991-08-20T00:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "61-56"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "48-71"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202358",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202358/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.329035Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.329037Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-10-03-athletics-at-royals",
+  "sport": "mlb",
+  "date": "1982-10-03",
+  "startTime": "1982-10-03T08:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "68-94"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "90-72"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.64,
+    "rankGapFactor": 0.272,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183994",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183994/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.489799Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.489801Z"
+}

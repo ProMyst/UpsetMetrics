@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-06-29-montreal-expos-at-cardinals",
+  "sport": "mlb",
+  "date": "1988-06-29",
+  "startTime": "1988-06-30T00:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "36-40"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "37-40"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.317,
+    "rankGapFactor": 0.014,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195507",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195507/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.350056Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.350060Z"
+}

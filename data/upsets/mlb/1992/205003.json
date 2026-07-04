@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-10-01-rangers-at-athletics",
+  "sport": "mlb",
+  "date": "1992-10-01",
+  "startTime": "1992-10-02T02:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "76-83"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "94-65"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.583,
+    "rankGapFactor": 0.226,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205003",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205003/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.184706Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.184708Z"
+}

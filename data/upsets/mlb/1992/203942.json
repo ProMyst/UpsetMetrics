@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-07-03-reds-at-pirates",
+  "sport": "mlb",
+  "date": "1992-07-03",
+  "startTime": "1992-07-03T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "46-31"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "44-35"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203942",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203942/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.970750Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.970752Z"
+}

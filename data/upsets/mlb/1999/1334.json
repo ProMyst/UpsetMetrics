@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-05-20-diamondbacks-at-rockies",
+  "sport": "mlb",
+  "date": "1999-05-20",
+  "startTime": "1999-05-21T01:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "16-21"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "23-19"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.588,
+    "rankGapFactor": 0.23,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1334",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1334/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.230080Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.230082Z"
+}

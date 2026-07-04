@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-22-pirates-at-mets",
+  "sport": "mlb",
+  "date": "1997-06-22",
+  "startTime": "1997-06-22T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "41-32"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "33-40"
+  },
+  "finalScore": "12-9",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214201",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214201/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.058500Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.058502Z"
+}

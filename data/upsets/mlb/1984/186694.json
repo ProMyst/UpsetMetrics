@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-05-28-royals-at-rangers",
+  "sport": "mlb",
+  "date": "1984-05-28",
+  "startTime": "1984-05-29T00:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "19-24"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "19-28"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186694",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186694/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.184230Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.184232Z"
+}

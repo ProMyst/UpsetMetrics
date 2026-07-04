@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-09-20-athletics-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1989-09-20",
+  "startTime": "1989-09-20T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "91-60"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "67-85"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198595",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198595/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.498175Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.498180Z"
+}

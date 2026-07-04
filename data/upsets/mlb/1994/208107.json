@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-06-08-giants-at-pirates",
+  "sport": "mlb",
+  "date": "1994-06-08",
+  "startTime": "1994-06-08T23:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "24-32"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "28-31"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.415,
+    "rankGapFactor": 0.092,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208107",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208107/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.596589Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.596591Z"
+}

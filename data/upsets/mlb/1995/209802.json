@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-07-05-yankees-at-white-sox",
+  "sport": "mlb",
+  "date": "1995-07-05",
+  "startTime": "1995-07-06T00:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "28-34"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "29-33"
+  },
+  "finalScore": "11-5",
+  "factors": {
+    "pregameOddsFactor": 0.34,
+    "rankGapFactor": 0.032,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209802",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209802/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.993688Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.993690Z"
+}

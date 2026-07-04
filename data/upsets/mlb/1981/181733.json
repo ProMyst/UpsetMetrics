@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-09-22-cleveland-indians-at-yankees",
+  "sport": "mlb",
+  "date": "1981-09-22",
+  "startTime": "1981-09-22T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "46-46"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "55-42"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.468,
+    "rankGapFactor": 0.134,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181733",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181733/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.207160Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.207165Z"
+}

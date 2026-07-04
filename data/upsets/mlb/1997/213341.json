@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-04-14-white-sox-at-rangers",
+  "sport": "mlb",
+  "date": "1997-04-14",
+  "startTime": "1997-04-15T00:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "4-5"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "3-8"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213341",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213341/feed/live",
+    "retrievedAt": "2026-07-04T07:27:10.889328Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:10.889330Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-04-19-tigers-at-california-angels",
+  "sport": "mlb",
+  "date": "1996-04-19",
+  "startTime": "1996-04-20T02:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "8-8"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "8-10"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211140",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211140/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.132558Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.132563Z"
+}

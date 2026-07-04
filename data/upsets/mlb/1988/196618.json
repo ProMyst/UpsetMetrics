@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-10-02-pirates-at-cubs",
+  "sport": "mlb",
+  "date": "1988-10-02",
+  "startTime": "1988-10-02T08:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "77-85"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "85-75"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.44,
+    "rankGapFactor": 0.112,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196618",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196618/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.574340Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.574342Z"
+}

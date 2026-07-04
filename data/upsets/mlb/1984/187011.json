@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-06-24-royals-at-california-angels",
+  "sport": "mlb",
+  "date": "1984-06-24",
+  "startTime": "1984-06-25T02:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "30-37"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "37-35"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.465,
+    "rankGapFactor": 0.132,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187011",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187011/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.247729Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.247734Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-09-27-rockies-at-diamondbacks",
+  "sport": "mlb",
+  "date": "1999-09-27",
+  "startTime": "1999-09-28T01:35:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "96-60"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "70-87"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "907",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/907/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.582662Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.582664Z"
+}

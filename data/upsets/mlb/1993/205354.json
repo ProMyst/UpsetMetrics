@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-05-01-royals-at-orioles",
+  "sport": "mlb",
+  "date": "1993-05-01",
+  "startTime": "1993-05-01T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "10-14"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "8-14"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205354",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205354/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.369156Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.369158Z"
+}

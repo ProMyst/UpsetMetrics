@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-09-03-mets-at-dodgers",
+  "sport": "mlb",
+  "date": "1980-09-03",
+  "startTime": "1980-09-04T02:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "76-57"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "59-74"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180113",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180113/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.950725Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.950727Z"
+}

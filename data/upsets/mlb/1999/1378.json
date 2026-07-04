@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-05-12-twins-at-tampa-bay-devil-rays",
+  "sport": "mlb",
+  "date": "1999-05-12",
+  "startTime": "1999-05-12T16:35:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "13-21"
+  },
+  "loser": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "17-18"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.558,
+    "rankGapFactor": 0.207,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1378",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1378/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.207908Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-tampa-bay-devil-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.207914Z"
+}

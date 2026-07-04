@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-05-01-brewers-at-blue-jays",
+  "sport": "mlb",
+  "date": "1996-05-01",
+  "startTime": "1996-05-01T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "12-14"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "12-13"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.346,
+    "rankGapFactor": 0.037,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211296",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211296/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.163732Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.163734Z"
+}

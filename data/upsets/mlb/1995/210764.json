@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-09-19-orioles-at-tigers",
+  "sport": "mlb",
+  "date": "1995-09-19",
+  "startTime": "1995-09-19T07:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "57-76"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "62-72"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.385,
+    "rankGapFactor": 0.068,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210764",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210764/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.191181Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.191183Z"
+}

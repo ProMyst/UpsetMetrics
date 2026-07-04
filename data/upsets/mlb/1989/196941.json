@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-05-02-cubs-at-giants",
+  "sport": "mlb",
+  "date": "1989-05-02",
+  "startTime": "1989-05-03T02:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "13-13"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "13-12"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.04,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196941",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196941/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.168624Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.168626Z"
+}

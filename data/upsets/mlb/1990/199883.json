@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-07-18-brewers-at-california-angels",
+  "sport": "mlb",
+  "date": "1990-07-18",
+  "startTime": "1990-07-18T10:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "40-48"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "45-47"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.386,
+    "rankGapFactor": 0.069,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199883",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199883/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.138122Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.138127Z"
+}

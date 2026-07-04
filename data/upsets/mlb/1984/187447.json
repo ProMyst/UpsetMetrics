@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-07-30-montreal-expos-at-pirates",
+  "sport": "mlb",
+  "date": "1984-07-30",
+  "startTime": "1984-07-30T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "51-51"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "44-61"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187447",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187447/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.333325Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.333330Z"
+}

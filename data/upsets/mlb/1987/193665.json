@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-07-25-cubs-at-dodgers",
+  "sport": "mlb",
+  "date": "1987-07-25",
+  "startTime": "1987-07-25T10:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "42-55"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "51-46"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.532,
+    "rankGapFactor": 0.186,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193665",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193665/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.330723Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.330725Z"
+}

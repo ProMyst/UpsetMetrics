@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-08-22-phillies-at-astros",
+  "sport": "mlb",
+  "date": "1993-08-22",
+  "startTime": "1993-08-22T08:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "66-58"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "78-46"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.542,
+    "rankGapFactor": 0.194,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206774",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206774/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.668159Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.668161Z"
+}

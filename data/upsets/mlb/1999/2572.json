@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-08-21-rockies-at-cubs",
+  "sport": "mlb",
+  "date": "1999-08-21",
+  "startTime": "1999-08-21T20:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "52-69"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "55-70"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.326,
+    "rankGapFactor": 0.02,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2572",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2572/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.480143Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.480145Z"
+}

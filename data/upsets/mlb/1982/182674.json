@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-06-16-brewers-at-orioles",
+  "sport": "mlb",
+  "date": "1982-06-16",
+  "startTime": "1982-06-16T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "31-29"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "31-28"
+  },
+  "finalScore": "2-2",
+  "factors": {
+    "pregameOddsFactor": 0.322,
+    "rankGapFactor": 0.018,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182674",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182674/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.222847Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.222849Z"
+}

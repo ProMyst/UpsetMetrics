@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-09-23-phillies-at-cubs",
+  "sport": "mlb",
+  "date": "1991-09-23",
+  "startTime": "1991-09-24T00:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "72-77"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "71-80"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202779",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202779/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.416361Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.416362Z"
+}

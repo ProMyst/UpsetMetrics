@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-09-19-mets-at-phillies",
+  "sport": "mlb",
+  "date": "1984-09-19",
+  "startTime": "1984-09-19T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "81-72"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "83-70"
+  },
+  "finalScore": "13-5",
+  "factors": {
+    "pregameOddsFactor": 0.333,
+    "rankGapFactor": 0.026,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188074",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188074/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.460797Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.460799Z"
+}

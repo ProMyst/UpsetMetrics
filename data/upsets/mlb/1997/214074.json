@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-12-brewers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1997-06-12",
+  "startTime": "1997-06-12T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "29-32"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "32-28"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.445,
+    "rankGapFactor": 0.116,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214074",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214074/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.034781Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.034786Z"
+}

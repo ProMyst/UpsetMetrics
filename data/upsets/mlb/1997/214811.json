@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-10-white-sox-at-mariners",
+  "sport": "mlb",
+  "date": "1997-08-10",
+  "startTime": "1997-08-11T02:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "56-59"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "65-51"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.483,
+    "rankGapFactor": 0.147,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214811",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214811/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.184826Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.184828Z"
+}

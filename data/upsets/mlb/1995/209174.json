@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-05-17-california-angels-at-twins",
+  "sport": "mlb",
+  "date": "1995-05-17",
+  "startTime": "1995-05-18T00:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "7-13"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "11-9"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.8,
+    "rankGapFactor": 0.4,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209174",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209174/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.868183Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.868189Z"
+}

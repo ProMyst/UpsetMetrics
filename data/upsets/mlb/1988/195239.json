@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-06-07-twins-at-white-sox",
+  "sport": "mlb",
+  "date": "1988-06-07",
+  "startTime": "1988-06-08T00:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "24-31"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "28-26"
+  },
+  "finalScore": "10-8",
+  "factors": {
+    "pregameOddsFactor": 0.505,
+    "rankGapFactor": 0.164,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195239",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195239/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.295740Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.295742Z"
+}

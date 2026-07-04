@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-06-12-tigers-at-blue-jays",
+  "sport": "mlb",
+  "date": "1989-06-12",
+  "startTime": "1989-06-12T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "27-34"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "24-37"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197411",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197411/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.260267Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.260269Z"
+}

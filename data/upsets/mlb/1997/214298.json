@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-30-anaheim-angels-at-rockies",
+  "sport": "mlb",
+  "date": "1997-06-30",
+  "startTime": "1997-07-01T01:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "43-39"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "41-39"
+  },
+  "finalScore": "11-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214298",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214298/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.080711Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.080716Z"
+}

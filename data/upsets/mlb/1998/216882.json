@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-07-17-twins-at-athletics",
+  "sport": "mlb",
+  "date": "1998-07-17",
+  "startTime": "1998-07-18T02:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "43-52"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "45-50"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.353,
+    "rankGapFactor": 0.042,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216882",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216882/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.182641Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.182643Z"
+}

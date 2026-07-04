@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-20-giants-at-rangers",
+  "sport": "mlb",
+  "date": "1999-07-20",
+  "startTime": "1999-07-21T00:35:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "53-40"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "51-43"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2494",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2494/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.388863Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.388864Z"
+}

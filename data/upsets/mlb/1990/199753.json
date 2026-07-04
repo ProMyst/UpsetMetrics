@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-07-06-red-sox-at-rangers",
+  "sport": "mlb",
+  "date": "1990-07-06",
+  "startTime": "1990-07-07T00:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "38-44"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "46-34"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.579,
+    "rankGapFactor": 0.223,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199753",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199753/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.112286Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.112288Z"
+}

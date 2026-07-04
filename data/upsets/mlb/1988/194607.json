@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-04-12-twins-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1988-04-12",
+  "startTime": "1988-04-12T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "3-3"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "6-2"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194607",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194607/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.162340Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.162346Z"
+}

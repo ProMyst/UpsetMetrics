@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-08-orioles-at-florida-marlins",
+  "sport": "mlb",
+  "date": "1999-06-08",
+  "startTime": "1999-06-08T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "23-36"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "21-36"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2105",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2105/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.278956Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.278961Z"
+}

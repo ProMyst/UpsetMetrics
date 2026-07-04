@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-05-17-tigers-at-royals",
+  "sport": "mlb",
+  "date": "1992-05-17",
+  "startTime": "1992-05-17T08:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "11-24"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "16-20"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.625,
+    "rankGapFactor": 0.26,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203398",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203398/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.863857Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.863859Z"
+}

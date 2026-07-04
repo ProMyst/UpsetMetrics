@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-06-17-twins-at-orioles",
+  "sport": "mlb",
+  "date": "1991-06-17",
+  "startTime": "1991-06-17T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "23-38"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "38-26"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.842,
+    "rankGapFactor": 0.433,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201632",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201632/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.183538Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.183541Z"
+}

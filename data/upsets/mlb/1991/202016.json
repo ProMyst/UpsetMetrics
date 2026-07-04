@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-07-21-blue-jays-at-rangers",
+  "sport": "mlb",
+  "date": "1991-07-21",
+  "startTime": "1991-07-22T00:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "47-41"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "55-38"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.443,
+    "rankGapFactor": 0.115,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202016",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202016/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.258463Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.258465Z"
+}

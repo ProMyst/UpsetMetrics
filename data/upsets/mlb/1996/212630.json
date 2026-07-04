@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-08-16-mariners-at-yankees",
+  "sport": "mlb",
+  "date": "1996-08-16",
+  "startTime": "1996-08-16T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "62-58"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "70-50"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.467,
+    "rankGapFactor": 0.133,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212630",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212630/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.434833Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.434835Z"
+}

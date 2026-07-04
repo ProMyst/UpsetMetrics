@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-09-29-california-angels-at-royals",
+  "sport": "mlb",
+  "date": "1982-09-29",
+  "startTime": "1982-09-30T00:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "87-71"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "90-69"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.339,
+    "rankGapFactor": 0.031,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183935",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183935/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.479025Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.479030Z"
+}

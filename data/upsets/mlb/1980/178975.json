@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-06-01-mets-at-pirates",
+  "sport": "mlb",
+  "date": "1980-06-01",
+  "startTime": "1980-06-01T07:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "26-18"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "19-24"
+  },
+  "finalScore": "13-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178975",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178975/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.720085Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.720088Z"
+}

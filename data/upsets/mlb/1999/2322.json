@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-26-pirates-at-brewers",
+  "sport": "mlb",
+  "date": "1999-06-26",
+  "startTime": "1999-06-27T00:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "34-39"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "36-36"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.386,
+    "rankGapFactor": 0.068,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2322",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2322/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.328718Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.328720Z"
+}

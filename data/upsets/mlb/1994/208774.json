@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-08-01-florida-marlins-at-cubs",
+  "sport": "mlb",
+  "date": "1994-08-01",
+  "startTime": "1994-08-02T00:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "48-56"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "45-60"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208774",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208774/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.733643Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.733647Z"
+}

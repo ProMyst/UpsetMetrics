@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-08-22-rangers-at-twins",
+  "sport": "mlb",
+  "date": "1996-08-22",
+  "startTime": "1996-08-23T00:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "74-54"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "63-64"
+  },
+  "finalScore": "11-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212710",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212710/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.451012Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.451014Z"
+}

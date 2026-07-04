@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-09-23-red-sox-at-orioles",
+  "sport": "mlb",
+  "date": "1991-09-23",
+  "startTime": "1991-09-23T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "63-87"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "81-69"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.6,
+    "rankGapFactor": 0.24,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202773",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202773/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.415384Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.415386Z"
+}

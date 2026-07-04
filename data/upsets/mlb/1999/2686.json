@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-10-02-red-sox-at-orioles",
+  "sport": "mlb",
+  "date": "1999-10-02",
+  "startTime": "1999-10-02T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "93-68"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "78-83"
+  },
+  "finalScore": "8-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2686",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2686/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.595331Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.595333Z"
+}

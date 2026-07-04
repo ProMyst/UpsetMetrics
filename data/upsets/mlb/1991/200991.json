@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-04-22-tigers-at-yankees",
+  "sport": "mlb",
+  "date": "1991-04-22",
+  "startTime": "1991-04-22T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "7-5"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "4-8"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200991",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200991/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.054455Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.054457Z"
+}

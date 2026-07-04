@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-06-12-florida-marlins-at-pirates",
+  "sport": "mlb",
+  "date": "1994-06-12",
+  "startTime": "1994-06-12T07:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "28-32"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "30-32"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.343,
+    "rankGapFactor": 0.034,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208152",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208152/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.607496Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.607501Z"
+}

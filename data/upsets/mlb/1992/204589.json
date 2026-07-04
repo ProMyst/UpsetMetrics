@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-08-28-reds-at-mets",
+  "sport": "mlb",
+  "date": "1992-08-28",
+  "startTime": "1992-08-28T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "58-67"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "71-56"
+  },
+  "finalScore": "12-1",
+  "factors": {
+    "pregameOddsFactor": 0.538,
+    "rankGapFactor": 0.19,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204589",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204589/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.103049Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.103051Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-06-07-padres-at-pirates",
+  "sport": "mlb",
+  "date": "1991-06-07",
+  "startTime": "1991-06-07T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "34-17"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "28-27"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201510",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201510/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.157234Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.157236Z"
+}

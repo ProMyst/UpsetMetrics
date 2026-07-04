@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-06-10-mariners-at-tigers",
+  "sport": "mlb",
+  "date": "1990-06-10",
+  "startTime": "1990-06-10T07:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "27-32"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "28-31"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.342,
+    "rankGapFactor": 0.034,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199448",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199448/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.048694Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.048696Z"
+}

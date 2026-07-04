@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-07-16-giants-at-cardinals",
+  "sport": "mlb",
+  "date": "1984-07-16",
+  "startTime": "1984-07-17T00:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "34-55"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "44-47"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.554,
+    "rankGapFactor": 0.203,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187275",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187275/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.300073Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.300076Z"
+}

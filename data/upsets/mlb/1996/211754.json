@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-06-08-athletics-at-twins",
+  "sport": "mlb",
+  "date": "1996-06-08",
+  "startTime": "1996-06-08T08:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "29-29"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "27-32"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211754",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211754/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.254754Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.254756Z"
+}

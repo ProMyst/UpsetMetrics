@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-05-29-blue-jays-at-athletics",
+  "sport": "mlb",
+  "date": "1990-05-29",
+  "startTime": "1990-05-30T02:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "26-22"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "30-14"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.65,
+    "rankGapFactor": 0.28,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199310",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199310/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.021763Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.021765Z"
+}

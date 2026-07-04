@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-07-11-athletics-at-blue-jays",
+  "sport": "mlb",
+  "date": "1992-07-11",
+  "startTime": "1992-07-11T07:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "50-36"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "53-33"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.387,
+    "rankGapFactor": 0.07,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204056",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204056/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.993023Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.993025Z"
+}

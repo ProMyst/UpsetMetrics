@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-09-18-pirates-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1986-09-18",
+  "startTime": "1986-09-18T07:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "60-86"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "72-73"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.514,
+    "rankGapFactor": 0.171,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192212",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192212/feed/live",
+    "retrievedAt": "2026-07-04T07:11:18.010779Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:18.010784Z"
+}

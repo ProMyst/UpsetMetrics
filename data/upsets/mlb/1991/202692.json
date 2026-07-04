@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-09-16-braves-at-giants",
+  "sport": "mlb",
+  "date": "1991-09-16",
+  "startTime": "1991-09-17T02:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "66-78"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "82-62"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.578,
+    "rankGapFactor": 0.222,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202692",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202692/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.400995Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.400997Z"
+}

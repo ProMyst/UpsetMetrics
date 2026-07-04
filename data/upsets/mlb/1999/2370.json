@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-20-cubs-at-giants",
+  "sport": "mlb",
+  "date": "1999-06-20",
+  "startTime": "1999-06-20T20:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "40-30"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "33-33"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2370",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2370/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.312949Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.312951Z"
+}

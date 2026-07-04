@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-08-02-rockies-at-cubs",
+  "sport": "mlb",
+  "date": "1998-08-02",
+  "startTime": "1998-08-02T08:33:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "49-62"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "63-49"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.603,
+    "rankGapFactor": 0.242,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "217108",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/217108/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.226681Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.226683Z"
+}

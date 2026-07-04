@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-07-06-royals-at-twins",
+  "sport": "mlb",
+  "date": "1996-07-06",
+  "startTime": "1996-07-07T00:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "37-50"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "41-44"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.443,
+    "rankGapFactor": 0.114,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212124",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212124/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.330512Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.330514Z"
+}

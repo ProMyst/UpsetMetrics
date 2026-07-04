@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-17-mets-at-cardinals",
+  "sport": "mlb",
+  "date": "1999-06-17",
+  "startTime": "1999-06-18T00:10:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "36-30"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "32-33"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "3067",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/3067/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.304547Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.304549Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-05-19-royals-at-california-angels",
+  "sport": "mlb",
+  "date": "1994-05-19",
+  "startTime": "1994-05-20T02:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "18-24"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "20-18"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.544,
+    "rankGapFactor": 0.195,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207853",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207853/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.547896Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.547900Z"
+}

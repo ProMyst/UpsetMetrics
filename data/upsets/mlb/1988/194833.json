@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-05-03-royals-at-red-sox",
+  "sport": "mlb",
+  "date": "1988-05-03",
+  "startTime": "1988-05-03T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "14-11"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "14-9"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.422,
+    "rankGapFactor": 0.097,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194833",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194833/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.213094Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.213096Z"
+}

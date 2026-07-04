@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-08-15-pirates-at-braves",
+  "sport": "mlb",
+  "date": "1984-08-15",
+  "startTime": "1984-08-15T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "62-58"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "51-69"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187656",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187656/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.378623Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.378628Z"
+}

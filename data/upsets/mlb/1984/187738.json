@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-08-22-royals-at-red-sox",
+  "sport": "mlb",
+  "date": "1984-08-22",
+  "startTime": "1984-08-22T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "62-64"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "65-62"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.349,
+    "rankGapFactor": 0.039,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187738",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187738/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.394762Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.394764Z"
+}

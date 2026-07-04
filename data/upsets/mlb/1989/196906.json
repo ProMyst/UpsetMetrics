@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-04-29-red-sox-at-rangers",
+  "sport": "mlb",
+  "date": "1989-04-29",
+  "startTime": "1989-04-30T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "10-11"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "16-5"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.571,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196906",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196906/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.160122Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.160124Z"
+}

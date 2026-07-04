@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-08-29-giants-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1984-08-29",
+  "startTime": "1984-08-29T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "54-77"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "64-67"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.491,
+    "rankGapFactor": 0.153,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187823",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187823/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.411098Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.411103Z"
+}

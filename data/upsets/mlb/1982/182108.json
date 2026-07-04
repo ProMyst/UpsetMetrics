@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-04-27-phillies-at-dodgers",
+  "sport": "mlb",
+  "date": "1982-04-27",
+  "startTime": "1982-04-28T02:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "9-9"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "4-12"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182108",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182108/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.110222Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.110224Z"
+}

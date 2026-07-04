@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-06-30-california-angels-at-rangers",
+  "sport": "mlb",
+  "date": "1982-06-30",
+  "startTime": "1982-07-01T00:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "28-40"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "45-30"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.771,
+    "rankGapFactor": 0.376,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182840",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182840/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.257596Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.257601Z"
+}

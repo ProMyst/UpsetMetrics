@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-08-02-royals-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "1999-08-02",
+  "startTime": "1999-08-03T02:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "44-61"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "44-60"
+  },
+  "finalScore": "12-4",
+  "factors": {
+    "pregameOddsFactor": 0.31,
+    "rankGapFactor": 0.008,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2624",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2624/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.429253Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.429258Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-07-22-white-sox-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1984-07-22",
+  "startTime": "1984-07-22T07:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "41-53"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "48-48"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.46,
+    "rankGapFactor": 0.128,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187346",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187346/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.315806Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.315811Z"
+}

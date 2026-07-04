@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-05-10-reds-at-cubs",
+  "sport": "mlb",
+  "date": "1992-05-10",
+  "startTime": "1992-05-10T08:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "17-14"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "12-18"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203326",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203326/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.848751Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.848753Z"
+}

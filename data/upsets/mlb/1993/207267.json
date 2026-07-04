@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-09-30-mariners-at-white-sox",
+  "sport": "mlb",
+  "date": "1993-09-30",
+  "startTime": "1993-10-01T00:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "80-79"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "91-68"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.473,
+    "rankGapFactor": 0.138,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207267",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207267/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.767715Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.767717Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-09-06-montreal-expos-at-braves",
+  "sport": "mlb",
+  "date": "1987-09-06",
+  "startTime": "1987-09-06T07:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "76-59"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "58-77"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194180",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194180/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.438345Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.438350Z"
+}

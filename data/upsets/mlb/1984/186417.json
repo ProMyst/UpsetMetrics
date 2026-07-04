@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-05-03-royals-at-brewers",
+  "sport": "mlb",
+  "date": "1984-05-03",
+  "startTime": "1984-05-03T08:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "10-12"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "9-12"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186417",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186417/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.129099Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.129101Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-05-11-mets-at-cardinals",
+  "sport": "mlb",
+  "date": "1997-05-11",
+  "startTime": "1997-05-11T08:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "19-18"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "16-20"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213681",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213681/feed/live",
+    "retrievedAt": "2026-07-04T07:27:10.956732Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:10.956734Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-04-13-tigers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1986-04-13",
+  "startTime": "1986-04-13T08:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "3-3"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "3-3"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190382",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190382/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.632984Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.632992Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-07-27-astros-at-padres",
+  "sport": "mlb",
+  "date": "1990-07-27",
+  "startTime": "1990-07-28T02:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "43-54"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "41-59"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199995",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199995/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.159812Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.159814Z"
+}

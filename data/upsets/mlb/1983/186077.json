@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-09-30-pirates-at-phillies",
+  "sport": "mlb",
+  "date": "1983-09-30",
+  "startTime": "1983-09-30T23:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "89-71"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "83-77"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186077",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186077/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.828508Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.828510Z"
+}

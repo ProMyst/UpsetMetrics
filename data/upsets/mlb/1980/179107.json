@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-06-13-reds-at-cardinals",
+  "sport": "mlb",
+  "date": "1980-06-13",
+  "startTime": "1980-06-14T00:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "32-25"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "20-36"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179107",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179107/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.748006Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.748008Z"
+}

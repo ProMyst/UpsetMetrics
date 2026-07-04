@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-08-14-mets-at-cubs",
+  "sport": "mlb",
+  "date": "1987-08-14",
+  "startTime": "1987-08-14T08:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "59-57"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "65-51"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.429,
+    "rankGapFactor": 0.103,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193912",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193912/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.380198Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.380200Z"
+}

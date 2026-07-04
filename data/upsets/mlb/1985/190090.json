@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-09-18-yankees-at-tigers",
+  "sport": "mlb",
+  "date": "1985-09-18",
+  "startTime": "1985-09-18T23:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "75-70"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "86-59"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.49,
+    "rankGapFactor": 0.152,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190090",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190090/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.755024Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.755026Z"
+}

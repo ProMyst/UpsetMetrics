@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-09-27-yankees-at-orioles",
+  "sport": "mlb",
+  "date": "1987-09-27",
+  "startTime": "1987-09-27T07:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "64-91"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "85-70"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.639,
+    "rankGapFactor": 0.271,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194432",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194432/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.488246Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.488248Z"
+}

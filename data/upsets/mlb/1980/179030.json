@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-06-06-padres-at-reds",
+  "sport": "mlb",
+  "date": "1980-06-06",
+  "startTime": "1980-06-06T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "29-22"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "24-28"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179030",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179030/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.730326Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.730328Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-08-08-mariners-at-athletics",
+  "sport": "mlb",
+  "date": "1980-08-08",
+  "startTime": "1980-08-09T02:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "40-68"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "56-54"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.647,
+    "rankGapFactor": 0.277,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179791",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179791/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.882669Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.882671Z"
+}

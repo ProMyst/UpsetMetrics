@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-08-13-phillies-at-reds",
+  "sport": "mlb",
+  "date": "1999-08-13",
+  "startTime": "1999-08-13T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "67-46"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "62-53"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2451",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2451/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.458717Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.458719Z"
+}

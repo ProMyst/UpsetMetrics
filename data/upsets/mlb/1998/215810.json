@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-04-27-tigers-at-red-sox",
+  "sport": "mlb",
+  "date": "1998-04-27",
+  "startTime": "1998-04-27T23:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "17-6"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "4-17"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215810",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215810/feed/live",
+    "retrievedAt": "2026-07-04T07:28:37.965114Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:37.965116Z"
+}

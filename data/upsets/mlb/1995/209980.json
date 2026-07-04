@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-07-20-phillies-at-rockies",
+  "sport": "mlb",
+  "date": "1995-07-20",
+  "startTime": "1995-07-20T09:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "43-34"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "41-36"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209980",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209980/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.029213Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.029215Z"
+}

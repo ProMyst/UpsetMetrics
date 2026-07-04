@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-04-23-cubs-at-cardinals",
+  "sport": "mlb",
+  "date": "1984-04-23",
+  "startTime": "1984-04-24T00:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "9-6"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "7-10"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186305",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186305/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.105137Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.105139Z"
+}

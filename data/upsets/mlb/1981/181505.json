@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-09-02-cardinals-at-giants",
+  "sport": "mlb",
+  "date": "1981-09-02",
+  "startTime": "1981-09-02T10:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "43-27"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "40-41"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181505",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181505/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.160592Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.160594Z"
+}

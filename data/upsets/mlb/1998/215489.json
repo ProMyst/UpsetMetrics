@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-04-02-tigers-at-tampa-bay-devil-rays",
+  "sport": "mlb",
+  "date": "1998-04-02",
+  "startTime": "1998-04-03T00:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "2-1"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "1-2"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215489",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215489/feed/live",
+    "retrievedAt": "2026-07-04T07:28:37.891839Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-tampa-bay-devil-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:37.891849Z"
+}

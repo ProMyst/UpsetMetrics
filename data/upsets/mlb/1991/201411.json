@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-05-29-athletics-at-blue-jays",
+  "sport": "mlb",
+  "date": "1991-05-29",
+  "startTime": "1991-05-29T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "26-20"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "27-18"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.387,
+    "rankGapFactor": 0.07,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201411",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201411/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.137954Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.137956Z"
+}

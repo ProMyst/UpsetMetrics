@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-07-07-american-league-all-stars-at-national-league-all-stars",
+  "sport": "mlb",
+  "date": "1998-07-07",
+  "startTime": "1998-07-08T00:05:00Z",
+  "season": "1998",
+  "event": "MLB All-Star Game",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "american-league-all-stars",
+    "name": "American League All-Stars",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "national-league-all-stars",
+    "name": "National League All-Stars",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "13-8",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "67217",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/67217/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.153138Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "american-league-all-stars-at-national-league-all-stars",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.153147Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-09-15-mariners-at-yankees",
+  "sport": "mlb",
+  "date": "1989-09-15",
+  "startTime": "1989-09-15T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "65-81"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "67-81"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.319,
+    "rankGapFactor": 0.015,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198537",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198537/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.486655Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.486657Z"
+}

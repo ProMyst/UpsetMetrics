@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-07-27-rockies-at-astros",
+  "sport": "mlb",
+  "date": "1995-07-27",
+  "startTime": "1995-07-27T08:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "48-35"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "46-38"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210069",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210069/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.047103Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.047105Z"
+}

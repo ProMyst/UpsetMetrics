@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-09-11-mariners-at-blue-jays",
+  "sport": "mlb",
+  "date": "1991-09-11",
+  "startTime": "1991-09-11T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "70-69"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "79-62"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.442,
+    "rankGapFactor": 0.113,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202639",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202639/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.387160Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.387162Z"
+}

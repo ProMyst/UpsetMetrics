@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-08-17-royals-at-orioles",
+  "sport": "mlb",
+  "date": "1995-08-17",
+  "startTime": "1995-08-17T07:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "49-51"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "47-56"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210342",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210342/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.101585Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.101587Z"
+}

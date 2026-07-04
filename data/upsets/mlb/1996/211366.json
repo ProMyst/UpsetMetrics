@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-05-07-rockies-at-braves",
+  "sport": "mlb",
+  "date": "1996-05-07",
+  "startTime": "1996-05-07T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "20-13"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "15-16"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211366",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211366/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.177673Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.177675Z"
+}

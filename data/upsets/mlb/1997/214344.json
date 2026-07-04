@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-07-03-reds-at-astros",
+  "sport": "mlb",
+  "date": "1997-07-03",
+  "startTime": "1997-07-04T00:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "37-46"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "41-44"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.391,
+    "rankGapFactor": 0.073,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214344",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214344/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.088119Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.088121Z"
+}

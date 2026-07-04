@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-05-cubs-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1999-06-05",
+  "startTime": "1999-06-05T17:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "35-18"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "30-22"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2200",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2200/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.270258Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.270262Z"
+}

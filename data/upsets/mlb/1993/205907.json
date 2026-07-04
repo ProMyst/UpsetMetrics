@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-06-14-blue-jays-at-twins",
+  "sport": "mlb",
+  "date": "1993-06-14",
+  "startTime": "1993-06-15T00:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "29-30"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "36-28"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.477,
+    "rankGapFactor": 0.142,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205907",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205907/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.478791Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.478793Z"
+}

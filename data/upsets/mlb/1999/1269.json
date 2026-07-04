@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-04-18-tampa-bay-devil-rays-at-red-sox",
+  "sport": "mlb",
+  "date": "1999-04-18",
+  "startTime": "1999-04-18T17:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "6-7"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "7-4"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1269",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1269/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.143923Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tampa-bay-devil-rays-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.143929Z"
+}

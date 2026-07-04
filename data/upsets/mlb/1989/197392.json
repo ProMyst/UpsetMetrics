@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-06-10-mariners-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1989-06-10",
+  "startTime": "1989-06-10T07:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "29-33"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "29-30"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.359,
+    "rankGapFactor": 0.048,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197392",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197392/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.256343Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.256348Z"
+}

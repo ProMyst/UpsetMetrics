@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-09-15-dodgers-at-padres",
+  "sport": "mlb",
+  "date": "1993-09-15",
+  "startTime": "1993-09-16T02:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "74-71"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "57-90"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207077",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207077/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.728991Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.728993Z"
+}

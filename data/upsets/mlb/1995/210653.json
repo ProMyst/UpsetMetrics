@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-09-10-tigers-at-blue-jays",
+  "sport": "mlb",
+  "date": "1995-09-10",
+  "startTime": "1995-09-10T07:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "52-72"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "52-73"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210653",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210653/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.166408Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.166410Z"
+}

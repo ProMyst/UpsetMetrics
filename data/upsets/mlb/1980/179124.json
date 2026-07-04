@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-06-14-dodgers-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1980-06-14",
+  "startTime": "1980-06-14T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "33-25"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "33-22"
+  },
+  "finalScore": "8-0",
+  "factors": {
+    "pregameOddsFactor": 0.378,
+    "rankGapFactor": 0.062,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179124",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179124/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.749464Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.749469Z"
+}

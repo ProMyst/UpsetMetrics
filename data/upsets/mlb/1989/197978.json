@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-08-01-orioles-at-red-sox",
+  "sport": "mlb",
+  "date": "1989-08-01",
+  "startTime": "1989-08-01T07:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "51-51"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "54-50"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.348,
+    "rankGapFactor": 0.038,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197978",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197978/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.372824Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.372828Z"
+}

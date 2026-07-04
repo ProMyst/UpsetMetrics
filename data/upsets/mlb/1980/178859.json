@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-05-22-padres-at-pirates",
+  "sport": "mlb",
+  "date": "1980-05-22",
+  "startTime": "1980-05-22T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "19-19"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "21-13"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.594,
+    "rankGapFactor": 0.235,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178859",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178859/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.696563Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.696565Z"
+}

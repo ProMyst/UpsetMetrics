@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-06-08-cleveland-indians-at-california-angels",
+  "sport": "mlb",
+  "date": "1987-06-08",
+  "startTime": "1987-06-09T02:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "20-36"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "25-32"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.504,
+    "rankGapFactor": 0.163,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193125",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193125/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.218997Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.219004Z"
+}

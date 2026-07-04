@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-06-24-red-sox-at-phillies",
+  "sport": "mlb",
+  "date": "1998-06-24",
+  "startTime": "1998-06-24T23:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "39-36"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "44-31"
+  },
+  "finalScore": "11-8",
+  "factors": {
+    "pregameOddsFactor": 0.467,
+    "rankGapFactor": 0.133,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216598",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216598/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.121784Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.121786Z"
+}

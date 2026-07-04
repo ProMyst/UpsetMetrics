@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-15-rangers-at-royals",
+  "sport": "mlb",
+  "date": "1990-08-15",
+  "startTime": "1990-08-16T00:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "60-57"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "57-60"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200239",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200239/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.205856Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.205858Z"
+}

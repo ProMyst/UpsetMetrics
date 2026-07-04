@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-08-19-dodgers-at-mets",
+  "sport": "mlb",
+  "date": "1995-08-19",
+  "startTime": "1995-08-19T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "44-60"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "56-50"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.563,
+    "rankGapFactor": 0.21,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210371",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210371/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.105277Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.105279Z"
+}

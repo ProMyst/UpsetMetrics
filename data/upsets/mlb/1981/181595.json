@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-09-09-giants-at-dodgers",
+  "sport": "mlb",
+  "date": "1981-09-09",
+  "startTime": "1981-09-10T02:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "44-44"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "54-33"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.602,
+    "rankGapFactor": 0.241,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181595",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181595/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.178562Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.178564Z"
+}

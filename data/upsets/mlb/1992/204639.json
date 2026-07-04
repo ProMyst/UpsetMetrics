@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-09-01-red-sox-at-mariners",
+  "sport": "mlb",
+  "date": "1992-09-01",
+  "startTime": "1992-09-02T02:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "56-77"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "60-72"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.384,
+    "rankGapFactor": 0.067,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204639",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204639/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.115064Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.115066Z"
+}

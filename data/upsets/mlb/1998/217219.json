@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-08-10-athletics-at-white-sox",
+  "sport": "mlb",
+  "date": "1998-08-10",
+  "startTime": "1998-08-11T00:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "52-64"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "52-66"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "217219",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/217219/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.246843Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.246845Z"
+}

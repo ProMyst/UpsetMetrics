@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-07-07-pirates-at-padres",
+  "sport": "mlb",
+  "date": "1986-07-07",
+  "startTime": "1986-07-08T02:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "34-46"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "42-40"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.518,
+    "rankGapFactor": 0.174,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191366",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191366/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.837375Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.837377Z"
+}

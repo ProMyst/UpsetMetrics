@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-06-09-red-sox-at-orioles",
+  "sport": "mlb",
+  "date": "1985-06-09",
+  "startTime": "1985-06-09T07:33:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "28-25"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "29-24"
+  },
+  "finalScore": "12-0",
+  "factors": {
+    "pregameOddsFactor": 0.347,
+    "rankGapFactor": 0.038,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188890",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188890/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.511506Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.511508Z"
+}

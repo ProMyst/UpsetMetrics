@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-08-23-reds-at-pirates",
+  "sport": "mlb",
+  "date": "1988-08-23",
+  "startTime": "1988-08-23T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "69-57"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "63-61"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196144",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196144/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.480133Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.480135Z"
+}

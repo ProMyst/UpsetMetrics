@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-05-01-cardinals-at-pirates",
+  "sport": "mlb",
+  "date": "1984-05-01",
+  "startTime": "1984-05-01T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "12-12"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "7-14"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186402",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186402/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.124312Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.124314Z"
+}

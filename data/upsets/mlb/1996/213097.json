@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-09-22-tigers-at-brewers",
+  "sport": "mlb",
+  "date": "1996-09-22",
+  "startTime": "1996-09-22T08:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "53-103"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "76-80"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.669,
+    "rankGapFactor": 0.295,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213097",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213097/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.530540Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.530542Z"
+}

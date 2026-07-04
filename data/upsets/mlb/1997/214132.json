@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-17-reds-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1997-06-17",
+  "startTime": "1997-06-17T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "35-30"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "28-40"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214132",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214132/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.045963Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.045967Z"
+}

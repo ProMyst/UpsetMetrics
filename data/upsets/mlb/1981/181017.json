@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-25-phillies-at-mets",
+  "sport": "mlb",
+  "date": "1981-05-25",
+  "startTime": "1981-05-25T07:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "12-25"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "24-17"
+  },
+  "finalScore": "13-3",
+  "factors": {
+    "pregameOddsFactor": 0.953,
+    "rankGapFactor": 0.522,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181017",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181017/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.062177Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.062179Z"
+}

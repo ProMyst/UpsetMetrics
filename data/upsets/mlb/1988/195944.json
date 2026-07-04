@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-08-07-red-sox-at-tigers",
+  "sport": "mlb",
+  "date": "1988-08-07",
+  "startTime": "1988-08-07T07:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "63-47"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "66-44"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.368,
+    "rankGapFactor": 0.055,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195944",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195944/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.438344Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.438346Z"
+}

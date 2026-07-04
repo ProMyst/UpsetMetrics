@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-06-26-mets-at-cubs",
+  "sport": "mlb",
+  "date": "1988-06-26",
+  "startTime": "1988-06-26T08:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "39-34"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "46-27"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.54,
+    "rankGapFactor": 0.192,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195470",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195470/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.342525Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.342527Z"
+}

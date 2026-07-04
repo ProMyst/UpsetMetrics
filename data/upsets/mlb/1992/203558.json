@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-05-31-montreal-expos-at-reds",
+  "sport": "mlb",
+  "date": "1992-05-31",
+  "startTime": "1992-05-31T07:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "21-25"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "26-21"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.542,
+    "rankGapFactor": 0.193,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203558",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203558/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.894046Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.894051Z"
+}

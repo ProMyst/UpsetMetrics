@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-07-10-pirates-at-dodgers",
+  "sport": "mlb",
+  "date": "1988-07-10",
+  "startTime": "1988-07-10T10:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "49-37"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "48-36"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.304,
+    "rankGapFactor": 0.003,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195641",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195641/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.376790Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.376792Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-07-20-royals-at-yankees",
+  "sport": "mlb",
+  "date": "1995-07-20",
+  "startTime": "1995-07-20T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "35-40"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "36-38"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.04,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209977",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209977/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.027856Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.027858Z"
+}

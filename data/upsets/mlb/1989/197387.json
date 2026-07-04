@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-06-10-brewers-at-orioles",
+  "sport": "mlb",
+  "date": "1989-06-10",
+  "startTime": "1989-06-10T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "28-32"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "32-25"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.537,
+    "rankGapFactor": 0.189,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197387",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197387/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.255364Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.255366Z"
+}

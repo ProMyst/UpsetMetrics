@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-07-27-blue-jays-at-red-sox",
+  "sport": "mlb",
+  "date": "1982-07-27",
+  "startTime": "1982-07-27T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "46-51"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "56-41"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.558,
+    "rankGapFactor": 0.206,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183152",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183152/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.315570Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.315572Z"
+}

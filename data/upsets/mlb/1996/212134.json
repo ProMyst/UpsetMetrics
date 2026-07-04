@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-07-07-reds-at-cubs",
+  "sport": "mlb",
+  "date": "1996-07-07",
+  "startTime": "1996-07-07T08:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "41-46"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "39-43"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.311,
+    "rankGapFactor": 0.009,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212134",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212134/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.334077Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.334079Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-04-17-cleveland-indians-at-orioles",
+  "sport": "mlb",
+  "date": "1988-04-17",
+  "startTime": "1988-04-17T07:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "11-2"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "0-12"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194662",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194662/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.176830Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.176835Z"
+}

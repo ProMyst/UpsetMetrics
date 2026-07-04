@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-04-19-astros-at-reds",
+  "sport": "mlb",
+  "date": "1987-04-19",
+  "startTime": "1987-04-19T07:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "8-4"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "8-3"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192562",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192562/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.102599Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.102602Z"
+}

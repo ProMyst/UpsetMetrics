@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-17-white-sox-at-rangers",
+  "sport": "mlb",
+  "date": "1990-08-17",
+  "startTime": "1990-08-18T00:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "68-48"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "61-58"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200251",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200251/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.210559Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.210561Z"
+}

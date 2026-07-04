@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-05-03-braves-at-pirates",
+  "sport": "mlb",
+  "date": "1980-05-03",
+  "startTime": "1980-05-03T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "8-12"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "12-7"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.879,
+    "rankGapFactor": 0.463,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178641",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178641/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.654171Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.654173Z"
+}

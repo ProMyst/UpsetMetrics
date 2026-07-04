@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-05-01-yankees-at-athletics",
+  "sport": "mlb",
+  "date": "1994-05-01",
+  "startTime": "1994-05-01T10:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "8-17"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "15-9"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.61,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207641",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207641/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.505382Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.505384Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-24-rangers-at-athletics",
+  "sport": "mlb",
+  "date": "1997-09-24",
+  "startTime": "1997-09-25T02:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "74-84"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "63-96"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215408",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215408/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.302406Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.302408Z"
+}

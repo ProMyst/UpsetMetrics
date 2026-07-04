@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-07-22-white-sox-at-red-sox",
+  "sport": "mlb",
+  "date": "1989-07-22",
+  "startTime": "1989-07-22T07:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "40-56"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "44-48"
+  },
+  "finalScore": "10-6",
+  "factors": {
+    "pregameOddsFactor": 0.454,
+    "rankGapFactor": 0.123,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197858",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197858/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.351274Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.351276Z"
+}

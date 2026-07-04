@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-08-27-rangers-at-blue-jays",
+  "sport": "mlb",
+  "date": "1999-08-27",
+  "startTime": "1999-08-27T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "77-52"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "69-61"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1538",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1538/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.497380Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.497382Z"
+}

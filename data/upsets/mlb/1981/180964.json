@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-21-athletics-at-red-sox",
+  "sport": "mlb",
+  "date": "1981-05-21",
+  "startTime": "1981-05-21T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "20-16"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "25-16"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.436,
+    "rankGapFactor": 0.108,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180964",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180964/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.049641Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.049643Z"
+}

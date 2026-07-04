@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-09-25-tampa-bay-devil-rays-at-yankees",
+  "sport": "mlb",
+  "date": "1999-09-25",
+  "startTime": "1999-09-25T20:30:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "66-89"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "94-60"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.761,
+    "rankGapFactor": 0.369,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "598",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/598/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.575835Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tampa-bay-devil-rays-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.575841Z"
+}

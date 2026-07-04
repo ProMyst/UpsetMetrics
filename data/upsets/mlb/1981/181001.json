@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-24-montreal-expos-at-cubs",
+  "sport": "mlb",
+  "date": "1981-05-24",
+  "startTime": "1981-05-24T08:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "8-28"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "21-18"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.632,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181001",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181001/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.059061Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.059066Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-05-10-astros-at-braves",
+  "sport": "mlb",
+  "date": "1980-05-10",
+  "startTime": "1980-05-10T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "18-9"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "9-16"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178726",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178726/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.669957Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.669959Z"
+}

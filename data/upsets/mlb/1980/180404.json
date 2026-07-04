@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-09-27-cardinals-at-mets",
+  "sport": "mlb",
+  "date": "1980-09-27",
+  "startTime": "1980-09-27T07:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "72-83"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "63-92"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180404",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180404/feed/live",
+    "retrievedAt": "2026-07-04T07:02:45.006982Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:45.006984Z"
+}

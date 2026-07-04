@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-09-06-blue-jays-at-white-sox",
+  "sport": "mlb",
+  "date": "1981-09-06",
+  "startTime": "1981-09-06T08:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "29-54"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "42-37"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.756,
+    "rankGapFactor": 0.364,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181557",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181557/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.169965Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.169967Z"
+}

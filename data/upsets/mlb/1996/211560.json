@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-05-23-reds-at-rockies",
+  "sport": "mlb",
+  "date": "1996-05-23",
+  "startTime": "1996-05-24T01:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "18-24"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "22-22"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.479,
+    "rankGapFactor": 0.143,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211560",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211560/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.218027Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.218029Z"
+}

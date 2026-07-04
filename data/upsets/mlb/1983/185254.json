@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-07-26-brewers-at-twins",
+  "sport": "mlb",
+  "date": "1983-07-26",
+  "startTime": "1983-07-27T00:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "42-58"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "52-43"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.618,
+    "rankGapFactor": 0.255,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185254",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185254/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.660629Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.660631Z"
+}

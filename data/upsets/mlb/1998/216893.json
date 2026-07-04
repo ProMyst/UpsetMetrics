@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-07-18-rockies-at-diamondbacks",
+  "sport": "mlb",
+  "date": "1998-07-18",
+  "startTime": "1998-07-19T02:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "34-62"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "41-56"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.471,
+    "rankGapFactor": 0.137,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216893",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216893/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.184189Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.184191Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-04-28-athletics-at-orioles",
+  "sport": "mlb",
+  "date": "1982-04-28",
+  "startTime": "1982-04-28T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "9-10"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "4-11"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182120",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182120/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.110853Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.110855Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-05-17-mets-at-dodgers",
+  "sport": "mlb",
+  "date": "1992-05-17",
+  "startTime": "1992-05-17T10:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "13-20"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "21-17"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.697,
+    "rankGapFactor": 0.317,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203401",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203401/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.864476Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.864478Z"
+}

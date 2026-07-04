@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-09-01-mets-at-giants",
+  "sport": "mlb",
+  "date": "1985-09-01",
+  "startTime": "1985-09-01T10:33:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "77-52"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "51-77"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "189877",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/189877/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.713051Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.713053Z"
+}

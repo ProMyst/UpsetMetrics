@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-09-30-orioles-at-red-sox",
+  "sport": "mlb",
+  "date": "1980-09-30",
+  "startTime": "1980-09-30T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "97-61"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "82-73"
+  },
+  "finalScore": "11-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180426",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180426/feed/live",
+    "retrievedAt": "2026-07-04T07:02:45.012258Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:45.012260Z"
+}

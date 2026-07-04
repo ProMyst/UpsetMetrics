@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-07-08-royals-at-orioles",
+  "sport": "mlb",
+  "date": "1984-07-08",
+  "startTime": "1984-07-08T07:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "39-43"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "46-39"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.464,
+    "rankGapFactor": 0.131,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187204",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187204/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.285181Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.285183Z"
+}

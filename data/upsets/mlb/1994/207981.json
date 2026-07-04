@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-05-29-pirates-at-dodgers",
+  "sport": "mlb",
+  "date": "1994-05-29",
+  "startTime": "1994-05-29T10:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "28-22"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "21-26"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207981",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207981/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.573205Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.573207Z"
+}

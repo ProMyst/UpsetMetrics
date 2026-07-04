@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-09-23-cardinals-at-astros",
+  "sport": "mlb",
+  "date": "1995-09-23",
+  "startTime": "1995-09-24T00:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "71-65"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "60-76"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210826",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210826/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.200101Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.200103Z"
+}

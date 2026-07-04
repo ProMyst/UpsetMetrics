@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-07-17-mets-at-cubs",
+  "sport": "mlb",
+  "date": "1995-07-17",
+  "startTime": "1995-07-18T00:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "29-45"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "38-37"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.587,
+    "rankGapFactor": 0.23,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209937",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209937/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.019800Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.019802Z"
+}

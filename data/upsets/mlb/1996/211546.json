@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-05-22-california-angels-at-orioles",
+  "sport": "mlb",
+  "date": "1996-05-22",
+  "startTime": "1996-05-22T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "25-19"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "21-24"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211546",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211546/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.214472Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.214477Z"
+}

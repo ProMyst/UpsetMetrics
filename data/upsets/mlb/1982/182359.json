@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-05-19-reds-at-mets",
+  "sport": "mlb",
+  "date": "1982-05-19",
+  "startTime": "1982-05-19T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "21-17"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "16-21"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182359",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182359/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.160166Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.160167Z"
+}

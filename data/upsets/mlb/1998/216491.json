@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-06-17-diamondbacks-at-reds",
+  "sport": "mlb",
+  "date": "1998-06-17",
+  "startTime": "1998-06-17T23:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "24-47"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "30-42"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.497,
+    "rankGapFactor": 0.157,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216491",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216491/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.100719Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.100721Z"
+}

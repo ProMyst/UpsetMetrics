@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-09-10-twins-at-royals",
+  "sport": "mlb",
+  "date": "1982-09-10",
+  "startTime": "1982-09-11T00:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "50-90"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "79-61"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.818,
+    "rankGapFactor": 0.414,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183705",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183705/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.433206Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.433208Z"
+}

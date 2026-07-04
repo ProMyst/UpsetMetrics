@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-09-cubs-at-braves",
+  "sport": "mlb",
+  "date": "1981-05-09",
+  "startTime": "1981-05-09T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "5-19"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "15-13"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.655,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180822",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180822/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.022468Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.022469Z"
+}

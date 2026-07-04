@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-30-cardinals-at-royals",
+  "sport": "mlb",
+  "date": "1997-08-30",
+  "startTime": "1997-08-31T00:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "55-77"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "62-73"
+  },
+  "finalScore": "16-5",
+  "factors": {
+    "pregameOddsFactor": 0.406,
+    "rankGapFactor": 0.085,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215079",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215079/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.235400Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.235402Z"
+}

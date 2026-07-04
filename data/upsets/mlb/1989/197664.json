@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-07-03-mets-at-astros",
+  "sport": "mlb",
+  "date": "1989-07-03",
+  "startTime": "1989-07-04T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "42-36"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "46-36"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.356,
+    "rankGapFactor": 0.045,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197664",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197664/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.311063Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.311065Z"
+}

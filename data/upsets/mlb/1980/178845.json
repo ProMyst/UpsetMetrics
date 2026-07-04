@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-05-21-reds-at-phillies",
+  "sport": "mlb",
+  "date": "1980-05-21",
+  "startTime": "1980-05-21T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "17-15"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "21-16"
+  },
+  "finalScore": "9-8",
+  "factors": {
+    "pregameOddsFactor": 0.391,
+    "rankGapFactor": 0.073,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178845",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178845/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.694327Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.694329Z"
+}

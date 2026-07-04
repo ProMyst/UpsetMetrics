@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-07-05-mariners-at-tigers",
+  "sport": "mlb",
+  "date": "1995-07-05",
+  "startTime": "1995-07-05T07:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "34-32"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "32-33"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209805",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209805/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.994444Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.994445Z"
+}

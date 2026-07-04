@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-08-26-twins-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1991-08-26",
+  "startTime": "1991-08-26T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "76-51"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "41-83"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202444",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202444/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.349213Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.349218Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-09-astros-at-dodgers",
+  "sport": "mlb",
+  "date": "1997-06-09",
+  "startTime": "1997-06-10T02:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "30-31"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "31-32"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.301,
+    "rankGapFactor": 0.001,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214039",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214039/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.027947Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.027949Z"
+}

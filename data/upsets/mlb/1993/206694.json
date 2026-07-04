@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-08-16-tigers-at-california-angels",
+  "sport": "mlb",
+  "date": "1993-08-16",
+  "startTime": "1993-08-17T02:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "61-60"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "54-63"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206694",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206694/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.652383Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.652391Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-06-20-pirates-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1985-06-20",
+  "startTime": "1985-06-20T23:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "22-40"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "38-28"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.852,
+    "rankGapFactor": 0.442,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "189032",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/189032/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.537513Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.537517Z"
+}

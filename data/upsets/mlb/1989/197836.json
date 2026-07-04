@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-07-20-cleveland-indians-at-royals",
+  "sport": "mlb",
+  "date": "1989-07-20",
+  "startTime": "1989-07-21T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "45-48"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "53-42"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.485,
+    "rankGapFactor": 0.148,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197836",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197836/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.345030Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.345035Z"
+}

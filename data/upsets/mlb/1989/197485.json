@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-06-18-brewers-at-twins",
+  "sport": "mlb",
+  "date": "1989-06-18",
+  "startTime": "1989-06-18T08:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "32-34"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "31-36"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197485",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197485/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.275604Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.275606Z"
+}

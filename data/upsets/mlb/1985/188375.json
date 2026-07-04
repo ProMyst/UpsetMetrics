@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-04-23-tigers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1985-04-23",
+  "startTime": "1985-04-23T08:33:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "8-4"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "5-8"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188375",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188375/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.408991Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.408996Z"
+}

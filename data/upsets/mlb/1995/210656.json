@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-09-10-dodgers-at-pirates",
+  "sport": "mlb",
+  "date": "1995-09-10",
+  "startTime": "1995-09-10T07:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "67-59"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "51-73"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210656",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210656/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.166228Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.166230Z"
+}

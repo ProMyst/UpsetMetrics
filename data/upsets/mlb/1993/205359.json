@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-05-01-athletics-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1993-05-01",
+  "startTime": "1993-05-01T07:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "8-15"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "7-12"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.351,
+    "rankGapFactor": 0.041,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205359",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205359/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.370730Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.370735Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-05-17-cubs-at-astros",
+  "sport": "mlb",
+  "date": "1990-05-17",
+  "startTime": "1990-05-18T00:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "13-21"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "15-19"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.447,
+    "rankGapFactor": 0.118,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199157",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199157/feed/live",
+    "retrievedAt": "2026-07-04T07:17:02.991509Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:02.991511Z"
+}

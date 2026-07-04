@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-06-01-padres-at-cubs",
+  "sport": "mlb",
+  "date": "1992-06-01",
+  "startTime": "1992-06-02T00:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "21-28"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "28-23"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.601,
+    "rankGapFactor": 0.241,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203572",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203572/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.896976Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.896978Z"
+}

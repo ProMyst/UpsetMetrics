@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-09-17-cubs-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1982-09-17",
+  "startTime": "1982-09-17T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "64-83"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "79-67"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.564,
+    "rankGapFactor": 0.211,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183788",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183788/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.449442Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.449448Z"
+}

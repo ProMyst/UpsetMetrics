@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-25-pirates-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1999-07-25",
+  "startTime": "1999-07-25T17:35:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "48-50"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "35-60"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2417",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2417/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.407715Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.407719Z"
+}

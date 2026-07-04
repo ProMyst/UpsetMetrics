@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-08-09-red-sox-at-royals",
+  "sport": "mlb",
+  "date": "1989-08-09",
+  "startTime": "1989-08-10T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "55-56"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "62-51"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.433,
+    "rankGapFactor": 0.106,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198084",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198084/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.395008Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.395010Z"
+}

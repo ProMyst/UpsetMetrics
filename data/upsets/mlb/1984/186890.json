@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-06-13-giants-at-dodgers",
+  "sport": "mlb",
+  "date": "1984-06-13",
+  "startTime": "1984-06-13T10:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "21-38"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "35-29"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.777,
+    "rankGapFactor": 0.382,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186890",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186890/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.223229Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.223231Z"
+}

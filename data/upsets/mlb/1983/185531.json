@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-08-16-blue-jays-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1983-08-16",
+  "startTime": "1983-08-16T23:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "66-53"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "50-69"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185531",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185531/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.713924Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.713929Z"
+}

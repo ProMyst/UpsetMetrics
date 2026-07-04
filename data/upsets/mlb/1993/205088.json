@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-04-09-astros-at-mets",
+  "sport": "mlb",
+  "date": "1993-04-09",
+  "startTime": "1993-04-09T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "1-3"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "2-1"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205088",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205088/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.308478Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.308481Z"
+}

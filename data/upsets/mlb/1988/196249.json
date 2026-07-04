@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-09-01-royals-at-twins",
+  "sport": "mlb",
+  "date": "1988-09-01",
+  "startTime": "1988-09-02T00:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "71-62"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "74-59"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.356,
+    "rankGapFactor": 0.045,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196249",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196249/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.502340Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.502342Z"
+}

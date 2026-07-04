@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-08-25-mariners-at-tigers",
+  "sport": "mlb",
+  "date": "1993-08-25",
+  "startTime": "1993-08-25T07:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "68-61"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "61-64"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206816",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206816/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.676261Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.676263Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-08-27-orioles-at-yankees",
+  "sport": "mlb",
+  "date": "1989-08-27",
+  "startTime": "1989-08-27T07:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "71-60"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "58-74"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198302",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198302/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.441989Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.441991Z"
+}

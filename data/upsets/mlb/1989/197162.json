@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-05-22-orioles-at-white-sox",
+  "sport": "mlb",
+  "date": "1989-05-22",
+  "startTime": "1989-05-23T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "19-21"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "17-26"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197162",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197162/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.211510Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.211511Z"
+}

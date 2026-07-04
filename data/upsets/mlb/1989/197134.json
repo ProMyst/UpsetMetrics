@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-05-19-cardinals-at-braves",
+  "sport": "mlb",
+  "date": "1989-05-19",
+  "startTime": "1989-05-19T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "19-22"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "20-19"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.424,
+    "rankGapFactor": 0.099,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197134",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197134/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.204504Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.204506Z"
+}

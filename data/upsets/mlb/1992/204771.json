@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-09-12-brewers-at-orioles",
+  "sport": "mlb",
+  "date": "1992-09-12",
+  "startTime": "1992-09-12T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "76-65"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "78-63"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.335,
+    "rankGapFactor": 0.028,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204771",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204771/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.138078Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.138080Z"
+}

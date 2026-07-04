@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-04-27-rangers-at-twins",
+  "sport": "mlb",
+  "date": "1997-04-27",
+  "startTime": "1997-04-27T08:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "13-8"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "11-13"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213506",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213506/feed/live",
+    "retrievedAt": "2026-07-04T07:27:10.921396Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:10.921398Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-06-22-giants-at-braves",
+  "sport": "mlb",
+  "date": "1996-06-22",
+  "startTime": "1996-06-22T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "46-26"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "36-35"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211942",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211942/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.292331Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.292333Z"
+}

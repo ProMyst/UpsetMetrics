@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-17-diamondbacks-at-rangers",
+  "sport": "mlb",
+  "date": "1999-07-17",
+  "startTime": "1999-07-17T20:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "49-43"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "50-40"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.357,
+    "rankGapFactor": 0.046,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2267",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2267/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.378697Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.378699Z"
+}

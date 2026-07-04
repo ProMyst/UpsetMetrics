@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-07-14-cleveland-indians-at-mariners",
+  "sport": "mlb",
+  "date": "1988-07-14",
+  "startTime": "1988-07-15T02:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "35-53"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "45-44"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.57,
+    "rankGapFactor": 0.216,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195647",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195647/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.379902Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.379907Z"
+}

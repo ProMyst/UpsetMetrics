@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-06-15-tigers-at-twins",
+  "sport": "mlb",
+  "date": "1996-06-15",
+  "startTime": "1996-06-16T00:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "18-49"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "31-34"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.821,
+    "rankGapFactor": 0.417,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211843",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211843/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.274573Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.274574Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-09-10-cardinals-at-giants",
+  "sport": "mlb",
+  "date": "1993-09-10",
+  "startTime": "1993-09-11T02:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "77-64"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "89-51"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.524,
+    "rankGapFactor": 0.179,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207018",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207018/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.716465Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.716466Z"
+}

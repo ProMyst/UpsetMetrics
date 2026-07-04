@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-09-05-giants-at-pirates",
+  "sport": "mlb",
+  "date": "1999-09-05",
+  "startTime": "1999-09-05T17:35:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "68-69"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "75-62"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.428,
+    "rankGapFactor": 0.102,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4833",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4833/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.522007Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.522009Z"
+}

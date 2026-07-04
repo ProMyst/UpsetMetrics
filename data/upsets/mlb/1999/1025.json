@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-08-31-royals-at-red-sox",
+  "sport": "mlb",
+  "date": "1999-08-31",
+  "startTime": "1999-08-31T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "74-58"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "51-81"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1025",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1025/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.508352Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.508354Z"
+}

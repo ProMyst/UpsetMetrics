@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-09-06-montreal-expos-at-florida-marlins",
+  "sport": "mlb",
+  "date": "1996-09-06",
+  "startTime": "1996-09-06T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "69-73"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "77-63"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.46,
+    "rankGapFactor": 0.128,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212894",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212894/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.488228Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.488235Z"
+}

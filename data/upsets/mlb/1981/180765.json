@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-04-astros-at-cubs",
+  "sport": "mlb",
+  "date": "1981-05-04",
+  "startTime": "1981-05-04T08:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "10-13"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "3-16"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180765",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180765/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.012587Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.012589Z"
+}

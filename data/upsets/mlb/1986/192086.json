@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-09-07-giants-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1986-09-07",
+  "startTime": "1986-09-07T07:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "68-69"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "66-68"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192086",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192086/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.984099Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.984103Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-09-05-cleveland-indians-at-red-sox",
+  "sport": "mlb",
+  "date": "1987-09-05",
+  "startTime": "1987-09-05T07:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "52-85"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "64-70"
+  },
+  "finalScore": "15-2",
+  "factors": {
+    "pregameOddsFactor": 0.545,
+    "rankGapFactor": 0.196,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194164",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194164/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.436447Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.436452Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-04-10-cubs-at-phillies",
+  "sport": "mlb",
+  "date": "1993-04-10",
+  "startTime": "1993-04-10T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "4-1"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "2-3"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205098",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205098/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.312783Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.312786Z"
+}

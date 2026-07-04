@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-07-22-astros-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1983-07-22",
+  "startTime": "1983-07-22T23:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "50-44"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "45-46"
+  },
+  "finalScore": "11-8",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185196",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185196/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.648042Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.648046Z"
+}

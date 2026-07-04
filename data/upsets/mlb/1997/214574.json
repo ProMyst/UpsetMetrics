@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-07-23-orioles-at-rangers",
+  "sport": "mlb",
+  "date": "1997-07-23",
+  "startTime": "1997-07-24T00:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "61-37"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "47-52"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214574",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214574/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.133741Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.133743Z"
+}

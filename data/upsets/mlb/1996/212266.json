@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-07-19-athletics-at-rangers",
+  "sport": "mlb",
+  "date": "1996-07-19",
+  "startTime": "1996-07-20T00:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "49-48"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "55-41"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.469,
+    "rankGapFactor": 0.136,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212266",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212266/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.358051Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.358053Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-09-08-red-sox-at-rangers",
+  "sport": "mlb",
+  "date": "1992-09-08",
+  "startTime": "1992-09-09T00:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "68-73"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "64-74"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204718",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204718/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.130275Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.130277Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-05-24-blue-jays-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1986-05-24",
+  "startTime": "1986-05-24T07:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "19-24"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "22-19"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.537,
+    "rankGapFactor": 0.189,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190840",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190840/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.730983Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.730988Z"
+}

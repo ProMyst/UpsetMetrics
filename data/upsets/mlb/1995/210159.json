@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-08-03-brewers-at-yankees",
+  "sport": "mlb",
+  "date": "1995-08-03",
+  "startTime": "1995-08-03T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "45-43"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "43-46"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210159",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210159/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.063948Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.063950Z"
+}

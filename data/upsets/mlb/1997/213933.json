@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-01-rockies-at-florida-marlins",
+  "sport": "mlb",
+  "date": "1997-06-01",
+  "startTime": "1997-06-01T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "30-24"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "31-22"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.373,
+    "rankGapFactor": 0.059,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213933",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213933/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.007345Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.007350Z"
+}

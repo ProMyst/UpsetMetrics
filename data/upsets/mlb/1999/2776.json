@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-10-08-braves-at-astros",
+  "sport": "mlb",
+  "date": "1999-10-08",
+  "startTime": "1999-10-08T20:00:00Z",
+  "season": "1999",
+  "event": "NL Division Series",
+  "stakes": "Division Series",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "2-1"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "1-2"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2776",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2776/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.601479Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.601480Z"
+}

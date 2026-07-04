@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-05-03-cleveland-indians-at-twins",
+  "sport": "mlb",
+  "date": "1983-05-03",
+  "startTime": "1983-05-04T00:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "11-11"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "11-13"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "184275",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/184275/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.467747Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.467752Z"
+}

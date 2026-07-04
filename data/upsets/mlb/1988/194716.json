@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-04-22-montreal-expos-at-phillies",
+  "sport": "mlb",
+  "date": "1988-04-22",
+  "startTime": "1988-04-22T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "6-9"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "7-8"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.467,
+    "rankGapFactor": 0.133,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194716",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194716/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.188280Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.188285Z"
+}

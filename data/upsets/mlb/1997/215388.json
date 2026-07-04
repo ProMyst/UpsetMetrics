@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-23-royals-at-brewers",
+  "sport": "mlb",
+  "date": "1997-09-23",
+  "startTime": "1997-09-24T00:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "65-91"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "76-80"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.476,
+    "rankGapFactor": 0.141,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215388",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215388/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.297372Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.297374Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-09-11-montreal-expos-at-padres",
+  "sport": "mlb",
+  "date": "1999-09-11",
+  "startTime": "1999-09-12T02:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "59-83"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "67-76"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.433,
+    "rankGapFactor": 0.106,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.539760Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.539765Z"
+}

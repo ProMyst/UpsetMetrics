@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-05-22-blue-jays-at-white-sox",
+  "sport": "mlb",
+  "date": "1986-05-22",
+  "startTime": "1986-05-23T00:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "18-23"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "17-21"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.321,
+    "rankGapFactor": 0.017,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190814",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190814/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.724705Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.724707Z"
+}

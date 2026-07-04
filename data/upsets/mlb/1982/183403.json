@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-08-15-cardinals-at-pirates",
+  "sport": "mlb",
+  "date": "1982-08-15",
+  "startTime": "1982-08-15T07:38:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "67-50"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "60-57"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183403",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183403/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.364519Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.364521Z"
+}

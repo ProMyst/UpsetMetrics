@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-04-28-tigers-at-mariners",
+  "sport": "mlb",
+  "date": "1987-04-28",
+  "startTime": "1987-04-29T02:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "11-10"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "7-12"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192662",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192662/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.124814Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.124817Z"
+}

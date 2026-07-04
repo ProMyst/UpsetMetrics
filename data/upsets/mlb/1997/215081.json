@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-31-anaheim-angels-at-giants",
+  "sport": "mlb",
+  "date": "1997-08-31",
+  "startTime": "1997-08-31T10:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "74-63"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "75-62"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.318,
+    "rankGapFactor": 0.015,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215081",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215081/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.240895Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.240899Z"
+}

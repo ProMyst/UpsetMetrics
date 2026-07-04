@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-05-16-pirates-at-reds",
+  "sport": "mlb",
+  "date": "1986-05-16",
+  "startTime": "1986-05-16T23:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "10-21"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "13-17"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.577,
+    "rankGapFactor": 0.222,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190745",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190745/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.710794Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.710796Z"
+}

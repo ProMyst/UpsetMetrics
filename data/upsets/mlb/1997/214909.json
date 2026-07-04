@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-17-phillies-at-astros",
+  "sport": "mlb",
+  "date": "1997-08-17",
+  "startTime": "1997-08-17T08:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "66-58"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "44-76"
+  },
+  "finalScore": "11-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214909",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214909/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.204190Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.204192Z"
+}

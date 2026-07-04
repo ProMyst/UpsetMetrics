@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-04-28-blue-jays-at-rangers",
+  "sport": "mlb",
+  "date": "1994-04-28",
+  "startTime": "1994-04-29T00:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "8-11"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "13-9"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.725,
+    "rankGapFactor": 0.34,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207606",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207606/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.496335Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.496337Z"
+}

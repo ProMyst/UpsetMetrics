@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-08-12-rangers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1980-08-12",
+  "startTime": "1980-08-12T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "56-52"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "53-57"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179843",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179843/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.891961Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.891966Z"
+}

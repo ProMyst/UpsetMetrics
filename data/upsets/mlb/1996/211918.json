@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-06-21-cubs-at-padres",
+  "sport": "mlb",
+  "date": "1996-06-21",
+  "startTime": "1996-06-22T02:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "38-36"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "34-39"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211918",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211918/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.291560Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.291562Z"
+}

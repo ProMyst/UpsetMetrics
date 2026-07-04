@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-09-28-phillies-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1990-09-28",
+  "startTime": "1990-09-28T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "75-82"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "81-76"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.396,
+    "rankGapFactor": 0.076,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200765",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200765/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.314580Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.314584Z"
+}

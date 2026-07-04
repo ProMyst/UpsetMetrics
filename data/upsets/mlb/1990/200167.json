@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-10-tigers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1990-08-10",
+  "startTime": "1990-08-10T07:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "52-60"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "53-61"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.302,
+    "rankGapFactor": 0.001,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200167",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200167/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.195138Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.195142Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-09-06-red-sox-at-orioles",
+  "sport": "mlb",
+  "date": "1988-09-06",
+  "startTime": "1988-09-06T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "77-61"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "48-89"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196301",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196301/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.512267Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.512269Z"
+}

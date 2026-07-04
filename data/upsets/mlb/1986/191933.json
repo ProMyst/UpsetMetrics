@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-08-25-athletics-at-tigers",
+  "sport": "mlb",
+  "date": "1986-08-25",
+  "startTime": "1986-08-25T23:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "56-69"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "67-60"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.499,
+    "rankGapFactor": 0.159,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191933",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191933/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.952999Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.953001Z"
+}

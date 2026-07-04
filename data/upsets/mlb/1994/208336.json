@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-06-27-orioles-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1994-06-27",
+  "startTime": "1994-06-27T23:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "42-31"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "42-29"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.341,
+    "rankGapFactor": 0.032,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208336",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208336/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.644642Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.644646Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-05-27-yankees-at-twins",
+  "sport": "mlb",
+  "date": "1992-05-27",
+  "startTime": "1992-05-27T08:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "24-20"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "25-20"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.325,
+    "rankGapFactor": 0.02,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203519",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203519/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.887203Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.887205Z"
+}

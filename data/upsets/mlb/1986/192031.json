@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-09-02-giants-at-mets",
+  "sport": "mlb",
+  "date": "1986-09-02",
+  "startTime": "1986-09-02T23:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "66-66"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "88-44"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.717,
+    "rankGapFactor": 0.333,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192031",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192031/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.972834Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.972836Z"
+}

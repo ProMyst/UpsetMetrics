@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-07-anaheim-angels-at-giants",
+  "sport": "mlb",
+  "date": "1999-06-07",
+  "startTime": "1999-06-07T23:00:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "32-26"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "27-30"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2104",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2104/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.276301Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.276305Z"
+}

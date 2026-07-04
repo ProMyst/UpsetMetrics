@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-07-29-mariners-at-red-sox",
+  "sport": "mlb",
+  "date": "1997-07-29",
+  "startTime": "1997-07-29T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "50-56"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "60-45"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.549,
+    "rankGapFactor": 0.199,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214663",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214663/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.149517Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.149519Z"
+}

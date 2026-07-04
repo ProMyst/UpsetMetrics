@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-04-30-yankees-at-athletics",
+  "sport": "mlb",
+  "date": "1991-04-30",
+  "startTime": "1991-05-01T02:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "13-7"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "6-11"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201079",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201079/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.074444Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.074446Z"
+}

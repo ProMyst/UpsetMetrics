@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-04-10-yankees-at-blue-jays",
+  "sport": "mlb",
+  "date": "1983-04-10",
+  "startTime": "1983-04-10T08:33:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "2-3"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "2-2"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "184058",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/184058/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.417132Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.417135Z"
+}

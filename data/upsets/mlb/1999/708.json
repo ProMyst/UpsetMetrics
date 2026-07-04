@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-15-padres-at-mariners",
+  "sport": "mlb",
+  "date": "1999-07-15",
+  "startTime": "1999-07-16T02:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "44-44"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "42-46"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "708",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/708/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.373810Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.373812Z"
+}

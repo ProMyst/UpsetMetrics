@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-06-29-royals-at-yankees",
+  "sport": "mlb",
+  "date": "1992-06-29",
+  "startTime": "1992-06-29T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "32-42"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "36-39"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.419,
+    "rankGapFactor": 0.095,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203897",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203897/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.962447Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.962449Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-04-rockies-at-phillies",
+  "sport": "mlb",
+  "date": "1997-08-04",
+  "startTime": "1997-08-04T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "36-73"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "52-61"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.625,
+    "rankGapFactor": 0.26,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214734",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214734/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.169217Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.169219Z"
+}

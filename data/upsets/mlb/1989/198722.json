@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-10-01-dodgers-at-braves",
+  "sport": "mlb",
+  "date": "1989-10-01",
+  "startTime": "1989-10-01T07:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "77-83"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "63-97"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198722",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198722/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.524119Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.524121Z"
+}

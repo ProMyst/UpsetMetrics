@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-08-26-tigers-at-white-sox",
+  "sport": "mlb",
+  "date": "1980-08-26",
+  "startTime": "1980-08-27T00:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "65-58"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "52-70"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180010",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180010/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.930215Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.930217Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-07-giants-at-padres",
+  "sport": "mlb",
+  "date": "1999-07-07",
+  "startTime": "1999-07-08T02:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "41-43"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "48-37"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.492,
+    "rankGapFactor": 0.153,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "161",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/161/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.359243Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.359245Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-08-25-braves-at-cardinals",
+  "sport": "mlb",
+  "date": "1983-08-25",
+  "startTime": "1983-08-26T00:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "62-62"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "75-52"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.526,
+    "rankGapFactor": 0.181,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185628",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185628/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.740741Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.740743Z"
+}

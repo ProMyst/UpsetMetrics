@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-06-14-padres-at-cardinals",
+  "sport": "mlb",
+  "date": "1995-06-14",
+  "startTime": "1995-06-15T00:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "21-23"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "19-27"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209534",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209534/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.938900Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.938901Z"
+}

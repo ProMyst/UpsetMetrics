@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-06-09-cardinals-at-cubs",
+  "sport": "mlb",
+  "date": "1989-06-09",
+  "startTime": "1989-06-09T08:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "28-28"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "33-25"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.472,
+    "rankGapFactor": 0.138,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197380",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197380/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.254775Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.254777Z"
+}

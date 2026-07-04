@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-07-07-padres-at-cubs",
+  "sport": "mlb",
+  "date": "1987-07-07",
+  "startTime": "1987-07-07T08:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "44-39"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "29-55"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193483",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193483/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.291263Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.291265Z"
+}

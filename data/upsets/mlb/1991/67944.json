@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-10-09-braves-at-pirates",
+  "sport": "mlb",
+  "date": "1991-10-09",
+  "startTime": "1991-10-09T23:05:00Z",
+  "season": "1991",
+  "event": "NL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "67944",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/67944/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.448065Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.448067Z"
+}

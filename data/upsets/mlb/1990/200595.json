@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-09-14-cleveland-indians-at-royals",
+  "sport": "mlb",
+  "date": "1990-09-14",
+  "startTime": "1990-09-15T00:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "66-79"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "67-77"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.325,
+    "rankGapFactor": 0.02,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200595",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200595/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.282826Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.282830Z"
+}

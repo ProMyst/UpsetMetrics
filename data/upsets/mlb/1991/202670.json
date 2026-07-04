@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-09-14-astros-at-reds",
+  "sport": "mlb",
+  "date": "1991-09-14",
+  "startTime": "1991-09-14T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "58-84"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "69-73"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.494,
+    "rankGapFactor": 0.155,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202670",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202670/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.394195Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.394197Z"
+}

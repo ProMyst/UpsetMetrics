@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-04-29-giants-at-reds",
+  "sport": "mlb",
+  "date": "1984-04-29",
+  "startTime": "1984-04-29T07:38:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "10-13"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "7-15"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186382",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186382/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.118943Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.118945Z"
+}

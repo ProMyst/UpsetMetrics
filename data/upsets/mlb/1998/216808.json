@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-07-12-astros-at-cardinals",
+  "sport": "mlb",
+  "date": "1998-07-12",
+  "startTime": "1998-07-12T08:33:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "43-47"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "54-37"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.589,
+    "rankGapFactor": 0.231,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216808",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216808/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.163384Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.163386Z"
+}

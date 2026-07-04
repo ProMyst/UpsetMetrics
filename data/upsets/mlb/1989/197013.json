@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-05-08-california-angels-at-tigers",
+  "sport": "mlb",
+  "date": "1989-05-08",
+  "startTime": "1989-05-08T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "20-11"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "9-20"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197013",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197013/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.181010Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.181015Z"
+}

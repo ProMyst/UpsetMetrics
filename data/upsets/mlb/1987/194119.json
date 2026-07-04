@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-09-01-red-sox-at-twins",
+  "sport": "mlb",
+  "date": "1987-09-01",
+  "startTime": "1987-09-02T00:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "63-67"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "69-64"
+  },
+  "finalScore": "9-0",
+  "factors": {
+    "pregameOddsFactor": 0.385,
+    "rankGapFactor": 0.068,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194119",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194119/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.427906Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.427908Z"
+}

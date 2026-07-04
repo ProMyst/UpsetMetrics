@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-04-24-rockies-at-giants",
+  "sport": "mlb",
+  "date": "1999-04-24",
+  "startTime": "1999-04-24T20:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "12-7"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "6-8"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.160198Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.160200Z"
+}

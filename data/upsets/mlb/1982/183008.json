@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-07-15-pirates-at-astros",
+  "sport": "mlb",
+  "date": "1982-07-15",
+  "startTime": "1982-07-16T00:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "45-40"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "37-49"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183008",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183008/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.288076Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.288078Z"
+}

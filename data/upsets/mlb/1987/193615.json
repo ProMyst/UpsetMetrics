@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-07-21-braves-at-mets",
+  "sport": "mlb",
+  "date": "1987-07-21",
+  "startTime": "1987-07-21T23:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "42-51"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "50-43"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.515,
+    "rankGapFactor": 0.172,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193615",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193615/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.319278Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.319280Z"
+}

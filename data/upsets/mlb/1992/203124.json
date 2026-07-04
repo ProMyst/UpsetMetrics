@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-04-22-tigers-at-rangers",
+  "sport": "mlb",
+  "date": "1992-04-22",
+  "startTime": "1992-04-23T00:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "5-11"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "9-7"
+  },
+  "finalScore": "12-8",
+  "factors": {
+    "pregameOddsFactor": 0.925,
+    "rankGapFactor": 0.5,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203124",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203124/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.807326Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.807328Z"
+}

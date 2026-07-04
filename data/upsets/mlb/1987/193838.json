@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-08-08-athletics-at-twins",
+  "sport": "mlb",
+  "date": "1987-08-08",
+  "startTime": "1987-08-09T00:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "60-52"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "56-54"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193838",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193838/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.362597Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.362599Z"
+}

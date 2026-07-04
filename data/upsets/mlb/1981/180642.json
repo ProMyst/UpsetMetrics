@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-04-23-padres-at-dodgers",
+  "sport": "mlb",
+  "date": "1981-04-23",
+  "startTime": "1981-04-24T02:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "11-2"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "5-9"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180642",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180642/feed/live",
+    "retrievedAt": "2026-07-04T07:04:01.986902Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:01.986904Z"
+}

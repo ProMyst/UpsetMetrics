@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-08-08-mets-at-pirates",
+  "sport": "mlb",
+  "date": "1982-08-08",
+  "startTime": "1982-08-08T07:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "58-50"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "48-61"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183309",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183309/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.348119Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.348121Z"
+}

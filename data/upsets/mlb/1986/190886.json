@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-05-28-giants-at-phillies",
+  "sport": "mlb",
+  "date": "1986-05-28",
+  "startTime": "1986-05-28T23:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "17-24"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "24-21"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.597,
+    "rankGapFactor": 0.237,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190886",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190886/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.739186Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.739188Z"
+}

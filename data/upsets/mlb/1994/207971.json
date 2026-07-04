@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-05-29-red-sox-at-rangers",
+  "sport": "mlb",
+  "date": "1994-05-29",
+  "startTime": "1994-05-29T08:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "21-26"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "29-18"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.726,
+    "rankGapFactor": 0.34,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207971",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207971/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.572422Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.572424Z"
+}

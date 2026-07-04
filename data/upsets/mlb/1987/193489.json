@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-07-08-royals-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1987-07-08",
+  "startTime": "1987-07-08T23:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "30-53"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "45-38"
+  },
+  "finalScore": "9-8",
+  "factors": {
+    "pregameOddsFactor": 0.752,
+    "rankGapFactor": 0.361,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193489",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193489/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.291457Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.291462Z"
+}

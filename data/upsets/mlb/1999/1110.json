@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-08-29-orioles-at-tigers",
+  "sport": "mlb",
+  "date": "1999-08-29",
+  "startTime": "1999-08-29T17:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "58-72"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "51-78"
+  },
+  "finalScore": "11-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1110",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1110/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.502577Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.502578Z"
+}

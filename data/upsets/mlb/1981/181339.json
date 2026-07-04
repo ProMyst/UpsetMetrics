@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-08-19-blue-jays-at-royals",
+  "sport": "mlb",
+  "date": "1981-08-19",
+  "startTime": "1981-08-20T00:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "22-46"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "25-36"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.516,
+    "rankGapFactor": 0.173,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181339",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181339/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.125914Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.125915Z"
+}

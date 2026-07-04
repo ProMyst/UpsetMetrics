@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-04-22-phillies-at-astros",
+  "sport": "mlb",
+  "date": "1983-04-22",
+  "startTime": "1983-04-23T00:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "8-4"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "4-12"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "184172",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/184172/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.445267Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.445269Z"
+}

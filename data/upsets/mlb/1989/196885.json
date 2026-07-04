@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-04-27-tigers-at-california-angels",
+  "sport": "mlb",
+  "date": "1989-04-27",
+  "startTime": "1989-04-28T02:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "12-10"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "7-12"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196885",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196885/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.155806Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.155811Z"
+}

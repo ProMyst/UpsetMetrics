@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-07-26-royals-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1992-07-26",
+  "startTime": "1992-07-26T07:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "42-57"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "43-55"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.336,
+    "rankGapFactor": 0.029,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204202",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204202/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.021833Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.021838Z"
+}

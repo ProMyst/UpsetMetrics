@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-18-pirates-at-florida-marlins",
+  "sport": "mlb",
+  "date": "1997-08-18",
+  "startTime": "1997-08-18T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "61-63"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "71-52"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.513,
+    "rankGapFactor": 0.171,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214918",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214918/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.205517Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.205522Z"
+}

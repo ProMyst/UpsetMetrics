@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-12-blue-jays-at-phillies",
+  "sport": "mlb",
+  "date": "1999-06-12",
+  "startTime": "1999-06-12T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "32-28"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "27-36"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "4825",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/4825/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.289626Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.289627Z"
+}

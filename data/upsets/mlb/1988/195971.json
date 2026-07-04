@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-08-09-tigers-at-rangers",
+  "sport": "mlb",
+  "date": "1988-08-09",
+  "startTime": "1988-08-10T00:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "49-61"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "67-45"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.682,
+    "rankGapFactor": 0.306,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195971",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195971/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.444043Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.444045Z"
+}

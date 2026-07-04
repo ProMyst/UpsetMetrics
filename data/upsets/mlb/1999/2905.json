@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-09-10-athletics-at-tampa-bay-devil-rays",
+  "sport": "mlb",
+  "date": "1999-09-10",
+  "startTime": "1999-09-10T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "77-64"
+  },
+  "loser": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "62-79"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2905",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2905/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.534653Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-tampa-bay-devil-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.534658Z"
+}

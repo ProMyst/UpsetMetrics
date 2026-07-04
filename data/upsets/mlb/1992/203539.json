@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-05-30-braves-at-mets",
+  "sport": "mlb",
+  "date": "1992-05-30",
+  "startTime": "1992-05-30T07:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "23-27"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "25-24"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.426,
+    "rankGapFactor": 0.1,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203539",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203539/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.893100Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.893102Z"
+}

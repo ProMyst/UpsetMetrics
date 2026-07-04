@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-08-16-montreal-expos-at-dodgers",
+  "sport": "mlb",
+  "date": "1996-08-16",
+  "startTime": "1996-08-17T02:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "65-57"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "66-54"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.343,
+    "rankGapFactor": 0.034,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212627",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212627/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.435987Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.435991Z"
+}

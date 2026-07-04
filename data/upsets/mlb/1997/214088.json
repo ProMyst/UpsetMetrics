@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-13-giants-at-rangers",
+  "sport": "mlb",
+  "date": "1997-06-13",
+  "startTime": "1997-06-14T00:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "33-30"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "36-29"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.375,
+    "rankGapFactor": 0.06,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214088",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214088/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.037087Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.037089Z"
+}

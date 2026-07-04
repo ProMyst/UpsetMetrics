@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-06-16-mets-at-phillies",
+  "sport": "mlb",
+  "date": "1989-06-16",
+  "startTime": "1989-06-16T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "33-30"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "22-40"
+  },
+  "finalScore": "15-11",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197458",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197458/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.269947Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.269949Z"
+}

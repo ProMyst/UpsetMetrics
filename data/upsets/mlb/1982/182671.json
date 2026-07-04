@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-06-16-white-sox-at-athletics",
+  "sport": "mlb",
+  "date": "1982-06-16",
+  "startTime": "1982-06-17T02:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "34-26"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "29-35"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182671",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182671/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.224168Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.224170Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-08-30-braves-at-reds",
+  "sport": "mlb",
+  "date": "1999-08-30",
+  "startTime": "1999-08-30T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "76-54"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "83-50"
+  },
+  "finalScore": "11-3",
+  "factors": {
+    "pregameOddsFactor": 0.399,
+    "rankGapFactor": 0.079,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "321",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/321/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.506368Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.506370Z"
+}

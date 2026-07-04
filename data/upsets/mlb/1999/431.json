@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-05-19-athletics-at-royals",
+  "sport": "mlb",
+  "date": "1999-05-19",
+  "startTime": "1999-05-20T00:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "20-18"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "21-19"
+  },
+  "finalScore": "14-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "431",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/431/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.227404Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.227406Z"
+}

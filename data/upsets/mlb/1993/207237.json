@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-09-28-tigers-at-red-sox",
+  "sport": "mlb",
+  "date": "1993-09-28",
+  "startTime": "1993-09-28T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "82-75"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "80-77"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207237",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207237/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.760775Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.760777Z"
+}

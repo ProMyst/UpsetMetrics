@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-07-17-royals-at-red-sox",
+  "sport": "mlb",
+  "date": "1995-07-17",
+  "startTime": "1995-07-17T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "36-35"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "40-33"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.402,
+    "rankGapFactor": 0.082,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209936",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209936/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.019220Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.019222Z"
+}

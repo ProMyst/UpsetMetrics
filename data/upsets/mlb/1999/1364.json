@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-05-07-montreal-expos-at-astros",
+  "sport": "mlb",
+  "date": "1999-05-07",
+  "startTime": "1999-05-08T00:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "18-10"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "8-19"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1364",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1364/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.194659Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.194664Z"
+}

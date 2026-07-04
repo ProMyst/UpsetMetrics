@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-04-11-dodgers-at-pirates",
+  "sport": "mlb",
+  "date": "1997-04-11",
+  "startTime": "1997-04-11T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "7-3"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "4-5"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213312",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213312/feed/live",
+    "retrievedAt": "2026-07-04T07:27:10.880550Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:10.880553Z"
+}

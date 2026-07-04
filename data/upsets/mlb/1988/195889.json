@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-08-02-montreal-expos-at-pirates",
+  "sport": "mlb",
+  "date": "1988-08-02",
+  "startTime": "1988-08-02T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "60-45"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "55-49"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195889",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195889/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.425609Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.425614Z"
+}

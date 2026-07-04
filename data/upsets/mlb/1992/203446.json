@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-05-21-royals-at-rangers",
+  "sport": "mlb",
+  "date": "1992-05-21",
+  "startTime": "1992-05-22T00:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "14-25"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "22-21"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.682,
+    "rankGapFactor": 0.305,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203446",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203446/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.873310Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.873312Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-06-19-giants-at-reds",
+  "sport": "mlb",
+  "date": "1988-06-19",
+  "startTime": "1988-06-19T07:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "33-34"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "32-35"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195387",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195387/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.323882Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.323884Z"
+}

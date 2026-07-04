@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-07-09-phillies-at-braves",
+  "sport": "mlb",
+  "date": "1987-07-09",
+  "startTime": "1987-07-09T23:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "39-45"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "41-42"
+  },
+  "finalScore": "11-6",
+  "factors": {
+    "pregameOddsFactor": 0.374,
+    "rankGapFactor": 0.059,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193510",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193510/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.295142Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.295145Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-05-brewers-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "1997-08-05",
+  "startTime": "1997-08-06T02:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "64-49"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "55-55"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214749",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214749/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.172570Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.172574Z"
+}

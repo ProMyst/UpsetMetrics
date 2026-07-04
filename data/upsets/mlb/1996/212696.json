@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-08-21-pirates-at-astros",
+  "sport": "mlb",
+  "date": "1996-08-21",
+  "startTime": "1996-08-22T00:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "53-73"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "68-59"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.587,
+    "rankGapFactor": 0.23,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212696",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212696/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.447992Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.447994Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-09-12-florida-marlins-at-reds",
+  "sport": "mlb",
+  "date": "1995-09-12",
+  "startTime": "1995-09-12T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "58-68"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "76-50"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.657,
+    "rankGapFactor": 0.286,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210675",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210675/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.171009Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.171013Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-05-11-phillies-at-reds",
+  "sport": "mlb",
+  "date": "1983-05-11",
+  "startTime": "1983-05-11T23:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "15-16"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "16-10"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.629,
+    "rankGapFactor": 0.263,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "184363",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/184363/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.484483Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.484485Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-08-giants-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1981-05-08",
+  "startTime": "1981-05-08T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "13-16"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "16-8"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.846,
+    "rankGapFactor": 0.437,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180818",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180818/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.020304Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.020309Z"
+}

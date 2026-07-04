@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-07-reds-at-twins",
+  "sport": "mlb",
+  "date": "1999-06-07",
+  "startTime": "1999-06-08T00:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "20-36"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "30-23"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.822,
+    "rankGapFactor": 0.418,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2430",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2430/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.277642Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.277644Z"
+}

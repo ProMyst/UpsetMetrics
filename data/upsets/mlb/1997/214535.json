@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-07-20-reds-at-mets",
+  "sport": "mlb",
+  "date": "1997-07-20",
+  "startTime": "1997-07-20T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "55-42"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "42-54"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214535",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214535/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.126237Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.126239Z"
+}

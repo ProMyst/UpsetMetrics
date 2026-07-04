@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-06-27-padres-at-braves",
+  "sport": "mlb",
+  "date": "1986-06-27",
+  "startTime": "1986-06-27T23:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "36-36"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "37-35"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.335,
+    "rankGapFactor": 0.028,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191240",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191240/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.810611Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.810613Z"
+}

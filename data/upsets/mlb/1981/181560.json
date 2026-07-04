@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-09-07-cubs-at-cardinals",
+  "sport": "mlb",
+  "date": "1981-09-07",
+  "startTime": "1981-09-07T08:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "28-52"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "45-30"
+  },
+  "finalScore": "10-0",
+  "factors": {
+    "pregameOddsFactor": 0.925,
+    "rankGapFactor": 0.5,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181560",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181560/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.173331Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.173333Z"
+}

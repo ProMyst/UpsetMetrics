@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-07-22-florida-marlins-at-rockies",
+  "sport": "mlb",
+  "date": "1994-07-22",
+  "startTime": "1994-07-23T01:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "44-52"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "46-52"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.328,
+    "rankGapFactor": 0.022,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208640",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208640/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.707348Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.707353Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-05-25-yankees-at-california-angels",
+  "sport": "mlb",
+  "date": "1987-05-25",
+  "startTime": "1987-05-25T10:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "29-15"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "21-23"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192967",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192967/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.186570Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.186575Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-07-20-giants-at-phillies",
+  "sport": "mlb",
+  "date": "1994-07-20",
+  "startTime": "1994-07-20T07:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "45-51"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "45-50"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.312,
+    "rankGapFactor": 0.01,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208624",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208624/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.702495Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.702497Z"
+}

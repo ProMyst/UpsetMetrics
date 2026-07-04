@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-05-24-yankees-at-blue-jays",
+  "sport": "mlb",
+  "date": "1980-05-24",
+  "startTime": "1980-05-24T07:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "24-14"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "19-18"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178882",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178882/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.702861Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.702863Z"
+}

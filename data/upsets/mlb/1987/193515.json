@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-07-10-tigers-at-california-angels",
+  "sport": "mlb",
+  "date": "1987-07-10",
+  "startTime": "1987-07-11T02:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "47-36"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "45-42"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193515",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193515/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.298942Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.298947Z"
+}

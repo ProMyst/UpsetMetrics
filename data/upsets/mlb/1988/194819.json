@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-05-02-astros-at-phillies",
+  "sport": "mlb",
+  "date": "1988-05-02",
+  "startTime": "1988-05-02T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "8-13"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "14-9"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.869,
+    "rankGapFactor": 0.455,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194819",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194819/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.211315Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.211318Z"
+}

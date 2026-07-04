@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-10-02-phillies-at-pirates",
+  "sport": "mlb",
+  "date": "1987-10-02",
+  "startTime": "1987-10-02T23:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "78-82"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "80-80"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.331,
+    "rankGapFactor": 0.025,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194494",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194494/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.498851Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.498853Z"
+}

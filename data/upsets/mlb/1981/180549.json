@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-04-14-athletics-at-california-angels",
+  "sport": "mlb",
+  "date": "1981-04-14",
+  "startTime": "1981-04-15T02:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "6-0"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "3-3"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180549",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180549/feed/live",
+    "retrievedAt": "2026-07-04T07:04:01.965314Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:01.965321Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-05-19-orioles-at-yankees",
+  "sport": "mlb",
+  "date": "1995-05-19",
+  "startTime": "1995-05-19T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "9-11"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "10-9"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.491,
+    "rankGapFactor": 0.153,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209196",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209196/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.872357Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.872359Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-06-07-blue-jays-at-twins",
+  "sport": "mlb",
+  "date": "1980-06-07",
+  "startTime": "1980-06-07T08:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "21-30"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "24-25"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.495,
+    "rankGapFactor": 0.156,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179045",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179045/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.734538Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.734540Z"
+}

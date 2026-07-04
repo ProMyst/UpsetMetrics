@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-06-30-dodgers-at-rockies",
+  "sport": "mlb",
+  "date": "1996-06-30",
+  "startTime": "1996-06-30T09:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "40-39"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "42-40"
+  },
+  "finalScore": "16-15",
+  "factors": {
+    "pregameOddsFactor": 0.315,
+    "rankGapFactor": 0.012,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212039",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212039/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.314332Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.314334Z"
+}

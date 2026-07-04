@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-09-09-mets-at-phillies",
+  "sport": "mlb",
+  "date": "1990-09-09",
+  "startTime": "1990-09-09T07:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "65-74"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "78-61"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.534,
+    "rankGapFactor": 0.187,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200539",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200539/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.269791Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.269793Z"
+}

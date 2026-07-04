@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-06-26-royals-at-twins",
+  "sport": "mlb",
+  "date": "1994-06-26",
+  "startTime": "1994-06-26T08:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "39-33"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "38-35"
+  },
+  "finalScore": "11-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208327",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208327/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.643414Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.643416Z"
+}

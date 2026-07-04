@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-09-15-padres-at-braves",
+  "sport": "mlb",
+  "date": "1990-09-15",
+  "startTime": "1990-09-15T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "67-77"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "59-86"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200615",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200615/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.284650Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.284652Z"
+}

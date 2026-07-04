@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-07-20-dodgers-at-pirates",
+  "sport": "mlb",
+  "date": "1980-07-20",
+  "startTime": "1980-07-20T07:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "51-40"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "50-40"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179552",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179552/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.833602Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.833604Z"
+}

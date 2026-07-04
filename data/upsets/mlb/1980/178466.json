@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-04-16-yankees-at-white-sox",
+  "sport": "mlb",
+  "date": "1980-04-16",
+  "startTime": "1980-04-17T00:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "3-3"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "4-2"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178466",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178466/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.614854Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.614857Z"
+}

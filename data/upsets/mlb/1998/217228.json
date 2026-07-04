@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-08-11-twins-at-yankees",
+  "sport": "mlb",
+  "date": "1998-08-11",
+  "startTime": "1998-08-11T23:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "86-29"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "52-65"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "217228",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/217228/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.249124Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.249126Z"
+}

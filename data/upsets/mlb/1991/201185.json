@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-05-10-cardinals-at-astros",
+  "sport": "mlb",
+  "date": "1991-05-10",
+  "startTime": "1991-05-11T00:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "15-13"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "11-16"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201185",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201185/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.093760Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.093762Z"
+}

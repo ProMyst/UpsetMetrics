@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-27-astros-at-cubs",
+  "sport": "mlb",
+  "date": "1997-06-27",
+  "startTime": "1997-06-27T08:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "30-48"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "39-40"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.573,
+    "rankGapFactor": 0.218,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214260",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214260/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.073450Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.073452Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-09-27-cubs-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1988-09-27",
+  "startTime": "1988-09-27T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "74-83"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "79-78"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.38,
+    "rankGapFactor": 0.064,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196553",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196553/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.562065Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.562069Z"
+}

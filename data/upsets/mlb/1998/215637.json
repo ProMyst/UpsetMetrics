@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-04-13-mariners-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1998-04-13",
+  "startTime": "1998-04-13T23:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "9-2"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "3-9"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215637",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215637/feed/live",
+    "retrievedAt": "2026-07-04T07:28:37.929785Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:37.929790Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-07-22-giants-at-cardinals",
+  "sport": "mlb",
+  "date": "1988-07-22",
+  "startTime": "1988-07-23T00:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "43-52"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "48-46"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.445,
+    "rankGapFactor": 0.116,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195758",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195758/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.399986Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.399988Z"
+}

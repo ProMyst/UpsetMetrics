@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-06-06-red-sox-at-tigers",
+  "sport": "mlb",
+  "date": "1989-06-06",
+  "startTime": "1989-06-06T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "23-33"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "25-28"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.452,
+    "rankGapFactor": 0.122,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197336",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197336/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.246178Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.246180Z"
+}

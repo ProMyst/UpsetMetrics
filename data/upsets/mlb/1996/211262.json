@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-04-28-astros-at-padres",
+  "sport": "mlb",
+  "date": "1996-04-28",
+  "startTime": "1996-04-28T10:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "13-12"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "16-9"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.6,
+    "rankGapFactor": 0.24,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211262",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211262/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.157897Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.157899Z"
+}

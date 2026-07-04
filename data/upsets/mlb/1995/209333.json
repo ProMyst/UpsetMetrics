@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-05-29-padres-at-mets",
+  "sport": "mlb",
+  "date": "1995-05-29",
+  "startTime": "1995-05-29T07:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "14-17"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "11-20"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209333",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209333/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.898970Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.898972Z"
+}

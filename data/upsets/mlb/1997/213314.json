@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-04-11-padres-at-phillies",
+  "sport": "mlb",
+  "date": "1997-04-11",
+  "startTime": "1997-04-11T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "6-4"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "3-7"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213314",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213314/feed/live",
+    "retrievedAt": "2026-07-04T07:27:10.881921Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:10.881924Z"
+}

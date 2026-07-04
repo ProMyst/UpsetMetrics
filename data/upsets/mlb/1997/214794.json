@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-08-rangers-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1997-08-08",
+  "startTime": "1997-08-08T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "53-61"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "57-53"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.433,
+    "rankGapFactor": 0.107,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214794",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214794/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.179461Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.179466Z"
+}

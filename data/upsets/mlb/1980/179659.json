@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-07-28-mariners-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1980-07-28",
+  "startTime": "1980-07-28T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "47-47"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "39-59"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179659",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179659/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.855462Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.855467Z"
+}

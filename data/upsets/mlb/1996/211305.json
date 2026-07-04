@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-05-02-california-angels-at-athletics",
+  "sport": "mlb",
+  "date": "1996-05-02",
+  "startTime": "1996-05-02T10:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "15-12"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "13-14"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211305",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211305/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.166365Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.166370Z"
+}

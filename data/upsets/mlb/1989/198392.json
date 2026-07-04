@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-09-03-mets-at-giants",
+  "sport": "mlb",
+  "date": "1989-09-03",
+  "startTime": "1989-09-03T10:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "78-58"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "72-63"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198392",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198392/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.459455Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.459457Z"
+}

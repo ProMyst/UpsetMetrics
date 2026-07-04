@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-19-twins-at-cardinals",
+  "sport": "mlb",
+  "date": "1999-07-19",
+  "startTime": "1999-07-20T00:10:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "46-47"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "36-55"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "751",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/751/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.385280Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.385282Z"
+}

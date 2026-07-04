@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-08-13-padres-at-reds",
+  "sport": "mlb",
+  "date": "1983-08-13",
+  "startTime": "1983-08-13T23:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "54-63"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "56-60"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.353,
+    "rankGapFactor": 0.042,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185486",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185486/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.705580Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.705582Z"
+}

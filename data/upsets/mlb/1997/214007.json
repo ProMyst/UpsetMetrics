@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-07-braves-at-giants",
+  "sport": "mlb",
+  "date": "1997-06-07",
+  "startTime": "1997-06-07T10:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "41-19"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "33-26"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214007",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214007/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.024187Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.024189Z"
+}

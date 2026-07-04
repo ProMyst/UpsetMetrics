@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-05-25-padres-at-phillies",
+  "sport": "mlb",
+  "date": "1984-05-25",
+  "startTime": "1984-05-25T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "23-20"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "24-18"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.391,
+    "rankGapFactor": 0.073,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186662",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186662/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.176590Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.176592Z"
+}

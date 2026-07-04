@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-10-06-blue-jays-at-twins",
+  "sport": "mlb",
+  "date": "1991-10-06",
+  "startTime": "1991-10-06T08:33:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "91-71"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "95-67"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.362,
+    "rankGapFactor": 0.049,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202937",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202937/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.446727Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.446729Z"
+}

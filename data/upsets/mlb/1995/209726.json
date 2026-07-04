@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-06-30-braves-at-phillies",
+  "sport": "mlb",
+  "date": "1995-06-30",
+  "startTime": "1995-06-30T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "38-21"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "35-25"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209726",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209726/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.979096Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.979098Z"
+}

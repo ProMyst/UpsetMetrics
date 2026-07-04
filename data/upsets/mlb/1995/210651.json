@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-09-10-white-sox-at-athletics",
+  "sport": "mlb",
+  "date": "1995-09-10",
+  "startTime": "1995-09-10T10:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "58-66"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "60-66"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.321,
+    "rankGapFactor": 0.017,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210651",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210651/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.167731Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.167733Z"
+}

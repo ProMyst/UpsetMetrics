@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-04-19-cardinals-at-padres",
+  "sport": "mlb",
+  "date": "1997-04-19",
+  "startTime": "1997-04-20T02:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "6-10"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "8-7"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.696,
+    "rankGapFactor": 0.317,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213410",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213410/feed/live",
+    "retrievedAt": "2026-07-04T07:27:10.899725Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:10.899726Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-07-30-california-angels-at-rangers",
+  "sport": "mlb",
+  "date": "1994-07-30",
+  "startTime": "1994-07-31T00:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "43-62"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "50-54"
+  },
+  "finalScore": "14-4",
+  "factors": {
+    "pregameOddsFactor": 0.478,
+    "rankGapFactor": 0.142,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208741",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208741/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.727511Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.727516Z"
+}

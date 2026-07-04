@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-05-14-braves-at-cardinals",
+  "sport": "mlb",
+  "date": "1998-05-14",
+  "startTime": "1998-05-15T00:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "30-11"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "19-19"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216030",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216030/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.011050Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.011052Z"
+}

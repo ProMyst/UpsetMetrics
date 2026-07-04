@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-08-29-cardinals-at-dodgers",
+  "sport": "mlb",
+  "date": "1993-08-29",
+  "startTime": "1993-08-29T10:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "66-63"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "71-59"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.386,
+    "rankGapFactor": 0.069,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206868",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206868/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.687059Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.687061Z"
+}

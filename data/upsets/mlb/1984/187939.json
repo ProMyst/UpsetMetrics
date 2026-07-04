@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-09-08-tigers-at-blue-jays",
+  "sport": "mlb",
+  "date": "1984-09-08",
+  "startTime": "1984-09-08T07:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "91-51"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "80-61"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187939",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187939/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.435940Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.435942Z"
+}

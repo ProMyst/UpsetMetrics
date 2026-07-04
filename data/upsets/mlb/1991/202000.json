@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-07-20-phillies-at-padres",
+  "sport": "mlb",
+  "date": "1991-07-20",
+  "startTime": "1991-07-21T02:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "40-51"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "43-49"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.37,
+    "rankGapFactor": 0.056,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202000",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202000/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.256473Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.256475Z"
+}

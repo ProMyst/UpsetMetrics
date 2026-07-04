@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-06-24-giants-at-braves",
+  "sport": "mlb",
+  "date": "1992-06-24",
+  "startTime": "1992-06-24T07:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "41-30"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "33-36"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203844",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203844/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.950942Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.950944Z"
+}

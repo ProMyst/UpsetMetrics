@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-09-12-pirates-at-mets",
+  "sport": "mlb",
+  "date": "1990-09-12",
+  "startTime": "1990-09-12T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "81-61"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "84-59"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.342,
+    "rankGapFactor": 0.034,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200579",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200579/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.277124Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.277126Z"
+}

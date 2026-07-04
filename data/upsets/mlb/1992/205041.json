@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-10-04-padres-at-braves",
+  "sport": "mlb",
+  "date": "1992-10-04",
+  "startTime": "1992-10-04T07:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "82-80"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "98-64"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.547,
+    "rankGapFactor": 0.198,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205041",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205041/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.191936Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.191938Z"
+}

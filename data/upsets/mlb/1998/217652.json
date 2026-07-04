@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-09-11-anaheim-angels-at-orioles",
+  "sport": "mlb",
+  "date": "1998-09-11",
+  "startTime": "1998-09-11T23:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "74-72"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "80-66"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.403,
+    "rankGapFactor": 0.082,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "217652",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/217652/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.335859Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.335864Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-05-05-mets-at-cardinals",
+  "sport": "mlb",
+  "date": "1994-05-05",
+  "startTime": "1994-05-06T00:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "14-13"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "14-11"
+  },
+  "finalScore": "8-1",
+  "factors": {
+    "pregameOddsFactor": 0.404,
+    "rankGapFactor": 0.083,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207682",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207682/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.512183Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.512185Z"
+}

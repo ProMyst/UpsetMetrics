@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-05-31-phillies-at-dodgers",
+  "sport": "mlb",
+  "date": "1987-05-31",
+  "startTime": "1987-05-31T10:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "22-24"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "23-26"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193037",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193037/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.200484Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.200486Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-07-10-giants-at-dodgers",
+  "sport": "mlb",
+  "date": "1997-07-10",
+  "startTime": "1997-07-11T02:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "46-42"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "51-37"
+  },
+  "finalScore": "11-0",
+  "factors": {
+    "pregameOddsFactor": 0.442,
+    "rankGapFactor": 0.114,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214404",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214404/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.100537Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.100539Z"
+}

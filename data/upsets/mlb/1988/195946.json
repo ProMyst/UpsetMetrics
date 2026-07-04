@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-08-07-cleveland-indians-at-rangers",
+  "sport": "mlb",
+  "date": "1988-08-07",
+  "startTime": "1988-08-08T00:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "48-60"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "53-58"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.383,
+    "rankGapFactor": 0.066,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195946",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195946/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.438111Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.438116Z"
+}

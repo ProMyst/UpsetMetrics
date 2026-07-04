@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-07-31-brewers-at-red-sox",
+  "sport": "mlb",
+  "date": "1988-07-31",
+  "startTime": "1988-07-31T07:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "60-43"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "52-54"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195867",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195867/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.422721Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.422723Z"
+}

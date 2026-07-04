@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-09-05-tigers-at-rangers",
+  "sport": "mlb",
+  "date": "1987-09-05",
+  "startTime": "1987-09-06T00:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "63-72"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "81-53"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.645,
+    "rankGapFactor": 0.276,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194165",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194165/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.435555Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.435557Z"
+}

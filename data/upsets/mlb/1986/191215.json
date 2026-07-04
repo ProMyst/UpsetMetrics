@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-06-24-padres-at-giants",
+  "sport": "mlb",
+  "date": "1986-06-24",
+  "startTime": "1986-06-25T02:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "36-34"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "39-32"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.388,
+    "rankGapFactor": 0.07,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191215",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191215/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.806455Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.806457Z"
+}

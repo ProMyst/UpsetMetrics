@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-25-red-sox-at-tigers",
+  "sport": "mlb",
+  "date": "1997-09-25",
+  "startTime": "1997-09-25T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "78-81"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "79-80"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.316,
+    "rankGapFactor": 0.013,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215411",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215411/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.304579Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.304581Z"
+}

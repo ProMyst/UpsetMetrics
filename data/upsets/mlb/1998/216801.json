@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-07-11-rangers-at-athletics",
+  "sport": "mlb",
+  "date": "1998-07-11",
+  "startTime": "1998-07-11T10:33:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "51-39"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "41-48"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216801",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216801/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.161229Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.161231Z"
+}

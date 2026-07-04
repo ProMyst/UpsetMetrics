@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-01-giants-at-reds",
+  "sport": "mlb",
+  "date": "1997-08-01",
+  "startTime": "1997-08-01T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "60-49"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "45-61"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214700",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214700/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.160799Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.160801Z"
+}

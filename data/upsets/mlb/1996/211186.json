@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-04-22-yankees-at-royals",
+  "sport": "mlb",
+  "date": "1996-04-22",
+  "startTime": "1996-04-23T00:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "9-7"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "5-14"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211186",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211186/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.141267Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.141270Z"
+}

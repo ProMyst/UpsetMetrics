@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-06-15-rangers-at-california-angels",
+  "sport": "mlb",
+  "date": "1987-06-15",
+  "startTime": "1987-06-16T02:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "26-33"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "29-34"
+  },
+  "finalScore": "9-7",
+  "factors": {
+    "pregameOddsFactor": 0.349,
+    "rankGapFactor": 0.039,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193215",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193215/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.236158Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.236162Z"
+}

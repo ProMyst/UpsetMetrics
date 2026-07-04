@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-05-27-braves-at-reds",
+  "sport": "mlb",
+  "date": "1993-05-27",
+  "startTime": "1993-05-27T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "22-25"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "27-21"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.536,
+    "rankGapFactor": 0.189,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205672",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205672/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.432897Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.432899Z"
+}

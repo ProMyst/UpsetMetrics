@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-05-01-padres-at-mets",
+  "sport": "mlb",
+  "date": "1991-05-01",
+  "startTime": "1991-05-01T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "12-10"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "12-9"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.365,
+    "rankGapFactor": 0.052,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201094",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201094/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.074892Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.074894Z"
+}

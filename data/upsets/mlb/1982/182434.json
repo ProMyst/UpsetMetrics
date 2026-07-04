@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-05-25-athletics-at-brewers",
+  "sport": "mlb",
+  "date": "1982-05-25",
+  "startTime": "1982-05-26T00:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "21-23"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "20-20"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.357,
+    "rankGapFactor": 0.045,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182434",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182434/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.176157Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.176159Z"
+}

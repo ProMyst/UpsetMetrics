@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-08-26-white-sox-at-tampa-bay-devil-rays",
+  "sport": "mlb",
+  "date": "1999-08-26",
+  "startTime": "1999-08-26T16:35:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tampa-bay-devil-rays",
+    "name": "Tampa Bay Devil Rays",
+    "recordEntering": "57-71"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "61-66"
+  },
+  "finalScore": "9-7",
+  "factors": {
+    "pregameOddsFactor": 0.388,
+    "rankGapFactor": 0.07,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1239",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1239/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.494896Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-tampa-bay-devil-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.494901Z"
+}

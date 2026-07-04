@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-09-28-royals-at-mariners",
+  "sport": "mlb",
+  "date": "1983-09-28",
+  "startTime": "1983-09-29T02:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "77-81"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "59-99"
+  },
+  "finalScore": "11-8",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186048",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186048/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.825152Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.825154Z"
+}

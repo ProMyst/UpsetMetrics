@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-04-anaheim-angels-at-tigers",
+  "sport": "mlb",
+  "date": "1997-09-04",
+  "startTime": "1997-09-04T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "66-73"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "74-66"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.434,
+    "rankGapFactor": 0.108,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215133",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215133/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.248514Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.248519Z"
+}

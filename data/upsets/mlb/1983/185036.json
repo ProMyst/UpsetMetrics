@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-07-09-cardinals-at-padres",
+  "sport": "mlb",
+  "date": "1983-07-09",
+  "startTime": "1983-07-10T02:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "41-40"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "42-39"
+  },
+  "finalScore": "12-4",
+  "factors": {
+    "pregameOddsFactor": 0.331,
+    "rankGapFactor": 0.025,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185036",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185036/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.617442Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.617444Z"
+}

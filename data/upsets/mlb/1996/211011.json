@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-04-08-cubs-at-rockies",
+  "sport": "mlb",
+  "date": "1996-04-08",
+  "startTime": "1996-04-08T09:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "5-2"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "2-5"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211011",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211011/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.105401Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.105403Z"
+}

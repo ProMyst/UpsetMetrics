@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-09-11-giants-at-reds",
+  "sport": "mlb",
+  "date": "1991-09-11",
+  "startTime": "1991-09-11T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "64-75"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "67-72"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.354,
+    "rankGapFactor": 0.043,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202640",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202640/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.386958Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.386960Z"
+}

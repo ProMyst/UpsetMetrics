@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-04-17-royals-at-twins",
+  "sport": "mlb",
+  "date": "1993-04-17",
+  "startTime": "1993-04-17T08:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "6-4"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "2-9"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205183",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205183/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.336148Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.336150Z"
+}

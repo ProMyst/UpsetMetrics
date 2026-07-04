@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-07-31-white-sox-at-rangers",
+  "sport": "mlb",
+  "date": "1998-07-31",
+  "startTime": "1998-08-01T00:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "47-60"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "57-51"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.521,
+    "rankGapFactor": 0.177,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "217075",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/217075/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.220184Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.220186Z"
+}

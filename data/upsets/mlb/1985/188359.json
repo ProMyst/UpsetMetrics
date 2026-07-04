@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-04-22-orioles-at-rangers",
+  "sport": "mlb",
+  "date": "1985-04-22",
+  "startTime": "1985-04-23T00:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "5-7"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "6-6"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188359",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188359/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.405364Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.405366Z"
+}

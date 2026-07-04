@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-07-30-pirates-at-phillies",
+  "sport": "mlb",
+  "date": "1989-07-30",
+  "startTime": "1989-07-30T07:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "41-61"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "45-58"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.387,
+    "rankGapFactor": 0.07,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197964",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197964/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.369312Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.369314Z"
+}

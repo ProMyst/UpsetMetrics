@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-06-13-montreal-expos-at-cardinals",
+  "sport": "mlb",
+  "date": "1993-06-13",
+  "startTime": "1993-06-13T08:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "33-29"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "32-28"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.303,
+    "rankGapFactor": 0.002,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205889",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205889/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.476419Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.476424Z"
+}

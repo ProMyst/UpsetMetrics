@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-08-27-giants-at-mets",
+  "sport": "mlb",
+  "date": "1983-08-27",
+  "startTime": "1983-08-27T23:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "53-74"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "61-68"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.439,
+    "rankGapFactor": 0.111,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185660",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185660/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.744486Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.744488Z"
+}

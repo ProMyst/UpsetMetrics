@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-05-22-astros-at-cardinals",
+  "sport": "mlb",
+  "date": "1992-05-22",
+  "startTime": "1992-05-23T00:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "18-23"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "23-18"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.605,
+    "rankGapFactor": 0.244,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203455",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203455/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.875110Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.875112Z"
+}

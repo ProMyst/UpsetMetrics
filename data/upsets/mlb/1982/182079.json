@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-04-24-mets-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1982-04-24",
+  "startTime": "1982-04-24T08:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "9-6"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "7-5"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182079",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182079/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.104230Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.104235Z"
+}

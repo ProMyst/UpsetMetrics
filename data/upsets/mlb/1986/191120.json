@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-06-17-mets-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1986-06-17",
+  "startTime": "1986-06-17T23:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "33-27"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "44-17"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.728,
+    "rankGapFactor": 0.343,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191120",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191120/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.786448Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.786453Z"
+}

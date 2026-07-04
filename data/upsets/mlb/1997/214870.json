@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-14-athletics-at-white-sox",
+  "sport": "mlb",
+  "date": "1997-08-14",
+  "startTime": "1997-08-15T00:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "49-73"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "58-60"
+  },
+  "finalScore": "12-5",
+  "factors": {
+    "pregameOddsFactor": 0.525,
+    "rankGapFactor": 0.18,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214870",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214870/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.195532Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.195533Z"
+}

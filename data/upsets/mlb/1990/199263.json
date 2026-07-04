@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-05-26-orioles-at-rangers",
+  "sport": "mlb",
+  "date": "1990-05-26",
+  "startTime": "1990-05-27T00:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "19-24"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "18-25"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199263",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199263/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.013921Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.013923Z"
+}

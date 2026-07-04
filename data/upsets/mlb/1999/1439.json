@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-05-11-orioles-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1999-05-11",
+  "startTime": "1999-05-11T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "23-9"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "12-20"
+  },
+  "finalScore": "11-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1439",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1439/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.204419Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.204424Z"
+}

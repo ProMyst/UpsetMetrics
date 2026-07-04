@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-05-26-athletics-at-orioles",
+  "sport": "mlb",
+  "date": "1996-05-26",
+  "startTime": "1996-05-26T07:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "27-20"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "22-26"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211603",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211603/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.224698Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.224700Z"
+}

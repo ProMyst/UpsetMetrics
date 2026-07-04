@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-09-19-dodgers-at-padres",
+  "sport": "mlb",
+  "date": "1996-09-19",
+  "startTime": "1996-09-19T10:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "87-66"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "86-68"
+  },
+  "finalScore": "7-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213062",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213062/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.522714Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.522716Z"
+}

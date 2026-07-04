@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-23-rockies-at-astros",
+  "sport": "mlb",
+  "date": "1997-08-23",
+  "startTime": "1997-08-23T08:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "62-67"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "68-61"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.416,
+    "rankGapFactor": 0.093,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214980",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214980/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.218995Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.218997Z"
+}

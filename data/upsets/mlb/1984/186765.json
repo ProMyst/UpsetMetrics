@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-06-03-padres-at-giants",
+  "sport": "mlb",
+  "date": "1984-06-03",
+  "startTime": "1984-06-03T10:38:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "28-22"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "17-32"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186765",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186765/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.195725Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.195727Z"
+}

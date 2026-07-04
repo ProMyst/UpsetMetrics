@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-09-24-cleveland-indians-at-tigers",
+  "sport": "mlb",
+  "date": "1982-09-24",
+  "startTime": "1982-09-24T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "75-77"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "77-75"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.333,
+    "rankGapFactor": 0.026,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183872",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183872/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.465516Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.465520Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-08-06-white-sox-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1995-08-06",
+  "startTime": "1995-08-06T07:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "40-51"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "63-28"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.932,
+    "rankGapFactor": 0.505,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210196",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210196/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.071772Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.071776Z"
+}

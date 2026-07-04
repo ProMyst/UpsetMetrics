@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-09-02-astros-at-cubs",
+  "sport": "mlb",
+  "date": "1983-09-02",
+  "startTime": "1983-09-02T08:33:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "72-62"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "60-74"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185736",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185736/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.762873Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.762875Z"
+}

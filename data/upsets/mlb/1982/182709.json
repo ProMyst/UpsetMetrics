@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-06-19-mets-at-cardinals",
+  "sport": "mlb",
+  "date": "1982-06-19",
+  "startTime": "1982-06-20T00:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "33-30"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "38-27"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.452,
+    "rankGapFactor": 0.122,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182709",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182709/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.229779Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.229781Z"
+}

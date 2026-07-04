@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-06-10-yankees-at-orioles",
+  "sport": "mlb",
+  "date": "1990-06-10",
+  "startTime": "1990-06-10T07:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "19-35"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "28-29"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.648,
+    "rankGapFactor": 0.279,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199445",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199445/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.049365Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.049367Z"
+}

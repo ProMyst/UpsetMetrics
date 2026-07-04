@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-09-19-yankees-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1999-09-19",
+  "startTime": "1999-09-19T17:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "90-59"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "90-59"
+  },
+  "finalScore": "11-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "408",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/408/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.558868Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.558873Z"
+}

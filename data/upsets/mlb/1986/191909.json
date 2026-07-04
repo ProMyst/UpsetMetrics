@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-08-23-phillies-at-padres",
+  "sport": "mlb",
+  "date": "1986-08-23",
+  "startTime": "1986-08-23T10:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "59-65"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "62-61"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.371,
+    "rankGapFactor": 0.057,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191909",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191909/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.950256Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.950259Z"
+}

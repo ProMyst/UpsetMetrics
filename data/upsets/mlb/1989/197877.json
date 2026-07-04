@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-07-23-dodgers-at-pirates",
+  "sport": "mlb",
+  "date": "1989-07-23",
+  "startTime": "1989-07-23T07:38:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "40-55"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "46-53"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.409,
+    "rankGapFactor": 0.087,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197877",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197877/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.352041Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.352043Z"
+}

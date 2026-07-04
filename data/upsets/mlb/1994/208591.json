@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-07-18-tigers-at-white-sox",
+  "sport": "mlb",
+  "date": "1994-07-18",
+  "startTime": "1994-07-19T00:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "55-36"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "42-51"
+  },
+  "finalScore": "10-9",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208591",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208591/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.697221Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.697223Z"
+}

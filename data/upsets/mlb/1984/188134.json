@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-09-24-athletics-at-rangers",
+  "sport": "mlb",
+  "date": "1984-09-24",
+  "startTime": "1984-09-25T00:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "73-84"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "67-88"
+  },
+  "finalScore": "10-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188134",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188134/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.474007Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.474009Z"
+}

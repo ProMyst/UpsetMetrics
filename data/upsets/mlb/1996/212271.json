@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-07-20-cubs-at-cardinals",
+  "sport": "mlb",
+  "date": "1996-07-20",
+  "startTime": "1996-07-20T08:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "45-51"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "53-44"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.494,
+    "rankGapFactor": 0.155,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212271",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212271/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.361533Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.361535Z"
+}

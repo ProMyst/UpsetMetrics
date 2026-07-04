@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-09-03-tigers-at-rangers",
+  "sport": "mlb",
+  "date": "1981-09-03",
+  "startTime": "1981-09-04T00:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "47-34"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "43-34"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181509",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181509/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.161667Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.161669Z"
+}

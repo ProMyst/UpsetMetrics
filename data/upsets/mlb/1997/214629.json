@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-07-27-royals-at-blue-jays",
+  "sport": "mlb",
+  "date": "1997-07-27",
+  "startTime": "1997-07-27T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "41-58"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "50-50"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.515,
+    "rankGapFactor": 0.172,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214629",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214629/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.144231Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.144233Z"
+}

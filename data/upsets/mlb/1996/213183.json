@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-09-29-braves-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1996-09-29",
+  "startTime": "1996-09-29T07:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "88-74"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "96-66"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.423,
+    "rankGapFactor": 0.099,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213183",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213183/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.546607Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.546612Z"
+}

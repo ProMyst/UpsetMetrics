@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-04-26-phillies-at-astros",
+  "sport": "mlb",
+  "date": "1989-04-26",
+  "startTime": "1989-04-27T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "10-12"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "10-10"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.414,
+    "rankGapFactor": 0.091,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196878",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196878/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.153362Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.153364Z"
+}

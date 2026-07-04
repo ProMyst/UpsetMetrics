@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-07-05-red-sox-at-twins",
+  "sport": "mlb",
+  "date": "1990-07-05",
+  "startTime": "1990-07-05T08:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "38-41"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "46-33"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.553,
+    "rankGapFactor": 0.203,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199742",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199742/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.109893Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.109895Z"
+}

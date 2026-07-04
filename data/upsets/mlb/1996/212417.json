@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-07-31-florida-marlins-at-dodgers",
+  "sport": "mlb",
+  "date": "1996-07-31",
+  "startTime": "1996-08-01T02:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "57-51"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "49-58"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212417",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212417/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.393792Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.393797Z"
+}

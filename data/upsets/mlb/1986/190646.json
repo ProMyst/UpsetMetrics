@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-05-07-blue-jays-at-california-angels",
+  "sport": "mlb",
+  "date": "1986-05-07",
+  "startTime": "1986-05-08T02:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "16-12"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "11-16"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190646",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190646/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.691874Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.691879Z"
+}

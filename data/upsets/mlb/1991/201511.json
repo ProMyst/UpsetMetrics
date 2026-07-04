@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-06-07-giants-at-cardinals",
+  "sport": "mlb",
+  "date": "1991-06-07",
+  "startTime": "1991-06-08T00:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "21-33"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "27-25"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.626,
+    "rankGapFactor": 0.261,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201511",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201511/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.158371Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.158373Z"
+}

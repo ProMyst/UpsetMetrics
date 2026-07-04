@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-09-19-red-sox-at-yankees",
+  "sport": "mlb",
+  "date": "1980-09-19",
+  "startTime": "1980-09-19T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "94-53"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "77-67"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180295",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180295/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.987288Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.987290Z"
+}

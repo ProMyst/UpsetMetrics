@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-05-18-red-sox-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1980-05-18",
+  "startTime": "1980-05-18T07:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "13-18"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "17-17"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.502,
+    "rankGapFactor": 0.161,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178805",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178805/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.686813Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.686818Z"
+}

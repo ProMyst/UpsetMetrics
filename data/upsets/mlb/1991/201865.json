@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-07-06-mets-at-phillies",
+  "sport": "mlb",
+  "date": "1991-07-06",
+  "startTime": "1991-07-06T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "45-34"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "33-48"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201865",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201865/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.229079Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.229081Z"
+}

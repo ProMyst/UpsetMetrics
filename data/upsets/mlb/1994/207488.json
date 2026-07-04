@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-04-19-royals-at-tigers",
+  "sport": "mlb",
+  "date": "1994-04-19",
+  "startTime": "1994-04-19T07:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "5-9"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "6-6"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207488",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207488/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.474350Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.474352Z"
+}

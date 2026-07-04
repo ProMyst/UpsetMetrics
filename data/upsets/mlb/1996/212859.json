@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-09-03-braves-at-reds",
+  "sport": "mlb",
+  "date": "1996-09-03",
+  "startTime": "1996-09-03T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "69-69"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "84-54"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.572,
+    "rankGapFactor": 0.217,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "212859",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/212859/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.482262Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.482264Z"
+}

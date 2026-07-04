@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-06-25-brewers-at-blue-jays",
+  "sport": "mlb",
+  "date": "1985-06-25",
+  "startTime": "1985-06-25T23:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "43-26"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "30-35"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "189088",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/189088/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.549600Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.549602Z"
+}

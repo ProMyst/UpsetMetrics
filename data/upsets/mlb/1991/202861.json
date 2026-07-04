@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-09-30-montreal-expos-at-cardinals",
+  "sport": "mlb",
+  "date": "1991-09-30",
+  "startTime": "1991-10-01T00:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "82-75"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "70-86"
+  },
+  "finalScore": "11-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202861",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202861/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.432540Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.432544Z"
+}

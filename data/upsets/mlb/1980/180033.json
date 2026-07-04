@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-08-28-athletics-at-red-sox",
+  "sport": "mlb",
+  "date": "1980-08-28",
+  "startTime": "1980-08-28T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "67-56"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "65-63"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180033",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180033/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.933943Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.933945Z"
+}

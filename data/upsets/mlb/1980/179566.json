@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-07-21-tigers-at-california-angels",
+  "sport": "mlb",
+  "date": "1980-07-21",
+  "startTime": "1980-07-22T02:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "48-38"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "33-57"
+  },
+  "finalScore": "14-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179566",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179566/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.838581Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.838586Z"
+}

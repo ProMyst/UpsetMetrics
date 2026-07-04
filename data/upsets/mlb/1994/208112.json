@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-06-09-tigers-at-california-angels",
+  "sport": "mlb",
+  "date": "1994-06-09",
+  "startTime": "1994-06-10T02:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "29-28"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "25-35"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208112",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208112/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.600799Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.600804Z"
+}

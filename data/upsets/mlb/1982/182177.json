@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-05-03-braves-at-pirates",
+  "sport": "mlb",
+  "date": "1982-05-03",
+  "startTime": "1982-05-03T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "18-6"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "8-13"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182177",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182177/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.125318Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.125320Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-07-02-rangers-at-athletics",
+  "sport": "mlb",
+  "date": "1983-07-02",
+  "startTime": "1983-07-02T10:33:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "43-33"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "36-42"
+  },
+  "finalScore": "13-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "184985",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/184985/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.608144Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.608146Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-06-12-pirates-at-mets",
+  "sport": "mlb",
+  "date": "1984-06-12",
+  "startTime": "1984-06-12T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "23-34"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "30-25"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.655,
+    "rankGapFactor": 0.284,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186877",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186877/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.218475Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.218477Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-06-11-orioles-at-tigers",
+  "sport": "mlb",
+  "date": "1996-06-11",
+  "startTime": "1996-06-11T23:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "33-27"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "16-48"
+  },
+  "finalScore": "12-9",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211790",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211790/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.263249Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.263251Z"
+}

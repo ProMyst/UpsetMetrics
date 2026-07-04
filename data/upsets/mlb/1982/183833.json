@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-09-20-rangers-at-athletics",
+  "sport": "mlb",
+  "date": "1982-09-20",
+  "startTime": "1982-09-21T02:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "60-90"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "62-88"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.333,
+    "rankGapFactor": 0.027,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183833",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183833/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.458247Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.458249Z"
+}

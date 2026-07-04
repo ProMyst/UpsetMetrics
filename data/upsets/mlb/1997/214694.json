@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-01-rockies-at-pirates",
+  "sport": "mlb",
+  "date": "1997-08-01",
+  "startTime": "1997-08-01T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "52-58"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "53-56"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.334,
+    "rankGapFactor": 0.027,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214694",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214694/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.160319Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.160321Z"
+}

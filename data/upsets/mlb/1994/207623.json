@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-04-30-reds-at-florida-marlins",
+  "sport": "mlb",
+  "date": "1994-04-30",
+  "startTime": "1994-04-30T23:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "12-12"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "15-7"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.755,
+    "rankGapFactor": 0.364,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207623",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207623/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.500661Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.500666Z"
+}

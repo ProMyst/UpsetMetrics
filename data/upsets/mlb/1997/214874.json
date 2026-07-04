@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-15-reds-at-dodgers",
+  "sport": "mlb",
+  "date": "1997-08-15",
+  "startTime": "1997-08-16T02:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "53-67"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "66-56"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.548,
+    "rankGapFactor": 0.199,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214874",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214874/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.198785Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.198787Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-09-29-phillies-at-florida-marlins",
+  "sport": "mlb",
+  "date": "1995-09-29",
+  "startTime": "1995-09-29T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "66-75"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "68-74"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.327,
+    "rankGapFactor": 0.022,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210897",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210897/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.213617Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.213622Z"
+}

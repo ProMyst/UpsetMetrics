@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-09-19-phillies-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1993-09-19",
+  "startTime": "1993-09-19T07:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "86-63"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "90-59"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.367,
+    "rankGapFactor": 0.054,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207128",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207128/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.738288Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.738292Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-06-01-montreal-expos-at-phillies",
+  "sport": "mlb",
+  "date": "1998-06-01",
+  "startTime": "1998-06-01T23:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "26-28"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "20-36"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216286",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216286/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.059037Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.059041Z"
+}

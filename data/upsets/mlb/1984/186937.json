@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-06-17-twins-at-royals",
+  "sport": "mlb",
+  "date": "1984-06-17",
+  "startTime": "1984-06-17T08:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "32-33"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "27-34"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186937",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186937/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.232488Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.232490Z"
+}

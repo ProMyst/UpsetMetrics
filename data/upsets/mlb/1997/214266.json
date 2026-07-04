@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-27-giants-at-rockies",
+  "sport": "mlb",
+  "date": "1997-06-27",
+  "startTime": "1997-06-28T01:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "45-33"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "41-38"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214266",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214266/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.072707Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.072709Z"
+}

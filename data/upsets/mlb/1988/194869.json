@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-05-06-yankees-at-rangers",
+  "sport": "mlb",
+  "date": "1988-05-06",
+  "startTime": "1988-05-07T00:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "11-16"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "20-9"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.564,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194869",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194869/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.220701Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.220703Z"
+}

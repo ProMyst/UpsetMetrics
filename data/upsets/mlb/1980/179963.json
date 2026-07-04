@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-08-22-yankees-at-california-angels",
+  "sport": "mlb",
+  "date": "1980-08-22",
+  "startTime": "1980-08-23T02:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "49-71"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "73-48"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.787,
+    "rankGapFactor": 0.39,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179963",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179963/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.921939Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.921944Z"
+}

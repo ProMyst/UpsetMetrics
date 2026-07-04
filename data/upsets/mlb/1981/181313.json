@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-08-18-orioles-at-california-angels",
+  "sport": "mlb",
+  "date": "1981-08-18",
+  "startTime": "1981-08-19T02:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "36-26"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "32-35"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181313",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181313/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.123802Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.123807Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-06-15-phillies-at-mets",
+  "sport": "mlb",
+  "date": "1994-06-15",
+  "startTime": "1994-06-15T23:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "30-34"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "32-34"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.34,
+    "rankGapFactor": 0.032,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208196",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208196/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.615182Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.615184Z"
+}

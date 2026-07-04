@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-07-rangers-at-blue-jays",
+  "sport": "mlb",
+  "date": "1997-09-07",
+  "startTime": "1997-09-07T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "68-74"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "67-76"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215184",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215184/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.256529Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.256531Z"
+}

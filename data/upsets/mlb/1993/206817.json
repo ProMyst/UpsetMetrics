@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-08-25-cardinals-at-padres",
+  "sport": "mlb",
+  "date": "1993-08-25",
+  "startTime": "1993-08-25T10:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "49-78"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "69-58"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.694,
+    "rankGapFactor": 0.315,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206817",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206817/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.676858Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.676860Z"
+}

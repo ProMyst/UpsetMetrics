@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-09-19-dodgers-at-reds",
+  "sport": "mlb",
+  "date": "1986-09-19",
+  "startTime": "1986-09-19T23:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "69-78"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "74-73"
+  },
+  "finalScore": "9-7",
+  "factors": {
+    "pregameOddsFactor": 0.385,
+    "rankGapFactor": 0.068,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192218",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192218/feed/live",
+    "retrievedAt": "2026-07-04T07:11:18.010977Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:18.010979Z"
+}

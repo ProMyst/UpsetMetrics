@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-09-26-cleveland-indians-at-tigers",
+  "sport": "mlb",
+  "date": "1992-09-26",
+  "startTime": "1992-09-26T07:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "73-81"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "73-83"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204939",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204939/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.173122Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.173127Z"
+}

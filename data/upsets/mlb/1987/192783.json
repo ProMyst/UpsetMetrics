@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-05-09-athletics-at-tigers",
+  "sport": "mlb",
+  "date": "1987-05-09",
+  "startTime": "1987-05-09T23:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "14-16"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "10-18"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192783",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192783/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.146883Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.146885Z"
+}

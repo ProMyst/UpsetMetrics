@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-16-mets-at-rockies",
+  "sport": "mlb",
+  "date": "1997-08-16",
+  "startTime": "1997-08-17T01:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "59-64"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "67-55"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.474,
+    "rankGapFactor": 0.139,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214893",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214893/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.200326Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.200327Z"
+}

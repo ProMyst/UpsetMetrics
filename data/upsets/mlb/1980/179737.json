@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-08-04-mets-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1980-08-04",
+  "startTime": "1980-08-04T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "51-53"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "58-46"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.468,
+    "rankGapFactor": 0.135,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179737",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179737/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.871643Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.871648Z"
+}

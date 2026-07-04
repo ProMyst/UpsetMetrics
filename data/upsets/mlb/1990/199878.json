@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-07-18-cleveland-indians-at-athletics",
+  "sport": "mlb",
+  "date": "1990-07-18",
+  "startTime": "1990-07-18T10:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "57-33"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "44-45"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199878",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199878/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.135292Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.135297Z"
+}

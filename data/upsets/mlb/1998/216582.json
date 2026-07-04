@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-06-23-braves-at-yankees",
+  "sport": "mlb",
+  "date": "1998-06-23",
+  "startTime": "1998-06-23T23:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "51-26"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "51-19"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.466,
+    "rankGapFactor": 0.132,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216582",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216582/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.119080Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.119082Z"
+}

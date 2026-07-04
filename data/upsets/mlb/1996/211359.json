@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-05-06-dodgers-at-pirates",
+  "sport": "mlb",
+  "date": "1996-05-06",
+  "startTime": "1996-05-06T07:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "16-17"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "15-16"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211359",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211359/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.176886Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.176888Z"
+}

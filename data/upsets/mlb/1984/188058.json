@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-09-18-brewers-at-tigers",
+  "sport": "mlb",
+  "date": "1984-09-18",
+  "startTime": "1984-09-18T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "97-54"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "62-88"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188058",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188058/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.458906Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.458908Z"
+}

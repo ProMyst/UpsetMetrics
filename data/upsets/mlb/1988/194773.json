@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-04-28-cubs-at-dodgers",
+  "sport": "mlb",
+  "date": "1988-04-28",
+  "startTime": "1988-04-29T02:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "9-11"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "12-6"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.842,
+    "rankGapFactor": 0.433,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194773",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194773/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.202091Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.202093Z"
+}

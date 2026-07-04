@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-05-19-yankees-at-tigers",
+  "sport": "mlb",
+  "date": "1980-05-19",
+  "startTime": "1980-05-19T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "20-13"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "15-18"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178824",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178824/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.689170Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.689172Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-05-15-mets-at-giants",
+  "sport": "mlb",
+  "date": "1988-05-15",
+  "startTime": "1988-05-15T10:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "19-18"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "23-11"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.707,
+    "rankGapFactor": 0.326,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194975",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194975/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.243171Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.243173Z"
+}

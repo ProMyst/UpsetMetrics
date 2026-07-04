@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-04-26-white-sox-at-tigers",
+  "sport": "mlb",
+  "date": "1986-04-26",
+  "startTime": "1986-04-26T08:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "6-10"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "8-8"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.613,
+    "rankGapFactor": 0.25,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190515",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190515/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.666459Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.666461Z"
+}

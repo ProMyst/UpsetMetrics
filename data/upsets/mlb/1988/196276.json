@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-09-04-orioles-at-mariners",
+  "sport": "mlb",
+  "date": "1988-09-04",
+  "startTime": "1988-09-04T10:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "48-87"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "55-82"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.415,
+    "rankGapFactor": 0.092,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196276",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196276/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.509200Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.509202Z"
+}

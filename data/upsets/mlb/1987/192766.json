@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-05-08-astros-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1987-05-08",
+  "startTime": "1987-05-08T23:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "16-11"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "12-15"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192766",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192766/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.144778Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.144783Z"
+}

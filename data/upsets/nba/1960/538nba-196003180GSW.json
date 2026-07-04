@@ -1,0 +1,34 @@
+{
+  "id": "nba-1960-03-18-celtics-at-warriors",
+  "sport": "nba",
+  "date": "1960-03-18",
+  "season": "1960",
+  "event": null,
+  "stakes": "Playoffs",
+  "winner": {
+    "slug": "warriors",
+    "name": "Warriors"
+  },
+  "loser": {
+    "slug": "celtics",
+    "name": "Celtics"
+  },
+  "finalScore": "115-110",
+  "factors": {
+    "pregameOddsFactor": 0.603,
+    "rankGapFactor": 0.181,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.85,
+    "marginFactor": 0.25
+  },
+  "provenance": {
+    "source": "nba_elo_538_prehistoric",
+    "sourceGameId": "538nba-196003180GSW",
+    "sourceUrl": "https://github.com/nicidob/nba_elo",
+    "retrievedAt": "2026-07-04T06:59:53.041582Z"
+  },
+  "methodologyVersion": "1.2",
+  "slug": "celtics-at-warriors",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:59:53.041584Z"
+}

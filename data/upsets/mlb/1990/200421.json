@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-31-yankees-at-red-sox",
+  "sport": "mlb",
+  "date": "1990-08-31",
+  "startTime": "1990-08-31T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "74-57"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "56-75"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200421",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200421/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.247537Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.247539Z"
+}

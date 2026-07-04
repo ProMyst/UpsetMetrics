@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-07-30-astros-at-braves",
+  "sport": "mlb",
+  "date": "1987-07-30",
+  "startTime": "1987-07-30T23:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "50-51"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "45-56"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193724",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193724/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.340792Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.340794Z"
+}

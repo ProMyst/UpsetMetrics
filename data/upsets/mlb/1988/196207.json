@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-08-28-cardinals-at-reds",
+  "sport": "mlb",
+  "date": "1988-08-28",
+  "startTime": "1988-08-28T07:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "59-71"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "66-63"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.444,
+    "rankGapFactor": 0.116,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196207",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196207/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.492523Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.492525Z"
+}

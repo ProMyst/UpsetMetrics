@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-07-28-cardinals-at-florida-marlins",
+  "sport": "mlb",
+  "date": "1995-07-28",
+  "startTime": "1995-07-28T23:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "33-50"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "37-49"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.382,
+    "rankGapFactor": 0.065,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210091",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210091/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.048617Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.048622Z"
+}

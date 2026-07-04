@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-06-19-athletics-at-tigers",
+  "sport": "mlb",
+  "date": "1991-06-19",
+  "startTime": "1991-06-19T23:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "38-27"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "31-33"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201658",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201658/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.187745Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.187747Z"
+}

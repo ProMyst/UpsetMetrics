@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-05-15-padres-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1989-05-15",
+  "startTime": "1989-05-15T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "19-21"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "20-18"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.428,
+    "rankGapFactor": 0.103,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197090",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197090/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.195061Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.195066Z"
+}

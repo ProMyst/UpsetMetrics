@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-06-24-athletics-at-giants",
+  "sport": "mlb",
+  "date": "1998-06-24",
+  "startTime": "1998-06-25T02:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "34-42"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "46-33"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.637,
+    "rankGapFactor": 0.27,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216604",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216604/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.123496Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.123498Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-07-04-cleveland-indians-at-royals",
+  "sport": "mlb",
+  "date": "1998-07-04",
+  "startTime": "1998-07-05T00:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "38-47"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "49-35"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.641,
+    "rankGapFactor": 0.273,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216734",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216734/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.148214Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.148218Z"
+}

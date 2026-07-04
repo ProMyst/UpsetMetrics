@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-04-24-cleveland-indians-at-rangers",
+  "sport": "mlb",
+  "date": "1994-04-24",
+  "startTime": "1994-04-24T08:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "10-6"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "5-11"
+  },
+  "finalScore": "12-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207549",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207549/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.486711Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.486716Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-07-17-athletics-at-yankees",
+  "sport": "mlb",
+  "date": "1982-07-17",
+  "startTime": "1982-07-17T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "42-42"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "38-53"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183032",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183032/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.292534Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.292536Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-06-07-pirates-at-mets",
+  "sport": "mlb",
+  "date": "1987-06-07",
+  "startTime": "1987-06-07T07:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "28-25"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "23-29"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193117",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193117/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.214310Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.214312Z"
+}

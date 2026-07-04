@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-07-15-cubs-at-pirates",
+  "sport": "mlb",
+  "date": "1998-07-15",
+  "startTime": "1998-07-15T23:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "42-52"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "51-43"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.539,
+    "rankGapFactor": 0.191,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216849",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216849/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.170483Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.170484Z"
+}

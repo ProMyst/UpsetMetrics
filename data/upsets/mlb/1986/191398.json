@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-07-10-cubs-at-dodgers",
+  "sport": "mlb",
+  "date": "1986-07-10",
+  "startTime": "1986-07-11T02:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "39-46"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "34-48"
+  },
+  "finalScore": "11-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191398",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191398/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.844671Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.844673Z"
+}

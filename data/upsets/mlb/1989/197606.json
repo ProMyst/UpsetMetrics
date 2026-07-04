@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-06-28-rangers-at-white-sox",
+  "sport": "mlb",
+  "date": "1989-06-28",
+  "startTime": "1989-06-29T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "43-33"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "29-49"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197606",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197606/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.299301Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.299303Z"
+}

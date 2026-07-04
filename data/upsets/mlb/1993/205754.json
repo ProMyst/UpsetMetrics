@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-06-02-montreal-expos-at-astros",
+  "sport": "mlb",
+  "date": "1993-06-02",
+  "startTime": "1993-06-02T08:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "28-23"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "28-23"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205754",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205754/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.450325Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.450330Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-15-giants-at-athletics",
+  "sport": "mlb",
+  "date": "1999-07-15",
+  "startTime": "1999-07-16T02:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "44-44"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "50-39"
+  },
+  "finalScore": "11-9",
+  "factors": {
+    "pregameOddsFactor": 0.454,
+    "rankGapFactor": 0.124,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2401",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2401/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.373997Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.374000Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-09-04-blue-jays-at-california-angels",
+  "sport": "mlb",
+  "date": "1993-09-04",
+  "startTime": "1993-09-05T02:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "61-74"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "78-59"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.594,
+    "rankGapFactor": 0.235,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206943",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206943/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.701234Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.701239Z"
+}

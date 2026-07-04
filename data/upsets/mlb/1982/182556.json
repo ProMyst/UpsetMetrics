@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-06-06-cleveland-indians-at-blue-jays",
+  "sport": "mlb",
+  "date": "1982-06-06",
+  "startTime": "1982-06-06T07:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "24-28"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "26-24"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.446,
+    "rankGapFactor": 0.117,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182556",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182556/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.199384Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.199389Z"
+}

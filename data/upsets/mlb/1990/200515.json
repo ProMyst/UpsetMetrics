@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-09-07-mariners-at-red-sox",
+  "sport": "mlb",
+  "date": "1990-09-07",
+  "startTime": "1990-09-07T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "77-60"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "68-70"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200515",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200515/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.264308Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.264310Z"
+}

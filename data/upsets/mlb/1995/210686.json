@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-09-13-braves-at-rockies",
+  "sport": "mlb",
+  "date": "1995-09-13",
+  "startTime": "1995-09-13T09:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "81-48"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "68-59"
+  },
+  "finalScore": "9-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210686",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210686/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.175090Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.175092Z"
+}

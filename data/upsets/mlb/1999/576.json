@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-05-16-florida-marlins-at-brewers",
+  "sport": "mlb",
+  "date": "1999-05-16",
+  "startTime": "1999-05-16T18:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "11-26"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "16-19"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.7,
+    "rankGapFactor": 0.32,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "576",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/576/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.218860Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.218866Z"
+}

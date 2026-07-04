@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-08-07-padres-at-cubs",
+  "sport": "mlb",
+  "date": "1994-08-07",
+  "startTime": "1994-08-07T08:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "45-69"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "49-61"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.427,
+    "rankGapFactor": 0.101,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208858",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208858/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.749886Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.749888Z"
+}

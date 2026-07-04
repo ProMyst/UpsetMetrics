@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-07-15-california-angels-at-orioles",
+  "sport": "mlb",
+  "date": "1989-07-15",
+  "startTime": "1989-07-15T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "50-38"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "53-35"
+  },
+  "finalScore": "11-9",
+  "factors": {
+    "pregameOddsFactor": 0.385,
+    "rankGapFactor": 0.068,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197771",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197771/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.331671Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.331676Z"
+}

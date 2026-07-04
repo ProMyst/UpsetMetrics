@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-05-06-dodgers-at-cubs",
+  "sport": "mlb",
+  "date": "1985-05-06",
+  "startTime": "1985-05-06T08:33:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "14-12"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "15-8"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.584,
+    "rankGapFactor": 0.227,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188518",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188518/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.437274Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.437276Z"
+}

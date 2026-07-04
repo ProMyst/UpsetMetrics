@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-04-22-dodgers-at-brewers",
+  "sport": "mlb",
+  "date": "1998-04-22",
+  "startTime": "1998-04-23T00:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "9-10"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "13-6"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.826,
+    "rankGapFactor": 0.421,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215748",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215748/feed/live",
+    "retrievedAt": "2026-07-04T07:28:37.954095Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:37.954097Z"
+}

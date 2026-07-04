@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-05-29-cleveland-indians-at-blue-jays",
+  "sport": "mlb",
+  "date": "1998-05-29",
+  "startTime": "1998-05-29T23:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "31-21"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "27-26"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216239",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216239/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.049842Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.049846Z"
+}

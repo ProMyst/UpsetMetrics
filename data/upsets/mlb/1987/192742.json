@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-05-05-pirates-at-padres",
+  "sport": "mlb",
+  "date": "1987-05-05",
+  "startTime": "1987-05-06T02:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "11-12"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "7-21"
+  },
+  "finalScore": "10-8",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192742",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192742/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.140437Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.140439Z"
+}

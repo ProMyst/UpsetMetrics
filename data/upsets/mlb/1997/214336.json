@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-07-02-mets-at-tigers",
+  "sport": "mlb",
+  "date": "1997-07-02",
+  "startTime": "1997-07-02T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "38-42"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "45-37"
+  },
+  "finalScore": "9-7",
+  "factors": {
+    "pregameOddsFactor": 0.484,
+    "rankGapFactor": 0.148,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214336",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214336/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.086018Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.086020Z"
+}

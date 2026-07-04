@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-06-05-mets-at-dodgers",
+  "sport": "mlb",
+  "date": "1983-06-05",
+  "startTime": "1983-06-05T10:33:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "18-31"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "35-16"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.638,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "184648",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/184648/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.542314Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.542316Z"
+}

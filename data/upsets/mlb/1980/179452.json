@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-07-12-giants-at-reds",
+  "sport": "mlb",
+  "date": "1980-07-12",
+  "startTime": "1980-07-12T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "40-43"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "43-39"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.406,
+    "rankGapFactor": 0.085,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179452",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179452/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.813781Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.813783Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-08-02-royals-at-blue-jays",
+  "sport": "mlb",
+  "date": "1989-08-02",
+  "startTime": "1989-08-02T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "53-54"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "58-48"
+  },
+  "finalScore": "8-0",
+  "factors": {
+    "pregameOddsFactor": 0.43,
+    "rankGapFactor": 0.104,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197998",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197998/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.377093Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.377095Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-08-11-pirates-at-mets",
+  "sport": "mlb",
+  "date": "1992-08-11",
+  "startTime": "1992-08-11T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "52-60"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "64-49"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.555,
+    "rankGapFactor": 0.204,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204402",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204402/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.060736Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.060738Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-09-02-royals-at-rangers",
+  "sport": "mlb",
+  "date": "1989-09-02",
+  "startTime": "1989-09-03T00:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "69-64"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "79-56"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.466,
+    "rankGapFactor": 0.133,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198376",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198376/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.455508Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.455510Z"
+}

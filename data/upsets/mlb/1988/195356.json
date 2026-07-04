@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-06-17-phillies-at-mets",
+  "sport": "mlb",
+  "date": "1988-06-17",
+  "startTime": "1988-06-17T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "29-34"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "41-23"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.751,
+    "rankGapFactor": 0.361,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195356",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195356/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.319371Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.319373Z"
+}

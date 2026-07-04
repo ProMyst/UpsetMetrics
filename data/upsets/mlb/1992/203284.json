@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-05-06-giants-at-cardinals",
+  "sport": "mlb",
+  "date": "1992-05-06",
+  "startTime": "1992-05-07T00:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "15-12"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "13-13"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203284",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203284/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.838607Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.838609Z"
+}

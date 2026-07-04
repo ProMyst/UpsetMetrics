@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-05-15-braves-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1986-05-15",
+  "startTime": "1986-05-15T07:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "15-18"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "19-12"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.696,
+    "rankGapFactor": 0.317,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190729",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190729/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.710202Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.710207Z"
+}

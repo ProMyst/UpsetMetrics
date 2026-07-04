@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-07-08-montreal-expos-at-braves",
+  "sport": "mlb",
+  "date": "1988-07-08",
+  "startTime": "1988-07-08T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "43-41"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "30-52"
+  },
+  "finalScore": "7-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195610",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195610/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.370720Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.370724Z"
+}

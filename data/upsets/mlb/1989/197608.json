@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-06-29-braves-at-reds",
+  "sport": "mlb",
+  "date": "1989-06-29",
+  "startTime": "1989-06-29T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "31-45"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "41-36"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.611,
+    "rankGapFactor": 0.249,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197608",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197608/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.300856Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.300858Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-07-14-dodgers-at-padres",
+  "sport": "mlb",
+  "date": "1980-07-14",
+  "startTime": "1980-07-14T10:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "37-49"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "48-37"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.636,
+    "rankGapFactor": 0.269,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179475",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179475/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.820836Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.820837Z"
+}

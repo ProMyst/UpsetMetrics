@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-10-12-yankees-at-orioles",
+  "sport": "mlb",
+  "date": "1996-10-12",
+  "startTime": "1996-10-12T23:05:00Z",
+  "season": "1996",
+  "event": "AL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "3-1"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "1-3"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "68050",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/68050/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.552753Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.552755Z"
+}

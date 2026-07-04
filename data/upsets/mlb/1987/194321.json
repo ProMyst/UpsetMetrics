@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-09-18-brewers-at-tigers",
+  "sport": "mlb",
+  "date": "1987-09-18",
+  "startTime": "1987-09-18T23:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "89-57"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "81-66"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194321",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194321/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.466367Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.466370Z"
+}

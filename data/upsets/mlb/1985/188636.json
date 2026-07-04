@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-05-17-yankees-at-california-angels",
+  "sport": "mlb",
+  "date": "1985-05-17",
+  "startTime": "1985-05-18T02:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "17-15"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "20-14"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.442,
+    "rankGapFactor": 0.114,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188636",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188636/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.460744Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.460749Z"
+}

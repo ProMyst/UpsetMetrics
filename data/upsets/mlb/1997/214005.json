@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-06-rangers-at-royals",
+  "sport": "mlb",
+  "date": "1997-06-06",
+  "startTime": "1997-06-07T00:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "26-30"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "31-26"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.499,
+    "rankGapFactor": 0.159,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214005",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214005/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.020482Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.020484Z"
+}

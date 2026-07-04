@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-09-12-dodgers-at-padres",
+  "sport": "mlb",
+  "date": "1990-09-12",
+  "startTime": "1990-09-13T02:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "75-68"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "66-76"
+  },
+  "finalScore": "10-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200574",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200574/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.278421Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.278423Z"
+}

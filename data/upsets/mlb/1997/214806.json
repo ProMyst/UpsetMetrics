@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-09-padres-at-cubs",
+  "sport": "mlb",
+  "date": "1997-08-09",
+  "startTime": "1997-08-09T08:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "55-61"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "47-70"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214806",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214806/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.183574Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.183576Z"
+}

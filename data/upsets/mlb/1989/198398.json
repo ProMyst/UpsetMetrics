@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-09-04-cubs-at-mets",
+  "sport": "mlb",
+  "date": "1989-09-04",
+  "startTime": "1989-09-04T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "77-60"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "72-64"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198398",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198398/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.460029Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.460031Z"
+}

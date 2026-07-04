@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-10-14-red-sox-at-yankees",
+  "sport": "mlb",
+  "date": "1999-10-14",
+  "startTime": "1999-10-15T00:00:00Z",
+  "season": "1999",
+  "event": "AL Championship Series",
+  "stakes": "Championship Series",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "2-0"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "0-2"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.9,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2823",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2823/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.603646Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.603648Z"
+}

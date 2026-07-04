@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-07-01-royals-at-cardinals",
+  "sport": "mlb",
+  "date": "1998-07-01",
+  "startTime": "1998-07-02T00:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "37-45"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "39-43"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.361,
+    "rankGapFactor": 0.049,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216693",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216693/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.139893Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.139895Z"
+}

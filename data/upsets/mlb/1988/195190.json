@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-06-03-athletics-at-twins",
+  "sport": "mlb",
+  "date": "1988-06-03",
+  "startTime": "1988-06-04T00:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "37-15"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "26-24"
+  },
+  "finalScore": "8-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195190",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195190/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.285225Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.285227Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-06-14-rangers-at-athletics",
+  "sport": "mlb",
+  "date": "1992-06-14",
+  "startTime": "1992-06-14T10:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "37-24"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "35-30"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203725",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203725/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.927862Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.927864Z"
+}

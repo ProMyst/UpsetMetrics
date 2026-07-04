@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-04-22-blue-jays-at-royals",
+  "sport": "mlb",
+  "date": "1980-04-22",
+  "startTime": "1980-04-23T00:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "6-6"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "5-5"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178541",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178541/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.632487Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.632489Z"
+}

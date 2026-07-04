@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-09-12-yankees-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1988-09-12",
+  "startTime": "1988-09-12T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "70-73"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "75-67"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.397,
+    "rankGapFactor": 0.077,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196380",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196380/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.527349Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.527354Z"
+}

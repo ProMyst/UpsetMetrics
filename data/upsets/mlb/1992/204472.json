@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-08-18-reds-at-phillies",
+  "sport": "mlb",
+  "date": "1992-08-18",
+  "startTime": "1992-08-18T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "50-68"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "67-51"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.66,
+    "rankGapFactor": 0.288,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204472",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204472/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.076121Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.076123Z"
+}

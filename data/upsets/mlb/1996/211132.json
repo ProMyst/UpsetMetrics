@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-04-18-pirates-at-cardinals",
+  "sport": "mlb",
+  "date": "1996-04-18",
+  "startTime": "1996-04-18T08:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "8-7"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "9-7"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.373,
+    "rankGapFactor": 0.058,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211132",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211132/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.130404Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.130406Z"
+}

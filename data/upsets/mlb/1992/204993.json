@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-09-30-padres-at-astros",
+  "sport": "mlb",
+  "date": "1992-09-30",
+  "startTime": "1992-10-01T00:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "78-80"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "80-77"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.34,
+    "rankGapFactor": 0.032,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204993",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204993/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.182518Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.182520Z"
+}

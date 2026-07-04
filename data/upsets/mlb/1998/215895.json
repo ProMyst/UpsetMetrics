@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-05-03-giants-at-braves",
+  "sport": "mlb",
+  "date": "1998-05-03",
+  "startTime": "1998-05-03T07:33:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "15-15"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "20-10"
+  },
+  "finalScore": "12-8",
+  "factors": {
+    "pregameOddsFactor": 0.717,
+    "rankGapFactor": 0.333,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215895",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215895/feed/live",
+    "retrievedAt": "2026-07-04T07:28:37.981872Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:37.981874Z"
+}

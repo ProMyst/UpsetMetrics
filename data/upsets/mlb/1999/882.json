@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-04-29-rockies-at-cardinals",
+  "sport": "mlb",
+  "date": "1999-04-29",
+  "startTime": "1999-04-29T17:40:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "8-10"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "12-8"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.689,
+    "rankGapFactor": 0.311,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "882",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/882/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.172277Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.172279Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-06-23-cubs-at-giants",
+  "sport": "mlb",
+  "date": "1991-06-23",
+  "startTime": "1991-06-23T10:33:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "29-41"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "31-38"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.387,
+    "rankGapFactor": 0.07,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201701",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201701/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.199592Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.199594Z"
+}

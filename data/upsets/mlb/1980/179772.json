@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-08-07-twins-at-california-angels",
+  "sport": "mlb",
+  "date": "1980-08-07",
+  "startTime": "1980-08-08T02:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "42-64"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "47-61"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.397,
+    "rankGapFactor": 0.078,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179772",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179772/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.879415Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.879420Z"
+}

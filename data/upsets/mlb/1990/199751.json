@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-07-05-cardinals-at-padres",
+  "sport": "mlb",
+  "date": "1990-07-05",
+  "startTime": "1990-07-05T10:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "33-47"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "36-41"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.438,
+    "rankGapFactor": 0.11,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199751",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199751/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.110301Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.110303Z"
+}

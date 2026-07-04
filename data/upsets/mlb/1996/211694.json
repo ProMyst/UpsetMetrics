@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-06-03-phillies-at-cubs",
+  "sport": "mlb",
+  "date": "1996-06-03",
+  "startTime": "1996-06-04T00:05:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "24-32"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "27-28"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.456,
+    "rankGapFactor": 0.125,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211694",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211694/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.244218Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.244220Z"
+}

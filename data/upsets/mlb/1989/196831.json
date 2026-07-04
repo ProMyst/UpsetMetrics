@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-04-22-yankees-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1989-04-22",
+  "startTime": "1989-04-22T07:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "7-8"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "6-10"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196831",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196831/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.144209Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.144214Z"
+}

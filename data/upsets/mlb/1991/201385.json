@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-05-27-mets-at-cubs",
+  "sport": "mlb",
+  "date": "1991-05-27",
+  "startTime": "1991-05-27T08:33:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "23-19"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "23-21"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201385",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201385/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.134648Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.134650Z"
+}

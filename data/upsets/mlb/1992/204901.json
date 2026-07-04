@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-09-23-cleveland-indians-at-red-sox",
+  "sport": "mlb",
+  "date": "1992-09-23",
+  "startTime": "1992-09-23T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "72-79"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "67-85"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204901",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204901/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.164534Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.164538Z"
+}

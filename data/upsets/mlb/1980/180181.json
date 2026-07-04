@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-09-09-royals-at-california-angels",
+  "sport": "mlb",
+  "date": "1980-09-09",
+  "startTime": "1980-09-10T02:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "54-83"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "87-52"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.879,
+    "rankGapFactor": 0.463,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180181",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180181/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.964680Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.964685Z"
+}

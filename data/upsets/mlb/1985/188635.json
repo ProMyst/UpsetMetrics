@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-05-17-dodgers-at-phillies",
+  "sport": "mlb",
+  "date": "1985-05-17",
+  "startTime": "1985-05-17T23:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "12-21"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "17-18"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.605,
+    "rankGapFactor": 0.244,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188635",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188635/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.459369Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.459371Z"
+}

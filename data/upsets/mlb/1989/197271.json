@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-05-31-mets-at-giants",
+  "sport": "mlb",
+  "date": "1989-05-31",
+  "startTime": "1989-06-01T02:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "25-24"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "29-22"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.446,
+    "rankGapFactor": 0.117,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197271",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197271/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.232389Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.232391Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-07-19-braves-at-mets",
+  "sport": "mlb",
+  "date": "1990-07-19",
+  "startTime": "1990-07-19T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "51-36"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "35-53"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199891",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199891/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.138834Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.138836Z"
+}

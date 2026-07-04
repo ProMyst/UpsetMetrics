@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-06-11-mariners-at-yankees",
+  "sport": "mlb",
+  "date": "1995-06-11",
+  "startTime": "1995-06-11T07:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "16-24"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "23-19"
+  },
+  "finalScore": "10-7",
+  "factors": {
+    "pregameOddsFactor": 0.669,
+    "rankGapFactor": 0.295,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209498",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209498/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.931427Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.931429Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-04-12-padres-at-reds",
+  "sport": "mlb",
+  "date": "1987-04-12",
+  "startTime": "1987-04-12T07:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "1-5"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "4-1"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192489",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192489/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.082136Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.082139Z"
+}

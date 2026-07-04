@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-08-28-padres-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1988-08-28",
+  "startTime": "1988-08-28T07:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "64-65"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "66-63"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.339,
+    "rankGapFactor": 0.031,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196205",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196205/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.492146Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.492151Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-14-giants-at-phillies",
+  "sport": "mlb",
+  "date": "1990-08-14",
+  "startTime": "1990-08-14T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "53-60"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "60-55"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.432,
+    "rankGapFactor": 0.105,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200225",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200225/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.202538Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.202540Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-07-06-cubs-at-giants",
+  "sport": "mlb",
+  "date": "1988-07-06",
+  "startTime": "1988-07-06T10:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "43-39"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "44-38"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.33,
+    "rankGapFactor": 0.024,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195588",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195588/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.367772Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.367774Z"
+}

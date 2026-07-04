@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-08-01-rangers-at-athletics",
+  "sport": "mlb",
+  "date": "1993-08-01",
+  "startTime": "1993-08-02T02:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "44-58"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "52-52"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.472,
+    "rankGapFactor": 0.137,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206509",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206509/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.599972Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.599974Z"
+}

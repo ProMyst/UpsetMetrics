@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-08-11-brewers-at-blue-jays",
+  "sport": "mlb",
+  "date": "1983-08-11",
+  "startTime": "1983-08-11T23:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "64-48"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "61-52"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185459",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185459/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.701619Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.701621Z"
+}

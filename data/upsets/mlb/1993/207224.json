@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-09-27-montreal-expos-at-florida-marlins",
+  "sport": "mlb",
+  "date": "1993-09-27",
+  "startTime": "1993-09-27T23:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "64-92"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "89-67"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.701,
+    "rankGapFactor": 0.321,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207224",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207224/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.759005Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-florida-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.759012Z"
+}

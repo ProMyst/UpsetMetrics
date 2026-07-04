@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-07-30-giants-at-astros",
+  "sport": "mlb",
+  "date": "1989-07-30",
+  "startTime": "1989-07-30T08:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "60-45"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "61-44"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.324,
+    "rankGapFactor": 0.019,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197966",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197966/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.370256Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.370258Z"
+}

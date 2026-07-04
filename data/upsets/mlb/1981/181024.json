@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-26-cleveland-indians-at-red-sox",
+  "sport": "mlb",
+  "date": "1981-05-26",
+  "startTime": "1981-05-26T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "22-14"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "23-19"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181024",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181024/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.062967Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.062973Z"
+}

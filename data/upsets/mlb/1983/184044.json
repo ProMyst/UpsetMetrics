@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-04-09-montreal-expos-at-dodgers",
+  "sport": "mlb",
+  "date": "1983-04-09",
+  "startTime": "1983-04-09T11:33:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "4-0"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "2-2"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "184044",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/184044/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.414609Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.414616Z"
+}

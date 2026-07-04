@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-05-07-yankees-at-twins",
+  "sport": "mlb",
+  "date": "1983-05-07",
+  "startTime": "1983-05-08T00:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "13-13"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "11-17"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "184319",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/184319/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.475097Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.475099Z"
+}

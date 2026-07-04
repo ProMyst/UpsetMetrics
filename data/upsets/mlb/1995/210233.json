@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-08-09-white-sox-at-mariners",
+  "sport": "mlb",
+  "date": "1995-08-09",
+  "startTime": "1995-08-10T02:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "49-47"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "40-54"
+  },
+  "finalScore": "11-8",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "210233",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/210233/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.080133Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.080135Z"
+}

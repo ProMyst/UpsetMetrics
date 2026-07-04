@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-06-11-dodgers-at-astros",
+  "sport": "mlb",
+  "date": "1990-06-11",
+  "startTime": "1990-06-12T00:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "24-34"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "28-30"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.472,
+    "rankGapFactor": 0.138,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199456",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199456/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.051624Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.051626Z"
+}

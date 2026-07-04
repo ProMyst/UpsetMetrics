@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-17-mariners-at-yankees",
+  "sport": "mlb",
+  "date": "1981-05-17",
+  "startTime": "1981-05-17T07:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "11-22"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "19-14"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.906,
+    "rankGapFactor": 0.485,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180920",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180920/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.041170Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.041172Z"
+}

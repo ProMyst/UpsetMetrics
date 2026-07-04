@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-05-21-brewers-at-mariners",
+  "sport": "mlb",
+  "date": "1980-05-21",
+  "startTime": "1980-05-22T02:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "19-20"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "16-18"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178848",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178848/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.695711Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.695713Z"
+}

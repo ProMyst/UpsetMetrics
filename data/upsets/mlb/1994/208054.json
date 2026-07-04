@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-06-04-blue-jays-at-mariners",
+  "sport": "mlb",
+  "date": "1994-06-04",
+  "startTime": "1994-06-05T02:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "22-31"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "25-28"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.442,
+    "rankGapFactor": 0.113,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208054",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208054/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.587185Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.587187Z"
+}

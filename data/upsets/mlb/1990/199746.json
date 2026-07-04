@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-07-05-royals-at-tigers",
+  "sport": "mlb",
+  "date": "1990-07-05",
+  "startTime": "1990-07-05T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "35-43"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "39-43"
+  },
+  "finalScore": "15-3",
+  "factors": {
+    "pregameOddsFactor": 0.367,
+    "rankGapFactor": 0.054,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199746",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199746/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.108188Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.108190Z"
+}

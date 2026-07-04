@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-04-19-reds-at-astros",
+  "sport": "mlb",
+  "date": "1983-04-19",
+  "startTime": "1983-04-20T00:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "3-10"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "8-5"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "184142",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/184142/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.439798Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.439800Z"
+}

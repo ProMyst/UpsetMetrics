@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-08-21-yankees-at-mariners",
+  "sport": "mlb",
+  "date": "1980-08-21",
+  "startTime": "1980-08-22T02:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "43-77"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "73-47"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.925,
+    "rankGapFactor": 0.5,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179950",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179950/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.918669Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.918671Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-04-04-blue-jays-at-royals",
+  "sport": "mlb",
+  "date": "1988-04-04",
+  "startTime": "1988-04-04T08:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194531",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194531/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.136557Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.136571Z"
+}

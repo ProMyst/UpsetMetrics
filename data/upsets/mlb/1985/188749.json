@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-05-27-tigers-at-mariners",
+  "sport": "mlb",
+  "date": "1985-05-27",
+  "startTime": "1985-05-27T10:33:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "19-24"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "24-17"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.659,
+    "rankGapFactor": 0.287,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188749",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188749/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.484113Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.484115Z"
+}

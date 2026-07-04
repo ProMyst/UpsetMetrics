@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-06-19-royals-at-california-angels",
+  "sport": "mlb",
+  "date": "1987-06-19",
+  "startTime": "1987-06-20T02:05:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "34-30"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "30-37"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193255",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193255/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.245596Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.245601Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-05-dodgers-at-phillies",
+  "sport": "mlb",
+  "date": "1981-05-05",
+  "startTime": "1981-05-05T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "16-7"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "16-8"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180776",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180776/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.013505Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.013507Z"
+}

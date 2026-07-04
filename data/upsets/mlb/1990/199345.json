@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-06-02-cubs-at-cardinals",
+  "sport": "mlb",
+  "date": "1990-06-02",
+  "startTime": "1990-06-03T00:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "22-27"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "21-28"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199345",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199345/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.029036Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.029038Z"
+}

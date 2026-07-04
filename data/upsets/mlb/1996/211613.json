@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-05-27-rockies-at-cardinals",
+  "sport": "mlb",
+  "date": "1996-05-27",
+  "startTime": "1996-05-27T08:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "24-23"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "22-28"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211613",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211613/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.228034Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.228036Z"
+}

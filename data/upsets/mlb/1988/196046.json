@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-08-15-braves-at-pirates",
+  "sport": "mlb",
+  "date": "1988-08-15",
+  "startTime": "1988-08-15T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "41-77"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "65-54"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.797,
+    "rankGapFactor": 0.398,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196046",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196046/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.458055Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.458057Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-07-pirates-at-reds",
+  "sport": "mlb",
+  "date": "1981-05-07",
+  "startTime": "1981-05-07T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "9-9"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "12-11"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.354,
+    "rankGapFactor": 0.043,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180803",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180803/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.017570Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.017572Z"
+}

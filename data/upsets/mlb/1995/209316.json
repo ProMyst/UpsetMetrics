@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-05-28-florida-marlins-at-cubs",
+  "sport": "mlb",
+  "date": "1995-05-28",
+  "startTime": "1995-05-28T08:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "19-10"
+  },
+  "loser": {
+    "slug": "florida-marlins",
+    "name": "Florida Marlins",
+    "recordEntering": "7-23"
+  },
+  "finalScore": "13-8",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209316",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209316/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.896744Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "florida-marlins-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.896749Z"
+}

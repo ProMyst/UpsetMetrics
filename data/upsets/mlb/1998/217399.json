@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-08-23-rockies-at-phillies",
+  "sport": "mlb",
+  "date": "1998-08-23",
+  "startTime": "1998-08-23T07:33:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "60-71"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "64-66"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.386,
+    "rankGapFactor": 0.069,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "217399",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/217399/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.284559Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.284561Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-09-29-braves-at-dodgers",
+  "sport": "mlb",
+  "date": "1982-09-29",
+  "startTime": "1982-09-30T02:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "87-71"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "85-73"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183933",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183933/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.479954Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.479956Z"
+}

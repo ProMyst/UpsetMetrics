@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-05-08-padres-at-cubs",
+  "sport": "mlb",
+  "date": "1993-05-08",
+  "startTime": "1993-05-08T08:33:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "14-14"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "12-16"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205442",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205442/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.386746Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.386748Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-08-22-padres-at-cubs",
+  "sport": "mlb",
+  "date": "1982-08-22",
+  "startTime": "1982-08-22T08:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "54-72"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "65-59"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.539,
+    "rankGapFactor": 0.191,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183487",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183487/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.388719Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.388720Z"
+}

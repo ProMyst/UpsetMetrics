@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-05-28-reds-at-cubs",
+  "sport": "mlb",
+  "date": "1989-05-28",
+  "startTime": "1989-05-28T08:33:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "27-20"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "26-20"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197229",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197229/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.224193Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.224195Z"
+}

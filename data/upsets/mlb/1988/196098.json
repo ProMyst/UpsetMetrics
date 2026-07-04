@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-08-19-athletics-at-red-sox",
+  "sport": "mlb",
+  "date": "1988-08-19",
+  "startTime": "1988-08-19T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "68-53"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "77-46"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.46,
+    "rankGapFactor": 0.128,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196098",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196098/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.470924Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.470926Z"
+}

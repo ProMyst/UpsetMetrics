@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-05-13-reds-at-giants",
+  "sport": "mlb",
+  "date": "1994-05-13",
+  "startTime": "1994-05-14T02:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "19-16"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "22-12"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.561,
+    "rankGapFactor": 0.208,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207776",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207776/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.533862Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.533864Z"
+}

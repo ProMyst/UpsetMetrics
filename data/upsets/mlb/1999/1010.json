@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-05-12-montreal-expos-at-diamondbacks",
+  "sport": "mlb",
+  "date": "1999-05-12",
+  "startTime": "1999-05-13T02:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "20-15"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "10-22"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1010",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1010/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.210146Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-diamondbacks",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.210151Z"
+}

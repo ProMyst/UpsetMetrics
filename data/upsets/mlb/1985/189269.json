@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-07-10-royals-at-yankees",
+  "sport": "mlb",
+  "date": "1985-07-10",
+  "startTime": "1985-07-10T23:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "45-36"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "41-41"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "189269",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/189269/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.587714Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.587716Z"
+}

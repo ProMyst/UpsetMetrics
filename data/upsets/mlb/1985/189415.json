@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-07-24-cleveland-indians-at-rangers",
+  "sport": "mlb",
+  "date": "1985-07-24",
+  "startTime": "1985-07-25T00:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "30-63"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "37-58"
+  },
+  "finalScore": "8-4",
+  "factors": {
+    "pregameOddsFactor": 0.467,
+    "rankGapFactor": 0.134,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "189415",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/189415/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.615798Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.615803Z"
+}

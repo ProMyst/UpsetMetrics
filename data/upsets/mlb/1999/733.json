@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-28-phillies-at-pirates",
+  "sport": "mlb",
+  "date": "1999-06-28",
+  "startTime": "1999-06-28T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "38-36"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "39-35"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.334,
+    "rankGapFactor": 0.027,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "733",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/733/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.332626Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.332628Z"
+}

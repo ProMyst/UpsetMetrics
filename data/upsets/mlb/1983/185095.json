@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-07-14-tigers-at-mariners",
+  "sport": "mlb",
+  "date": "1983-07-14",
+  "startTime": "1983-07-15T02:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "47-36"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "34-54"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185095",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185095/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.630266Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.630268Z"
+}

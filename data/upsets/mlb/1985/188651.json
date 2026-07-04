@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-05-18-giants-at-mets",
+  "sport": "mlb",
+  "date": "1985-05-18",
+  "startTime": "1985-05-18T23:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "14-20"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "22-11"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.937,
+    "rankGapFactor": 0.51,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188651",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188651/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.461517Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.461519Z"
+}

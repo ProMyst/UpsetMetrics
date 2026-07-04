@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-30-tigers-at-yankees",
+  "sport": "mlb",
+  "date": "1999-06-30",
+  "startTime": "1999-06-30T17:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "33-45"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "46-29"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.776,
+    "rankGapFactor": 0.381,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "807",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/807/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.336684Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.336686Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-05-25-padres-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1983-05-25",
+  "startTime": "1983-05-25T23:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "21-17"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "17-24"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "184518",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/184518/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.514349Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.514354Z"
+}

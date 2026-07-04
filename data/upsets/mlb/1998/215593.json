@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-04-10-mets-at-brewers",
+  "sport": "mlb",
+  "date": "1998-04-10",
+  "startTime": "1998-04-11T00:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "7-2"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "5-4"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215593",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215593/feed/live",
+    "retrievedAt": "2026-07-04T07:28:37.921383Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:37.921386Z"
+}

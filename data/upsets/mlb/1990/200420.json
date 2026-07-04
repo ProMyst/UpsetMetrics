@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-31-dodgers-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1990-08-31",
+  "startTime": "1990-08-31T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "68-62"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "70-61"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.328,
+    "rankGapFactor": 0.023,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200420",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200420/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.246567Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.246572Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-04-15-anaheim-angels-at-yankees",
+  "sport": "mlb",
+  "date": "1998-04-15",
+  "startTime": "1998-04-15T07:33:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "7-4"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "6-6"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215652",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215652/feed/live",
+    "retrievedAt": "2026-07-04T07:28:37.936168Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:37.936173Z"
+}

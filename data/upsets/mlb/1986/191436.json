@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-07-13-california-angels-at-red-sox",
+  "sport": "mlb",
+  "date": "1986-07-13",
+  "startTime": "1986-07-13T07:33:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "48-39"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "56-31"
+  },
+  "finalScore": "12-3",
+  "factors": {
+    "pregameOddsFactor": 0.53,
+    "rankGapFactor": 0.184,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "191436",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/191436/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.850642Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.850646Z"
+}

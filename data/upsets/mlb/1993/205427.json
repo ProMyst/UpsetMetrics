@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-05-07-athletics-at-california-angels",
+  "sport": "mlb",
+  "date": "1993-05-07",
+  "startTime": "1993-05-08T02:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "16-10"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "9-16"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "205427",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/205427/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.384228Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.384233Z"
+}

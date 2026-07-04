@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-07-04-rockies-at-cubs",
+  "sport": "mlb",
+  "date": "1994-07-04",
+  "startTime": "1994-07-04T08:33:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "34-45"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "38-45"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.369,
+    "rankGapFactor": 0.055,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208433",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208433/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.663311Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.663314Z"
+}

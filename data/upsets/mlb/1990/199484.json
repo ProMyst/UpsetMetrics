@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-06-13-brewers-at-orioles",
+  "sport": "mlb",
+  "date": "1990-06-13",
+  "startTime": "1990-06-13T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "28-29"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "29-30"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.301,
+    "rankGapFactor": 0.001,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199484",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199484/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.056821Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.056823Z"
+}

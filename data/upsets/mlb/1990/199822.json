@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-07-13-blue-jays-at-california-angels",
+  "sport": "mlb",
+  "date": "1990-07-13",
+  "startTime": "1990-07-14T02:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "42-45"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "48-39"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.472,
+    "rankGapFactor": 0.138,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199822",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199822/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.124164Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.124169Z"
+}

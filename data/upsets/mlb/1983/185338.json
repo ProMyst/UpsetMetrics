@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-08-02-orioles-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1983-08-02",
+  "startTime": "1983-08-02T23:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "44-60"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "59-42"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.703,
+    "rankGapFactor": 0.322,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185338",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185338/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.676813Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.676819Z"
+}

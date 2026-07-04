@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-15-cardinals-at-braves",
+  "sport": "mlb",
+  "date": "1981-05-15",
+  "startTime": "1981-05-15T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "18-14"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "17-9"
+  },
+  "finalScore": "11-3",
+  "factors": {
+    "pregameOddsFactor": 0.528,
+    "rankGapFactor": 0.183,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180895",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180895/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.035985Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.035987Z"
+}

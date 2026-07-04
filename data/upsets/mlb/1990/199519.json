@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-06-16-astros-at-reds",
+  "sport": "mlb",
+  "date": "1990-06-16",
+  "startTime": "1990-06-16T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "38-20"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "26-36"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199519",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199519/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.062891Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.062893Z"
+}

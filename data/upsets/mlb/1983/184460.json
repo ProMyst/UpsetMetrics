@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-05-20-rangers-at-tigers",
+  "sport": "mlb",
+  "date": "1983-05-20",
+  "startTime": "1983-05-20T23:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "21-16"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "15-20"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "184460",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/184460/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.502118Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.502120Z"
+}

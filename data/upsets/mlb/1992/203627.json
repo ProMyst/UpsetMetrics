@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-06-06-athletics-at-white-sox",
+  "sport": "mlb",
+  "date": "1992-06-06",
+  "startTime": "1992-06-07T00:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "32-22"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "24-27"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203627",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203627/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.908308Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.908309Z"
+}

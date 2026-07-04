@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-09-13-giants-at-reds",
+  "sport": "mlb",
+  "date": "1987-09-13",
+  "startTime": "1987-09-13T07:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "77-66"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "71-72"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194264",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194264/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.453276Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.453278Z"
+}

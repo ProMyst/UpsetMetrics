@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-09-16-montreal-expos-at-pirates",
+  "sport": "mlb",
+  "date": "1992-09-16",
+  "startTime": "1992-09-16T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "81-64"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "84-61"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.352,
+    "rankGapFactor": 0.041,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204821",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204821/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.148523Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.148528Z"
+}

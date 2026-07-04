@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-05-03-california-angels-at-orioles",
+  "sport": "mlb",
+  "date": "1983-05-03",
+  "startTime": "1983-05-03T23:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "13-9"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "13-10"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "184272",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/184272/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.466516Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.466522Z"
+}

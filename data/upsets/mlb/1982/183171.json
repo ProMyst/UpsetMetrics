@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-07-29-twins-at-athletics",
+  "sport": "mlb",
+  "date": "1982-07-29",
+  "startTime": "1982-07-30T02:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "42-60"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "34-67"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183171",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183171/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.322258Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.322260Z"
+}

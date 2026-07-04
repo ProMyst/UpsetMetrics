@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-06-30-padres-at-giants",
+  "sport": "mlb",
+  "date": "1995-06-30",
+  "startTime": "1995-07-01T02:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "30-30"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "30-29"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.321,
+    "rankGapFactor": 0.017,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209737",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209737/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.980615Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.980618Z"
+}

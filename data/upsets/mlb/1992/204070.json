@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-07-12-phillies-at-padres",
+  "sport": "mlb",
+  "date": "1992-07-12",
+  "startTime": "1992-07-13T02:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "47-42"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "36-52"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204070",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204070/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.994359Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.994361Z"
+}

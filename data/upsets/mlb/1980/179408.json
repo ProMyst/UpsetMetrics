@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-07-06-mariners-at-royals",
+  "sport": "mlb",
+  "date": "1980-07-06",
+  "startTime": "1980-07-06T08:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "35-45"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "47-33"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.675,
+    "rankGapFactor": 0.3,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179408",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179408/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.806456Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.806458Z"
+}

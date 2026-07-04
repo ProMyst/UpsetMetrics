@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-08-14-yankees-at-tigers",
+  "sport": "mlb",
+  "date": "1981-08-14",
+  "startTime": "1981-08-14T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "33-29"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "37-24"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.486,
+    "rankGapFactor": 0.149,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181272",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181272/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.113665Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.113667Z"
+}

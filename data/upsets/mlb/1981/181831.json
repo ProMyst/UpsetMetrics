@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-09-29-rangers-at-mariners",
+  "sport": "mlb",
+  "date": "1981-09-29",
+  "startTime": "1981-09-30T02:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "54-47"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "42-63"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181831",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181831/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.225546Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.225548Z"
+}

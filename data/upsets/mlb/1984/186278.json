@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-04-20-rangers-at-yankees",
+  "sport": "mlb",
+  "date": "1984-04-20",
+  "startTime": "1984-04-20T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "6-6"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "6-8"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186278",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186278/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.099024Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.099026Z"
+}

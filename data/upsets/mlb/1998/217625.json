@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-09-08-yankees-at-red-sox",
+  "sport": "mlb",
+  "date": "1998-09-08",
+  "startTime": "1998-09-08T23:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "101-41"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "82-61"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "217625",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/217625/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.328466Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.328468Z"
+}

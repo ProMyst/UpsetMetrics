@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-09-28-tigers-at-twins",
+  "sport": "mlb",
+  "date": "1999-09-28",
+  "startTime": "1999-09-29T00:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "66-91"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "63-93"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1136",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1136/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.584447Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.584449Z"
+}

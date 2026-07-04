@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-05-21-blue-jays-at-yankees",
+  "sport": "mlb",
+  "date": "1997-05-21",
+  "startTime": "1997-05-21T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "23-19"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "25-20"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.32,
+    "rankGapFactor": 0.016,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213806",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213806/feed/live",
+    "retrievedAt": "2026-07-04T07:27:10.979990Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:10.979992Z"
+}

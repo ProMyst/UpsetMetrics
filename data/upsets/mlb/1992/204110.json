@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-07-18-giants-at-mets",
+  "sport": "mlb",
+  "date": "1992-07-18",
+  "startTime": "1992-07-18T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "44-47"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "44-46"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.313,
+    "rankGapFactor": 0.011,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204110",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204110/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.002534Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.002536Z"
+}

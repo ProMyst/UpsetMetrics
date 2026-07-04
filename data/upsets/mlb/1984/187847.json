@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-08-31-padres-at-mets",
+  "sport": "mlb",
+  "date": "1984-08-31",
+  "startTime": "1984-08-31T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "78-55"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "73-59"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187847",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187847/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.415964Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.415966Z"
+}

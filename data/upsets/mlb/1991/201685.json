@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-06-22-orioles-at-royals",
+  "sport": "mlb",
+  "date": "1991-06-22",
+  "startTime": "1991-06-23T00:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "24-41"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "32-33"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.608,
+    "rankGapFactor": 0.246,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "201685",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/201685/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.195391Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.195393Z"
+}

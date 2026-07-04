@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-17-cleveland-indians-at-pirates",
+  "sport": "mlb",
+  "date": "1999-07-17",
+  "startTime": "1999-07-17T17:35:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "45-45"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "57-33"
+  },
+  "finalScore": "13-10",
+  "factors": {
+    "pregameOddsFactor": 0.633,
+    "rankGapFactor": 0.267,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2596",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2596/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.377745Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.377749Z"
+}

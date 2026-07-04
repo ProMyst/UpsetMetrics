@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-04-05-tigers-at-twins",
+  "sport": "mlb",
+  "date": "1984-04-05",
+  "startTime": "1984-04-05T09:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "2-0"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "0-2"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186129",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186129/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.061316Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.061320Z"
+}

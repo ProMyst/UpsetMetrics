@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-08-22-padres-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1980-08-22",
+  "startTime": "1980-08-22T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "66-56"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "51-72"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179965",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179965/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.919826Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.919831Z"
+}

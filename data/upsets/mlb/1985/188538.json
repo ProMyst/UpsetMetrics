@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-05-08-cubs-at-giants",
+  "sport": "mlb",
+  "date": "1985-05-08",
+  "startTime": "1985-05-09T02:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "17-8"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "10-16"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188538",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188538/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.442201Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.442203Z"
+}

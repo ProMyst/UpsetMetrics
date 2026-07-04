@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-06-06-dodgers-at-braves",
+  "sport": "mlb",
+  "date": "1980-06-06",
+  "startTime": "1980-06-06T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "31-20"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "20-28"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179027",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179027/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.730917Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.730919Z"
+}

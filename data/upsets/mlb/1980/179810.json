@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-08-10-cleveland-indians-at-brewers",
+  "sport": "mlb",
+  "date": "1980-08-10",
+  "startTime": "1980-08-10T08:38:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "55-52"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "59-52"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.344,
+    "rankGapFactor": 0.035,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179810",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179810/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.887113Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cleveland-indians-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.887118Z"
+}

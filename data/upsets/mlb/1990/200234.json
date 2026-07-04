@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-15-twins-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1990-08-15",
+  "startTime": "1990-08-15T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "55-62"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "55-62"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200234",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200234/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.205100Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.205105Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-06-14-reds-at-padres",
+  "sport": "mlb",
+  "date": "1989-06-14",
+  "startTime": "1989-06-15T02:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "31-35"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "36-27"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.554,
+    "rankGapFactor": 0.203,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197430",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197430/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.265988Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.265990Z"
+}

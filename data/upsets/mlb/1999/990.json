@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-06-24-montreal-expos-at-braves",
+  "sport": "mlb",
+  "date": "1999-06-24",
+  "startTime": "1999-06-24T17:10:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "44-28"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "27-41"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "990",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/990/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.321208Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.321213Z"
+}

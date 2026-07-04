@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-04-23-reds-at-astros",
+  "sport": "mlb",
+  "date": "1985-04-23",
+  "startTime": "1985-04-24T00:05:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "8-6"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "8-6"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188374",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188374/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.407585Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.407587Z"
+}

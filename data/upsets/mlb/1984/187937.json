@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-09-08-cubs-at-mets",
+  "sport": "mlb",
+  "date": "1984-09-08",
+  "startTime": "1984-09-08T07:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "86-56"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "79-63"
+  },
+  "finalScore": "6-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187937",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187937/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.435547Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.435549Z"
+}

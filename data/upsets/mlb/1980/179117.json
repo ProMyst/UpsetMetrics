@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-06-14-braves-at-cubs",
+  "sport": "mlb",
+  "date": "1980-06-14",
+  "startTime": "1980-06-14T08:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "24-30"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "23-32"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "179117",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/179117/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.751214Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.751216Z"
+}

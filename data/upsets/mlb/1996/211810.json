@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-06-12-astros-at-rockies",
+  "sport": "mlb",
+  "date": "1996-06-12",
+  "startTime": "1996-06-12T09:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "31-31"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "33-33"
+  },
+  "finalScore": "8-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211810",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211810/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.268320Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.268322Z"
+}

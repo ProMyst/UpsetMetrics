@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-09-braves-at-dodgers",
+  "sport": "mlb",
+  "date": "1997-09-09",
+  "startTime": "1997-09-10T02:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "90-54"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "81-64"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215195",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215195/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.262313Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.262315Z"
+}

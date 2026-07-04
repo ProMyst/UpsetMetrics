@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-07-19-dodgers-at-cardinals",
+  "sport": "mlb",
+  "date": "1998-07-19",
+  "startTime": "1998-07-20T00:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "45-52"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "49-49"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.39,
+    "rankGapFactor": 0.072,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216910",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216910/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.185755Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.185757Z"
+}

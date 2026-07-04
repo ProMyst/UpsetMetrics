@@ -1,0 +1,34 @@
+{
+  "id": "nba-1958-01-31-warriors-at-celtics",
+  "sport": "nba",
+  "date": "1958-01-31",
+  "season": "1958",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "warriors",
+    "name": "Warriors"
+  },
+  "loser": {
+    "slug": "celtics",
+    "name": "Celtics"
+  },
+  "finalScore": "110-101",
+  "factors": {
+    "pregameOddsFactor": 0.625,
+    "rankGapFactor": 0.222,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.45
+  },
+  "provenance": {
+    "source": "nba_elo_538_prehistoric",
+    "sourceGameId": "538nba-195801310BOS",
+    "sourceUrl": "https://github.com/nicidob/nba_elo",
+    "retrievedAt": "2026-07-04T06:59:52.899221Z"
+  },
+  "methodologyVersion": "1.2",
+  "slug": "warriors-at-celtics",
+  "published": false,
+  "ingestedAt": "2026-07-04T06:59:52.899223Z"
+}

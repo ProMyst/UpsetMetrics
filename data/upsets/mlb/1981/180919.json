@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-17-phillies-at-padres",
+  "sport": "mlb",
+  "date": "1981-05-17",
+  "startTime": "1981-05-17T10:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "21-13"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "14-22"
+  },
+  "finalScore": "6-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180919",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180919/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.042504Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.042506Z"
+}

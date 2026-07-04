@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-04-26-cubs-at-dodgers",
+  "sport": "mlb",
+  "date": "1998-04-26",
+  "startTime": "1998-04-26T10:33:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "12-11"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "12-12"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215796",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215796/feed/live",
+    "retrievedAt": "2026-07-04T07:28:37.964171Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:37.964173Z"
+}

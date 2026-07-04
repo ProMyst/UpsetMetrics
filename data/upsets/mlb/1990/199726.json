@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-07-03-mariners-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1990-07-03",
+  "startTime": "1990-07-03T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "38-38"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "40-39"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.316,
+    "rankGapFactor": 0.013,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199726",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199726/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.103113Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.103118Z"
+}

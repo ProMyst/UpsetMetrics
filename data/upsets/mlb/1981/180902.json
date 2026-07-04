@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-16-royals-at-red-sox",
+  "sport": "mlb",
+  "date": "1981-05-16",
+  "startTime": "1981-05-16T07:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "8-18"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "16-15"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.821,
+    "rankGapFactor": 0.417,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180902",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180902/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.039005Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.039006Z"
+}

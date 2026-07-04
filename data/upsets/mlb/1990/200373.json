@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-26-cardinals-at-astros",
+  "sport": "mlb",
+  "date": "1990-08-26",
+  "startTime": "1990-08-26T08:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "57-71"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "58-69"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.328,
+    "rankGapFactor": 0.023,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200373",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200373/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.237859Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.237861Z"
+}

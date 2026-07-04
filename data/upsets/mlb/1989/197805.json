@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-07-17-athletics-at-tigers",
+  "sport": "mlb",
+  "date": "1989-07-17",
+  "startTime": "1989-07-17T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "33-57"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "54-39"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.835,
+    "rankGapFactor": 0.428,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197805",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197805/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.337366Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.337368Z"
+}

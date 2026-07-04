@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-05-01-giants-at-mets",
+  "sport": "mlb",
+  "date": "1999-05-01",
+  "startTime": "1999-05-01T17:40:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "15-9"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "16-9"
+  },
+  "finalScore": "9-4",
+  "factors": {
+    "pregameOddsFactor": 0.338,
+    "rankGapFactor": 0.03,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2246",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2246/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.177805Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.177807Z"
+}

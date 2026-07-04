@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-07-09-orioles-at-white-sox",
+  "sport": "mlb",
+  "date": "1995-07-09",
+  "startTime": "1995-07-09T08:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "33-35"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "28-38"
+  },
+  "finalScore": "11-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209853",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209853/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.005241Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.005242Z"
+}

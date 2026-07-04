@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-04-27-padres-at-mets",
+  "sport": "mlb",
+  "date": "1999-04-27",
+  "startTime": "1999-04-27T23:10:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "9-10"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "11-9"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.491,
+    "rankGapFactor": 0.153,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "479",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/479/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.166888Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.166890Z"
+}

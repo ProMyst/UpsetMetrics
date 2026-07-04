@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-07-16-giants-at-pirates",
+  "sport": "mlb",
+  "date": "1990-07-16",
+  "startTime": "1990-07-16T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "48-40"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "52-34"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.448,
+    "rankGapFactor": 0.118,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199861",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199861/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.130411Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.130413Z"
+}

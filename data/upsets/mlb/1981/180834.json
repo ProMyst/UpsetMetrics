@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-10-red-sox-at-blue-jays",
+  "sport": "mlb",
+  "date": "1981-05-10",
+  "startTime": "1981-05-10T07:33:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "12-13"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "9-18"
+  },
+  "finalScore": "9-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180834",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180834/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.026156Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.026158Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-08-07-royals-at-yankees",
+  "sport": "mlb",
+  "date": "1998-08-07",
+  "startTime": "1998-08-07T07:33:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "81-29"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "52-62"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "217172",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/217172/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.237551Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.237553Z"
+}

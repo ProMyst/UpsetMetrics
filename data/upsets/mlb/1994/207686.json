@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-05-06-cubs-at-pirates",
+  "sport": "mlb",
+  "date": "1994-05-06",
+  "startTime": "1994-05-06T23:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "8-18"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "13-13"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.781,
+    "rankGapFactor": 0.385,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207686",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207686/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.513390Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.513392Z"
+}

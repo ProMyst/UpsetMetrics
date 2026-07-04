@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1996-04-09-rangers-at-white-sox",
+  "sport": "mlb",
+  "date": "1996-04-09",
+  "startTime": "1996-04-09T08:33:00Z",
+  "season": "1996",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "7-0"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "2-5"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "211026",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/211026/feed/live",
+    "retrievedAt": "2026-07-04T07:25:44.107819Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:25:44.107821Z"
+}

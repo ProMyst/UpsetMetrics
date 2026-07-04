@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-10-01-blue-jays-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1999-10-01",
+  "startTime": "1999-10-01T23:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "82-78"
+  },
+  "loser": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "97-63"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.534,
+    "rankGapFactor": 0.188,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1293",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1293/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.591144Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.591149Z"
+}

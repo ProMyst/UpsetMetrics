@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-09-06-pirates-at-astros",
+  "sport": "mlb",
+  "date": "1987-09-06",
+  "startTime": "1987-09-06T08:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "62-74"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "68-68"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.41,
+    "rankGapFactor": 0.088,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194184",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194184/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.438943Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.438945Z"
+}

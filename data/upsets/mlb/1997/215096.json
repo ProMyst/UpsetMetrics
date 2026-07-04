@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-09-01-red-sox-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1997-09-01",
+  "startTime": "1997-09-01T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "68-68"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "67-71"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215096",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215096/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.242255Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.242260Z"
+}

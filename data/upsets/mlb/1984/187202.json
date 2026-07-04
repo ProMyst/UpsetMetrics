@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-07-08-tigers-at-rangers",
+  "sport": "mlb",
+  "date": "1984-07-08",
+  "startTime": "1984-07-09T00:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "38-49"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "57-27"
+  },
+  "finalScore": "9-7",
+  "factors": {
+    "pregameOddsFactor": 0.904,
+    "rankGapFactor": 0.484,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187202",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187202/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.284990Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.284992Z"
+}

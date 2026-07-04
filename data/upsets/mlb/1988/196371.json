@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-09-11-phillies-at-pirates",
+  "sport": "mlb",
+  "date": "1988-09-11",
+  "startTime": "1988-09-11T07:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "57-85"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "75-66"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.626,
+    "rankGapFactor": 0.261,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "196371",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/196371/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.524443Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.524445Z"
+}

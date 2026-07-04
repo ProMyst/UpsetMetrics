@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-08-29-reds-at-pirates",
+  "sport": "mlb",
+  "date": "1980-08-29",
+  "startTime": "1980-08-29T23:05:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "69-59"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "70-59"
+  },
+  "finalScore": "8-7",
+  "factors": {
+    "pregameOddsFactor": 0.309,
+    "rankGapFactor": 0.007,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180039",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180039/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.936242Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-pirates",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.936244Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-07-21-orioles-at-white-sox",
+  "sport": "mlb",
+  "date": "1992-07-21",
+  "startTime": "1992-07-22T00:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "45-47"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "53-40"
+  },
+  "finalScore": "10-7",
+  "factors": {
+    "pregameOddsFactor": 0.502,
+    "rankGapFactor": 0.162,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "204139",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/204139/feed/live",
+    "retrievedAt": "2026-07-04T07:19:59.011610Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:59.011612Z"
+}

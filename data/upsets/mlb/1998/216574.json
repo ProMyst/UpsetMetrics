@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-06-22-dodgers-at-anaheim-angels",
+  "sport": "mlb",
+  "date": "1998-06-22",
+  "startTime": "1998-06-23T02:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "45-29"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "36-39"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "216574",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/216574/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.117555Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-anaheim-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.117559Z"
+}

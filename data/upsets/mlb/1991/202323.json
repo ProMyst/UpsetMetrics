@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-08-16-astros-at-dodgers",
+  "sport": "mlb",
+  "date": "1991-08-16",
+  "startTime": "1991-08-17T02:05:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "64-51"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "48-67"
+  },
+  "finalScore": "4-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202323",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202323/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.322907Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.322909Z"
+}

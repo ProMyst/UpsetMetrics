@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-31-braves-at-red-sox",
+  "sport": "mlb",
+  "date": "1997-08-31",
+  "startTime": "1997-08-31T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "85-51"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "67-70"
+  },
+  "finalScore": "7-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "215082",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/215082/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.238330Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "braves-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.238332Z"
+}

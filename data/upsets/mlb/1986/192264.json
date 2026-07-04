@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-09-22-rangers-at-mariners",
+  "sport": "mlb",
+  "date": "1986-09-22",
+  "startTime": "1986-09-23T02:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "79-71"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "66-85"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "192264",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/192264/feed/live",
+    "retrievedAt": "2026-07-04T07:11:18.020717Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:18.020719Z"
+}

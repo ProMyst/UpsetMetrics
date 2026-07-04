@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-05-10-giants-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1982-05-10",
+  "startTime": "1982-05-10T23:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "13-13"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "13-17"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "182265",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/182265/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.139925Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.139930Z"
+}

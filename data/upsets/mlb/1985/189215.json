@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1985-07-06-orioles-at-royals",
+  "sport": "mlb",
+  "date": "1985-07-06",
+  "startTime": "1985-07-06T08:33:00Z",
+  "season": "1985",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "41-36"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "39-39"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "189215",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/189215/feed/live",
+    "retrievedAt": "2026-07-04T07:09:49.577057Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:09:49.577059Z"
+}

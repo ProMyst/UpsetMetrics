@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-04-15-dodgers-at-mets",
+  "sport": "mlb",
+  "date": "1997-04-15",
+  "startTime": "1997-04-15T23:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "4-9"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "8-4"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213357",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213357/feed/live",
+    "retrievedAt": "2026-07-04T07:27:10.890193Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:10.890195Z"
+}

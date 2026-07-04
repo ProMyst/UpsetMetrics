@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-08-20-orioles-at-royals",
+  "sport": "mlb",
+  "date": "1997-08-20",
+  "startTime": "1997-08-21T00:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "79-44"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "52-71"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214938",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214938/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.210854Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.210856Z"
+}

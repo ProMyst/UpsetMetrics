@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-24-cubs-at-mets",
+  "sport": "mlb",
+  "date": "1999-07-24",
+  "startTime": "1999-07-24T17:15:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "58-41"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "46-49"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "2358",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/2358/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.403962Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.403964Z"
+}

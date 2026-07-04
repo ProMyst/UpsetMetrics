@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-05-24-padres-at-mets",
+  "sport": "mlb",
+  "date": "1990-05-24",
+  "startTime": "1990-05-24T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "19-21"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "19-20"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.33,
+    "rankGapFactor": 0.024,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199246",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199246/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.008352Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "padres-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.008354Z"
+}

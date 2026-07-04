@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1991-09-01-blue-jays-at-yankees",
+  "sport": "mlb",
+  "date": "1991-09-01",
+  "startTime": "1991-09-01T07:33:00Z",
+  "season": "1991",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "59-70"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "73-59"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.539,
+    "rankGapFactor": 0.191,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "202525",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/202525/feed/live",
+    "retrievedAt": "2026-07-04T07:18:31.364585Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:18:31.364587Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-08-22-white-sox-at-royals",
+  "sport": "mlb",
+  "date": "1982-08-22",
+  "startTime": "1982-08-22T08:33:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "65-57"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "70-53"
+  },
+  "finalScore": "12-3",
+  "factors": {
+    "pregameOddsFactor": 0.391,
+    "rankGapFactor": 0.073,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183479",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183479/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.389097Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.389099Z"
+}

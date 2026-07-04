@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-10-02-astros-at-dodgers",
+  "sport": "mlb",
+  "date": "1981-10-02",
+  "startTime": "1981-10-03T02:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "62-46"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "60-48"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "181856",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/181856/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.231423Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.231424Z"
+}

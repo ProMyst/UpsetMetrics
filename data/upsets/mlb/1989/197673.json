@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-07-04-twins-at-mariners",
+  "sport": "mlb",
+  "date": "1989-07-04",
+  "startTime": "1989-07-05T02:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "38-43"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "41-41"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.377,
+    "rankGapFactor": 0.062,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197673",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197673/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.313319Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.313321Z"
+}

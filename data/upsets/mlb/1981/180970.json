@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1981-05-22-dodgers-at-reds",
+  "sport": "mlb",
+  "date": "1981-05-22",
+  "startTime": "1981-05-22T23:05:00Z",
+  "season": "1981",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "28-11"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "22-16"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "180970",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/180970/feed/live",
+    "retrievedAt": "2026-07-04T07:04:02.050843Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:04:02.050845Z"
+}

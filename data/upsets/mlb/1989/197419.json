@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-06-13-astros-at-dodgers",
+  "sport": "mlb",
+  "date": "1989-06-13",
+  "startTime": "1989-06-14T02:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "31-31"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "37-26"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.518,
+    "rankGapFactor": 0.175,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197419",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197419/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.263145Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.263147Z"
+}

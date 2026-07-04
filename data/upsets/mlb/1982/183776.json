@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-09-15-rangers-at-twins",
+  "sport": "mlb",
+  "date": "1982-09-15",
+  "startTime": "1982-09-16T00:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "53-92"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "57-88"
+  },
+  "finalScore": "10-2",
+  "factors": {
+    "pregameOddsFactor": 0.369,
+    "rankGapFactor": 0.055,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183776",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183776/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.446529Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rangers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.446531Z"
+}

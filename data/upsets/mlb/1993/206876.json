@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1993-08-30-phillies-at-cubs",
+  "sport": "mlb",
+  "date": "1993-08-30",
+  "startTime": "1993-08-31T00:05:00Z",
+  "season": "1993",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "64-67"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "81-50"
+  },
+  "finalScore": "10-6",
+  "factors": {
+    "pregameOddsFactor": 0.624,
+    "rankGapFactor": 0.26,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "206876",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/206876/feed/live",
+    "retrievedAt": "2026-07-04T07:21:27.688185Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:21:27.688187Z"
+}

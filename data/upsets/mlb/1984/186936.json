@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-06-17-dodgers-at-astros",
+  "sport": "mlb",
+  "date": "1984-06-17",
+  "startTime": "1984-06-18T00:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "30-35"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "35-33"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.433,
+    "rankGapFactor": 0.106,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186936",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186936/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.231259Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.231261Z"
+}

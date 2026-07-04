@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-06-07-anaheim-angels-at-twins",
+  "sport": "mlb",
+  "date": "1997-06-07",
+  "startTime": "1997-06-08T00:05:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "27-33"
+  },
+  "loser": {
+    "slug": "anaheim-angels",
+    "name": "Anaheim Angels",
+    "recordEntering": "30-28"
+  },
+  "finalScore": "6-1",
+  "factors": {
+    "pregameOddsFactor": 0.468,
+    "rankGapFactor": 0.134,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "214006",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/214006/feed/live",
+    "retrievedAt": "2026-07-04T07:27:11.022454Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "anaheim-angels-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:11.022458Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-06-11-cardinals-at-phillies",
+  "sport": "mlb",
+  "date": "1984-06-11",
+  "startTime": "1984-06-11T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "31-30"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "31-26"
+  },
+  "finalScore": "6-4",
+  "factors": {
+    "pregameOddsFactor": 0.389,
+    "rankGapFactor": 0.071,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186866",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186866/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.216729Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.216731Z"
+}

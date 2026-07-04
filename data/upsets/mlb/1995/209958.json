@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-07-19-red-sox-at-white-sox",
+  "sport": "mlb",
+  "date": "1995-07-19",
+  "startTime": "1995-07-20T00:05:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "42-33"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "31-43"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "209958",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/209958/feed/live",
+    "retrievedAt": "2026-07-04T07:24:16.025617Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:16.025619Z"
+}

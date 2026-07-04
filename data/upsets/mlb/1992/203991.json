@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-07-06-mariners-at-tigers",
+  "sport": "mlb",
+  "date": "1992-07-06",
+  "startTime": "1992-07-06T07:33:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "38-45"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "33-50"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203991",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203991/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.980729Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.980731Z"
+}

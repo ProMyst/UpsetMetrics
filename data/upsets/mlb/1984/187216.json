@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-07-12-royals-at-yankees",
+  "sport": "mlb",
+  "date": "1984-07-12",
+  "startTime": "1984-07-12T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "37-46"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "39-44"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.36,
+    "rankGapFactor": 0.048,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187216",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187216/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.288491Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.288493Z"
+}

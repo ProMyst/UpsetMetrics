@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1980-04-30-cubs-at-cardinals",
+  "sport": "mlb",
+  "date": "1980-04-30",
+  "startTime": "1980-04-30T08:33:00Z",
+  "season": "1980",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "8-10"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "9-6"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.689,
+    "rankGapFactor": 0.311,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "178611",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/178611/feed/live",
+    "retrievedAt": "2026-07-04T07:02:44.649372Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:02:44.649374Z"
+}

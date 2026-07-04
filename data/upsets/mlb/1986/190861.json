@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1986-05-26-brewers-at-royals",
+  "sport": "mlb",
+  "date": "1986-05-26",
+  "startTime": "1986-05-27T00:05:00Z",
+  "season": "1986",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "22-20"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "20-23"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "190861",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/190861/feed/live",
+    "retrievedAt": "2026-07-04T07:11:17.734924Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-royals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:11:17.734926Z"
+}

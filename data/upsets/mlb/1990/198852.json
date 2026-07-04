@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-04-20-royals-at-blue-jays",
+  "sport": "mlb",
+  "date": "1990-04-20",
+  "startTime": "1990-04-20T23:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "7-4"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "4-5"
+  },
+  "finalScore": "17-6",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198852",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198852/feed/live",
+    "retrievedAt": "2026-07-04T07:17:02.928123Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:02.928125Z"
+}

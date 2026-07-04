@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-06-19-dodgers-at-padres",
+  "sport": "mlb",
+  "date": "1989-06-19",
+  "startTime": "1989-06-20T02:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "34-37"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "34-34"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.353,
+    "rankGapFactor": 0.042,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "197495",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/197495/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.277145Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "dodgers-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.277147Z"
+}

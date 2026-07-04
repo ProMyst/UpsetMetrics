@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-05-11-reds-at-phillies",
+  "sport": "mlb",
+  "date": "1988-05-11",
+  "startTime": "1988-05-11T23:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "11-19"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "16-17"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.595,
+    "rankGapFactor": 0.236,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194925",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194925/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.231912Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-phillies",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.231914Z"
+}

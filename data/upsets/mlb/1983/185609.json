@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-08-23-mets-at-padres",
+  "sport": "mlb",
+  "date": "1983-08-23",
+  "startTime": "1983-08-24T02:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "52-72"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "63-63"
+  },
+  "finalScore": "8-3",
+  "factors": {
+    "pregameOddsFactor": 0.502,
+    "rankGapFactor": 0.161,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "185609",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/185609/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.735972Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.735974Z"
+}

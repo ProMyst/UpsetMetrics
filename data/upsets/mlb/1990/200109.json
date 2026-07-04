@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-05-tigers-at-red-sox",
+  "sport": "mlb",
+  "date": "1990-08-05",
+  "startTime": "1990-08-05T07:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "52-58"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "58-49"
+  },
+  "finalScore": "7-2",
+  "factors": {
+    "pregameOddsFactor": 0.473,
+    "rankGapFactor": 0.139,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200109",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200109/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.180975Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.180977Z"
+}

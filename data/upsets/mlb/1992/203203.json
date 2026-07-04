@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-04-29-athletics-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1992-04-29",
+  "startTime": "1992-04-29T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "8-14"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "13-8"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.939,
+    "rankGapFactor": 0.511,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203203",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203203/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.822546Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.822551Z"
+}

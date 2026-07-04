@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1995-04-30-montreal-expos-at-cubs",
+  "sport": "mlb",
+  "date": "1995-04-30",
+  "startTime": "1995-04-30T08:33:00Z",
+  "season": "1995",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "3-2"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "4-1"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208975",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208975/feed/live",
+    "retrievedAt": "2026-07-04T07:24:15.822514Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "montreal-expos-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:24:15.822520Z"
+}

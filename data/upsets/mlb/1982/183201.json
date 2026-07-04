@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1982-07-31-mariners-at-california-angels",
+  "sport": "mlb",
+  "date": "1982-07-31",
+  "startTime": "1982-08-01T02:05:00Z",
+  "season": "1982",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "52-50"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "58-44"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.447,
+    "rankGapFactor": 0.118,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "183201",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/183201/feed/live",
+    "retrievedAt": "2026-07-04T07:05:24.327188Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:05:24.327192Z"
+}

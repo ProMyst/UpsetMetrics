@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-07-16-white-sox-at-yankees",
+  "sport": "mlb",
+  "date": "1988-07-16",
+  "startTime": "1988-07-16T07:33:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "42-48"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "51-37"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.582,
+    "rankGapFactor": 0.226,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "195673",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/195673/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.384903Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.384905Z"
+}

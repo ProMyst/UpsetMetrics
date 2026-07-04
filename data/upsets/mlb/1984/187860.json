@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-09-01-pirates-at-reds",
+  "sport": "mlb",
+  "date": "1984-09-01",
+  "startTime": "1984-09-01T23:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "56-80"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "58-77"
+  },
+  "finalScore": "7-5",
+  "factors": {
+    "pregameOddsFactor": 0.345,
+    "rankGapFactor": 0.036,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "187860",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/187860/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.418103Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.418105Z"
+}

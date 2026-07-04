@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1987-08-19-cubs-at-braves",
+  "sport": "mlb",
+  "date": "1987-08-19",
+  "startTime": "1987-08-19T07:33:00Z",
+  "season": "1987",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "61-59"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "51-69"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "193965",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/193965/feed/live",
+    "retrievedAt": "2026-07-04T07:12:43.396355Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:12:43.396357Z"
+}

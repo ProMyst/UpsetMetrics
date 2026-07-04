@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-04-09-mets-at-astros",
+  "sport": "mlb",
+  "date": "1994-04-09",
+  "startTime": "1994-04-10T00:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "4-1"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "2-3"
+  },
+  "finalScore": "8-2",
+  "factors": {
+    "pregameOddsFactor": 0.35,
+    "rankGapFactor": 0.2,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "207372",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/207372/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.446032Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.446035Z"
+}

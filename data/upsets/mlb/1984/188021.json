@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-09-15-twins-at-rangers",
+  "sport": "mlb",
+  "date": "1984-09-15",
+  "startTime": "1984-09-16T00:05:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "75-72"
+  },
+  "loser": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "65-82"
+  },
+  "finalScore": "1-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "188021",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/188021/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.451514Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.451516Z"
+}

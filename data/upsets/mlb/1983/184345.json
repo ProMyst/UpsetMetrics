@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1983-05-10-california-angels-at-red-sox",
+  "sport": "mlb",
+  "date": "1983-05-10",
+  "startTime": "1983-05-10T23:05:00Z",
+  "season": "1983",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "17-12"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "16-11"
+  },
+  "finalScore": "6-5",
+  "factors": {
+    "pregameOddsFactor": 0.316,
+    "rankGapFactor": 0.013,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "184345",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/184345/feed/live",
+    "retrievedAt": "2026-07-04T07:06:48.481321Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:06:48.481326Z"
+}

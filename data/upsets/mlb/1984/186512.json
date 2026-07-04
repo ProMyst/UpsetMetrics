@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-05-12-california-angels-at-tigers",
+  "sport": "mlb",
+  "date": "1984-05-12",
+  "startTime": "1984-05-12T07:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "19-17"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "26-5"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 1.0,
+    "rankGapFactor": 0.622,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186512",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186512/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.148440Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "california-angels-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.148445Z"
+}

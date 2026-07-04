@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-06-30-white-sox-at-cleveland-indians",
+  "sport": "mlb",
+  "date": "1992-06-30",
+  "startTime": "1992-06-30T23:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cleveland-indians",
+    "name": "Cleveland Indians",
+    "recordEntering": "31-46"
+  },
+  "loser": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "37-37"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.544,
+    "rankGapFactor": 0.195,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203907",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203907/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.964589Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-cleveland-indians",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.964594Z"
+}

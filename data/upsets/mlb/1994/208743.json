@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-07-30-reds-at-padres",
+  "sport": "mlb",
+  "date": "1994-07-30",
+  "startTime": "1994-07-31T02:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "60-43"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "41-65"
+  },
+  "finalScore": "7-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208743",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208743/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.728273Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.728275Z"
+}

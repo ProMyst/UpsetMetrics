@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1988-05-02-cardinals-at-giants",
+  "sport": "mlb",
+  "date": "1988-05-02",
+  "startTime": "1988-05-03T02:05:00Z",
+  "season": "1988",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "10-14"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "12-13"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.458,
+    "rankGapFactor": 0.127,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "194826",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/194826/feed/live",
+    "retrievedAt": "2026-07-04T07:14:09.212515Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cardinals-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:14:09.212517Z"
+}

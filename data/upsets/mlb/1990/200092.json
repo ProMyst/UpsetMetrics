@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-08-03-blue-jays-at-rangers",
+  "sport": "mlb",
+  "date": "1990-08-03",
+  "startTime": "1990-08-04T00:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rangers",
+    "name": "Texas Rangers",
+    "recordEntering": "55-50"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "56-50"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.311,
+    "rankGapFactor": 0.009,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "200092",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/200092/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.176650Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-rangers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.176652Z"
+}

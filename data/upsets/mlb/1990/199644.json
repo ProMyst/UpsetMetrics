@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-06-27-white-sox-at-california-angels",
+  "sport": "mlb",
+  "date": "1990-06-27",
+  "startTime": "1990-06-27T10:33:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "44-25"
+  },
+  "loser": {
+    "slug": "california-angels",
+    "name": "California Angels",
+    "recordEntering": "37-37"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199644",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199644/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.090604Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-california-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.090608Z"
+}

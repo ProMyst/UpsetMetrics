@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1999-07-22-phillies-at-brewers",
+  "sport": "mlb",
+  "date": "1999-07-22",
+  "startTime": "1999-07-22T18:05:00Z",
+  "season": "1999",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "47-47"
+  },
+  "loser": {
+    "slug": "phillies",
+    "name": "Philadelphia Phillies",
+    "recordEntering": "51-43"
+  },
+  "finalScore": "5-0",
+  "factors": {
+    "pregameOddsFactor": 0.406,
+    "rankGapFactor": 0.085,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "1390",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/1390/feed/live",
+    "retrievedAt": "2026-07-04T07:30:06.392820Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "phillies-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:30:06.392822Z"
+}

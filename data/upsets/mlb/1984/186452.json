@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1984-05-06-royals-at-blue-jays",
+  "sport": "mlb",
+  "date": "1984-05-06",
+  "startTime": "1984-05-06T07:33:00Z",
+  "season": "1984",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "18-10"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "9-15"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "186452",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/186452/feed/live",
+    "retrievedAt": "2026-07-04T07:08:12.135195Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:08:12.135197Z"
+}

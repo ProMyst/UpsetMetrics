@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1994-06-13-yankees-at-orioles",
+  "sport": "mlb",
+  "date": "1994-06-13",
+  "startTime": "1994-06-13T23:05:00Z",
+  "season": "1994",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "36-24"
+  },
+  "loser": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "34-26"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "208166",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/208166/feed/live",
+    "retrievedAt": "2026-07-04T07:22:49.610400Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "yankees-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:22:49.610402Z"
+}

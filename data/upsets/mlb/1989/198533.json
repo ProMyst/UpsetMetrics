@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1989-09-15-royals-at-orioles",
+  "sport": "mlb",
+  "date": "1989-09-15",
+  "startTime": "1989-09-15T23:05:00Z",
+  "season": "1989",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "80-69"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "85-62"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.403,
+    "rankGapFactor": 0.083,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "198533",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/198533/feed/live",
+    "retrievedAt": "2026-07-04T07:15:34.485338Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-orioles",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:15:34.485340Z"
+}

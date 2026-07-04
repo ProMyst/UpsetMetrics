@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1998-09-08-giants-at-padres",
+  "sport": "mlb",
+  "date": "1998-09-08",
+  "startTime": "1998-09-09T02:05:00Z",
+  "season": "1998",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "79-66"
+  },
+  "loser": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "91-54"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.507,
+    "rankGapFactor": 0.166,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "217627",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/217627/feed/live",
+    "retrievedAt": "2026-07-04T07:28:38.330275Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:28:38.330277Z"
+}

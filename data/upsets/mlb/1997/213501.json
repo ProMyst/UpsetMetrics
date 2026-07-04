@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1997-04-27-mets-at-montreal-expos",
+  "sport": "mlb",
+  "date": "1997-04-27",
+  "startTime": "1997-04-27T07:33:00Z",
+  "season": "1997",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "9-14"
+  },
+  "loser": {
+    "slug": "montreal-expos",
+    "name": "Montreal Expos",
+    "recordEntering": "11-10"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.631,
+    "rankGapFactor": 0.265,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "213501",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/213501/feed/live",
+    "retrievedAt": "2026-07-04T07:27:10.920069Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mets-at-montreal-expos",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:27:10.920074Z"
+}

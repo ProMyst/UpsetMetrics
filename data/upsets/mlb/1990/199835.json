@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1990-07-14-giants-at-cardinals",
+  "sport": "mlb",
+  "date": "1990-07-14",
+  "startTime": "1990-07-15T00:05:00Z",
+  "season": "1990",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "36-50"
+  },
+  "loser": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "46-40"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.591,
+    "rankGapFactor": 0.233,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "199835",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/199835/feed/live",
+    "retrievedAt": "2026-07-04T07:17:03.126296Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:17:03.126298Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-1992-06-16-brewers-at-athletics",
+  "sport": "mlb",
+  "date": "1992-06-16",
+  "startTime": "1992-06-17T02:05:00Z",
+  "season": "1992",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "32-29"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Oakland Athletics",
+    "recordEntering": "38-25"
+  },
+  "finalScore": "10-0",
+  "factors": {
+    "pregameOddsFactor": 0.496,
+    "rankGapFactor": 0.157,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "203743",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/203743/feed/live",
+    "retrievedAt": "2026-07-04T07:19:58.932663Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T07:19:58.932665Z"
+}
