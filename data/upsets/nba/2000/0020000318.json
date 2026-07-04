@@ -15,20 +15,20 @@
   },
   "finalScore": "103-93",
   "factors": {
-    "pregameOddsFactor": 0.4,
-    "rankGapFactor": 0.4,
+    "pregameOddsFactor": 0.506,
+    "rankGapFactor": 0.01,
     "streakFactor": 0.3,
     "stakesFactor": 0.4,
     "marginFactor": 0.5
   },
   "provenance": {
-    "source": "local-nba-boxscore",
+    "source": "nba_elo_538+local-boxscore",
     "sourceGameId": "0020000318",
     "sourceUrl": null,
     "retrievedAt": "2026-07-04T01:14:01.569364Z"
   },
-  "methodologyVersion": "1.0",
+  "methodologyVersion": "1.2",
   "slug": "spurs-at-phoenix-suns",
   "published": false,
-  "ingestedAt": "2026-07-04T01:14:01.569368Z"
+  "ingestedAt": "2026-07-04T04:53:28.340870Z"
 }

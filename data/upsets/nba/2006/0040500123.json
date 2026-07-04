@@ -15,20 +15,20 @@
   },
   "finalScore": "107-95",
   "factors": {
-    "pregameOddsFactor": 0.4,
-    "rankGapFactor": 0.4,
+    "pregameOddsFactor": 0.577,
+    "rankGapFactor": 0.134,
     "streakFactor": 0.3,
     "stakesFactor": 0.85,
     "marginFactor": 0.6
   },
   "provenance": {
-    "source": "local-nba-boxscore",
+    "source": "nba_elo_538+local-boxscore",
     "sourceGameId": "0040500123",
     "sourceUrl": null,
     "retrievedAt": "2026-07-04T01:14:10.857609Z"
   },
-  "methodologyVersion": "1.0",
+  "methodologyVersion": "1.2",
   "slug": "nets-nj-at-indiana-pacers",
   "published": false,
-  "ingestedAt": "2026-07-04T01:14:10.857614Z"
+  "ingestedAt": "2026-07-04T04:53:30.272413Z"
 }

@@ -15,20 +15,20 @@
   },
   "finalScore": "103-92",
   "factors": {
-    "pregameOddsFactor": 0.4,
-    "rankGapFactor": 0.4,
+    "pregameOddsFactor": 0.683,
+    "rankGapFactor": 0.333,
     "streakFactor": 0.3,
     "stakesFactor": 0.4,
     "marginFactor": 0.55
   },
   "provenance": {
-    "source": "local-nba-boxscore",
+    "source": "nba_elo_538+local-boxscore",
     "sourceGameId": "0020400965",
     "sourceUrl": null,
     "retrievedAt": "2026-07-04T01:14:02.827029Z"
   },
-  "methodologyVersion": "1.0",
+  "methodologyVersion": "1.2",
   "slug": "boston-celtics-at-houston-rockets",
   "published": false,
-  "ingestedAt": "2026-07-04T01:14:02.827036Z"
+  "ingestedAt": "2026-07-04T04:53:29.911632Z"
 }

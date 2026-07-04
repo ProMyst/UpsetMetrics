@@ -15,20 +15,20 @@
   },
   "finalScore": "93-73",
   "factors": {
-    "pregameOddsFactor": 0.4,
-    "rankGapFactor": 0.4,
+    "pregameOddsFactor": 0.66,
+    "rankGapFactor": 0.288,
     "streakFactor": 0.3,
     "stakesFactor": 0.85,
     "marginFactor": 1.0
   },
   "provenance": {
-    "source": "local-nba-boxscore",
+    "source": "nba_elo_538+local-boxscore",
     "sourceGameId": "0029601091",
     "sourceUrl": null,
     "retrievedAt": "2026-07-04T01:14:09.822859Z"
   },
-  "methodologyVersion": "1.0",
+  "methodologyVersion": "1.2",
   "slug": "cleveland-cavaliers-at-new-york-knicks",
   "published": false,
-  "ingestedAt": "2026-07-04T01:14:09.822866Z"
+  "ingestedAt": "2026-07-04T04:53:27.386063Z"
 }

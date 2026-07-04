@@ -15,20 +15,20 @@
   },
   "finalScore": "101-90",
   "factors": {
-    "pregameOddsFactor": 0.4,
-    "rankGapFactor": 0.4,
+    "pregameOddsFactor": 0.37,
+    "rankGapFactor": 0.0,
     "streakFactor": 0.3,
     "stakesFactor": 0.85,
     "marginFactor": 0.55
   },
   "provenance": {
-    "source": "local-nba-boxscore",
+    "source": "nba_elo_538+local-boxscore",
     "sourceGameId": "0020401173",
     "sourceUrl": null,
     "retrievedAt": "2026-07-04T01:14:02.895163Z"
   },
-  "methodologyVersion": "1.0",
+  "methodologyVersion": "1.2",
   "slug": "nets-nj-at-toronto-raptors",
   "published": false,
-  "ingestedAt": "2026-07-04T01:14:02.895168Z"
+  "ingestedAt": "2026-07-04T04:53:29.857020Z"
 }

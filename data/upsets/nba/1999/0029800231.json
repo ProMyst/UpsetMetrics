@@ -15,20 +15,20 @@
   },
   "finalScore": "114-85",
   "factors": {
-    "pregameOddsFactor": 0.4,
-    "rankGapFactor": 0.4,
+    "pregameOddsFactor": 0.1,
+    "rankGapFactor": 0.0,
     "streakFactor": 0.3,
     "stakesFactor": 0.4,
     "marginFactor": 1.0
   },
   "provenance": {
-    "source": "local-nba-boxscore",
+    "source": "nba_elo_538+local-boxscore",
     "sourceGameId": "0029800231",
     "sourceUrl": null,
     "retrievedAt": "2026-07-04T01:14:10.248105Z"
   },
-  "methodologyVersion": "1.0",
+  "methodologyVersion": "1.2",
   "slug": "clippers-at-spurs",
   "published": false,
-  "ingestedAt": "2026-07-04T01:14:10.248107Z"
+  "ingestedAt": "2026-07-04T04:53:27.936224Z"
 }

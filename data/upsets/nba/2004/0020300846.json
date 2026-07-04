@@ -15,20 +15,20 @@
   },
   "finalScore": "96-94",
   "factors": {
-    "pregameOddsFactor": 0.4,
-    "rankGapFactor": 0.4,
+    "pregameOddsFactor": 0.506,
+    "rankGapFactor": 0.01,
     "streakFactor": 0.3,
     "stakesFactor": 0.4,
     "marginFactor": 0.1
   },
   "provenance": {
-    "source": "local-nba-boxscore",
+    "source": "nba_elo_538+local-boxscore",
     "sourceGameId": "0020300846",
     "sourceUrl": null,
     "retrievedAt": "2026-07-04T01:14:02.412540Z"
   },
-  "methodologyVersion": "1.0",
+  "methodologyVersion": "1.2",
   "slug": "new-york-knicks-at-clippers",
   "published": false,
-  "ingestedAt": "2026-07-04T01:14:02.412545Z"
+  "ingestedAt": "2026-07-04T04:53:29.597118Z"
 }

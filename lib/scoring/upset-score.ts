@@ -15,13 +15,19 @@ import type { UpsetFactors } from "@/lib/schema/upset";
  * the current version.
  */
 /**
- * Bumped to "1.1" on 2026-07-03 when the NBA historical ingest layered
- * real closing moneyline odds (Odds API data 2007-2025) into the pregame
- * factor. Games ingested before v1.1 keep their v1.0 methodologyVersion
- * on their entry; new/re-scored games get "1.1". The formula weights are
- * unchanged between v1.0 and v1.1 — only the input quality improved.
+ * Version history:
+ *   1.0 — Original formula; record-based proxies for pregame odds and
+ *         rank gap.
+ *   1.1 — NBA historical archive layered real closing moneyline odds
+ *         from The Odds API (2007-2025). Formula weights unchanged.
+ *   1.2 — NBA pre-2007 games now use FiveThirtyEight Elo differentials
+ *         instead of record proxies. International soccer games (1872-
+ *         present) computed from rolling 5-year head-to-head records.
+ *         Small-sample floor added across every sport: below the
+ *         minimum-games threshold, factors fall back to neutral defaults
+ *         so noisy opening weeks can't produce max-scored fake upsets.
  */
-export const METHODOLOGY_VERSION = "1.1";
+export const METHODOLOGY_VERSION = "1.2";
 
 /**
  * Weights sum to 1.0. Rationale for each weight in the methodology page.

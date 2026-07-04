@@ -15,20 +15,20 @@
   },
   "finalScore": "81-67",
   "factors": {
-    "pregameOddsFactor": 0.4,
-    "rankGapFactor": 0.4,
+    "pregameOddsFactor": 0.555,
+    "rankGapFactor": 0.096,
     "streakFactor": 0.3,
     "stakesFactor": 0.85,
     "marginFactor": 0.7
   },
   "provenance": {
-    "source": "local-nba-boxscore",
+    "source": "nba_elo_538+local-boxscore",
     "sourceGameId": "0029800512",
     "sourceUrl": null,
     "retrievedAt": "2026-07-04T01:14:10.325698Z"
   },
-  "methodologyVersion": "1.0",
+  "methodologyVersion": "1.2",
   "slug": "atlanta-hawks-at-cleveland-cavaliers",
   "published": false,
-  "ingestedAt": "2026-07-04T01:14:10.325705Z"
+  "ingestedAt": "2026-07-04T04:53:27.981527Z"
 }

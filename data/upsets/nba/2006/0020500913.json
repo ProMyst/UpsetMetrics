@@ -15,20 +15,20 @@
   },
   "finalScore": "111-106",
   "factors": {
-    "pregameOddsFactor": 0.4,
-    "rankGapFactor": 0.4,
+    "pregameOddsFactor": 0.785,
+    "rankGapFactor": 0.561,
     "streakFactor": 0.3,
     "stakesFactor": 0.4,
     "marginFactor": 0.25
   },
   "provenance": {
-    "source": "local-nba-boxscore",
+    "source": "nba_elo_538+local-boxscore",
     "sourceGameId": "0020500913",
     "sourceUrl": null,
     "retrievedAt": "2026-07-04T01:14:03.196164Z"
   },
-  "methodologyVersion": "1.0",
+  "methodologyVersion": "1.2",
   "slug": "warriors-at-miami-heat",
   "published": false,
-  "ingestedAt": "2026-07-04T01:14:03.196169Z"
+  "ingestedAt": "2026-07-04T04:53:30.126809Z"
 }

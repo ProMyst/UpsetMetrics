@@ -15,20 +15,20 @@
   },
   "finalScore": "99-91",
   "factors": {
-    "pregameOddsFactor": 0.4,
-    "rankGapFactor": 0.4,
+    "pregameOddsFactor": 0.09,
+    "rankGapFactor": 0.0,
     "streakFactor": 0.3,
     "stakesFactor": 0.4,
     "marginFactor": 0.4
   },
   "provenance": {
-    "source": "local-nba-boxscore",
+    "source": "nba_elo_538+local-boxscore",
     "sourceGameId": "0029900269",
     "sourceUrl": null,
     "retrievedAt": "2026-07-04T01:14:10.461017Z"
   },
-  "methodologyVersion": "1.0",
+  "methodologyVersion": "1.2",
   "slug": "grizzlies-vancouver-at-spurs",
   "published": false,
-  "ingestedAt": "2026-07-04T01:14:10.461018Z"
+  "ingestedAt": "2026-07-04T04:53:28.140346Z"
 }
