@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-04-12-angels-at-reds",
+  "sport": "mlb",
+  "date": "2026-04-12",
+  "startTime": "2026-04-12T17:40:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "8-8"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "9-7"
+  },
+  "finalScore": "9-6",
+  "factors": {
+    "pregameOddsFactor": 0.456,
+    "rankGapFactor": 0.125,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824533",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824533/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.203829Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.203831Z"
+}

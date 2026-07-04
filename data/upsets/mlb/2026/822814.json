@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-05-23-pirates-at-blue-jays",
+  "sport": "mlb",
+  "date": "2026-05-23",
+  "startTime": "2026-05-23T19:07:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "25-27"
+  },
+  "loser": {
+    "slug": "pirates",
+    "name": "Pittsburgh Pirates",
+    "recordEntering": "26-26"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.348,
+    "rankGapFactor": 0.038,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "822814",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/822814/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.321672Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "pirates-at-blue-jays",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.321674Z"
+}

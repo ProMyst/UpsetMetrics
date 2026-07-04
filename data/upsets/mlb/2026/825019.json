@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-04-17-white-sox-at-athletics",
+  "sport": "mlb",
+  "date": "2026-04-17",
+  "startTime": "2026-04-18T01:40:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "7-13"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Athletics",
+    "recordEntering": "10-10"
+  },
+  "finalScore": "9-2",
+  "factors": {
+    "pregameOddsFactor": 0.675,
+    "rankGapFactor": 0.3,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "825019",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/825019/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.219543Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "white-sox-at-athletics",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.219545Z"
+}

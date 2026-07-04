@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-03-20-red-sox-at-rays",
+  "sport": "mlb",
+  "date": "2026-03-20",
+  "startTime": "2026-03-20T17:05:00Z",
+  "season": "2026",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "9-16"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "12-13"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.6,
+    "rankGapFactor": 0.24,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "831602",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/831602/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.117590Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.117624Z"
+}

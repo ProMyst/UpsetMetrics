@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-03-26-red-sox-at-reds",
+  "sport": "mlb",
+  "date": "2026-03-26",
+  "startTime": "2026-03-26T20:10:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "1-0"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "0-1"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824541",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824541/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.152222Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-reds",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.152225Z"
+}

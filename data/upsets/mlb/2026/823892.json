@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-03-28-rockies-at-marlins",
+  "sport": "mlb",
+  "date": "2026-03-28",
+  "startTime": "2026-03-28T20:10:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "2-0"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "0-2"
+  },
+  "finalScore": "4-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "823892",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/823892/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.158256Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "rockies-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.158259Z"
+}

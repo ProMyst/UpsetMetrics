@@ -2,16 +2,26 @@
 
 import { TICKER_ITEMS } from "@/lib/constants";
 
-// TODO: refactor to render items as individual spans when we introduce hover interactions per-upset
-
-function buildTickerText() {
-  return TICKER_ITEMS.map(
-    (item) => `${item.matchup} · ${item.event} · UPSET SCORE ${item.score}`
-  ).join(" ✦ ");
+export interface TickerItem {
+  matchup: string;
+  event: string;
+  score: number;
 }
 
-export default function UpsetTicker() {
-  const text = buildTickerText();
+function buildTickerText(items: readonly TickerItem[]) {
+  return items
+    .map(
+      (item) => `${item.matchup} · ${item.event} · UPSET SCORE ${item.score}`,
+    )
+    .join(" ✦ ");
+}
+
+export default function UpsetTicker({
+  items = TICKER_ITEMS,
+}: {
+  items?: readonly TickerItem[];
+}) {
+  const text = buildTickerText(items);
 
   return (
     <div className="overflow-hidden whitespace-nowrap">

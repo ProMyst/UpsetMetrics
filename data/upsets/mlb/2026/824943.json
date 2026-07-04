@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-03-30-athletics-at-braves",
+  "sport": "mlb",
+  "date": "2026-03-30",
+  "startTime": "2026-03-30T23:15:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "3-1"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Athletics",
+    "recordEntering": "0-4"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824943",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824943/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.165471Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.165474Z"
+}

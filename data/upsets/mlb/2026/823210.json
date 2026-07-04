@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-06-23-athletics-at-giants",
+  "sport": "mlb",
+  "date": "2026-06-23",
+  "startTime": "2026-06-24T01:45:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "32-46"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Athletics",
+    "recordEntering": "38-41"
+  },
+  "finalScore": "3-1",
+  "factors": {
+    "pregameOddsFactor": 0.477,
+    "rankGapFactor": 0.142,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "823210",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/823210/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.411635Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.411637Z"
+}

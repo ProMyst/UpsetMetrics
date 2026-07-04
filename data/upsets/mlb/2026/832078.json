@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-03-23-reds-at-brewers",
+  "sport": "mlb",
+  "date": "2026-03-23",
+  "startTime": "2026-03-23T23:40:00Z",
+  "season": "2026",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "13-16"
+  },
+  "loser": {
+    "slug": "reds",
+    "name": "Cincinnati Reds",
+    "recordEntering": "14-16"
+  },
+  "finalScore": "9-1",
+  "factors": {
+    "pregameOddsFactor": 0.346,
+    "rankGapFactor": 0.037,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "832078",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/832078/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.143916Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "reds-at-brewers",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.143920Z"
+}

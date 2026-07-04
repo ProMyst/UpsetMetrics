@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-05-06-orioles-at-marlins",
+  "sport": "mlb",
+  "date": "2026-05-06",
+  "startTime": "2026-05-06T22:40:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "orioles",
+    "name": "Baltimore Orioles",
+    "recordEntering": "17-20"
+  },
+  "loser": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "16-21"
+  },
+  "finalScore": "7-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "823872",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/823872/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.274519Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "orioles-at-marlins",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.274521Z"
+}

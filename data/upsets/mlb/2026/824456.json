@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-04-06-royals-at-guardians",
+  "sport": "mlb",
+  "date": "2026-04-06",
+  "startTime": "2026-04-06T22:10:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "5-5"
+  },
+  "loser": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "6-5"
+  },
+  "finalScore": "4-2",
+  "factors": {
+    "pregameOddsFactor": 0.414,
+    "rankGapFactor": 0.091,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824456",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824456/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.186522Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-guardians",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.186523Z"
+}

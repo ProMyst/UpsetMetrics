@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-04-27-mariners-at-twins",
+  "sport": "mlb",
+  "date": "2026-04-27",
+  "startTime": "2026-04-27T23:40:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "13-16"
+  },
+  "loser": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "14-16"
+  },
+  "finalScore": "11-4",
+  "factors": {
+    "pregameOddsFactor": 0.346,
+    "rankGapFactor": 0.037,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "823719",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/823719/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.246314Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.246316Z"
+}

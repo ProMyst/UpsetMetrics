@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-06-26-astros-at-tigers",
+  "sport": "mlb",
+  "date": "2026-06-26",
+  "startTime": "2026-06-26T22:40:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "35-47"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "40-44"
+  },
+  "finalScore": "8-0",
+  "factors": {
+    "pregameOddsFactor": 0.423,
+    "rankGapFactor": 0.099,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824255",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824255/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.417079Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.417081Z"
+}

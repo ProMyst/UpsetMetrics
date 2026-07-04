@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-05-21-blue-jays-at-yankees",
+  "sport": "mlb",
+  "date": "2026-05-21",
+  "startTime": "2026-05-21T23:05:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "23-27"
+  },
+  "loser": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "30-21"
+  },
+  "finalScore": "2-0",
+  "factors": {
+    "pregameOddsFactor": 0.621,
+    "rankGapFactor": 0.256,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "823545",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/823545/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.317214Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.317216Z"
+}

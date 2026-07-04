@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-06-06-athletics-at-astros",
+  "sport": "mlb",
+  "date": "2026-06-06",
+  "startTime": "2026-06-06T20:10:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "30-36"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Athletics",
+    "recordEntering": "30-34"
+  },
+  "finalScore": "13-2",
+  "factors": {
+    "pregameOddsFactor": 0.336,
+    "rankGapFactor": 0.028,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824184",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824184/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.363324Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-astros",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.363326Z"
+}

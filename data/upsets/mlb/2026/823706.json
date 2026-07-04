@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-05-16-brewers-at-twins",
+  "sport": "mlb",
+  "date": "2026-05-16",
+  "startTime": "2026-05-16T23:10:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "26-17"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "20-26"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "823706",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/823706/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.302914Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-twins",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.302916Z"
+}

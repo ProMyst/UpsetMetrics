@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-04-30-nationals-at-mets",
+  "sport": "mlb",
+  "date": "2026-04-30",
+  "startTime": "2026-04-30T17:10:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "15-17"
+  },
+  "loser": {
+    "slug": "mets",
+    "name": "New York Mets",
+    "recordEntering": "10-21"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "823634",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/823634/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.256375Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-mets",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.256377Z"
+}

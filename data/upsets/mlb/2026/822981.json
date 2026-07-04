@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-05-16-marlins-at-rays",
+  "sport": "mlb",
+  "date": "2026-05-16",
+  "startTime": "2026-05-16T20:10:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "marlins",
+    "name": "Miami Marlins",
+    "recordEntering": "21-25"
+  },
+  "loser": {
+    "slug": "rays",
+    "name": "Tampa Bay Rays",
+    "recordEntering": "29-15"
+  },
+  "finalScore": "10-5",
+  "factors": {
+    "pregameOddsFactor": 0.806,
+    "rankGapFactor": 0.405,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.833
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "822981",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/822981/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.302028Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "marlins-at-rays",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.302030Z"
+}

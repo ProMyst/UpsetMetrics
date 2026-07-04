@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-03-24-tigers-at-rockies",
+  "sport": "mlb",
+  "date": "2026-03-24",
+  "startTime": "2026-03-24T19:10:00Z",
+  "season": "2026",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "9-13"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "15-15"
+  },
+  "finalScore": "11-8",
+  "factors": {
+    "pregameOddsFactor": 0.527,
+    "rankGapFactor": 0.182,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "831856",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/831856/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.148688Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.148691Z"
+}

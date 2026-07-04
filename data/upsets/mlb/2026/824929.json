@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-04-30-tigers-at-braves",
+  "sport": "mlb",
+  "date": "2026-04-30",
+  "startTime": "2026-04-30T16:15:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "16-16"
+  },
+  "loser": {
+    "slug": "braves",
+    "name": "Atlanta Braves",
+    "recordEntering": "22-10"
+  },
+  "finalScore": "5-2",
+  "factors": {
+    "pregameOddsFactor": 0.769,
+    "rankGapFactor": 0.375,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824929",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824929/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.255018Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "tigers-at-braves",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.255020Z"
+}

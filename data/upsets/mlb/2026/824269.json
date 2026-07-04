@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-06-06-mariners-at-tigers",
+  "sport": "mlb",
+  "date": "2026-06-06",
+  "startTime": "2026-06-06T17:10:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "34-31"
+  },
+  "loser": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "26-39"
+  },
+  "finalScore": "4-0",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824269",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824269/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.361869Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "mariners-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.361871Z"
+}

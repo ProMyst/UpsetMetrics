@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-05-30-diamondbacks-at-mariners",
+  "sport": "mlb",
+  "date": "2026-05-30",
+  "startTime": "2026-05-31T02:10:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "30-29"
+  },
+  "loser": {
+    "slug": "diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "recordEntering": "31-26"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.388,
+    "rankGapFactor": 0.071,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "823132",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/823132/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.344436Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "diamondbacks-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.344438Z"
+}

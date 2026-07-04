@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-05-12-giants-at-dodgers",
+  "sport": "mlb",
+  "date": "2026-05-12",
+  "startTime": "2026-05-13T02:10:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "18-24"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "24-18"
+  },
+  "finalScore": "6-2",
+  "factors": {
+    "pregameOddsFactor": 0.657,
+    "rankGapFactor": 0.286,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "823951",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/823951/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.291748Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "giants-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.291750Z"
+}

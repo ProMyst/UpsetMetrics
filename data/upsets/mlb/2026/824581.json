@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-06-27-royals-at-white-sox",
+  "sport": "mlb",
+  "date": "2026-06-27",
+  "startTime": "2026-06-27T20:10:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "white-sox",
+    "name": "Chicago White Sox",
+    "recordEntering": "43-38"
+  },
+  "loser": {
+    "slug": "royals",
+    "name": "Kansas City Royals",
+    "recordEntering": "34-50"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824581",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824581/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.421167Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "royals-at-white-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.421169Z"
+}

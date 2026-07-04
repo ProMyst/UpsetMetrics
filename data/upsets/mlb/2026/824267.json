@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-06-09-twins-at-tigers",
+  "sport": "mlb",
+  "date": "2026-06-09",
+  "startTime": "2026-06-09T22:40:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "28-39"
+  },
+  "loser": {
+    "slug": "twins",
+    "name": "Minnesota Twins",
+    "recordEntering": "30-38"
+  },
+  "finalScore": "10-4",
+  "factors": {
+    "pregameOddsFactor": 0.358,
+    "rankGapFactor": 0.047,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824267",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824267/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.370307Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "twins-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.370309Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-04-12-red-sox-at-cardinals",
+  "sport": "mlb",
+  "date": "2026-04-12",
+  "startTime": "2026-04-12T18:15:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "6-9"
+  },
+  "loser": {
+    "slug": "cardinals",
+    "name": "St. Louis Cardinals",
+    "recordEntering": "8-7"
+  },
+  "finalScore": "9-3",
+  "factors": {
+    "pregameOddsFactor": 0.633,
+    "rankGapFactor": 0.267,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "823075",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/823075/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.205156Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "red-sox-at-cardinals",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.205158Z"
+}

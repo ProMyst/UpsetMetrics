@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-04-23-brewers-at-tigers",
+  "sport": "mlb",
+  "date": "2026-04-23",
+  "startTime": "2026-04-23T17:10:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "14-12"
+  },
+  "loser": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "13-11"
+  },
+  "finalScore": "5-4",
+  "factors": {
+    "pregameOddsFactor": 0.308,
+    "rankGapFactor": 0.006,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824288",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824288/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.234363Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.234365Z"
+}

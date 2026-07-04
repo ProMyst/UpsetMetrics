@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-06-10-nationals-at-giants",
+  "sport": "mlb",
+  "date": "2026-06-10",
+  "startTime": "2026-06-10T19:45:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "giants",
+    "name": "San Francisco Giants",
+    "recordEntering": "28-41"
+  },
+  "loser": {
+    "slug": "nationals",
+    "name": "Washington Nationals",
+    "recordEntering": "35-34"
+  },
+  "finalScore": "11-10",
+  "factors": {
+    "pregameOddsFactor": 0.554,
+    "rankGapFactor": 0.203,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "823215",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/823215/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.373171Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "nationals-at-giants",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.373173Z"
+}

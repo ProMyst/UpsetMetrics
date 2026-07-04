@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-05-15-blue-jays-at-tigers",
+  "sport": "mlb",
+  "date": "2026-05-15",
+  "startTime": "2026-05-15T22:45:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "tigers",
+    "name": "Detroit Tigers",
+    "recordEntering": "20-25"
+  },
+  "loser": {
+    "slug": "blue-jays",
+    "name": "Toronto Blue Jays",
+    "recordEntering": "19-25"
+  },
+  "finalScore": "3-2",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824280",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824280/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.298045Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "blue-jays-at-tigers",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.298047Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-06-09-astros-at-angels",
+  "sport": "mlb",
+  "date": "2026-06-09",
+  "startTime": "2026-06-10T01:38:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "26-42"
+  },
+  "loser": {
+    "slug": "astros",
+    "name": "Houston Astros",
+    "recordEntering": "31-38"
+  },
+  "finalScore": "10-1",
+  "factors": {
+    "pregameOddsFactor": 0.467,
+    "rankGapFactor": 0.134,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 1.0
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824023",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824023/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.371954Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "astros-at-angels",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.371956Z"
+}

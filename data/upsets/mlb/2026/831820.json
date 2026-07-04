@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-03-24-angels-at-dodgers",
+  "sport": "mlb",
+  "date": "2026-03-24",
+  "startTime": "2026-03-25T00:10:00Z",
+  "season": "2026",
+  "event": "Spring Training",
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "angels",
+    "name": "Los Angeles Angels",
+    "recordEntering": "17-15"
+  },
+  "loser": {
+    "slug": "dodgers",
+    "name": "Los Angeles Dodgers",
+    "recordEntering": "20-9"
+  },
+  "finalScore": "3-0",
+  "factors": {
+    "pregameOddsFactor": 0.696,
+    "rankGapFactor": 0.317,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.5
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "831820",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/831820/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.149796Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "angels-at-dodgers",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.149800Z"
+}

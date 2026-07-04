@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-06-02-athletics-at-cubs",
+  "sport": "mlb",
+  "date": "2026-06-02",
+  "startTime": "2026-06-03T00:05:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "athletics",
+    "name": "Athletics",
+    "recordEntering": "29-31"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "32-29"
+  },
+  "finalScore": "2-1",
+  "factors": {
+    "pregameOddsFactor": 0.403,
+    "rankGapFactor": 0.083,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.167
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824675",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824675/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.351923Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-cubs",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.351925Z"
+}

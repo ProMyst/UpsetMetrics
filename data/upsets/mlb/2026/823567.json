@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-04-07-athletics-at-yankees",
+  "sport": "mlb",
+  "date": "2026-04-07",
+  "startTime": "2026-04-07T23:05:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "yankees",
+    "name": "New York Yankees",
+    "recordEntering": "8-2"
+  },
+  "loser": {
+    "slug": "athletics",
+    "name": "Athletics",
+    "recordEntering": "3-7"
+  },
+  "finalScore": "5-3",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "823567",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/823567/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.190637Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "athletics-at-yankees",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.190639Z"
+}

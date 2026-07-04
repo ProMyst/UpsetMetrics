@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-04-06-brewers-at-red-sox",
+  "sport": "mlb",
+  "date": "2026-04-06",
+  "startTime": "2026-04-06T22:45:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "8-2"
+  },
+  "loser": {
+    "slug": "red-sox",
+    "name": "Boston Red Sox",
+    "recordEntering": "2-8"
+  },
+  "finalScore": "8-6",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824783",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824783/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.187296Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-red-sox",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.187298Z"
+}

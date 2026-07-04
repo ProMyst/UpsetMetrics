@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-04-27-cubs-at-padres",
+  "sport": "mlb",
+  "date": "2026-04-27",
+  "startTime": "2026-04-28T01:40:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "padres",
+    "name": "San Diego Padres",
+    "recordEntering": "19-9"
+  },
+  "loser": {
+    "slug": "cubs",
+    "name": "Chicago Cubs",
+    "recordEntering": "17-12"
+  },
+  "finalScore": "9-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "823311",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/823311/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.246907Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "cubs-at-padres",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.246909Z"
+}

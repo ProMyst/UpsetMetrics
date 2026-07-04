@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-03-27-guardians-at-mariners",
+  "sport": "mlb",
+  "date": "2026-03-27",
+  "startTime": "2026-03-28T01:45:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "mariners",
+    "name": "Seattle Mariners",
+    "recordEntering": "1-1"
+  },
+  "loser": {
+    "slug": "guardians",
+    "name": "Cleveland Guardians",
+    "recordEntering": "1-1"
+  },
+  "finalScore": "5-1",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.667
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "823162",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/823162/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.155834Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "guardians-at-mariners",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.155837Z"
+}

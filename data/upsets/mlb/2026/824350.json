@@ -1,0 +1,37 @@
+{
+  "id": "mlb-2026-06-05-brewers-at-rockies",
+  "sport": "mlb",
+  "date": "2026-06-05",
+  "startTime": "2026-06-06T00:40:00Z",
+  "season": "2026",
+  "event": null,
+  "stakes": "Regular Season",
+  "winner": {
+    "slug": "brewers",
+    "name": "Milwaukee Brewers",
+    "recordEntering": "38-23"
+  },
+  "loser": {
+    "slug": "rockies",
+    "name": "Colorado Rockies",
+    "recordEntering": "24-40"
+  },
+  "finalScore": "9-7",
+  "factors": {
+    "pregameOddsFactor": 0.15,
+    "rankGapFactor": 0.0,
+    "streakFactor": 0.3,
+    "stakesFactor": 0.4,
+    "marginFactor": 0.333
+  },
+  "provenance": {
+    "source": "mlb-statsapi",
+    "sourceGameId": "824350",
+    "sourceUrl": "https://statsapi.mlb.com/api/v1/game/824350/feed/live",
+    "retrievedAt": "2026-07-04T00:11:06.360986Z"
+  },
+  "methodologyVersion": "1.0",
+  "slug": "brewers-at-rockies",
+  "published": false,
+  "ingestedAt": "2026-07-04T00:11:06.360988Z"
+}
